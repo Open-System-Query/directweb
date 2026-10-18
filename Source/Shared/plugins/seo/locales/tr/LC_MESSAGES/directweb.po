@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Generate on publish"
+msgstr "Yayınlandığında oluştur"
+
+msgid "Scan"
+msgstr "Tara"
+
+msgid "Create sitemap"
+msgstr "Site haritası oluştur"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Meta verileri kontrol edin ve site haritaları ve robots.txt oluşturun."

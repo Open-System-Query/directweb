@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remote Backups"
+msgstr "Etävarmuuskopiot"
+
+msgid "S3 endpoint"
+msgstr "S3-päätepiste"
+
+msgid "Bucket"
+msgstr "Säilö"
+
+msgid "Region"
+msgstr "Alue"
+
+msgid "Access key"
+msgstr "Käyttöavain"
+
+msgid "Secret key"
+msgstr "Salainen avain"
+
+msgid "Backup passphrase"
+msgstr "Varmuuskopion salalause"
+
+msgid "Copies to retain"
+msgstr "Säilytettävät kopiot"
+
+msgid "Backup limit (MB)"
+msgstr "Varmuuskopion raja (Mt)"
+
+msgid "Upload new backups"
+msgstr "Lähetä uudet varmuuskopiot"
+
+msgid "Object key"
+msgstr "Objektiavain"
+
+msgid "Upload latest backup"
+msgstr "Lähetä viimeisin varmuuskopio"
+
+msgid "Remote copies"
+msgstr "Etäkopiot"
+
+msgid "Retrieve backup"
+msgstr "Nouda varmuuskopio"
+
+msgid "Create a backup first."
+msgstr "Luo ensin varmuuskopio."
+
+msgid "Backup exceeds remote limit."
+msgstr "Varmuuskopio ylittää etätallennuksen rajan."
+
+msgid "Backup decryption failed."
+msgstr "Varmuuskopion salauksen purku epäonnistui."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Tallenna salattuja varmuuskopioita S3-yhteensopivaan tallennustilaan."

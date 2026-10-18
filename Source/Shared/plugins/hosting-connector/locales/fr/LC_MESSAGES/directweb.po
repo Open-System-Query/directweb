@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Language: fr\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Hosting Connector"
+msgstr "Connexion hébergement"
+
+msgid "Database"
+msgstr "Base de données"
+
+msgid "DirectAdmin URL"
+msgstr "URL DirectAdmin"
+
+msgid "Login key"
+msgstr "Clé de connexion"
+
+msgid "Bandwidth (MB)"
+msgstr "Trafic (Mo)"
+
+msgid "Disk (MB)"
+msgstr "Espace disque (Mo)"
+
+msgid "Mailbox"
+msgstr "Boîte mail"
+
+msgid "Quota (MB)"
+msgstr "Quota (Mo)"
+
+msgid "Create database"
+msgstr "Créer une base de données"
+
+msgid "Domains"
+msgstr "Domaines"
+
+msgid "Add domain"
+msgstr "Ajouter un domaine"
+
+msgid "Mailboxes"
+msgstr "Boîtes mail"
+
+msgid "Add mailbox"
+msgstr "Ajouter une boîte mail"
+
+msgid "Certificates"
+msgstr "Certificats"
+
+msgid "Hosting settings"
+msgstr "Paramètres d’hébergement"
+
+msgid "Request certificate"
+msgstr "Demander un certificat"
+
+msgid "Change hosting setting"
+msgstr "Modifier un paramètre d’hébergement"
+
+msgid "Setting"
+msgstr "Paramètre"
+
+msgid "Hosting settings unavailable."
+msgstr "Paramètres d’hébergement indisponibles."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Gérez les services d’hébergement via DirectAdmin."

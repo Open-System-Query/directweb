@@ -1,0 +1,157 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nl\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Toegang"
+
+msgid "Access denied."
+msgstr "Geen toegang."
+
+msgid "Access token"
+msgstr "Toegangssleutel"
+
+msgid "Allow"
+msgstr "Toestaan"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Client ID"
+msgstr "Client-ID"
+
+msgid "Clients"
+msgstr "Clients"
+
+msgid "Connection"
+msgstr "Verbinding"
+
+msgid "Create"
+msgstr "Aanmaken"
+
+msgid "Create access"
+msgstr "Toegang maken"
+
+msgid "Days"
+msgstr "Dagen"
+
+msgid "Expires"
+msgstr "Verloopt"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Bestand te groot voor MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Toegang verlenen"
+
+msgid "Invalid OAuth request."
+msgstr "Ongeldige OAuth-aanvraag."
+
+msgid "Invalid input or action failed."
+msgstr "Ongeldige invoer of actie mislukt."
+
+msgid "Invalid permissions."
+msgstr "Ongeldige rechten."
+
+msgid "Invalid redirect URL."
+msgstr "Ongeldige redirect-URL."
+
+msgid "Last used"
+msgstr "Laatst gebruikt"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "No websites available."
+msgstr "Geen websites beschikbaar."
+
+msgid "Not a text file."
+msgstr "Geen tekstbestand."
+
+msgid "Not found."
+msgstr "Niet gevonden."
+
+msgid "OAuth client"
+msgstr "OAuth-client"
+
+msgid "Publish"
+msgstr "Publiceren"
+
+msgid "Read and publish websites."
+msgstr "Websites lezen en publiceren."
+
+msgid "Read websites."
+msgstr "Websites lezen."
+
+msgid "Redirect URL"
+msgstr "Redirect-URL"
+
+msgid "Register"
+msgstr "Registreren"
+
+msgid "Request expired."
+msgstr "Aanvraag verlopen."
+
+msgid "Revoke"
+msgstr "Intrekken"
+
+msgid "Save this token. It is shown once."
+msgstr "Bewaar deze sleutel. Hij wordt één keer getoond."
+
+msgid "Token"
+msgstr "Sleutel"
+
+msgid "Unknown OAuth client."
+msgstr "Onbekende OAuth-client."
+
+msgid "Unknown tool."
+msgstr "Onbekende tool."
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Koppel AI-assistenten met afgebakende toegang."
+
+msgid "Never expires"
+msgstr "Verloopt nooit"
+
+msgid "Never"
+msgstr "Nooit"
+
+msgid "Show"
+msgstr "Tonen"
+
+msgid "Hide"
+msgstr "Verbergen"
+
+msgid "Copy"
+msgstr "Kopiëren"
+
+msgid "Copied"
+msgstr "Gekopieerd"
+
+msgid "Expiry"
+msgstr "Vervaldatum"
+
+msgid "Replace token"
+msgstr "Sleutel vervangen"
+
+msgid "Replace"
+msgstr "Vervangen"
+
+msgid "Managed by OAuth."
+msgstr "Beheerd door OAuth."
+
+msgid "Invalid duration."
+msgstr "Ongeldige looptijd."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Vervang deze sleutel om hem te tonen en te kopiëren."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "De huidige sleutel vervalt. Werk daarna je connector bij."
+
+msgid "Connection URL"
+msgstr "Verbindings-URL"
+
+

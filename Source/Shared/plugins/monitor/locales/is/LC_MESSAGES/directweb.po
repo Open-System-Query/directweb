@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Monitor"
+msgstr "Vöktun"
+
+msgid "Interval (minutes)"
+msgstr "Bil (mínútur)"
+
+msgid "Expected status"
+msgstr "Vænt staða"
+
+msgid "Certificate warning (days)"
+msgstr "Vottorðsviðvörun (dagar)"
+
+msgid "Check now"
+msgstr "Athuga núna"
+
+msgid "History"
+msgstr "Ferill"
+
+msgid "Use an HTTPS URL."
+msgstr "Notaðu HTTPS-slóð."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Athugaðu aðgengi vefs og gildistíma vottorðs."

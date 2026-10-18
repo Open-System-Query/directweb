@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Съдържание"
+
+msgid "Content file"
+msgstr "Файл със съдържание"
+
+msgid "Fields (JSON)"
+msgstr "Полета (JSON)"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Output file"
+msgstr "Изходен файл"
+
+msgid "Fields"
+msgstr "Полета"
+
+msgid "Invalid value."
+msgstr "Невалидна стойност."
+
+msgid "Edit content"
+msgstr "Редактиране на съдържание"
+
+msgid "Edit content and publish website updates."
+msgstr "Редактирайте съдържание и публикувайте актуализации на уебсайтове."

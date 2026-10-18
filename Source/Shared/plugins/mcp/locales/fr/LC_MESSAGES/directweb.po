@@ -1,0 +1,157 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fr\nPlural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Access"
+msgstr "Accès"
+
+msgid "Access denied."
+msgstr "Accès refusé."
+
+msgid "Access token"
+msgstr "Jeton d’accès"
+
+msgid "Allow"
+msgstr "Autoriser"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Client ID"
+msgstr "Identifiant du client"
+
+msgid "Clients"
+msgstr "Clients"
+
+msgid "Connection"
+msgstr "Connexion"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Create access"
+msgstr "Créer un accès"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Expires"
+msgstr "Expiration"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Fichier trop volumineux pour MCP (256 Ko)."
+
+msgid "Grant access"
+msgstr "Accorder l’accès"
+
+msgid "Invalid OAuth request."
+msgstr "Requête OAuth invalide."
+
+msgid "Invalid input or action failed."
+msgstr "Saisie invalide ou échec de l’action."
+
+msgid "Invalid permissions."
+msgstr "Autorisations invalides."
+
+msgid "Invalid redirect URL."
+msgstr "URL de redirection invalide."
+
+msgid "Last used"
+msgstr "Dernière utilisation"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "No websites available."
+msgstr "Aucun site disponible."
+
+msgid "Not a text file."
+msgstr "Ce n’est pas un fichier texte."
+
+msgid "Not found."
+msgstr "Introuvable."
+
+msgid "OAuth client"
+msgstr "Client OAuth"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Read and publish websites."
+msgstr "Lire et publier des sites web."
+
+msgid "Read websites."
+msgstr "Lire des sites web."
+
+msgid "Redirect URL"
+msgstr "URL de redirection"
+
+msgid "Register"
+msgstr "Enregistrer"
+
+msgid "Request expired."
+msgstr "Requête expirée."
+
+msgid "Revoke"
+msgstr "Révoquer"
+
+msgid "Save this token. It is shown once."
+msgstr "Conservez ce jeton. Il ne sera affiché qu’une fois."
+
+msgid "Token"
+msgstr "Jeton"
+
+msgid "Unknown OAuth client."
+msgstr "Client OAuth inconnu."
+
+msgid "Unknown tool."
+msgstr "Outil inconnu."
+
+msgid "Website"
+msgstr "Site web"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Connectez les assistants IA avec des accès limités."
+
+msgid "Never expires"
+msgstr "Sans expiration"
+
+msgid "Never"
+msgstr "Jamais"
+
+msgid "Show"
+msgstr "Afficher"
+
+msgid "Hide"
+msgstr "Masquer"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Copied"
+msgstr "Copié"
+
+msgid "Expiry"
+msgstr "Expiration"
+
+msgid "Replace token"
+msgstr "Remplacer le jeton"
+
+msgid "Replace"
+msgstr "Remplacer"
+
+msgid "Managed by OAuth."
+msgstr "Géré par OAuth."
+
+msgid "Invalid duration."
+msgstr "Durée non valide."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Remplacez ce jeton pour pouvoir l’afficher et le copier."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Le jeton actuel sera invalidé. Mettez ensuite votre connecteur à jour."
+
+msgid "Connection URL"
+msgstr "URL de connexion"
+
+

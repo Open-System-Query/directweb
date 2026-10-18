@@ -1,0 +1,7 @@
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule ^(?:app|bin|config|database|dist|licenses|locales|packages|plugins|public|storage)(?:/|$) - [F,END,NC]
+RewriteRule (^|/)\. - [F,END]
+RewriteRule ^index\.php$ - [END]
+RewriteRule ^ index.php [END]

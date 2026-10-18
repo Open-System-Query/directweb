@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Language: de\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Public search"
+msgstr "Öffentliche Suche"
+
+msgid "Results"
+msgstr "Ergebnisse"
+
+msgid "Build index"
+msgstr "Index erstellen"
+
+msgid "Add public search to your websites."
+msgstr "Eine öffentliche Suche für Websites bereitstellen."

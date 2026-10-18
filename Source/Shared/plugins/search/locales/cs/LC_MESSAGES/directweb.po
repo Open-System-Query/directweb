@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Search"
+msgstr "Hledat"
+
+msgid "Public search"
+msgstr "Veřejné vyhledávání"
+
+msgid "Results"
+msgstr "Výsledky"
+
+msgid "Build index"
+msgstr "Vytvořit index"
+
+msgid "Add public search to your websites."
+msgstr "Přidejte na své webové stránky veřejné vyhledávání."

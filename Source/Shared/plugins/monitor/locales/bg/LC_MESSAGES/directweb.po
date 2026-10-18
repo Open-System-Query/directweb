@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Monitor"
+msgstr "Наблюдение"
+
+msgid "Interval (minutes)"
+msgstr "Интервал (минути)"
+
+msgid "Expected status"
+msgstr "Очакван статус"
+
+msgid "Certificate warning (days)"
+msgstr "Предупреждение за сертификат (дни)"
+
+msgid "Check now"
+msgstr "Проверете сега"
+
+msgid "History"
+msgstr "История"
+
+msgid "Use an HTTPS URL."
+msgstr "Използвайте HTTPS URL."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Проверете наличността на уебсайта и изтичането на сертификата."

@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Source release"
+msgstr "Versiune sursă"
+
+msgid "Publish target"
+msgstr "Publică destinația"
+
+msgid "Staging"
+msgstr "Mediu de testare"
+
+msgid "Copy release"
+msgstr "Copiază versiunea"
+
+msgid "Choose another website."
+msgstr "Alegeți un alt site web."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Copiază versiunile site-ului pe un site de testare separat."

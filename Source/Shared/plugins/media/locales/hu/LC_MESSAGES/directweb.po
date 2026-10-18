@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Output file"
+msgstr "Kimeneti fájl"
+
+msgid "Source file"
+msgstr "Forrásfájl"
+
+msgid "Width"
+msgstr "Szélesség"
+
+msgid "Height"
+msgstr "Magasság"
+
+msgid "Crop"
+msgstr "Körbevágás"
+
+msgid "Quality"
+msgstr "Minőség"
+
+msgid "Format"
+msgstr "Formátum"
+
+msgid "Convert"
+msgstr "Konvertálás"
+
+msgid "Enable the GD extension."
+msgstr "Engedélyezze a GD kiterjesztést."
+
+msgid "Resize images and convert image formats."
+msgstr "Képek átméretezése és képformátumok konvertálása."

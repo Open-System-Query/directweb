@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Databases"
+msgstr "Βάσεις δεδομένων"
+
+msgid "Database"
+msgstr "Βάση δεδομένων"
+
+msgid "Host"
+msgstr "Διακομιστής"
+
+msgid "Export"
+msgstr "Εξαγωγή"
+
+msgid "Tables"
+msgstr "Πίνακες"
+
+msgid "Import SQL"
+msgstr "Εισαγωγή SQL"
+
+msgid "Create database"
+msgstr "Δημιουργία βάσης δεδομένων"
+
+msgid "Enable PDO MySQL."
+msgstr "Ενεργοποίηση PDO MySQL."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "Διαχείριση βάσεων δεδομένων MySQL, εισαγωγές και εξαγωγές."

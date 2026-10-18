@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Cloudflare zone ID"
+msgstr "ID zóny Cloudflare"
+
+msgid "API token"
+msgstr "API token"
+
+msgid "Record ID"
+msgstr "ID záznamu"
+
+msgid "Record ID (optional)"
+msgstr "ID záznamu (volitelné)"
+
+msgid "Records (JSON)"
+msgstr "Záznamy (JSON)"
+
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Delete record"
+msgstr "Smazat záznam"
+
+msgid "Save record"
+msgstr "Uložit záznam"
+
+msgid "Records"
+msgstr "Záznamy"
+
+msgid "Import records"
+msgstr "Importovat záznamy"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "Správa DNS záznamů prostřednictvím Cloudflare."

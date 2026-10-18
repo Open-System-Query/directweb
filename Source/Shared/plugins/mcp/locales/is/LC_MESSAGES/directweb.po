@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Access"
+msgstr "Aðgangur"
+
+msgid "Access denied."
+msgstr "Aðgangi hafnað."
+
+msgid "Access token"
+msgstr "Aðgangstákn"
+
+msgid "Allow"
+msgstr "Leyfa"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Client ID"
+msgstr "Biðlaraauðkenni"
+
+msgid "Clients"
+msgstr "Biðlarar"
+
+msgid "Connection"
+msgstr "Tenging"
+
+msgid "Create"
+msgstr "Búa til"
+
+msgid "Create access"
+msgstr "Búa til aðgang"
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Expires"
+msgstr "Rennur út"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Skráin er of stór fyrir MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Veita aðgang"
+
+msgid "Invalid OAuth request."
+msgstr "Ógild OAuth-beiðni."
+
+msgid "Invalid input or action failed."
+msgstr "Ógildur innsláttur eða aðgerð mistókst."
+
+msgid "Invalid permissions."
+msgstr "Ógildar heimildir."
+
+msgid "Invalid redirect URL."
+msgstr "Ógild tilvísunarslóð."
+
+msgid "Last used"
+msgstr "Síðast notað"
+
+msgid "Name"
+msgstr "Nafn"
+
+msgid "No websites available."
+msgstr "Engir vefir eru tiltækir."
+
+msgid "Not a text file."
+msgstr "Ekki textaskrá."
+
+msgid "Not found."
+msgstr "Fannst ekki."
+
+msgid "OAuth client"
+msgstr "OAuth-biðlari"
+
+msgid "Publish"
+msgstr "Birta"
+
+msgid "Read and publish websites."
+msgstr "Lesa og birta vefi."
+
+msgid "Read websites."
+msgstr "Lesa vefi."
+
+msgid "Redirect URL"
+msgstr "Tilvísunarslóð"
+
+msgid "Register"
+msgstr "Skrá"
+
+msgid "Request expired."
+msgstr "Beiðnin er útrunnin."
+
+msgid "Revoke"
+msgstr "Afturkalla"
+
+msgid "Save this token. It is shown once."
+msgstr "Vistaðu táknið. Það birtist aðeins einu sinni."
+
+msgid "Token"
+msgstr "Tákn"
+
+msgid "Unknown OAuth client."
+msgstr "Óþekktur OAuth-biðlari."
+
+msgid "Unknown tool."
+msgstr "Óþekkt verkfæri."
+
+msgid "Website"
+msgstr "Vefur"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Tengdu gervigreindaraðstoð með afmörkuðum aðgangi."
+
+msgid "Never expires"
+msgstr "Rennur aldrei út"
+
+msgid "Never"
+msgstr "Aldrei"
+
+msgid "Show"
+msgstr "Sýna"
+
+msgid "Hide"
+msgstr "Fela"
+
+msgid "Copy"
+msgstr "Afrita"
+
+msgid "Copied"
+msgstr "Afritað"
+
+msgid "Expiry"
+msgstr "Gildistími"
+
+msgid "Replace token"
+msgstr "Skipta út tákni"
+
+msgid "Replace"
+msgstr "Skipta út"
+
+msgid "Managed by OAuth."
+msgstr "Stjórnað af OAuth."
+
+msgid "Invalid duration."
+msgstr "Ógild tímalengd."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Skiptu út þessu tákni til að virkja Sýna og Afrita."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Núverandi tákn hættir að virka. Uppfærðu tenginguna á eftir."
+
+msgid "Connection URL"
+msgstr "Tengingarslóð"

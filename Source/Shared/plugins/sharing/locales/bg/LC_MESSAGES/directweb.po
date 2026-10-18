@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Достъпът е отказан."
+
+msgid "Active"
+msgstr "Активно"
+
+msgid "Check the input."
+msgstr "Проверете въведените данни."
+
+msgid "Days"
+msgstr "Дни"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Ограничение за изтегляне (0 = неограничено)"
+
+msgid "Downloads"
+msgstr "Изтегляния"
+
+msgid "Expired"
+msgstr "Изтекъл"
+
+msgid "Expires"
+msgstr "Изтича"
+
+msgid "File not found."
+msgstr "Файлът не е намерен."
+
+msgid "File unavailable."
+msgstr "Файлът е недостъпен."
+
+msgid "Files"
+msgstr "Файлове"
+
+msgid "Invalid filename."
+msgstr "Невалидно име на файл."
+
+msgid "Invalid password."
+msgstr "Невалидна парола."
+
+msgid "Link unavailable."
+msgstr "Линкът е недостъпен."
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Password"
+msgstr "Парола"
+
+msgid "Password required."
+msgstr "Изисква се парола."
+
+msgid "Revoke"
+msgstr "Отмени"
+
+msgid "Revoked"
+msgstr "Отменено"
+
+msgid "Save failed."
+msgstr "Запазването е неуспешно."
+
+msgid "Share"
+msgstr "Споделяне"
+
+msgid "Share link"
+msgstr "Споделете връзка"
+
+msgid "Shared"
+msgstr "Споделено"
+
+msgid "Sharing"
+msgstr "Споделяне"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Storage limit reached."
+msgstr "Лимитът за съхранение е достигнат."
+
+msgid "Upload failed."
+msgstr "Неуспешно качване."
+
+msgid "File transfer"
+msgstr "Прехвърляне на файлове"
+
+msgid "Receive"
+msgstr "Получете"
+
+msgid "Send"
+msgstr "Изпрати"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Send files"
+msgstr "Изпращане на файлове"
+
+msgid "Sign in to upload files."
+msgstr "Влезте, за да качвате файлове."
+
+msgid "Used"
+msgstr "Използвано"
+
+msgid "Per file"
+msgstr "На файл"
+
+msgid "Per transfer"
+msgstr "На трансфер"
+
+msgid "Transfers"
+msgstr "Трансфери"
+
+msgid "Transfer"
+msgstr "Трансфер"
+
+msgid "Manage"
+msgstr "Управление"
+
+msgid "Portal"
+msgstr "Портал"
+
+msgid "Open portal"
+msgstr "Отваряне на портала"
+
+msgid "Sharing settings"
+msgstr "Настройки за споделяне"
+
+msgid "Limits"
+msgstr "Граници"
+
+msgid "Public portal"
+msgstr "Обществен портал"
+
+msgid "Guest uploads"
+msgstr "Качвания от гости"
+
+msgid "Require download password"
+msgstr "Изискване на парола за изтегляне"
+
+msgid "File limit (MB)"
+msgstr "Файлов лимит (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Лимит за трансфер (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Лимит за съхранение (MB)"
+
+msgid "Files per transfer"
+msgstr "Файлове на трансфер"
+
+msgid "Default expiry (hours)"
+msgstr "Изтичане по подразбиране (часове)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Максимален срок на действие (часове)"
+
+msgid "Uploads per hour per IP"
+msgstr "Качвания на час на IP"
+
+msgid "Expires in (hours)"
+msgstr "Изтича след (часа)"
+
+msgid "Download password"
+msgstr "Парола за изтегляне"
+
+msgid "Check sharing limits."
+msgstr "Проверете лимитите за споделяне."
+
+msgid "Check transfer settings."
+msgstr "Проверете настройките за прехвърляне."
+
+msgid "Upload expired."
+msgstr "Качването е изтекло."
+
+msgid "Invalid upload chunk."
+msgstr "Невалидна част за качване."
+
+msgid "Upload position changed."
+msgstr "Позицията на качване е променена."
+
+msgid "Upload too large."
+msgstr "Качването е твърде голямо."
+
+msgid "Upload incomplete."
+msgstr "Качването не е завършено."
+
+msgid "Share files with short links and upload requests."
+msgstr "Споделяйте файлове с кратки връзки и заявки за качване."

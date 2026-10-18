@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: es\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Envía códigos de verificación y avisos mediante SMTP."
+
+msgid "Outgoing email"
+msgstr "Correo saliente"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Envía códigos de verificación y avisos de plugins mediante tu proveedor SMTP."
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Not configured"
+msgstr "Sin configurar"
+
+msgid "Usage"
+msgstr "Uso"
+
+msgid "Accounts using email 2FA"
+msgstr "Cuentas con 2FA por correo"
+
+msgid "Email notification rules"
+msgstr "Reglas de avisos por correo"
+
+msgid "Send email"
+msgstr "Enviar correo"
+
+msgid "SMTP connection"
+msgstr "Conexión SMTP"
+
+msgid "Test email"
+msgstr "Correo de prueba"
+
+msgid "Recipient"
+msgstr "Destinatario"
+
+msgid "DirectWeb test email"
+msgstr "Correo de prueba de DirectWeb"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb puede enviar correo mediante tu proveedor SMTP."
+
+msgid "Test email sent."
+msgstr "Correo de prueba enviado."
+
+msgid "Test email sent to %s."
+msgstr "Correo de prueba enviado a %s."
+
+msgid "Configured, untested"
+msgstr "Configurado, sin probar"
+
+msgid "Successfully tested"
+msgstr "Probado correctamente"
+
+msgid "Last send failed"
+msgstr "Falló el último envío"
+
+msgid "Last successful send"
+msgstr "Último envío correcto"
+
+msgid "Last failure"
+msgstr "Último error"
+
+msgid "SMTP authentication failed."
+msgstr "Error de autenticación SMTP."
+
+msgid "SMTP connection failed."
+msgstr "Error de conexión SMTP."
+
+msgid "SMTP server rejected the message."
+msgstr "El servidor SMTP rechazó el mensaje."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "Servidor SMTP temporalmente no disponible."

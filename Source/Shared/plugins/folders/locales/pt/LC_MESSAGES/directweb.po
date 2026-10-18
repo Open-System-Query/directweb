@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pt\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Pastas"
+
+msgid "Folder"
+msgstr "Pasta"
+
+msgid "Add folder"
+msgstr "Adicionar pasta"
+
+msgid "Server path"
+msgstr "Caminho do servidor"
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "Location"
+msgstr "Localização"
+
+msgid "Subfolders"
+msgstr "Subpastas"
+
+msgid "Rules"
+msgstr "Regras"
+
+msgid "Directory listing"
+msgstr "Listagem de diretórios"
+
+msgid "Inherit"
+msgstr "Herdar"
+
+msgid "On"
+msgstr "Ativado"
+
+msgid "Selected IP addresses"
+msgstr "Endereços IP selecionados"
+
+msgid "IP addresses"
+msgstr "Endereços IP"
+
+msgid "Current"
+msgstr "Atual"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Choose a readable folder."
+msgstr "Escolha uma pasta legível."
+
+msgid "Choose a hosting folder."
+msgstr "Escolha uma pasta de alojamento."
+
+msgid "Folder already added."
+msgstr "Pasta já adicionada."
+
+msgid "Folder missing."
+msgstr "Pasta em falta."
+
+msgid "Folder changed."
+msgstr "A pasta foi alterada."
+
+msgid "Symbolic links are not supported."
+msgstr "Ligações simbólicas não são suportadas."
+
+msgid "DirectWeb folders are protected."
+msgstr "As pastas do DirectWeb estão protegidas."
+
+msgid "Folder is not writable."
+msgstr "A pasta não permite escrita."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Não é possível gerir este ficheiro .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Verifique os endereços IP."
+
+msgid "File changed outside DirectWeb."
+msgstr "O ficheiro foi alterado fora do DirectWeb."
+
+msgid "Preview expired."
+msgstr "Pré-visualização expirada."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "São necessários Apache 2.4 e permissões AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Estas regras aplicam-se a pastas físicas servidas pelo servidor web."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Gira o acesso a pastas, cache e páginas de erro."

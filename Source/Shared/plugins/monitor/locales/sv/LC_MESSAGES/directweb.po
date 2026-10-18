@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Monitor"
+msgstr "Övervakning"
+
+msgid "Interval (minutes)"
+msgstr "Intervall (minuter)"
+
+msgid "Expected status"
+msgstr "Förväntad status"
+
+msgid "Certificate warning (days)"
+msgstr "Certifikatvarning (dagar)"
+
+msgid "Check now"
+msgstr "Kontrollera nu"
+
+msgid "History"
+msgstr "Historik"
+
+msgid "Use an HTTPS URL."
+msgstr "Använd en HTTPS-adress."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Kontrollera webbplatsens tillgänglighet och certifikatets giltighet."

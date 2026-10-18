@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Generate on publish"
+msgstr "Generuj przy publikacji"
+
+msgid "Scan"
+msgstr "Skanuj"
+
+msgid "Create sitemap"
+msgstr "Utwórz mapę witryny"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Sprawdź metadane i wygeneruj mapy witryny oraz robots.txt."

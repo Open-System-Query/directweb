@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare bölge kimliği"
+
+msgid "API token"
+msgstr "API belirteci"
+
+msgid "Purge after publish"
+msgstr "Yayınladıktan sonra temizle"
+
+msgid "URLs (empty = all)"
+msgstr "URL'ler (boş = tümü)"
+
+msgid "Rule (JSON)"
+msgstr "Kural (JSON)"
+
+msgid "Purge cache"
+msgstr "Önbelleği temizle"
+
+msgid "Cache rules"
+msgstr "Önbellek kuralları"
+
+msgid "Save cache rule"
+msgstr "Önbellek kuralını kaydet"
+
+msgid "Manage Cloudflare caching and cache clearing."
+msgstr "Cloudflare önbelleğe almayı ve önbellek temizlemeyi yönetin."

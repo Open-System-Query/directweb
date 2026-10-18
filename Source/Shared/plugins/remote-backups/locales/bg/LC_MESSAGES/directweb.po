@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remote Backups"
+msgstr "Отдалечени архиви"
+
+msgid "S3 endpoint"
+msgstr "S3 крайна точка"
+
+msgid "Bucket"
+msgstr "Контейнер"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Access key"
+msgstr "Ключ за достъп"
+
+msgid "Secret key"
+msgstr "Таен ключ"
+
+msgid "Backup passphrase"
+msgstr "Парола за резервното копие"
+
+msgid "Copies to retain"
+msgstr "Копия за запазване"
+
+msgid "Backup limit (MB)"
+msgstr "Лимит за резервно копие (MB)"
+
+msgid "Upload new backups"
+msgstr "Качете нови резервни копия"
+
+msgid "Object key"
+msgstr "Ключ на обект"
+
+msgid "Upload latest backup"
+msgstr "Качване на последно архивиране"
+
+msgid "Remote copies"
+msgstr "Отдалечени копия"
+
+msgid "Retrieve backup"
+msgstr "Изтегляне на резервно копие"
+
+msgid "Create a backup first."
+msgstr "Първо създайте резервно копие."
+
+msgid "Backup exceeds remote limit."
+msgstr "Резервното копие надвишава лимита на отдалеченото хранилище."
+
+msgid "Backup decryption failed."
+msgstr "Неуспешно декриптиране на архива."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Съхранявайте криптирани резервни копия в S3-съвместимо хранилище."

@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Mappar"
+
+msgid "Folder"
+msgstr "Mapp"
+
+msgid "Add folder"
+msgstr "Lägg till mapp"
+
+msgid "Server path"
+msgstr "Serversökväg"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Plats"
+
+msgid "Subfolders"
+msgstr "Undermappar"
+
+msgid "Rules"
+msgstr "Regler"
+
+msgid "Directory listing"
+msgstr "Kataloglistning"
+
+msgid "Inherit"
+msgstr "Ärv"
+
+msgid "On"
+msgstr "På"
+
+msgid "Selected IP addresses"
+msgstr "Valda IP-adresser"
+
+msgid "IP addresses"
+msgstr "IP-adresser"
+
+msgid "Current"
+msgstr "Nuvarande"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Apply"
+msgstr "Tillämpa"
+
+msgid "Choose a readable folder."
+msgstr "Välj en läsbar mapp."
+
+msgid "Choose a hosting folder."
+msgstr "Välj en webbhotellsmapp."
+
+msgid "Folder already added."
+msgstr "Mappen har redan lagts till."
+
+msgid "Folder missing."
+msgstr "Mappen saknas."
+
+msgid "Folder changed."
+msgstr "Mappen har ändrats."
+
+msgid "Symbolic links are not supported."
+msgstr "Symboliska länkar stöds inte."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb-mappar är skyddade."
+
+msgid "Folder is not writable."
+msgstr "Mappen är inte skrivbar."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Denna .htaccess-fil kan inte hanteras."
+
+msgid "Check IP addresses."
+msgstr "Kontrollera IP-adresserna."
+
+msgid "File changed outside DirectWeb."
+msgstr "Filen har ändrats utanför DirectWeb."
+
+msgid "Preview expired."
+msgstr "Förhandsvisningen har gått ut."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 och AllowOverride-behörigheter krävs."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Reglerna gäller fysiska mappar som webbservern visar."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Hantera mappåtkomst, cache och felsidor."

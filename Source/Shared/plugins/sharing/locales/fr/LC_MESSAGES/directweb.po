@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fr\nPlural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Access denied."
+msgstr "Accès refusé."
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Check the input."
+msgstr "Vérifiez la saisie."
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Limite de téléchargements (0 = illimitée)"
+
+msgid "Downloads"
+msgstr "Téléchargements"
+
+msgid "Expired"
+msgstr "Expiré"
+
+msgid "Expires"
+msgstr "Expiration"
+
+msgid "File not found."
+msgstr "Fichier introuvable."
+
+msgid "File unavailable."
+msgstr "Fichier indisponible."
+
+msgid "Files"
+msgstr "Fichiers"
+
+msgid "Invalid filename."
+msgstr "Nom de fichier invalide."
+
+msgid "Invalid password."
+msgstr "Mot de passe invalide."
+
+msgid "Link unavailable."
+msgstr "Lien indisponible."
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Password required."
+msgstr "Mot de passe requis."
+
+msgid "Revoke"
+msgstr "Révoquer"
+
+msgid "Revoked"
+msgstr "Révoqué"
+
+msgid "Save failed."
+msgstr "Échec de l’enregistrement."
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "Share link"
+msgstr "Lien de partage"
+
+msgid "Shared"
+msgstr "Partagé"
+
+msgid "Sharing"
+msgstr "Partage"
+
+msgid "Status"
+msgstr "État"
+
+msgid "Storage limit reached."
+msgstr "Limite de stockage atteinte."
+
+msgid "Upload failed."
+msgstr "Échec de l’importation."
+
+msgid "File transfer"
+msgstr "Transfert de fichiers"
+
+msgid "Receive"
+msgstr "Recevoir"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Send files"
+msgstr "Envoyer des fichiers"
+
+msgid "Sign in to upload files."
+msgstr "Connectez-vous pour envoyer des fichiers."
+
+msgid "Used"
+msgstr "Utilisé"
+
+msgid "Per file"
+msgstr "Par fichier"
+
+msgid "Per transfer"
+msgstr "Par transfert"
+
+msgid "Transfers"
+msgstr "Transferts"
+
+msgid "Transfer"
+msgstr "Transfert"
+
+msgid "Manage"
+msgstr "Gérer"
+
+msgid "Portal"
+msgstr "Portail"
+
+msgid "Open portal"
+msgstr "Ouvrir le portail"
+
+msgid "Sharing settings"
+msgstr "Paramètres de partage"
+
+msgid "Limits"
+msgstr "Limites"
+
+msgid "Public portal"
+msgstr "Portail public"
+
+msgid "Guest uploads"
+msgstr "Envois des visiteurs"
+
+msgid "Require download password"
+msgstr "Mot de passe obligatoire"
+
+msgid "File limit (MB)"
+msgstr "Limite par fichier (Mo)"
+
+msgid "Transfer limit (MB)"
+msgstr "Limite par transfert (Mo)"
+
+msgid "Storage limit (MB)"
+msgstr "Limite de stockage (Mo)"
+
+msgid "Files per transfer"
+msgstr "Fichiers par transfert"
+
+msgid "Default expiry (hours)"
+msgstr "Expiration par défaut (heures)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Expiration maximale (heures)"
+
+msgid "Uploads per hour per IP"
+msgstr "Envois par heure et par IP"
+
+msgid "Expires in (hours)"
+msgstr "Expire dans (heures)"
+
+msgid "Download password"
+msgstr "Mot de passe du téléchargement"
+
+msgid "Check sharing limits."
+msgstr "Vérifiez les limites de partage."
+
+msgid "Check transfer settings."
+msgstr "Vérifiez les paramètres du transfert."
+
+msgid "Upload expired."
+msgstr "Envoi expiré."
+
+msgid "Invalid upload chunk."
+msgstr "Bloc d’envoi invalide."
+
+msgid "Upload position changed."
+msgstr "Position d’envoi modifiée."
+
+msgid "Upload too large."
+msgstr "Envoi trop volumineux."
+
+msgid "Upload incomplete."
+msgstr "Envoi incomplet."
+
+msgid "Share files with short links and upload requests."
+msgstr "Partagez des fichiers par liens courts et demandes de dépôt."

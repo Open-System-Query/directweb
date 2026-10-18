@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Erişim reddedildi."
+
+msgid "Active"
+msgstr "Etkin"
+
+msgid "Check the input."
+msgstr "Girdiyi kontrol edin."
+
+msgid "Days"
+msgstr "Günler"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "İndirme limiti (0 = sınırsız)"
+
+msgid "Downloads"
+msgstr "İndirilenler"
+
+msgid "Expired"
+msgstr "Süresi dolmuş"
+
+msgid "Expires"
+msgstr "Süresi doluyor"
+
+msgid "File not found."
+msgstr "Dosya bulunamadı."
+
+msgid "File unavailable."
+msgstr "Dosya mevcut değil."
+
+msgid "Files"
+msgstr "Dosyalar"
+
+msgid "Invalid filename."
+msgstr "Geçersiz dosya adı."
+
+msgid "Invalid password."
+msgstr "Geçersiz şifre."
+
+msgid "Link unavailable."
+msgstr "Bağlantı kullanılamıyor."
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Password required."
+msgstr "Şifre gerekli."
+
+msgid "Revoke"
+msgstr "İptal Et"
+
+msgid "Revoked"
+msgstr "İptal edildi"
+
+msgid "Save failed."
+msgstr "Kaydetme başarısız oldu."
+
+msgid "Share"
+msgstr "Paylaş"
+
+msgid "Share link"
+msgstr "Bağlantıyı paylaş"
+
+msgid "Shared"
+msgstr "Paylaşıldı"
+
+msgid "Sharing"
+msgstr "Paylaşma"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Storage limit reached."
+msgstr "Depolama sınırına ulaşıldı."
+
+msgid "Upload failed."
+msgstr "Yükleme başarısız oldu."
+
+msgid "File transfer"
+msgstr "Dosya aktarımı"
+
+msgid "Receive"
+msgstr "Al"
+
+msgid "Send"
+msgstr "Gönder"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Send files"
+msgstr "Dosyaları gönder"
+
+msgid "Sign in to upload files."
+msgstr "Dosya yüklemek için oturum açın."
+
+msgid "Used"
+msgstr "Kullanılan"
+
+msgid "Per file"
+msgstr "Dosya başına"
+
+msgid "Per transfer"
+msgstr "Aktarım başına"
+
+msgid "Transfers"
+msgstr "Aktarımlar"
+
+msgid "Transfer"
+msgstr "Aktarım"
+
+msgid "Manage"
+msgstr "Yönet"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Open portal"
+msgstr "Portalı aç"
+
+msgid "Sharing settings"
+msgstr "Paylaşım ayarları"
+
+msgid "Limits"
+msgstr "Limitler"
+
+msgid "Public portal"
+msgstr "Genel portal"
+
+msgid "Guest uploads"
+msgstr "Misafir yüklemeleri"
+
+msgid "Require download password"
+msgstr "İndirme şifresini gerektir"
+
+msgid "File limit (MB)"
+msgstr "Dosya sınırı (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Aktarım limiti (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Depolama sınırı (MB)"
+
+msgid "Files per transfer"
+msgstr "Aktarım başına dosya sayısı"
+
+msgid "Default expiry (hours)"
+msgstr "Varsayılan vade sonu (saat)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maksimum geçerlilik süresi (saat)"
+
+msgid "Uploads per hour per IP"
+msgstr "IP başına saat başına yükleme sayısı"
+
+msgid "Expires in (hours)"
+msgstr "Süresi (saat) içinde doluyor"
+
+msgid "Download password"
+msgstr "İndirme parolası"
+
+msgid "Check sharing limits."
+msgstr "Paylaşım sınırlarını kontrol edin."
+
+msgid "Check transfer settings."
+msgstr "Aktarım ayarlarını kontrol edin."
+
+msgid "Upload expired."
+msgstr "Yüklemenin süresi doldu."
+
+msgid "Invalid upload chunk."
+msgstr "Geçersiz yükleme öbeği."
+
+msgid "Upload position changed."
+msgstr "Yükleme konumu değiştirildi."
+
+msgid "Upload too large."
+msgstr "Yükleme çok büyük."
+
+msgid "Upload incomplete."
+msgstr "Yükleme tamamlanmadı."
+
+msgid "Share files with short links and upload requests."
+msgstr "Dosyaları kısa bağlantılarla ve yükleme istekleriyle paylaşın."

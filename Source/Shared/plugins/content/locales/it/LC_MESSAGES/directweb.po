@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: it\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Contenuto"
+
+msgid "Content file"
+msgstr "File dei contenuti"
+
+msgid "Fields (JSON)"
+msgstr "Campi (JSON)"
+
+msgid "Template"
+msgstr "Modello"
+
+msgid "Output file"
+msgstr "File di output"
+
+msgid "Fields"
+msgstr "Campi"
+
+msgid "Invalid value."
+msgstr "Valore non valido."
+
+msgid "Edit content"
+msgstr "Modifica contenuti"
+
+msgid "Edit content and publish website updates."
+msgstr "Modifica i contenuti e pubblica gli aggiornamenti del sito."

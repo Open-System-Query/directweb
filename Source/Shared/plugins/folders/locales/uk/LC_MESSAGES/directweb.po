@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Folders"
+msgstr "Папки"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Add folder"
+msgstr "Додати папку"
+
+msgid "Server path"
+msgstr "Шлях до сервера"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Location"
+msgstr "Розташування"
+
+msgid "Subfolders"
+msgstr "Вкладені папки"
+
+msgid "Rules"
+msgstr "Правила"
+
+msgid "Directory listing"
+msgstr "Список файлів каталогу"
+
+msgid "Inherit"
+msgstr "Успадкувати"
+
+msgid "On"
+msgstr "Увімкнено"
+
+msgid "Selected IP addresses"
+msgstr "Вибрані IP-адреси"
+
+msgid "IP addresses"
+msgstr "IP-адреси"
+
+msgid "Current"
+msgstr "Поточний"
+
+msgid "New"
+msgstr "Новий"
+
+msgid "Apply"
+msgstr "Застосувати"
+
+msgid "Choose a readable folder."
+msgstr "Виберіть доступну для читання папку."
+
+msgid "Choose a hosting folder."
+msgstr "Виберіть папку для розміщення."
+
+msgid "Folder already added."
+msgstr "Папку вже додано."
+
+msgid "Folder missing."
+msgstr "Відсутня папка."
+
+msgid "Folder changed."
+msgstr "Папку змінено."
+
+msgid "Symbolic links are not supported."
+msgstr "Символічні посилання не підтримуються."
+
+msgid "DirectWeb folders are protected."
+msgstr "Папки DirectWeb захищені."
+
+msgid "Folder is not writable."
+msgstr "Папка не доступна для запису."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Неможливо керувати цим файлом .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Перевірте IP-адреси."
+
+msgid "File changed outside DirectWeb."
+msgstr "Файл змінено за межами DirectWeb."
+
+msgid "Preview expired."
+msgstr "Термін попереднього перегляду минув."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Потрібні дозволи Apache 2.4 і AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Ці правила застосовуються до фізичних папок, які обслуговує веб-сервер."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Керуйте доступом до папок, кешуванням і сторінками помилок."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Language: en\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Output file"
+msgstr "Output file"
+
+msgid "Source file"
+msgstr "Source file"
+
+msgid "Width"
+msgstr "Width"
+
+msgid "Height"
+msgstr "Height"
+
+msgid "Crop"
+msgstr "Crop"
+
+msgid "Quality"
+msgstr "Quality"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Convert"
+msgstr "Convert"
+
+msgid "Enable the GD extension."
+msgstr "Enable the GD extension."
+
+msgid "Resize images and convert image formats."
+msgstr "Resize images and convert image formats."

@@ -1,0 +1,27 @@
+{
+  "id": "sharing",
+  "name": "Sharing",
+  "version": "1.0",
+  "type": "plugin",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "plugin.php",
+  "requires": [],
+  "permissions": [
+    "shares.read",
+    "shares.write"
+  ],
+  "data": "sharing",
+  "min_core": "1.0",
+  "tables": [
+    "shares",
+    "share_files",
+    "share_uploads",
+    "share_requests"
+  ],
+  "settings": [
+    "sharing_settings",
+    "sharing_quota"
+  ],
+  "description": "Share files with short links and upload requests."
+}

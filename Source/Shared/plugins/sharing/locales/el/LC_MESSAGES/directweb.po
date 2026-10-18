@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Δεν επιτρέπεται η πρόσβαση."
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Check the input."
+msgstr "Ελέγξτε τα δεδομένα."
+
+msgid "Days"
+msgstr "Ημέρες"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Οριο λήψης (0 = απεριόριστο)"
+
+msgid "Downloads"
+msgstr "Λήψεις"
+
+msgid "Expired"
+msgstr "Εχει λήξει"
+
+msgid "Expires"
+msgstr "Λήγει"
+
+msgid "File not found."
+msgstr "Το αρχείο δεν βρέθηκε."
+
+msgid "File unavailable."
+msgstr "Το αρχείο δεν είναι διαθέσιμο."
+
+msgid "Files"
+msgstr "Αρχεία"
+
+msgid "Invalid filename."
+msgstr "Μη έγκυρο όνομα αρχείου."
+
+msgid "Invalid password."
+msgstr "Μη έγκυρος κωδικός πρόσβασης."
+
+msgid "Link unavailable."
+msgstr "Ο σύνδεσμος δεν είναι διαθέσιμος."
+
+msgid "Name"
+msgstr "Ονομα"
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Password required."
+msgstr "Απαιτείται κωδικός πρόσβασης."
+
+msgid "Revoke"
+msgstr "Ανάκληση"
+
+msgid "Revoked"
+msgstr "Ανακλήθηκε"
+
+msgid "Save failed."
+msgstr "Η αποθήκευση απέτυχε."
+
+msgid "Share"
+msgstr "Κοινή χρήση"
+
+msgid "Share link"
+msgstr "Κοινή χρήση συνδέσμου"
+
+msgid "Shared"
+msgstr "Κοινόχρηστο"
+
+msgid "Sharing"
+msgstr "Κοινή χρήση"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Storage limit reached."
+msgstr "Συμπληρώθηκε το όριο αποθήκευσης."
+
+msgid "Upload failed."
+msgstr "Η μεταφόρτωση απέτυχε."
+
+msgid "File transfer"
+msgstr "Μεταφορά αρχείου"
+
+msgid "Receive"
+msgstr "Λήψη"
+
+msgid "Send"
+msgstr "Αποστολή"
+
+msgid "Code"
+msgstr "Κωδικός"
+
+msgid "Send files"
+msgstr "Αποστολή αρχείων"
+
+msgid "Sign in to upload files."
+msgstr "Συνδεθείτε για να ανεβάσετε αρχεία."
+
+msgid "Used"
+msgstr "Σε χρήση"
+
+msgid "Per file"
+msgstr "Ανά αρχείο"
+
+msgid "Per transfer"
+msgstr "Ανά μεταφορά"
+
+msgid "Transfers"
+msgstr "Μεταφορές"
+
+msgid "Transfer"
+msgstr "Μεταφορά"
+
+msgid "Manage"
+msgstr "Διαχείριση"
+
+msgid "Portal"
+msgstr "Πύλη"
+
+msgid "Open portal"
+msgstr "Ανοιγμα πύλης"
+
+msgid "Sharing settings"
+msgstr "Ρυθμίσεις κοινής χρήσης"
+
+msgid "Limits"
+msgstr "Ορια"
+
+msgid "Public portal"
+msgstr "Δημόσια πύλη"
+
+msgid "Guest uploads"
+msgstr "Μεταφορτώσεις επισκεπτών"
+
+msgid "Require download password"
+msgstr "Απαιτείται κωδικός λήψης"
+
+msgid "File limit (MB)"
+msgstr "Οριο αρχείου (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Οριο μεταφοράς (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Οριο αποθηκευτικού χώρου (MB)"
+
+msgid "Files per transfer"
+msgstr "Αρχεία ανά μεταφορά"
+
+msgid "Default expiry (hours)"
+msgstr "Προεπιλεγμένη λήξη (ώρες)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Μέγιστη λήξη (ώρες)"
+
+msgid "Uploads per hour per IP"
+msgstr "Μεταφορτώσεις ανά ώρα ανά IP"
+
+msgid "Expires in (hours)"
+msgstr "Λήγει σε (ώρες)"
+
+msgid "Download password"
+msgstr "Κωδικός λήψης"
+
+msgid "Check sharing limits."
+msgstr "Ελέγξτε τα όρια κοινής χρήσης."
+
+msgid "Check transfer settings."
+msgstr "Ελέγξτε τις ρυθμίσεις μεταφοράς."
+
+msgid "Upload expired."
+msgstr "Η μεταφόρτωση έληξε."
+
+msgid "Invalid upload chunk."
+msgstr "Μη έγκυρο κομμάτι μεταφόρτωσης."
+
+msgid "Upload position changed."
+msgstr "Η θέση μεταφόρτωσης άλλαξε."
+
+msgid "Upload too large."
+msgstr "Η μεταφόρτωση είναι πολύ μεγάλη."
+
+msgid "Upload incomplete."
+msgstr "Η μεταφόρτωση δεν ολοκληρώθηκε."
+
+msgid "Share files with short links and upload requests."
+msgstr "Μοιραστείτε αρχεία με σύντομους συνδέσμους και αιτήματα μεταφόρτωσης."

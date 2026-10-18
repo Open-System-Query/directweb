@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: it\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Databases"
+msgstr "Database"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Export"
+msgstr "Esporta"
+
+msgid "Tables"
+msgstr "Tabelle"
+
+msgid "Import SQL"
+msgstr "Importa SQL"
+
+msgid "Create database"
+msgstr "Crea database"
+
+msgid "Enable PDO MySQL."
+msgstr "Attiva PDO MySQL."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "Gestisci database MySQL, importazioni ed esportazioni."

@@ -1,0 +1,23 @@
+{
+  "id": "mcp",
+  "name": "MCP",
+  "version": "1.0",
+  "type": "plugin",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "plugin.php",
+  "requires": [],
+  "protocol": "2025-11-25",
+  "permissions": [
+    "sites.read",
+    "sites.write"
+  ],
+  "min_core": "1.0",
+  "tables": [
+    "oauth_clients",
+    "oauth_codes",
+    "oauth_client_redirects",
+    "oauth_refresh"
+  ],
+  "description": "Connect AI assistants with scoped access."
+}

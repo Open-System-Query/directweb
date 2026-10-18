@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Deploy"
+msgstr "Разположете"
+
+msgid "Artifact URL"
+msgstr "URL на пакета"
+
+msgid "Artifact token"
+msgstr "Токен на пакета"
+
+msgid "Provider"
+msgstr "Доставчик"
+
+msgid "Webhook secret"
+msgstr "Тайна на webhook"
+
+msgid "Branch"
+msgstr "Клон"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Публикувайте компилирани файлове от GitHub или GitLab."

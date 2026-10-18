@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Wysyłaj kody weryfikacyjne i powiadomienia przez SMTP."
+
+msgid "Outgoing email"
+msgstr "Poczta wychodząca"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Wysyła kody weryfikacyjne i powiadomienia wtyczek przez Twojego dostawcę SMTP."
+
+msgid "Ready"
+msgstr "Gotowe"
+
+msgid "Not configured"
+msgstr "Nieskonfigurowane"
+
+msgid "Usage"
+msgstr "Użycie"
+
+msgid "Accounts using email 2FA"
+msgstr "Konta z 2FA przez e-mail"
+
+msgid "Email notification rules"
+msgstr "Reguły powiadomień e-mail"
+
+msgid "Send email"
+msgstr "Wyślij e-mail"
+
+msgid "SMTP connection"
+msgstr "Połączenie SMTP"
+
+msgid "Test email"
+msgstr "E-mail testowy"
+
+msgid "Recipient"
+msgstr "Odbiorca"
+
+msgid "DirectWeb test email"
+msgstr "Wiadomość testowa DirectWeb"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb może wysyłać pocztę przez Twojego dostawcę SMTP."
+
+msgid "Test email sent."
+msgstr "Wiadomość testowa wysłana."
+
+msgid "Test email sent to %s."
+msgstr "Wiadomość testowa wysłana do %s."
+
+msgid "Configured, untested"
+msgstr "Skonfigurowane, niesprawdzone"
+
+msgid "Successfully tested"
+msgstr "Test zakończony pomyślnie"
+
+msgid "Last send failed"
+msgstr "Ostatnia wysyłka nieudana"
+
+msgid "Last successful send"
+msgstr "Ostatnia udana wysyłka"
+
+msgid "Last failure"
+msgstr "Ostatni błąd"
+
+msgid "SMTP authentication failed."
+msgstr "Uwierzytelnianie SMTP nie powiodło się."
+
+msgid "SMTP connection failed."
+msgstr "Nie udało się połączyć przez SMTP."
+
+msgid "SMTP server rejected the message."
+msgstr "Serwer SMTP odrzucił wiadomość."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "Serwer SMTP jest tymczasowo niedostępny."

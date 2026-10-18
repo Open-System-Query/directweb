@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Publish release"
+msgstr "Δημοσίευση έκδοσης"
+
+msgid "Tasks"
+msgstr "Καθήκοντα"
+
+msgid "Task"
+msgstr "Εργο"
+
+msgid "Release ID"
+msgstr "ID έκδοσης"
+
+msgid "Start (UTC)"
+msgstr "Εναρξη (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Επανάληψη (λεπτά, 0 = μία φορά)"
+
+msgid "Prune releases"
+msgstr "Εκκαθάριση εκδόσεων"
+
+msgid "Run now"
+msgstr "Εκτέλεση τώρα"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Προγραμματίστε δημοσίευση, δημιουργία αντιγράφων ασφαλείας και εκκαθάριση έκδοσης."

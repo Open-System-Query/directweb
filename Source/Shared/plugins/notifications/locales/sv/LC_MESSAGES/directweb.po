@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Notifications"
+msgstr "Aviseringar"
+
+msgid "Webhook secret"
+msgstr "Webhook-hemlighet"
+
+msgid "Event"
+msgstr "Händelse"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "Inbox"
+msgstr "Inkorg"
+
+msgid "Send test"
+msgstr "Skicka test"
+
+msgid "Use an HTTPS URL."
+msgstr "Använd en HTTPS-adress."
+
+msgid "Receive alerts in the panel, by email or webhook."
+msgstr "Ta emot aviseringar i panelen, via e-post eller webhook."
+
+msgid "Email (Mail plugin)"
+msgstr "E-post (e-posttillägg)"
+
+msgid "Configure the Mail plugin to send email notifications."
+msgstr "Konfigurera e-posttillägget för att skicka e-postaviseringar."

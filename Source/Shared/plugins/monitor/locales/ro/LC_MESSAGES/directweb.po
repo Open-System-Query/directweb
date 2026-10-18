@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Monitor"
+msgstr "Monitorizare"
+
+msgid "Interval (minutes)"
+msgstr "Interval (minute)"
+
+msgid "Expected status"
+msgstr "Stare așteptată"
+
+msgid "Certificate warning (days)"
+msgstr "Avertizare certificat (zile)"
+
+msgid "Check now"
+msgstr "Verificați acum"
+
+msgid "History"
+msgstr "Istoric"
+
+msgid "Use an HTTPS URL."
+msgstr "Utilizați o adresă URL HTTPS."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Verificați disponibilitatea site-ului web și expirarea certificatului."

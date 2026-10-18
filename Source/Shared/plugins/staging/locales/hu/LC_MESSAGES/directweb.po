@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Source release"
+msgstr "Forrásverzió"
+
+msgid "Publish target"
+msgstr "Cél közzététele"
+
+msgid "Staging"
+msgstr "Tesztkörnyezet"
+
+msgid "Copy release"
+msgstr "Verzió másolása"
+
+msgid "Choose another website."
+msgstr "Válasszon másik webhelyet."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Webhelyverziók másolása külön tesztwebhelyre."

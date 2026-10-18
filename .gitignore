@@ -1,0 +1,15 @@
+/Build/
+/Private/
+**/storage/
+**/dist/
+**/config/local.php
+!/Source/WordPress/runtime/config/local.php
+*.zip
+*.sqlite
+*.sqlite-*
+*.log
+*.mo
+.env
+.env.*
+.DS_Store
+Thumbs.db

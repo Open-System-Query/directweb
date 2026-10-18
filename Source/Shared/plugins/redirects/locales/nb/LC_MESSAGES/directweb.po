@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nb\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Redirects"
+msgstr "Omdirigeringer"
+
+msgid "From"
+msgstr "Fra"
+
+msgid "To"
+msgstr "Til"
+
+msgid "Redirect loop."
+msgstr "Omdirigeringssløyfe."
+
+msgid "Redirect already exists."
+msgstr "Omdirigeringen finnes allerede."
+
+msgid "Redirect website URLs to another address."
+msgstr "Omdiriger nettstedsadresser til en annen adresse."

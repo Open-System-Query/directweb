@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nb\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Innhold"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-sone-ID"
+
+msgid "API token"
+msgstr "API-token"
+
+msgid "Record ID"
+msgstr "Post-ID"
+
+msgid "Record ID (optional)"
+msgstr "Post-ID (valgfritt)"
+
+msgid "Records (JSON)"
+msgstr "Poster (JSON)"
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Delete record"
+msgstr "Slett post"
+
+msgid "Save record"
+msgstr "Lagre post"
+
+msgid "Records"
+msgstr "Poster"
+
+msgid "Import records"
+msgstr "Importer poster"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "Administrer DNS-poster via Cloudflare."

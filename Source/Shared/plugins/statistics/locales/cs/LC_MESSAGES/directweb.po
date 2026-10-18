@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Retention (days)"
+msgstr "Doba uchování (dny)"
+
+msgid "View report"
+msgstr "Zobrazit zprávu"
+
+msgid "View page requests, downloads and missing pages."
+msgstr "Zobrazení požadavků na stránky, stahování a chybějících stránek."

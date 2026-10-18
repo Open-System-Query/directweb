@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Notifications"
+msgstr "Tilkynningar"
+
+msgid "Webhook secret"
+msgstr "Webhook-leyndarmál"
+
+msgid "Event"
+msgstr "Atburður"
+
+msgid "Webhook URL"
+msgstr "Webhook-slóð"
+
+msgid "Inbox"
+msgstr "Innhólf"
+
+msgid "Send test"
+msgstr "Senda prófun"
+
+msgid "Use an HTTPS URL."
+msgstr "Notaðu HTTPS-slóð."
+
+msgid "Receive alerts in the panel, by email or webhook."
+msgstr "Fáðu viðvaranir í stjórnborði, tölvupósti eða með webhook."
+
+msgid "Email (Mail plugin)"
+msgstr "Tölvupóstur (póstviðbót)"
+
+msgid "Configure the Mail plugin to send email notifications."
+msgstr "Stilltu póstviðbótina til að senda pósttilkynningar."

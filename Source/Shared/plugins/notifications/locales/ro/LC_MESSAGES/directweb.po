@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Notifications"
+msgstr "Notificări"
+
+msgid "Webhook secret"
+msgstr "Secret webhook"
+
+msgid "Event"
+msgstr "Eveniment"
+
+msgid "Webhook URL"
+msgstr "Adresa URL a webhook"
+
+msgid "Inbox"
+msgstr "Mesaje primite"
+
+msgid "Send test"
+msgstr "Trimiteți testul"
+
+msgid "Use an HTTPS URL."
+msgstr "Utilizați o adresă URL HTTPS."
+
+msgid "Receive alerts in the panel, by email or webhook."
+msgstr "Primiți alerte în panou, prin e-mail sau webhook."
+
+msgid "Email (Mail plugin)"
+msgstr "E-mail (plugin de e-mail)"
+
+msgid "Configure the Mail plugin to send email notifications."
+msgstr "Configurați pluginul Mail pentru a trimite notificări prin e-mail."

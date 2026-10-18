@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Content file"
+msgstr "Súbor s obsahom"
+
+msgid "Fields (JSON)"
+msgstr "Polia (JSON)"
+
+msgid "Template"
+msgstr "Šablóna"
+
+msgid "Output file"
+msgstr "Výstupný súbor"
+
+msgid "Fields"
+msgstr "Polia"
+
+msgid "Invalid value."
+msgstr "Neplatná hodnota."
+
+msgid "Edit content"
+msgstr "Upraviť obsah"
+
+msgid "Edit content and publish website updates."
+msgstr "Upravujte obsah a publikujte aktualizácie webových stránok."

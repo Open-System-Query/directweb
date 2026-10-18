@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Content file"
+msgstr "Tartalomfájl"
+
+msgid "Fields (JSON)"
+msgstr "Mezők (JSON)"
+
+msgid "Template"
+msgstr "Sablon"
+
+msgid "Output file"
+msgstr "Kimeneti fájl"
+
+msgid "Fields"
+msgstr "Mezők"
+
+msgid "Invalid value."
+msgstr "Érvénytelen érték."
+
+msgid "Edit content"
+msgstr "Tartalom szerkesztése"
+
+msgid "Edit content and publish website updates."
+msgstr "Tartalom szerkesztése és webhelyfrissítések közzététele."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Forms"
+msgstr "Eyðublöð"
+
+msgid "Fields"
+msgstr "Reitir"
+
+msgid "Public form"
+msgstr "Opið eyðublað"
+
+msgid "Submissions per hour"
+msgstr "Innsendingar á klukkustund"
+
+msgid "Retention (days)"
+msgstr "Varðveisla (dagar)"
+
+msgid "Form"
+msgstr "Eyðublað"
+
+msgid "Received."
+msgstr "Móttekið."
+
+msgid "View submissions"
+msgstr "Skoða innsendingar"
+
+msgid "Complete required fields."
+msgstr "Fylltu út nauðsynlega reiti."
+
+msgid "Invalid value."
+msgstr "Ógilt gildi."
+
+msgid "Collect and manage website form submissions."
+msgstr "Safnaðu og stjórnaðu innsendingum vefforma."

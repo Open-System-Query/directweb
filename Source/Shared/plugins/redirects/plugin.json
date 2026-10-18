@@ -1,0 +1,11 @@
+{
+  "id": "redirects",
+  "name": "Redirects",
+  "version": "1.0",
+  "type": "plugin",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "plugin.php",
+  "min_core": "1.0",
+  "description": "Redirect website URLs to another address."
+}

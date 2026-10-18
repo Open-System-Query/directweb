@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-alueen tunnus"
+
+msgid "API token"
+msgstr "API-tunniste"
+
+msgid "Purge after publish"
+msgstr "Tyhjennä julkaisun jälkeen"
+
+msgid "URLs (empty = all)"
+msgstr "URL-osoitteet (tyhjä = kaikki)"
+
+msgid "Rule (JSON)"
+msgstr "Sääntö (JSON)"
+
+msgid "Purge cache"
+msgstr "Tyhjennä välimuisti"
+
+msgid "Cache rules"
+msgstr "Välimuistisäännöt"
+
+msgid "Save cache rule"
+msgstr "Tallenna välimuistisääntö"
+
+msgid "Manage Cloudflare caching and cache clearing."
+msgstr "Hallitse Cloudflaren välimuistia ja sen tyhjennystä."

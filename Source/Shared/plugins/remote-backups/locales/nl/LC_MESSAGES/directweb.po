@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Remote Backups"
+msgstr "Externe back-ups"
+
+msgid "S3 endpoint"
+msgstr "S3-endpoint"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Regio"
+
+msgid "Access key"
+msgstr "Toegangssleutel"
+
+msgid "Secret key"
+msgstr "Geheime sleutel"
+
+msgid "Backup passphrase"
+msgstr "Back-upwachtzin"
+
+msgid "Copies to retain"
+msgstr "Te bewaren kopieën"
+
+msgid "Backup limit (MB)"
+msgstr "Back-uplimiet (MB)"
+
+msgid "Upload new backups"
+msgstr "Nieuwe back-ups uploaden"
+
+msgid "Object key"
+msgstr "Objectsleutel"
+
+msgid "Upload latest backup"
+msgstr "Laatste back-up uploaden"
+
+msgid "Remote copies"
+msgstr "Externe kopieën"
+
+msgid "Retrieve backup"
+msgstr "Back-up ophalen"
+
+msgid "Create a backup first."
+msgstr "Maak eerst een back-up."
+
+msgid "Backup exceeds remote limit."
+msgstr "Back-up overschrijdt de externe limiet."
+
+msgid "Backup decryption failed."
+msgstr "Back-up ontsleutelen mislukt."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Bewaar versleutelde back-ups in S3-compatibele opslag."

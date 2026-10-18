@@ -1,0 +1,1661 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "2FA / recovery code"
+msgstr "2FA / endurheimtarkóði"
+
+msgid "2FA enabled"
+msgstr "2FA virkt"
+
+msgid "2FA is already enabled."
+msgstr "2FA er þegar virkt."
+
+msgid "2FA required"
+msgstr "2FA krafist"
+
+msgid "Access"
+msgstr "Aðgangur"
+
+msgid "Access denied."
+msgstr "Aðgangi hafnað."
+
+msgid "Access token"
+msgstr "Aðgangstákn"
+
+msgid "Account"
+msgstr "Aðgangur"
+
+msgid "Account created."
+msgstr "Aðgangur stofnaður."
+
+msgid "Account enabled"
+msgstr "Aðgangur virkur"
+
+msgid "Action"
+msgstr "Aðgerð"
+
+msgid "Action already exists."
+msgstr "Aðgerðin er þegar til."
+
+msgid "Action failed."
+msgstr "Aðgerð mistókst."
+
+msgid "Active"
+msgstr "Virkt"
+
+msgid "Activity"
+msgstr "Virkni"
+
+msgid "Add"
+msgstr "Bæta við"
+
+msgid "Add this key to your authenticator."
+msgstr "Bættu lyklinum við auðkenningarforritið þitt."
+
+msgid "Administrator"
+msgstr "Stjórnandi"
+
+msgid "Allow"
+msgstr "Leyfa"
+
+msgid "Already installed."
+msgstr "Þegar uppsett."
+
+msgid "Available"
+msgstr "Tiltækt"
+
+msgid "Backup"
+msgstr "Öryggisafrit"
+
+msgid "Backup corrupted."
+msgstr "Öryggisafrit er skemmt."
+
+msgid "Backup failed."
+msgstr "Öryggisafritun mistókst."
+
+msgid "Backup incomplete."
+msgstr "Öryggisafrit er ófullgert."
+
+msgid "Backup missing."
+msgstr "Öryggisafrit vantar."
+
+msgid "Backup queued."
+msgstr "Öryggisafritun sett í biðröð."
+
+msgid "Backup too large."
+msgstr "Öryggisafrit er of stórt."
+
+msgid "Backups"
+msgstr "Öryggisafrit"
+
+msgid "Blocked"
+msgstr "Lokað"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Change is closed."
+msgstr "Breytingunni er lokað."
+
+msgid "Change not found."
+msgstr "Breyting fannst ekki."
+
+msgid "Change password"
+msgstr "Breyta lykilorði"
+
+msgid "Check account and password (12+ characters)."
+msgstr "Athugaðu aðgang og lykilorð (minnst 12 stafir)."
+
+msgid "Check name and domain."
+msgstr "Athugaðu nafn og lén."
+
+msgid "Check name, email and password (12+ characters)."
+msgstr "Athugaðu nafn, netfang og lykilorð (minnst 12 stafir)."
+
+msgid "Check the input."
+msgstr "Athugaðu innsláttinn."
+
+msgid "Check the password (12+ characters)."
+msgstr "Athugaðu lykilorðið (minnst 12 stafir)."
+
+msgid "Choose a file."
+msgstr "Veldu skrá."
+
+msgid "Choose a renderer."
+msgstr "Veldu birtingarvél."
+
+msgid "Client ID"
+msgstr "Biðlaraauðkenni"
+
+msgid "Clients"
+msgstr "Biðlarar"
+
+msgid "Code"
+msgstr "Kóði"
+
+msgid "Completed"
+msgstr "Lokið"
+
+msgid "Confirm"
+msgstr "Staðfesta"
+
+msgid "Connection"
+msgstr "Tenging"
+
+msgid "Content"
+msgstr "Efni"
+
+msgid "Continue"
+msgstr "Halda áfram"
+
+msgid "Copy failed."
+msgstr "Afritun mistókst."
+
+msgid "Create"
+msgstr "Búa til"
+
+msgid "Create access"
+msgstr "Búa til aðgang"
+
+msgid "Create backup"
+msgstr "Búa til öryggisafrit"
+
+msgid "Create your administrator account."
+msgstr "Stofnaðu stjórnandaaðgang."
+
+msgid "Current password"
+msgstr "Núverandi lykilorð"
+
+msgid "Daily backup"
+msgstr "Daglegt öryggisafrit"
+
+msgid "Database backup failed."
+msgstr "Öryggisafritun gagnagrunns mistókst."
+
+msgid "Date"
+msgstr "Dagsetning"
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Delete"
+msgstr "Eyða"
+
+msgid "Delete failed."
+msgstr "Eyðing mistókst."
+
+msgid "Delete file"
+msgstr "Eyða skrá"
+
+msgid "Destination must be empty."
+msgstr "Áfangastaður verður að vera tómur."
+
+msgid "Disable"
+msgstr "Gera óvirkt"
+
+msgid "Disable the plugin first."
+msgstr "Gerðu viðbótina fyrst óvirka."
+
+msgid "Domain"
+msgstr "Lén"
+
+msgid "Domain already exists."
+msgstr "Lénið er þegar til."
+
+msgid "Download"
+msgstr "Sækja"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Niðurhalsmörk (0 = ótakmarkað)"
+
+msgid "Downloads"
+msgstr "Niðurhal"
+
+msgid "Duplicate file."
+msgstr "Tvítekin skrá."
+
+msgid "Duplicate filename."
+msgstr "Skráarnafnið er þegar í notkun."
+
+msgid "Edit"
+msgstr "Breyta"
+
+msgid "Editor"
+msgstr "Ritstjóri"
+
+msgid "Email"
+msgstr "Netfang"
+
+msgid "Enable"
+msgstr "Virkja"
+
+msgid "Enable 2FA."
+msgstr "Virkjaðu 2FA."
+
+msgid "Entry point missing."
+msgstr "Upphafsskrá vantar."
+
+msgid "Everything in its place."
+msgstr "Allt á sínum stað."
+
+msgid "Expired"
+msgstr "Útrunnið"
+
+msgid "Expires"
+msgstr "Rennur út"
+
+msgid "Extensions"
+msgstr "Viðbætur"
+
+msgid "External backup failed."
+msgstr "Ytri öryggisafritun mistókst."
+
+msgid "Extraction failed."
+msgstr "Afþjöppun mistókst."
+
+msgid "Failed"
+msgstr "Mistókst"
+
+msgid "File"
+msgstr "Skrá"
+
+msgid "File not found."
+msgstr "Skrá fannst ekki."
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Skráin er of stór fyrir MCP (256 KB)."
+
+msgid "File too large."
+msgstr "Skráin er of stór."
+
+msgid "File type not allowed: %s"
+msgstr "Skráargerð er ekki leyfð: %s"
+
+msgid "File unavailable."
+msgstr "Skráin er ekki tiltæk."
+
+msgid "Files"
+msgstr "Skrár"
+
+msgid "General"
+msgstr "Almennt"
+
+msgid "Grant access"
+msgstr "Veita aðgang"
+
+msgid "HTTPS required."
+msgstr "HTTPS er krafist."
+
+msgid "In use: %s"
+msgstr "Í notkun: %s"
+
+msgid "Install"
+msgstr "Setja upp"
+
+msgid "Install / update"
+msgstr "Setja upp / uppfæra"
+
+msgid "Install DirectWeb."
+msgstr "Settu upp DirectWeb."
+
+msgid "Install through the command line."
+msgstr "Settu upp í gegnum skipanalínu."
+
+msgid "Install trusted plugins only."
+msgstr "Settu aðeins upp traustar viðbætur."
+
+msgid "Installation failed."
+msgstr "Uppsetning mistókst."
+
+msgid "Invalid OAuth request."
+msgstr "Ógild OAuth-beiðni."
+
+msgid "Invalid ZIP."
+msgstr "Ógild ZIP-skrá."
+
+msgid "Invalid access."
+msgstr "Ógildur aðgangur."
+
+msgid "Invalid backup path."
+msgstr "Ógild slóð fyrir öryggisafrit."
+
+msgid "Invalid backup."
+msgstr "Ógilt öryggisafrit."
+
+msgid "Invalid code."
+msgstr "Ógildur kóði."
+
+msgid "Invalid domain."
+msgstr "Ógilt lén."
+
+msgid "Invalid file."
+msgstr "Ógild skrá."
+
+msgid "Invalid filename."
+msgstr "Ógilt skráarnafn."
+
+msgid "Invalid input or action failed."
+msgstr "Ógildur innsláttur eða aðgerð mistókst."
+
+msgid "Invalid key."
+msgstr "Ógildur lykill."
+
+msgid "Invalid message."
+msgstr "Ógild skilaboð."
+
+msgid "Invalid package."
+msgstr "Ógildur pakki."
+
+msgid "Invalid password."
+msgstr "Ógilt lykilorð."
+
+msgid "Invalid path."
+msgstr "Ógild slóð."
+
+msgid "Invalid permissions."
+msgstr "Ógildar heimildir."
+
+msgid "Invalid plugin."
+msgstr "Ógild viðbót."
+
+msgid "Invalid preview domain."
+msgstr "Ógilt forskoðunarlén."
+
+msgid "Invalid redirect URL."
+msgstr "Ógild tilvísunarslóð."
+
+msgid "Invalid release."
+msgstr "Ógild útgáfa."
+
+msgid "Invalid request ID."
+msgstr "Ógilt beiðniauðkenni."
+
+msgid "Invalid role."
+msgstr "Ógilt hlutverk."
+
+msgid "Invalid setting."
+msgstr "Ógild stilling."
+
+msgid "Invalid storage."
+msgstr "Ógild geymsla."
+
+msgid "Job"
+msgstr "Verk"
+
+msgid "Job failed."
+msgstr "Verk mistókst."
+
+msgid "Job not found."
+msgstr "Verk fannst ekki."
+
+msgid "Jobs"
+msgstr "Verk"
+
+msgid "Language"
+msgstr "Tungumál"
+
+msgid "Last active"
+msgstr "Síðast virkur"
+
+msgid "Last used"
+msgstr "Síðast notað"
+
+msgid "Link unavailable."
+msgstr "Tengillinn er ekki tiltækur."
+
+msgid "Links not allowed."
+msgstr "Tenglar eru ekki leyfðir."
+
+msgid "Live"
+msgstr "Birt"
+
+msgid "Management"
+msgstr "Stjórnun"
+
+msgid "Message too large."
+msgstr "Skilaboðin eru of stór."
+
+msgid "Method not allowed."
+msgstr "Aðferðin er ekki leyfð."
+
+msgid "Migration changed."
+msgstr "Gagnaflutningur hefur breyst."
+
+msgid "Name"
+msgstr "Nafn"
+
+msgid "Navigation"
+msgstr "Yfirlitsvalmynd"
+
+msgid "New password"
+msgstr "Nýtt lykilorð"
+
+msgid "Newer version required."
+msgstr "Nýrri útgáfu er krafist."
+
+msgid "Next"
+msgstr "Næsta"
+
+msgid "No extensions enabled."
+msgstr "Engar viðbætur eru virkar."
+
+msgid "No items yet."
+msgstr "Engin atriði enn."
+
+msgid "No websites available."
+msgstr "Engir vefir eru tiltækir."
+
+msgid "Not a text file."
+msgstr "Ekki textaskrá."
+
+msgid "Not found."
+msgstr "Fannst ekki."
+
+msgid "Not run yet."
+msgstr "Ekki keyrt enn."
+
+msgid "OAuth client"
+msgstr "OAuth-biðlari"
+
+msgid "Off"
+msgstr "Óvirkt"
+
+msgid "Online"
+msgstr "Á netinu"
+
+msgid "Open"
+msgstr "Opna"
+
+msgid "Open website"
+msgstr "Opna vef"
+
+msgid "Overview"
+msgstr "Yfirlit"
+
+msgid "Owner"
+msgstr "Eigandi"
+
+msgid "Package corrupted."
+msgstr "Pakkinn er skemmdur."
+
+msgid "Package incompatible."
+msgstr "Pakkinn er ekki samhæfur."
+
+msgid "Package too large."
+msgstr "Pakkinn er of stór."
+
+msgid "Page already exists."
+msgstr "Síðan er þegar til."
+
+msgid "Page expired."
+msgstr "Síðan er útrunnin."
+
+msgid "Page not found."
+msgstr "Síða fannst ekki."
+
+msgid "Password"
+msgstr "Lykilorð"
+
+msgid "Password required."
+msgstr "Lykilorðs er krafist."
+
+msgid "Perform this action?"
+msgstr "Framkvæma þessa aðgerð?"
+
+msgid "Pin"
+msgstr "Festa"
+
+msgid "Pinned"
+msgstr "Fest"
+
+msgid "Plugin file"
+msgstr "Viðbótarskrá"
+
+msgid "Plugin missing."
+msgstr "Viðbót vantar."
+
+msgid "Plugins"
+msgstr "Viðbætur"
+
+msgid "Preview"
+msgstr "Forskoðun"
+
+msgid "Preview domain missing."
+msgstr "Forskoðunarlén vantar."
+
+msgid "Preview expired."
+msgstr "Forskoðun er útrunnin."
+
+msgid "Previous"
+msgstr "Fyrra"
+
+msgid "Profile"
+msgstr "Notandasnið"
+
+msgid "Protected"
+msgstr "Varið"
+
+msgid "Prune old releases"
+msgstr "Hreinsa gamlar útgáfur"
+
+msgid "Publication failed."
+msgstr "Birting mistókst."
+
+msgid "Publish"
+msgstr "Birta"
+
+msgid "Publish automatically"
+msgstr "Birta sjálfkrafa"
+
+msgid "Queued"
+msgstr "Í biðröð"
+
+msgid "Read and publish websites."
+msgstr "Lesa og birta vefi."
+
+msgid "Read websites."
+msgstr "Lesa vefi."
+
+msgid "Reader"
+msgstr "Lesandi"
+
+msgid "Recent actions"
+msgstr "Nýlegar aðgerðir"
+
+msgid "Recovery codes"
+msgstr "Endurheimtarkóðar"
+
+msgid "Redirect URL"
+msgstr "Tilvísunarslóð"
+
+msgid "Register"
+msgstr "Skrá"
+
+msgid "Release changed."
+msgstr "Útgáfan hefur breyst."
+
+msgid "Release changed. Reopen the page."
+msgstr "Útgáfan hefur breyst. Opnaðu síðuna aftur."
+
+msgid "Release corrupted."
+msgstr "Útgáfan er skemmd."
+
+msgid "Release not found."
+msgstr "Útgáfa fannst ekki."
+
+msgid "Releases to retain"
+msgstr "Útgáfur til varðveislu"
+
+msgid "Renderer missing."
+msgstr "Birtingarvél vantar."
+
+msgid "Reopen Account."
+msgstr "Opnaðu Aðgang aftur."
+
+msgid "Request conflict."
+msgstr "Árekstur milli beiðna."
+
+msgid "Request expired."
+msgstr "Beiðnin er útrunnin."
+
+msgid "Required: %s"
+msgstr "Krafist: %s"
+
+msgid "Restore"
+msgstr "Endurheimta"
+
+msgid "Retained"
+msgstr "Varðveitt"
+
+msgid "Retention"
+msgstr "Varðveisla"
+
+msgid "Revoke"
+msgstr "Afturkalla"
+
+msgid "Revoke other sessions"
+msgstr "Afturkalla aðrar setur"
+
+msgid "Revoked"
+msgstr "Afturkallað"
+
+msgid "Role"
+msgstr "Hlutverk"
+
+msgid "Running"
+msgstr "Í keyrslu"
+
+msgid "Runs through the worker."
+msgstr "Keyrir í bakgrunnsferli."
+
+msgid "SPA routing"
+msgstr "SPA-beining"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "Save failed."
+msgstr "Vistun mistókst."
+
+msgid "Save these codes. They are shown once."
+msgstr "Vistaðu kóðana. Þeir birtast aðeins einu sinni."
+
+msgid "Save this token. It is shown once."
+msgstr "Vistaðu táknið. Það birtist aðeins einu sinni."
+
+msgid "Saved."
+msgstr "Vistað."
+
+msgid "Schedule"
+msgstr "Tímaáætlun"
+
+msgid "Security"
+msgstr "Öryggi"
+
+msgid "Session expired."
+msgstr "Setan er útrunnin."
+
+msgid "Sessions"
+msgstr "Setur"
+
+msgid "Set up 2FA"
+msgstr "Setja upp 2FA"
+
+msgid "Settings"
+msgstr "Stillingar"
+
+msgid "Share"
+msgstr "Deila"
+
+msgid "Share link"
+msgstr "Deilitengill"
+
+msgid "Shared"
+msgstr "Deilt"
+
+msgid "Sharing"
+msgstr "Deiling"
+
+msgid "Sharing storage (MB)"
+msgstr "Deiligeymsla (MB)"
+
+msgid "Sign in"
+msgstr "Skrá inn"
+
+msgid "Sign in failed."
+msgstr "Innskráning mistókst."
+
+msgid "Sign in required."
+msgstr "Innskráningar er krafist."
+
+msgid "Sign out"
+msgstr "Skrá út"
+
+msgid "Size"
+msgstr "Stærð"
+
+msgid "Skip to content"
+msgstr "Fara í efni"
+
+msgid "Started"
+msgstr "Hafið"
+
+msgid "Status"
+msgstr "Staða"
+
+msgid "Storage"
+msgstr "Geymsla"
+
+msgid "Storage limit reached."
+msgstr "Geymslumörkum náð."
+
+msgid "Storage unavailable."
+msgstr "Geymsla er ekki tiltæk."
+
+msgid "System"
+msgstr "Kerfi"
+
+msgid "System busy."
+msgstr "Kerfið er upptekið."
+
+msgid "Target"
+msgstr "Markmið"
+
+msgid "Temporary password"
+msgstr "Tímabundið lykilorð"
+
+msgid "This account cannot be changed."
+msgstr "Ekki er hægt að breyta þessum aðgangi."
+
+msgid "Token"
+msgstr "Tákn"
+
+msgid "Too many files."
+msgstr "Of margar skrár."
+
+msgid "Too many open changes."
+msgstr "Of margar opnar breytingar."
+
+msgid "Try again later."
+msgstr "Reyndu aftur síðar."
+
+msgid "Unavailable."
+msgstr "Ekki tiltækt."
+
+msgid "Unknown OAuth client."
+msgstr "Óþekktur OAuth-biðlari."
+
+msgid "Unknown action."
+msgstr "Óþekkt aðgerð."
+
+msgid "Unknown job."
+msgstr "Óþekkt verk."
+
+msgid "Unknown tool."
+msgstr "Óþekkt verkfæri."
+
+msgid "Unsupported component: %s"
+msgstr "Íhlutur er ekki studdur: %s"
+
+msgid "Until %s"
+msgstr "Til %s"
+
+msgid "Update failed."
+msgstr "Uppfærsla mistókst."
+
+msgid "Upload"
+msgstr "Hlaða upp"
+
+msgid "Upload failed."
+msgstr "Upphleðsla mistókst."
+
+msgid "Upload too large."
+msgstr "Upphleðslan er of stór."
+
+msgid "Use"
+msgstr "Nota"
+
+msgid "Use POST."
+msgstr "Notaðu POST."
+
+msgid "User"
+msgstr "Notandi"
+
+msgid "User missing."
+msgstr "Notanda vantar."
+
+msgid "Users"
+msgstr "Notendur"
+
+msgid "Version"
+msgstr "Útgáfa"
+
+msgid "Version name"
+msgstr "Útgáfuheiti"
+
+msgid "Versions"
+msgstr "Útgáfur"
+
+msgid "Website"
+msgstr "Vefur"
+
+msgid "Website enabled"
+msgstr "Vefur virkur"
+
+msgid "Website file"
+msgstr "Vefskrá"
+
+msgid "Website management"
+msgstr "Vefstjórnun"
+
+msgid "Website not found."
+msgstr "Vefur fannst ekki."
+
+msgid "Website unavailable."
+msgstr "Vefurinn er ekki tiltækur."
+
+msgid "Websites"
+msgstr "Vefir"
+
+msgid "Welcome to DirectWeb"
+msgstr "Velkomin í DirectWeb"
+
+msgid "Worker: %s"
+msgstr "Bakgrunnsferli: %s"
+
+msgid "index.html missing."
+msgstr "index.html vantar."
+
+msgid "Username"
+msgstr "Notandanafn"
+
+msgid "Authenticator app"
+msgstr "Auðkenningarforrit"
+
+msgid "Authenticator code"
+msgstr "Auðkenningarkóði"
+
+msgid "Authenticator QR code"
+msgstr "QR-kóði auðkenningarforrits"
+
+msgid "Scan the QR code."
+msgstr "Skannaðu QR-kóðann."
+
+msgid "Current 2FA / recovery code"
+msgstr "Núverandi 2FA / endurheimtarkóði"
+
+msgid "Recovery code"
+msgstr "Endurheimtarkóði"
+
+msgid "Verify"
+msgstr "Staðfesta"
+
+msgid "Verified"
+msgstr "Staðfest"
+
+msgid "Enabled"
+msgstr "Virkt"
+
+msgid "Method"
+msgstr "Aðferð"
+
+msgid "Send code"
+msgstr "Senda kóða"
+
+msgid "Code sent."
+msgstr "Kóði sendur."
+
+msgid "Verification code"
+msgstr "Staðfestingarkóði"
+
+msgid "Mail"
+msgstr "Póstur"
+
+msgid "Enable email"
+msgstr "Virkja tölvupóst"
+
+msgid "SMTP host"
+msgstr "SMTP-þjónn"
+
+msgid "SMTP username"
+msgstr "SMTP-notandanafn"
+
+msgid "SMTP password"
+msgstr "SMTP-lykilorð"
+
+msgid "Port"
+msgstr "Gátt"
+
+msgid "Encryption"
+msgstr "Dulkóðun"
+
+msgid "Sender"
+msgstr "Sendandi"
+
+msgid "Your verification code"
+msgstr "Staðfestingarkóðinn þinn"
+
+msgid "Your code: %s"
+msgstr "Kóðinn þinn: %s"
+
+msgid "Expires in 5 minutes."
+msgstr "Rennur út eftir 5 mínútur."
+
+msgid "Email-only users must add an authenticator first."
+msgstr "Notendur með aðeins tölvupóst verða fyrst að bæta við auðkenningarforriti."
+
+msgid "Check SMTP settings."
+msgstr "Athugaðu SMTP-stillingar."
+
+msgid "SMTP encryption required."
+msgstr "SMTP-dulkóðunar er krafist."
+
+msgid "Email is not configured."
+msgstr "Tölvupóstur hefur ekki verið stilltur."
+
+msgid "Email delivery failed."
+msgstr "Afhending tölvupósts mistókst."
+
+msgid "Email is not verified."
+msgstr "Netfangið er ekki staðfest."
+
+msgid "Invalid email address."
+msgstr "Ógilt netfang."
+
+msgid "Email already exists."
+msgstr "Netfangið er þegar til."
+
+msgid "Username already exists."
+msgstr "Notandanafnið er þegar til."
+
+msgid "Check name, username and password (12+ characters)."
+msgstr "Athugaðu nafn, notandanafn og lykilorð (minnst 12 stafir)."
+
+msgid "Keep at least one available method."
+msgstr "Haltu að minnsta kosti einni aðferð tiltækri."
+
+msgid "Invalid request."
+msgstr "Ógild beiðni."
+
+msgid "Account migration failed."
+msgstr "Flutningur aðgangs mistókst."
+
+msgid "Account backup failed."
+msgstr "Öryggisafritun aðgangs mistókst."
+
+msgid "Dashboard"
+msgstr "Stjórnborð"
+
+msgid "Add website"
+msgstr "Bæta við vef"
+
+msgid "2FA off"
+msgstr "2FA óvirkt"
+
+msgid "Two-factor authentication"
+msgstr "Tvíþætt auðkenning"
+
+msgid "Mail settings"
+msgstr "Póststillingar"
+
+msgid "Error"
+msgstr "Villa"
+
+msgid "Copied"
+msgstr "Afritað"
+
+msgid "Copy link"
+msgstr "Afrita tengil"
+
+msgid "Upload progress"
+msgstr "Framvinda upphleðslu"
+
+msgid "Uploading"
+msgstr "Hleður upp"
+
+msgid "Finishing"
+msgstr "Lýkur við"
+
+msgid "Upload cancelled."
+msgstr "Hætt við upphleðslu."
+
+msgid "File limit exceeded."
+msgstr "Skráarmörk voru yfirfarin."
+
+msgid "Transfer limit exceeded."
+msgstr "Flutningsmörk voru yfirfarin."
+
+msgid "Remove"
+msgstr "Fjarlægja"
+
+msgid "Administration"
+msgstr "Stjórnun"
+
+msgid "Installed"
+msgstr "Uppsett"
+
+msgid "Appearance"
+msgstr "Útlit"
+
+msgid "Default"
+msgstr "Sjálfgefið"
+
+msgid "Renderer"
+msgstr "Birtingarvél"
+
+msgid "Plugin"
+msgstr "Viðbót"
+
+msgid "In use"
+msgstr "Í notkun"
+
+msgid "Choose another renderer first."
+msgstr "Veldu fyrst aðra birtingarvél."
+
+msgid "Disable to delete."
+msgstr "Gerðu óvirkt til að eyða."
+
+msgid "Hosting"
+msgstr "Vefhýsing"
+
+msgid "Environment"
+msgstr "Umhverfi"
+
+msgid "Requirements"
+msgstr "Kröfur"
+
+msgid "Setting"
+msgstr "Stilling"
+
+msgid "Value"
+msgstr "Gildi"
+
+msgid "Installation key"
+msgstr "Uppsetningarlykill"
+
+msgid "Invalid installation key."
+msgstr "Ógildur uppsetningarlykill."
+
+msgid "Read the key in storage/database/setup.key using your hosting file manager."
+msgstr "Lestu lykilinn í storage/database/setup.key með skráastjóra hýsingarinnar."
+
+msgid "Apache rewrite rules and HTTPS are required for the upload package."
+msgstr "Upphleðslupakkinn krefst Apache-endurskrifunarreglna og HTTPS."
+
+msgid "Additional domains must point to this installation."
+msgstr "Viðbótarlén verða að vísa á þessa uppsetningu."
+
+msgid "Scheduled jobs require a hosting cron task."
+msgstr "Tímasett verk krefjast cron-verks hjá hýsingaraðila."
+
+msgid "Actions"
+msgstr "Aðgerðir"
+
+msgid "Add user"
+msgstr "Bæta við notanda"
+
+msgid "Add file"
+msgstr "Bæta við skrá"
+
+msgid "Edit file"
+msgstr "Breyta skrá"
+
+msgid "Delete data"
+msgstr "Eyða gögnum"
+
+msgid "Install plugin"
+msgstr "Setja upp viðbót"
+
+msgid "Import backup"
+msgstr "Flytja inn öryggisafrit"
+
+msgid "Backup file"
+msgstr "Öryggisafritsskrá"
+
+msgid "Current release"
+msgstr "Núverandi útgáfa"
+
+msgid "Earlier release"
+msgstr "Eldri útgáfa"
+
+msgid "Later release"
+msgstr "Nýrri útgáfa"
+
+msgid "Source release"
+msgstr "Upprunaútgáfa"
+
+msgid "Target website"
+msgstr "Markvefur"
+
+msgid "Publish target"
+msgstr "Birta markvef"
+
+msgid "Publish release"
+msgstr "Birta útgáfu"
+
+msgid "Redirects"
+msgstr "Tilvísanir"
+
+msgid "Revisions"
+msgstr "Endurskoðanir"
+
+msgid "Staging"
+msgstr "Prófunarumhverfi"
+
+msgid "Forms"
+msgstr "Eyðublöð"
+
+msgid "Deploy"
+msgstr "Setja í rekstur"
+
+msgid "Monitor"
+msgstr "Vöktun"
+
+msgid "Media"
+msgstr "Miðlar"
+
+msgid "Search"
+msgstr "Leit"
+
+msgid "Statistics"
+msgstr "Tölfræði"
+
+msgid "Tasks"
+msgstr "Verkefni"
+
+msgid "Notifications"
+msgstr "Tilkynningar"
+
+msgid "Remote Backups"
+msgstr "Fjarlæg öryggisafrit"
+
+msgid "Databases"
+msgstr "Gagnagrunnar"
+
+msgid "Hosting Connector"
+msgstr "Hýsingartenging"
+
+msgid "From"
+msgstr "Frá"
+
+msgid "To"
+msgstr "Til"
+
+msgid "Content file"
+msgstr "Efnisskrá"
+
+msgid "Fields (JSON)"
+msgstr "Reitir (JSON)"
+
+msgid "Template"
+msgstr "Sniðmát"
+
+msgid "Output file"
+msgstr "Úttaksskrá"
+
+msgid "Generate on publish"
+msgstr "Búa til við birtingu"
+
+msgid "Public search"
+msgstr "Opin leit"
+
+msgid "Results"
+msgstr "Niðurstöður"
+
+msgid "Source file"
+msgstr "Upprunaskrá"
+
+msgid "Width"
+msgstr "Breidd"
+
+msgid "Height"
+msgstr "Hæð"
+
+msgid "Crop"
+msgstr "Skera"
+
+msgid "Quality"
+msgstr "Gæði"
+
+msgid "Format"
+msgstr "Snið"
+
+msgid "Fields"
+msgstr "Reitir"
+
+msgid "Public form"
+msgstr "Opið eyðublað"
+
+msgid "Submissions per hour"
+msgstr "Innsendingar á klukkustund"
+
+msgid "Retention (days)"
+msgstr "Varðveisla (dagar)"
+
+msgid "Form"
+msgstr "Eyðublað"
+
+msgid "Received."
+msgstr "Móttekið."
+
+msgid "Artifact URL"
+msgstr "Slóð útgáfupakka"
+
+msgid "Artifact token"
+msgstr "Tákn útgáfupakka"
+
+msgid "Provider"
+msgstr "Þjónustuaðili"
+
+msgid "Webhook secret"
+msgstr "Webhook-leyndarmál"
+
+msgid "Branch"
+msgstr "Grein"
+
+msgid "Interval (minutes)"
+msgstr "Bil (mínútur)"
+
+msgid "Expected status"
+msgstr "Vænt staða"
+
+msgid "Certificate warning (days)"
+msgstr "Vottorðsviðvörun (dagar)"
+
+msgid "Task"
+msgstr "Verkefni"
+
+msgid "Release ID"
+msgstr "Útgáfuauðkenni"
+
+msgid "Start (UTC)"
+msgstr "Upphaf (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Endurtaka (mínútur, 0 = einu sinni)"
+
+msgid "Prune releases"
+msgstr "Hreinsa útgáfur"
+
+msgid "Event"
+msgstr "Atburður"
+
+msgid "Webhook URL"
+msgstr "Webhook-slóð"
+
+msgid "S3 endpoint"
+msgstr "S3-endapunktur"
+
+msgid "Bucket"
+msgstr "Geymsluhólf"
+
+msgid "Region"
+msgstr "Svæði"
+
+msgid "Access key"
+msgstr "Aðgangslykill"
+
+msgid "Secret key"
+msgstr "Leyndarlykill"
+
+msgid "Backup passphrase"
+msgstr "Lykilsetning öryggisafrits"
+
+msgid "Copies to retain"
+msgstr "Afrit til varðveislu"
+
+msgid "Backup limit (MB)"
+msgstr "Öryggisafritsmörk (MB)"
+
+msgid "Upload new backups"
+msgstr "Hlaða upp nýjum öryggisafritum"
+
+msgid "Object key"
+msgstr "Hlutalykill"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-svæðisauðkenni"
+
+msgid "API token"
+msgstr "API-tákn"
+
+msgid "Record ID"
+msgstr "Færsluauðkenni"
+
+msgid "Record ID (optional)"
+msgstr "Færsluauðkenni (valfrjálst)"
+
+msgid "Records (JSON)"
+msgstr "Færslur (JSON)"
+
+msgid "Priority"
+msgstr "Forgangur"
+
+msgid "Proxy"
+msgstr "Milliþjónn"
+
+msgid "Purge after publish"
+msgstr "Hreinsa eftir birtingu"
+
+msgid "URLs (empty = all)"
+msgstr "Slóðir (tómt = allar)"
+
+msgid "Rule (JSON)"
+msgstr "Regla (JSON)"
+
+msgid "Database"
+msgstr "Gagnagrunnur"
+
+msgid "Host"
+msgstr "Hýsill"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-slóð"
+
+msgid "Login key"
+msgstr "Innskráningarlykill"
+
+msgid "Bandwidth (MB)"
+msgstr "Gagnaflutningur (MB)"
+
+msgid "Disk (MB)"
+msgstr "Diskur (MB)"
+
+msgid "Mailbox"
+msgstr "Pósthólf"
+
+msgid "Quota (MB)"
+msgstr "Kvóti (MB)"
+
+msgid "Details"
+msgstr "Upplýsingar"
+
+msgid "Export"
+msgstr "Flytja út"
+
+msgid "Import"
+msgstr "Flytja inn"
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "Delete record"
+msgstr "Eyða færslu"
+
+msgid "Save record"
+msgstr "Vista færslu"
+
+msgid "Records"
+msgstr "Færslur"
+
+msgid "Import records"
+msgstr "Flytja inn færslur"
+
+msgid "Purge cache"
+msgstr "Hreinsa skyndiminni"
+
+msgid "Cache rules"
+msgstr "Skyndiminnisreglur"
+
+msgid "Save cache rule"
+msgstr "Vista skyndiminnisreglu"
+
+msgid "Tables"
+msgstr "Töflur"
+
+msgid "Import SQL"
+msgstr "Flytja inn SQL"
+
+msgid "Create database"
+msgstr "Búa til gagnagrunn"
+
+msgid "Domains"
+msgstr "Lén"
+
+msgid "Add domain"
+msgstr "Bæta við léni"
+
+msgid "Mailboxes"
+msgstr "Pósthólf"
+
+msgid "Add mailbox"
+msgstr "Bæta við pósthólfi"
+
+msgid "Certificates"
+msgstr "Vottorð"
+
+msgid "Hosting settings"
+msgstr "Hýsingarstillingar"
+
+msgid "Compare"
+msgstr "Bera saman"
+
+msgid "Copy release"
+msgstr "Afrita útgáfu"
+
+msgid "Scan"
+msgstr "Skanna"
+
+msgid "Create sitemap"
+msgstr "Búa til vefkort"
+
+msgid "Build index"
+msgstr "Búa til atriðaskrá"
+
+msgid "Convert"
+msgstr "Umbreyta"
+
+msgid "View submissions"
+msgstr "Skoða innsendingar"
+
+msgid "Check now"
+msgstr "Athuga núna"
+
+msgid "History"
+msgstr "Ferill"
+
+msgid "Run now"
+msgstr "Keyra núna"
+
+msgid "View report"
+msgstr "Skoða skýrslu"
+
+msgid "Inbox"
+msgstr "Innhólf"
+
+msgid "Send test"
+msgstr "Senda prófun"
+
+msgid "Upload latest backup"
+msgstr "Hlaða upp nýjasta öryggisafriti"
+
+msgid "Remote copies"
+msgstr "Fjarlæg afrit"
+
+msgid "Retrieve backup"
+msgstr "Sækja öryggisafrit"
+
+msgid "Index files"
+msgstr "Upphafsskrár"
+
+msgid "403 page"
+msgstr "403-síða"
+
+msgid "404 page"
+msgstr "404-síða"
+
+msgid "500 page"
+msgstr "500-síða"
+
+msgid "Cache"
+msgstr "Skyndiminni"
+
+msgid "Password protection"
+msgstr "Lykilorðsvörn"
+
+msgid "Hour"
+msgstr "Klukkustund"
+
+msgid "Day"
+msgstr "Dagur"
+
+msgid "Week"
+msgstr "Vika"
+
+msgid "Download notifications"
+msgstr "Niðurhalstilkynningar"
+
+msgid "Download ZIP"
+msgstr "Sækja ZIP"
+
+msgid "File requests"
+msgstr "Skráabeiðnir"
+
+msgid "Add request"
+msgstr "Bæta við beiðni"
+
+msgid "Request"
+msgstr "Beiðni"
+
+msgid "Requests"
+msgstr "Beiðnir"
+
+msgid "Expiry"
+msgstr "Gildistími"
+
+msgid "Endpoint"
+msgstr "Endapunktur"
+
+msgid "Permissions"
+msgstr "Heimildir"
+
+msgid "Tokens"
+msgstr "Tákn"
+
+msgid "Client"
+msgstr "Biðlari"
+
+msgid "Back"
+msgstr "Til baka"
+
+msgid "Updated"
+msgstr "Uppfært"
+
+msgid "Field"
+msgstr "Reitur"
+
+msgid "Data is retained."
+msgstr "Gögn eru varðveitt."
+
+msgid "A backup is created first."
+msgstr "Öryggisafrit er búið til fyrst."
+
+msgid "Current data is backed up before restoration."
+msgstr "Núverandi gögn eru afrituð fyrir endurheimt."
+
+msgid "Restore queued. Sign in again after completion."
+msgstr "Endurheimt sett í biðröð. Skráðu þig aftur inn þegar henni er lokið."
+
+msgid "Add a website first."
+msgstr "Bættu fyrst við vef."
+
+msgid "Complete required fields."
+msgstr "Fylltu út nauðsynlega reiti."
+
+msgid "Record changed. Reopen the page."
+msgstr "Færslan hefur breyst. Opnaðu síðuna aftur."
+
+msgid "Record not found."
+msgstr "Færsla fannst ekki."
+
+msgid "Record changed."
+msgstr "Færslan hefur breyst."
+
+msgid "Invalid value."
+msgstr "Ógilt gildi."
+
+msgid "Value out of range."
+msgstr "Gildi er utan leyfilegra marka."
+
+msgid "Choose a website."
+msgstr "Veldu vef."
+
+msgid "Choose another website."
+msgstr "Veldu annan vef."
+
+msgid "Action unavailable."
+msgstr "Aðgerðin er ekki tiltæk."
+
+msgid "Operation not granted."
+msgstr "Aðgerðin er ekki heimiluð."
+
+msgid "Read only."
+msgstr "Skrifvarið."
+
+msgid "Redirect loop."
+msgstr "Tilvísunarlykkja."
+
+msgid "Redirect already exists."
+msgstr "Tilvísunin er þegar til."
+
+msgid "Connection failed."
+msgstr "Tenging mistókst."
+
+msgid "Connection timed out."
+msgstr "Tenging rann út á tíma."
+
+msgid "Enable the GD extension."
+msgstr "Virkjaðu GD-viðbótina."
+
+msgid "Enable the DOM extension."
+msgstr "Virkjaðu DOM-viðbótina."
+
+msgid "Enable PDO MySQL."
+msgstr "Virkjaðu PDO MySQL."
+
+msgid "Create a backup first."
+msgstr "Búðu fyrst til öryggisafrit."
+
+msgid "Backup exceeds remote limit."
+msgstr "Öryggisafrit fer yfir mörk fjargeymslu."
+
+msgid "Backup decryption failed."
+msgstr "Afkóðun öryggisafrits mistókst."
+
+msgid "Use an HTTPS URL."
+msgstr "Notaðu HTTPS-slóð."
+
+msgid "Invalid JSON."
+msgstr "Ógilt JSON."
+
+msgid "Token already shown."
+msgstr "Táknið hefur þegar verið birt."
+
+msgid "Token missing."
+msgstr "Tákn vantar."
+
+msgid "Client missing."
+msgstr "Biðlara vantar."
+
+msgid "Edit content"
+msgstr "Breyta efni"
+
+msgid "Request certificate"
+msgstr "Biðja um vottorð"
+
+msgid "Change hosting setting"
+msgstr "Breyta hýsingarstillingu"
+
+msgid "Hosting settings unavailable."
+msgstr "Hýsingarstillingar eru ekki tiltækar."
+
+msgid "Description"
+msgstr "Lýsing"
+
+msgid "Disable email 2FA before removing the authenticator."
+msgstr "Slökktu á 2FA með tölvupósti áður en auðkenningarforritið er fjarlægt."
+
+msgid "Draft"
+msgstr "Drög"
+
+msgid "Replace current data"
+msgstr "Skipta út núverandi gögnum"
+
+msgid "Confirm restoration."
+msgstr "Staðfestu endurheimt."
+
+msgid "Backup in use."
+msgstr "Öryggisafrit er í notkun."
+
+msgid "Delete backup"
+msgstr "Eyða öryggisafriti"
+
+msgid "Scheduled"
+msgstr "Tímasett"
+
+msgid "Publishing"
+msgstr "Birting"
+
+msgid "Change website"
+msgstr "Skipta um vef"
+
+msgid "HTML website manager"
+msgstr "HTML-vefstjóri"
+
+msgid "Import existing versions. Original files remain available."
+msgstr "Flyttu inn núverandi útgáfur. Upprunalegar skrár haldast tiltækar."
+
+msgid "Manage accounts and security in WordPress."
+msgstr "Stjórnaðu aðgöngum og öryggi í WordPress."
+
+msgid "Background jobs use WordPress cron."
+msgstr "Bakgrunnsverk nota WordPress cron."
+
+msgid "Choose a published website on this domain."
+msgstr "Veldu birtan vef á þessu léni."
+
+msgid "Plugin management is disabled in WordPress."
+msgstr "Viðbótastjórnun er óvirk í WordPress."
+
+msgid "Preview unavailable."
+msgstr "Forskoðun er ekki tiltæk."

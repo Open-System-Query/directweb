@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Language: fr\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Cloudflare zone ID"
+msgstr "ID de zone Cloudflare"
+
+msgid "API token"
+msgstr "Jeton API"
+
+msgid "Purge after publish"
+msgstr "Vider le cache après publication"
+
+msgid "URLs (empty = all)"
+msgstr "URL (vide = tout)"
+
+msgid "Rule (JSON)"
+msgstr "Règle (JSON)"
+
+msgid "Purge cache"
+msgstr "Vider le cache"
+
+msgid "Cache rules"
+msgstr "Règles de cache"
+
+msgid "Save cache rule"
+msgstr "Enregistrer la règle de cache"
+
+msgid "Manage Cloudflare caching and cache clearing."
+msgstr "Gérez le cache Cloudflare et sa purge."

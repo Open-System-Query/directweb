@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Statistics"
+msgstr "Statisztika"
+
+msgid "Retention (days)"
+msgstr "Megőrzés (nap)"
+
+msgid "View report"
+msgstr "Jelentés megtekintése"
+
+msgid "View page requests, downloads and missing pages."
+msgstr "Oldalkérések, letöltések és hiányzó oldalak megtekintése."

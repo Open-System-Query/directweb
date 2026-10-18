@@ -1,0 +1,14 @@
+{
+  "id": "statistics",
+  "name": "Statistics",
+  "version": "1.0",
+  "type": "plugin",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "plugin.php",
+  "min_core": "1.0",
+  "tables": [
+    "traffic"
+  ],
+  "description": "View page requests, downloads and missing pages."
+}

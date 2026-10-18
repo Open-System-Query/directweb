@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Ellenőrző kódok és értesítések küldése SMTP-n keresztül."
+
+msgid "Outgoing email"
+msgstr "Kimenő e-mail"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Ellenőrző kódokat és beépülő modulokról szóló értesítéseket küld az SMTP-szolgáltatón keresztül."
+
+msgid "Ready"
+msgstr "Kész"
+
+msgid "Not configured"
+msgstr "Nincs konfigurálva"
+
+msgid "Usage"
+msgstr "Használat"
+
+msgid "Accounts using email 2FA"
+msgstr "2FA e-mailt használó fiókok"
+
+msgid "Email notification rules"
+msgstr "E-mail értesítési szabályok"
+
+msgid "Send email"
+msgstr "E-mail küldése"
+
+msgid "SMTP connection"
+msgstr "SMTP kapcsolat"
+
+msgid "Test email"
+msgstr "Teszt e-mail"
+
+msgid "Recipient"
+msgstr "Címzett"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb teszt e-mail"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "A DirectWeb tud e-mailt küldeni az SMTP-szolgáltatón keresztül."
+
+msgid "Test email sent."
+msgstr "Teszt e-mail elküldve."
+
+msgid "Test email sent to %s."
+msgstr "Teszt e-mail elküldve a következő címre: %s."
+
+msgid "Configured, untested"
+msgstr "Konfigurálva, nem tesztelt"
+
+msgid "Successfully tested"
+msgstr "Sikeresen tesztelve"
+
+msgid "Last send failed"
+msgstr "Az utolsó küldés sikertelen"
+
+msgid "Last successful send"
+msgstr "Utolsó sikeres küldés"
+
+msgid "Last failure"
+msgstr "Utolsó hiba"
+
+msgid "SMTP authentication failed."
+msgstr "Az SMTP-hitelesítés sikertelen."
+
+msgid "SMTP connection failed."
+msgstr "Az SMTP-kapcsolat nem sikerült."
+
+msgid "SMTP server rejected the message."
+msgstr "Az SMTP-szerver elutasította az üzenetet."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "Az SMTP-szerver átmenetileg nem elérhető."

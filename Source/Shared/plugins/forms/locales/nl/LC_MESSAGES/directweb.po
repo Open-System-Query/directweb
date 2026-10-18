@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Forms"
+msgstr "Formulieren"
+
+msgid "Fields"
+msgstr "Velden"
+
+msgid "Public form"
+msgstr "Openbaar formulier"
+
+msgid "Submissions per hour"
+msgstr "Inzendingen per uur"
+
+msgid "Retention (days)"
+msgstr "Bewaren (dagen)"
+
+msgid "Form"
+msgstr "Formulier"
+
+msgid "Received."
+msgstr "Ontvangen."
+
+msgid "View submissions"
+msgstr "Inzendingen bekijken"
+
+msgid "Complete required fields."
+msgstr "Vul de verplichte velden in."
+
+msgid "Invalid value."
+msgstr "Ongeldige waarde."
+
+msgid "Collect and manage website form submissions."
+msgstr "Ontvang en beheer formulierinzendingen."

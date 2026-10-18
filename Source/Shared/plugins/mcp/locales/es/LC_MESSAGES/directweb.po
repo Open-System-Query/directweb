@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: es\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Acceso"
+
+msgid "Access denied."
+msgstr "Acceso denegado."
+
+msgid "Access token"
+msgstr "Token de acceso"
+
+msgid "Allow"
+msgstr "Permitir"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Client ID"
+msgstr "ID de cliente"
+
+msgid "Clients"
+msgstr "Clientes"
+
+msgid "Connection"
+msgstr "Conexión"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Create access"
+msgstr "Crear acceso"
+
+msgid "Days"
+msgstr "Días"
+
+msgid "Expires"
+msgstr "Caduca"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Archivo demasiado grande para MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Conceder acceso"
+
+msgid "Invalid OAuth request."
+msgstr "Solicitud OAuth no válida."
+
+msgid "Invalid input or action failed."
+msgstr "Datos no válidos o error en la acción."
+
+msgid "Invalid permissions."
+msgstr "Permisos no válidos."
+
+msgid "Invalid redirect URL."
+msgstr "URL de redirección no válida."
+
+msgid "Last used"
+msgstr "Último uso"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No websites available."
+msgstr "No hay sitios web disponibles."
+
+msgid "Not a text file."
+msgstr "No es un archivo de texto."
+
+msgid "Not found."
+msgstr "No encontrado."
+
+msgid "OAuth client"
+msgstr "Cliente OAuth"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Read and publish websites."
+msgstr "Leer y publicar sitios web."
+
+msgid "Read websites."
+msgstr "Leer sitios web."
+
+msgid "Redirect URL"
+msgstr "URL de redirección"
+
+msgid "Register"
+msgstr "Registrar"
+
+msgid "Request expired."
+msgstr "Solicitud caducada."
+
+msgid "Revoke"
+msgstr "Revocar"
+
+msgid "Save this token. It is shown once."
+msgstr "Guarda este token. Se muestra una sola vez."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Unknown OAuth client."
+msgstr "Cliente OAuth desconocido."
+
+msgid "Unknown tool."
+msgstr "Herramienta desconocida."
+
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Conecta asistentes de IA con acceso limitado."
+
+msgid "Never expires"
+msgstr "No caduca"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Copied"
+msgstr "Copiado"
+
+msgid "Expiry"
+msgstr "Caducidad"
+
+msgid "Replace token"
+msgstr "Reemplazar token"
+
+msgid "Replace"
+msgstr "Reemplazar"
+
+msgid "Managed by OAuth."
+msgstr "Gestionado por OAuth."
+
+msgid "Invalid duration."
+msgstr "Duración no válida."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Reemplaza este token para activar Mostrar y Copiar."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "El token actual dejará de funcionar. Actualiza después tu conector."
+
+msgid "Connection URL"
+msgstr "URL de conexión"

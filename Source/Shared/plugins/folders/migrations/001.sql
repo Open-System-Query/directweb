@@ -1,0 +1,3 @@
+CREATE TABLE folder_roots(id TEXT PRIMARY KEY,name TEXT NOT NULL,path TEXT NOT NULL UNIQUE);
+CREATE TABLE folder_changes(id TEXT PRIMARY KEY,root TEXT NOT NULL,path TEXT NOT NULL,before_hash TEXT NOT NULL,after_hash TEXT NOT NULL,snapshot TEXT NOT NULL,created_at TEXT NOT NULL);
+CREATE TABLE folder_rules(root TEXT NOT NULL,path TEXT NOT NULL,base TEXT NOT NULL,managed TEXT NOT NULL,hash TEXT NOT NULL,options TEXT NOT NULL,PRIMARY KEY(root,path));

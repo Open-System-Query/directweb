@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Earlier release"
+msgstr "Versiune anterioară"
+
+msgid "Later release"
+msgstr "Versiune ulterioară"
+
+msgid "Revisions"
+msgstr "Revizii"
+
+msgid "Compare"
+msgstr "Compară"
+
+msgid "Compare files and changes between website versions."
+msgstr "Comparați fișierele și modificările între versiunile site-ului web."

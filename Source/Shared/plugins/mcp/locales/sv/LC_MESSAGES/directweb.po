@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Åtkomst"
+
+msgid "Access denied."
+msgstr "Åtkomst nekad."
+
+msgid "Access token"
+msgstr "Åtkomsttoken"
+
+msgid "Allow"
+msgstr "Tillåt"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Client ID"
+msgstr "Klient-ID"
+
+msgid "Clients"
+msgstr "Klienter"
+
+msgid "Connection"
+msgstr "Anslutning"
+
+msgid "Create"
+msgstr "Skapa"
+
+msgid "Create access"
+msgstr "Skapa åtkomst"
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Expires"
+msgstr "Går ut"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Filen är för stor för MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Bevilja åtkomst"
+
+msgid "Invalid OAuth request."
+msgstr "Ogiltig OAuth-begäran."
+
+msgid "Invalid input or action failed."
+msgstr "Ogiltig inmatning eller misslyckad åtgärd."
+
+msgid "Invalid permissions."
+msgstr "Ogiltiga behörigheter."
+
+msgid "Invalid redirect URL."
+msgstr "Ogiltig omdirigeringsadress."
+
+msgid "Last used"
+msgstr "Senast använd"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "No websites available."
+msgstr "Inga webbplatser är tillgängliga."
+
+msgid "Not a text file."
+msgstr "Inte en textfil."
+
+msgid "Not found."
+msgstr "Hittades inte."
+
+msgid "OAuth client"
+msgstr "OAuth-klient"
+
+msgid "Publish"
+msgstr "Publicera"
+
+msgid "Read and publish websites."
+msgstr "Läs och publicera webbplatser."
+
+msgid "Read websites."
+msgstr "Läs webbplatser."
+
+msgid "Redirect URL"
+msgstr "Omdirigeringsadress"
+
+msgid "Register"
+msgstr "Registrera"
+
+msgid "Request expired."
+msgstr "Begäran har gått ut."
+
+msgid "Revoke"
+msgstr "Återkalla"
+
+msgid "Save this token. It is shown once."
+msgstr "Spara denna token. Den visas en gång."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Unknown OAuth client."
+msgstr "Okänd OAuth-klient."
+
+msgid "Unknown tool."
+msgstr "Okänt verktyg."
+
+msgid "Website"
+msgstr "Webbplats"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Anslut AI-assistenter med begränsade behörigheter."
+
+msgid "Never expires"
+msgstr "Går aldrig ut"
+
+msgid "Never"
+msgstr "Aldrig"
+
+msgid "Show"
+msgstr "Visa"
+
+msgid "Hide"
+msgstr "Dölj"
+
+msgid "Copy"
+msgstr "Kopiera"
+
+msgid "Copied"
+msgstr "Kopierat"
+
+msgid "Expiry"
+msgstr "Utgångstid"
+
+msgid "Replace token"
+msgstr "Ersätt token"
+
+msgid "Replace"
+msgstr "Ersätt"
+
+msgid "Managed by OAuth."
+msgstr "Hanteras av OAuth."
+
+msgid "Invalid duration."
+msgstr "Ogiltig giltighetstid."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Ersätt denna token för att aktivera Visa och Kopiera."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Nuvarande token slutar fungera. Uppdatera sedan din anslutning."
+
+msgid "Connection URL"
+msgstr "Anslutningsadress"

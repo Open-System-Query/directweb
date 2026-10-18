@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Source release"
+msgstr "Изходна версия"
+
+msgid "Publish target"
+msgstr "Публикуване на целта"
+
+msgid "Staging"
+msgstr "Тестова среда"
+
+msgid "Copy release"
+msgstr "Копиране на версия"
+
+msgid "Choose another website."
+msgstr "Изберете друг уебсайт."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Копира версии на уебсайта в отделен тестов сайт."

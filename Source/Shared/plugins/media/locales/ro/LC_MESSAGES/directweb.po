@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Output file"
+msgstr "Fișier de ieșire"
+
+msgid "Source file"
+msgstr "Fișier sursă"
+
+msgid "Width"
+msgstr "Lățimea"
+
+msgid "Height"
+msgstr "Înălțime"
+
+msgid "Crop"
+msgstr "Decupează"
+
+msgid "Quality"
+msgstr "Calitate"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Convert"
+msgstr "Convertiți"
+
+msgid "Enable the GD extension."
+msgstr "Activați extensia GD."
+
+msgid "Resize images and convert image formats."
+msgstr "Redimensionați imaginile și convertiți formatele de imagine."

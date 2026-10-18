@@ -1,0 +1,11 @@
+{
+  "id": "renderer-classic",
+  "name": "Classic",
+  "version": "1.0",
+  "type": "renderer",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "renderer.php",
+  "min_core": "1.0",
+  "description": "Display LUMUI screens in a compact, light layout."
+}

@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Language: de\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Redirects"
+msgstr "Weiterleitungen"
+
+msgid "From"
+msgstr "Von"
+
+msgid "To"
+msgstr "Nach"
+
+msgid "Redirect loop."
+msgstr "Weiterleitungsschleife."
+
+msgid "Redirect already exists."
+msgstr "Weiterleitung existiert bereits."
+
+msgid "Redirect website URLs to another address."
+msgstr "Website-URLs auf eine andere Adresse umleiten."

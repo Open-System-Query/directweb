@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Databases"
+msgstr "Gagnagrunnar"
+
+msgid "Database"
+msgstr "Gagnagrunnur"
+
+msgid "Host"
+msgstr "Hýsill"
+
+msgid "Export"
+msgstr "Flytja út"
+
+msgid "Tables"
+msgstr "Töflur"
+
+msgid "Import SQL"
+msgstr "Flytja inn SQL"
+
+msgid "Create database"
+msgstr "Búa til gagnagrunn"
+
+msgid "Enable PDO MySQL."
+msgstr "Virkjaðu PDO MySQL."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "Stjórnaðu MySQL-gagnagrunnum, innflutningi og útflutningi."

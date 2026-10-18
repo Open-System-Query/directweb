@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Hosting Connector"
+msgstr "Підключення хостингу"
+
+msgid "Database"
+msgstr "База даних"
+
+msgid "DirectAdmin URL"
+msgstr "URL DirectAdmin"
+
+msgid "Login key"
+msgstr "Ключ входу"
+
+msgid "Bandwidth (MB)"
+msgstr "Трафік (MB)"
+
+msgid "Disk (MB)"
+msgstr "Диск (МБ)"
+
+msgid "Mailbox"
+msgstr "Поштова скринька"
+
+msgid "Quota (MB)"
+msgstr "Квота (МБ)"
+
+msgid "Create database"
+msgstr "Створення бази даних"
+
+msgid "Domains"
+msgstr "Домени"
+
+msgid "Add domain"
+msgstr "Додати домен"
+
+msgid "Mailboxes"
+msgstr "Поштові скриньки"
+
+msgid "Add mailbox"
+msgstr "Додати поштову скриньку"
+
+msgid "Certificates"
+msgstr "Сертифікати"
+
+msgid "Hosting settings"
+msgstr "Налаштування хостингу"
+
+msgid "Request certificate"
+msgstr "Запит на сертифікат"
+
+msgid "Change hosting setting"
+msgstr "Змінити налаштування хостингу"
+
+msgid "Setting"
+msgstr "Налаштування"
+
+msgid "Hosting settings unavailable."
+msgstr "Налаштування хостингу недоступні."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Керуйте послугами хостингу через DirectAdmin."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Media"
+msgstr "Μέσα"
+
+msgid "Output file"
+msgstr "Αρχείο εξόδου"
+
+msgid "Source file"
+msgstr "Αρχείο προέλευσης"
+
+msgid "Width"
+msgstr "Πλάτος"
+
+msgid "Height"
+msgstr "Υψος"
+
+msgid "Crop"
+msgstr "Περικοπή"
+
+msgid "Quality"
+msgstr "Ποιότητα"
+
+msgid "Format"
+msgstr "Μορφή"
+
+msgid "Convert"
+msgstr "Μετατροπή"
+
+msgid "Enable the GD extension."
+msgstr "Ενεργοποιήστε την επέκταση GD."
+
+msgid "Resize images and convert image formats."
+msgstr "Αλλαγή μεγέθους εικόνων και μετατροπή μορφών εικόνας."

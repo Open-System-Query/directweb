@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Media"
+msgstr "Miðlar"
+
+msgid "Output file"
+msgstr "Úttaksskrá"
+
+msgid "Source file"
+msgstr "Upprunaskrá"
+
+msgid "Width"
+msgstr "Breidd"
+
+msgid "Height"
+msgstr "Hæð"
+
+msgid "Crop"
+msgstr "Skera"
+
+msgid "Quality"
+msgstr "Gæði"
+
+msgid "Format"
+msgstr "Snið"
+
+msgid "Convert"
+msgstr "Umbreyta"
+
+msgid "Enable the GD extension."
+msgstr "Virkjaðu GD-viðbótina."
+
+msgid "Resize images and convert image formats."
+msgstr "Breyttu stærð mynda og umbreyttu myndsniðum."

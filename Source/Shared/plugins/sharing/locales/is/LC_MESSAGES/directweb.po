@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Access denied."
+msgstr "Aðgangi hafnað."
+
+msgid "Active"
+msgstr "Virkt"
+
+msgid "Check the input."
+msgstr "Athugaðu innsláttinn."
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Niðurhalsmörk (0 = ótakmarkað)"
+
+msgid "Downloads"
+msgstr "Niðurhal"
+
+msgid "Expired"
+msgstr "Útrunnið"
+
+msgid "Expires"
+msgstr "Rennur út"
+
+msgid "File not found."
+msgstr "Skrá fannst ekki."
+
+msgid "File unavailable."
+msgstr "Skráin er ekki tiltæk."
+
+msgid "Files"
+msgstr "Skrár"
+
+msgid "Invalid filename."
+msgstr "Ógilt skráarnafn."
+
+msgid "Invalid password."
+msgstr "Ógilt lykilorð."
+
+msgid "Link unavailable."
+msgstr "Tengillinn er ekki tiltækur."
+
+msgid "Name"
+msgstr "Nafn"
+
+msgid "Password"
+msgstr "Lykilorð"
+
+msgid "Password required."
+msgstr "Lykilorðs er krafist."
+
+msgid "Revoke"
+msgstr "Afturkalla"
+
+msgid "Revoked"
+msgstr "Afturkallað"
+
+msgid "Save failed."
+msgstr "Vistun mistókst."
+
+msgid "Share"
+msgstr "Deila"
+
+msgid "Share link"
+msgstr "Deilitengill"
+
+msgid "Shared"
+msgstr "Deilt"
+
+msgid "Sharing"
+msgstr "Deiling"
+
+msgid "Status"
+msgstr "Staða"
+
+msgid "Storage limit reached."
+msgstr "Geymslumörkum náð."
+
+msgid "Upload failed."
+msgstr "Upphleðsla mistókst."
+
+msgid "File transfer"
+msgstr "Skráaflutningur"
+
+msgid "Receive"
+msgstr "Taka á móti"
+
+msgid "Send"
+msgstr "Senda"
+
+msgid "Code"
+msgstr "Kóði"
+
+msgid "Send files"
+msgstr "Senda skrár"
+
+msgid "Sign in to upload files."
+msgstr "Skráðu þig inn til að hlaða upp skrám."
+
+msgid "Used"
+msgstr "Notað"
+
+msgid "Per file"
+msgstr "Á skrá"
+
+msgid "Per transfer"
+msgstr "Á flutning"
+
+msgid "Transfers"
+msgstr "Flutningar"
+
+msgid "Transfer"
+msgstr "Flutningur"
+
+msgid "Manage"
+msgstr "Stjórna"
+
+msgid "Portal"
+msgstr "Gátt"
+
+msgid "Open portal"
+msgstr "Opna gátt"
+
+msgid "Sharing settings"
+msgstr "Deilistillingar"
+
+msgid "Limits"
+msgstr "Mörk"
+
+msgid "Public portal"
+msgstr "Opin gátt"
+
+msgid "Guest uploads"
+msgstr "Upphleðslur gesta"
+
+msgid "Require download password"
+msgstr "Krefjast lykilorðs fyrir niðurhal"
+
+msgid "File limit (MB)"
+msgstr "Skráarmörk (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Flutningsmörk (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Geymslumörk (MB)"
+
+msgid "Files per transfer"
+msgstr "Skrár á flutning"
+
+msgid "Default expiry (hours)"
+msgstr "Sjálfgefinn gildistími (klukkustundir)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Hámarksgildistími (klukkustundir)"
+
+msgid "Uploads per hour per IP"
+msgstr "Upphleðslur á klukkustund á IP"
+
+msgid "Expires in (hours)"
+msgstr "Rennur út eftir (klukkustundir)"
+
+msgid "Download password"
+msgstr "Niðurhalslykilorð"
+
+msgid "Check sharing limits."
+msgstr "Athugaðu deilimörkin."
+
+msgid "Check transfer settings."
+msgstr "Athugaðu flutningsstillingarnar."
+
+msgid "Upload expired."
+msgstr "Upphleðslan er útrunnin."
+
+msgid "Invalid upload chunk."
+msgstr "Ógildur upphleðsluhluti."
+
+msgid "Upload position changed."
+msgstr "Staða upphleðslu hefur breyst."
+
+msgid "Upload too large."
+msgstr "Upphleðslan er of stór."
+
+msgid "Upload incomplete."
+msgstr "Upphleðslan er ófullgerð."
+
+msgid "Share files with short links and upload requests."
+msgstr "Deildu skrám með stuttum tenglum og upphleðslubeiðnum."

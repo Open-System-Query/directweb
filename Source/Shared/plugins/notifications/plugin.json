@@ -1,0 +1,14 @@
+{
+  "id": "notifications",
+  "name": "Notifications",
+  "version": "1.0",
+  "type": "plugin",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "plugin.php",
+  "min_core": "1.0",
+  "data_namespaces": [
+    "notification-message"
+  ],
+  "description": "Receive alerts in the panel, by email or webhook."
+}

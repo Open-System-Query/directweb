@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Output file"
+msgstr "Výstupní soubor"
+
+msgid "Source file"
+msgstr "Zdrojový soubor"
+
+msgid "Width"
+msgstr "Šířka"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "Crop"
+msgstr "Oříznout"
+
+msgid "Quality"
+msgstr "Kvalita"
+
+msgid "Format"
+msgstr "Formát"
+
+msgid "Convert"
+msgstr "Převést"
+
+msgid "Enable the GD extension."
+msgstr "Povolte rozšíření GD."
+
+msgid "Resize images and convert image formats."
+msgstr "Změna velikosti obrázků a převod obrazových formátů."

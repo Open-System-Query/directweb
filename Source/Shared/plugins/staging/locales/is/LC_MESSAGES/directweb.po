@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Source release"
+msgstr "Upprunaútgáfa"
+
+msgid "Publish target"
+msgstr "Birta markvef"
+
+msgid "Staging"
+msgstr "Prófunarumhverfi"
+
+msgid "Copy release"
+msgstr "Afrita útgáfu"
+
+msgid "Choose another website."
+msgstr "Veldu annan vef."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Afritaðu vefútgáfur á sérstakan prófunarvef."

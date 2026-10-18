@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hosting Connector"
+msgstr "Tárhelykapcsolat"
+
+msgid "Database"
+msgstr "Adatbázis"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin URL"
+
+msgid "Login key"
+msgstr "Bejelentkezési kulcs"
+
+msgid "Bandwidth (MB)"
+msgstr "Adatforgalom (MB)"
+
+msgid "Disk (MB)"
+msgstr "Lemez (MB)"
+
+msgid "Mailbox"
+msgstr "Postafiók"
+
+msgid "Quota (MB)"
+msgstr "Kvóta (MB)"
+
+msgid "Create database"
+msgstr "Adatbázis létrehozása"
+
+msgid "Domains"
+msgstr "Domainek"
+
+msgid "Add domain"
+msgstr "Domain hozzáadása"
+
+msgid "Mailboxes"
+msgstr "Postafiókok"
+
+msgid "Add mailbox"
+msgstr "Postafiók hozzáadása"
+
+msgid "Certificates"
+msgstr "Tanúsítványok"
+
+msgid "Hosting settings"
+msgstr "Tárhely beállításai"
+
+msgid "Request certificate"
+msgstr "Tanúsítvány kérése"
+
+msgid "Change hosting setting"
+msgstr "A tárhely beállításának módosítása"
+
+msgid "Setting"
+msgstr "Beállítás"
+
+msgid "Hosting settings unavailable."
+msgstr "A tárhely beállításai nem érhetők el."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Tárhelyszolgáltatások kezelése a DirectAdmin segítségével."

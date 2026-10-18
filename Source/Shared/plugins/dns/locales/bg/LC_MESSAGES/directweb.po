@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Съдържание"
+
+msgid "Cloudflare zone ID"
+msgstr "ID на зона Cloudflare"
+
+msgid "API token"
+msgstr "API токен"
+
+msgid "Record ID"
+msgstr "ID на запис"
+
+msgid "Record ID (optional)"
+msgstr "ID на запис (по избор)"
+
+msgid "Records (JSON)"
+msgstr "Записи (JSON)"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgid "Proxy"
+msgstr "Прокси"
+
+msgid "Delete record"
+msgstr "Изтриване на запис"
+
+msgid "Save record"
+msgstr "Запазване на записа"
+
+msgid "Records"
+msgstr "Записи"
+
+msgid "Import records"
+msgstr "Импортиране на записи"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "Управление на DNS записи чрез Cloudflare."

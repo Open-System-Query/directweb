@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hosting Connector"
+msgstr "Barındırma bağlantısı"
+
+msgid "Database"
+msgstr "Veritabanı"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin URL'si"
+
+msgid "Login key"
+msgstr "Giriş anahtarı"
+
+msgid "Bandwidth (MB)"
+msgstr "Veri trafiği (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disk (MB)"
+
+msgid "Mailbox"
+msgstr "Posta Kutusu"
+
+msgid "Quota (MB)"
+msgstr "Kota (MB)"
+
+msgid "Create database"
+msgstr "Veritabanı oluştur"
+
+msgid "Domains"
+msgstr "Alan Adları"
+
+msgid "Add domain"
+msgstr "Alan adı ekle"
+
+msgid "Mailboxes"
+msgstr "Posta Kutuları"
+
+msgid "Add mailbox"
+msgstr "Posta kutusu ekle"
+
+msgid "Certificates"
+msgstr "Sertifikalar"
+
+msgid "Hosting settings"
+msgstr "Barındırma ayarları"
+
+msgid "Request certificate"
+msgstr "Sertifika iste"
+
+msgid "Change hosting setting"
+msgstr "Barındırma ayarını değiştir"
+
+msgid "Setting"
+msgstr "Ayar"
+
+msgid "Hosting settings unavailable."
+msgstr "Barındırma ayarları mevcut değil."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "DirectAdmin aracılığıyla barındırma hizmetlerini yönetin."

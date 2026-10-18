@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Redirects"
+msgstr "Přesměrování"
+
+msgid "From"
+msgstr "Od"
+
+msgid "To"
+msgstr "Do"
+
+msgid "Redirect loop."
+msgstr "Smyčka přesměrování."
+
+msgid "Redirect already exists."
+msgstr "Přesměrování již existuje."
+
+msgid "Redirect website URLs to another address."
+msgstr "Přesměrujte adresy URL webových stránek na jinou adresu."

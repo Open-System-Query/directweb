@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: it\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Publish release"
+msgstr "Pubblica versione"
+
+msgid "Tasks"
+msgstr "Attività"
+
+msgid "Task"
+msgstr "Attività"
+
+msgid "Release ID"
+msgstr "ID versione"
+
+msgid "Start (UTC)"
+msgstr "Inizio (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Ripeti (minuti, 0 = una volta)"
+
+msgid "Prune releases"
+msgstr "Pulisci versioni"
+
+msgid "Run now"
+msgstr "Esegui ora"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Pianifica pubblicazioni, backup e pulizia delle versioni."

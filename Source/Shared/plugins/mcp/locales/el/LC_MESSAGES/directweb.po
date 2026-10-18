@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Πρόσβαση"
+
+msgid "Access denied."
+msgstr "Δεν επιτρέπεται η πρόσβαση."
+
+msgid "Access token"
+msgstr "Διακριτικό πρόσβασης"
+
+msgid "Allow"
+msgstr "Να επιτρέπεται"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Client ID"
+msgstr "ID πελάτη"
+
+msgid "Clients"
+msgstr "Πελάτες"
+
+msgid "Connection"
+msgstr "Σύνδεση"
+
+msgid "Create"
+msgstr "Δημιουργία"
+
+msgid "Create access"
+msgstr "Δημιουργία πρόσβασης"
+
+msgid "Days"
+msgstr "Ημέρες"
+
+msgid "Expires"
+msgstr "Λήγει"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Το αρχείο είναι πολύ μεγάλο για MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Παραχώρηση πρόσβασης"
+
+msgid "Invalid OAuth request."
+msgstr "Μη έγκυρο αίτημα OAuth."
+
+msgid "Invalid input or action failed."
+msgstr "Μη έγκυρη εισαγωγή ή ενέργεια απέτυχε."
+
+msgid "Invalid permissions."
+msgstr "Μη έγκυρα δικαιώματα."
+
+msgid "Invalid redirect URL."
+msgstr "Μη έγκυρη διεύθυνση URL ανακατεύθυνσης."
+
+msgid "Last used"
+msgstr "Τελευταία χρήση"
+
+msgid "Name"
+msgstr "Ονομα"
+
+msgid "No websites available."
+msgstr "Δεν υπάρχουν διαθέσιμοι ιστότοποι."
+
+msgid "Not a text file."
+msgstr "Δεν είναι αρχείο κειμένου."
+
+msgid "Not found."
+msgstr "Δεν βρέθηκε."
+
+msgid "OAuth client"
+msgstr "Πελάτη OAuth"
+
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+msgid "Read and publish websites."
+msgstr "Διαβάστε και δημοσιεύστε ιστότοπους."
+
+msgid "Read websites."
+msgstr "Διαβάστε ιστοσελίδες."
+
+msgid "Redirect URL"
+msgstr "Διεύθυνση URL ανακατεύθυνσης"
+
+msgid "Register"
+msgstr "Εγγραφή"
+
+msgid "Request expired."
+msgstr "Το αίτημα έληξε."
+
+msgid "Revoke"
+msgstr "Ανάκληση"
+
+msgid "Save this token. It is shown once."
+msgstr "Αποθηκεύστε αυτό το διακριτικό. Εμφανίζεται μόνο μία φορά."
+
+msgid "Token"
+msgstr "Διακριτικό"
+
+msgid "Unknown OAuth client."
+msgstr "Αγνωστος πελάτης OAuth."
+
+msgid "Unknown tool."
+msgstr "Αγνωστο εργαλείο."
+
+msgid "Website"
+msgstr "Δικτυακός τόπος"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Συνδέστε βοηθούς AI με περιορισμένη πρόσβαση."
+
+msgid "Never expires"
+msgstr "Δεν λήγει ποτέ"
+
+msgid "Never"
+msgstr "Ποτέ"
+
+msgid "Show"
+msgstr "Εμφάνιση"
+
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Copied"
+msgstr "Αντιγράφηκε"
+
+msgid "Expiry"
+msgstr "Λήξη"
+
+msgid "Replace token"
+msgstr "Αντικατάσταση διακριτικού"
+
+msgid "Replace"
+msgstr "Αντικατάσταση"
+
+msgid "Managed by OAuth."
+msgstr "Διαχείριση μέσω OAuth."
+
+msgid "Invalid duration."
+msgstr "Μη έγκυρη διάρκεια."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Αντικαταστήστε το διακριτικό για ενεργοποίηση Εμφάνισης και Αντιγραφής."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Το τρέχον διακριτικό θα πάψει να λειτουργεί. Έπειτα ενημερώστε τη σύνδεση."
+
+msgid "Connection URL"
+msgstr "URL σύνδεσης"

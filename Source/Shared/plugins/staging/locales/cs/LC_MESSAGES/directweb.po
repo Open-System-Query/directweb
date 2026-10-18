@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Source release"
+msgstr "Zdrojová verze"
+
+msgid "Publish target"
+msgstr "Publikovat cíl"
+
+msgid "Staging"
+msgstr "Testovací prostředí"
+
+msgid "Copy release"
+msgstr "Kopírovat verzi"
+
+msgid "Choose another website."
+msgstr "Vyberte jiný web."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Kopíruje verze webu na samostatný testovací web."

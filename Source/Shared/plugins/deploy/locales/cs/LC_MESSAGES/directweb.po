@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Deploy"
+msgstr "Nasadit"
+
+msgid "Artifact URL"
+msgstr "URL balíčku"
+
+msgid "Artifact token"
+msgstr "Token balíčku"
+
+msgid "Provider"
+msgstr "Poskytovatel"
+
+msgid "Webhook secret"
+msgstr "Tajný klíč webhooku"
+
+msgid "Branch"
+msgstr "Větev"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Publikujte soubory sestavení z GitHubu nebo GitLabu."

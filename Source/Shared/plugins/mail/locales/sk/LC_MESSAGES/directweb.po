@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Posielajte overovacie kódy a upozornenia cez SMTP."
+
+msgid "Outgoing email"
+msgstr "Odchádzajúci e-mail"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Odošle overovacie kódy a upozornenia doplnkov prostredníctvom vášho poskytovateľa SMTP."
+
+msgid "Ready"
+msgstr "Pripravené"
+
+msgid "Not configured"
+msgstr "Nie je nakonfigurované"
+
+msgid "Usage"
+msgstr "Použitie"
+
+msgid "Accounts using email 2FA"
+msgstr "Účty používajúce e-mail 2FA"
+
+msgid "Email notification rules"
+msgstr "Pravidlá oznamovania e-mailom"
+
+msgid "Send email"
+msgstr "Odoslať e-mail"
+
+msgid "SMTP connection"
+msgstr "SMTP pripojenie"
+
+msgid "Test email"
+msgstr "Testovací e-mail"
+
+msgid "Recipient"
+msgstr "Príjemca"
+
+msgid "DirectWeb test email"
+msgstr "Testovací e-mail DirectWeb"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb môže odosielať e-maily prostredníctvom vášho poskytovateľa SMTP."
+
+msgid "Test email sent."
+msgstr "Odoslaný testovací e-mail."
+
+msgid "Test email sent to %s."
+msgstr "Testovací e-mail bol odoslaný na %s."
+
+msgid "Configured, untested"
+msgstr "Nakonfigurované, netestované"
+
+msgid "Successfully tested"
+msgstr "Úspešne testované"
+
+msgid "Last send failed"
+msgstr "Posledné odoslanie zlyhalo"
+
+msgid "Last successful send"
+msgstr "Posledné úspešné odoslanie"
+
+msgid "Last failure"
+msgstr "Posledné zlyhanie"
+
+msgid "SMTP authentication failed."
+msgstr "Overenie SMTP zlyhalo."
+
+msgid "SMTP connection failed."
+msgstr "Pripojenie SMTP zlyhalo."
+
+msgid "SMTP server rejected the message."
+msgstr "Server SMTP odmietol správu."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "Server SMTP je dočasne nedostupný."

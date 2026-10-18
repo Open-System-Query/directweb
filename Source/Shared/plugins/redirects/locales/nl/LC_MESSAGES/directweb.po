@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Redirects"
+msgstr "Doorverwijzingen"
+
+msgid "From"
+msgstr "Van"
+
+msgid "To"
+msgstr "Naar"
+
+msgid "Redirect loop."
+msgstr "Cirkelverwijzing."
+
+msgid "Redirect already exists."
+msgstr "Doorverwijzing bestaat al."
+
+msgid "Redirect website URLs to another address."
+msgstr "Verwijs website-URL’s door naar een ander adres."

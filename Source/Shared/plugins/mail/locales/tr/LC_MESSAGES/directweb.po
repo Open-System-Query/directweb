@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Doğrulama kodlarını ve bildirimleri SMTP aracılığıyla gönderin."
+
+msgid "Outgoing email"
+msgstr "Giden e-posta"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "SMTP sağlayıcınız aracılığıyla doğrulama kodlarını ve eklenti bildirimlerini gönderir."
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Not configured"
+msgstr "Yapılandırılmadı"
+
+msgid "Usage"
+msgstr "Kullanım"
+
+msgid "Accounts using email 2FA"
+msgstr "E-posta 2FA kullanan hesaplar"
+
+msgid "Email notification rules"
+msgstr "E-posta bildirim kuralları"
+
+msgid "Send email"
+msgstr "E-posta gönder"
+
+msgid "SMTP connection"
+msgstr "SMTP bağlantısı"
+
+msgid "Test email"
+msgstr "Test e-postası"
+
+msgid "Recipient"
+msgstr "Alıcı"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb test e-postası"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb, SMTP sağlayıcınız aracılığıyla e-posta gönderebilir."
+
+msgid "Test email sent."
+msgstr "Test e-postası gönderildi."
+
+msgid "Test email sent to %s."
+msgstr "Test e-postası %s adresine gönderildi."
+
+msgid "Configured, untested"
+msgstr "Yapılandırılmış, test edilmemiş"
+
+msgid "Successfully tested"
+msgstr "Başarıyla test edildi"
+
+msgid "Last send failed"
+msgstr "Son gönderim başarısız oldu"
+
+msgid "Last successful send"
+msgstr "Son başarılı gönderim"
+
+msgid "Last failure"
+msgstr "Son başarısızlık"
+
+msgid "SMTP authentication failed."
+msgstr "SMTP kimlik doğrulaması başarısız oldu."
+
+msgid "SMTP connection failed."
+msgstr "SMTP bağlantısı başarısız oldu."
+
+msgid "SMTP server rejected the message."
+msgstr "SMTP sunucusu mesajı reddetti."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP sunucusu geçici olarak kullanılamıyor."

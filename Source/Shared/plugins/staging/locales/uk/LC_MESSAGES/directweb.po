@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Source release"
+msgstr "Вихідна версія"
+
+msgid "Publish target"
+msgstr "Опублікувати ціль"
+
+msgid "Staging"
+msgstr "Тестове середовище"
+
+msgid "Copy release"
+msgstr "Копіювати версію"
+
+msgid "Choose another website."
+msgstr "Виберіть інший веб-сайт."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Копіює версії сайту на окремий тестовий сайт."

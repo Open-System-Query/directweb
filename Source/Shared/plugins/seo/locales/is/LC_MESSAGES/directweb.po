@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Generate on publish"
+msgstr "Búa til við birtingu"
+
+msgid "Scan"
+msgstr "Skanna"
+
+msgid "Create sitemap"
+msgstr "Búa til vefkort"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Athugaðu lýsigögn og búðu til vefkort og robots.txt."

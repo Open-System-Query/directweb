@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Search"
+msgstr "Căutare"
+
+msgid "Public search"
+msgstr "Căutare publică"
+
+msgid "Results"
+msgstr "Rezultate"
+
+msgid "Build index"
+msgstr "Creează indexul"
+
+msgid "Add public search to your websites."
+msgstr "Adăugați căutare publică pe site-urile dvs. web."

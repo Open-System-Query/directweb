@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Notifications"
+msgstr "Известия"
+
+msgid "Webhook secret"
+msgstr "Тайна на webhook"
+
+msgid "Event"
+msgstr "Събитие"
+
+msgid "Webhook URL"
+msgstr "URL на уеб кукичката"
+
+msgid "Inbox"
+msgstr "Входяща кутия"
+
+msgid "Send test"
+msgstr "Изпрати тест"
+
+msgid "Use an HTTPS URL."
+msgstr "Използвайте HTTPS URL."
+
+msgid "Receive alerts in the panel, by email or webhook."
+msgstr "Получавайте известия в панела, по имейл или уебкука."
+
+msgid "Email (Mail plugin)"
+msgstr "Имейл (плъгин за поща)"
+
+msgid "Configure the Mail plugin to send email notifications."
+msgstr "Конфигурирайте приставката за поща за изпращане на известия по имейл."

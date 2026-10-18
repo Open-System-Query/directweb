@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Earlier release"
+msgstr "Önceki sürüm"
+
+msgid "Later release"
+msgstr "Sonraki sürüm"
+
+msgid "Revisions"
+msgstr "Revizyonlar"
+
+msgid "Compare"
+msgstr "Karşılaştır"
+
+msgid "Compare files and changes between website versions."
+msgstr "Web sitesi sürümleri arasındaki dosyaları ve değişiklikleri karşılaştırın."

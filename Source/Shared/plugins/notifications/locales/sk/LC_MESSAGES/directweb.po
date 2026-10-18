@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Notifications"
+msgstr "Upozornenia"
+
+msgid "Webhook secret"
+msgstr "Tajný kľúč webhooku"
+
+msgid "Event"
+msgstr "Udalosť"
+
+msgid "Webhook URL"
+msgstr "URL webhooku"
+
+msgid "Inbox"
+msgstr "Doručená pošta"
+
+msgid "Send test"
+msgstr "Odoslať test"
+
+msgid "Use an HTTPS URL."
+msgstr "Použite HTTPS URL."
+
+msgid "Receive alerts in the panel, by email or webhook."
+msgstr "Prijímajte upozornenia na paneli, e-mailom alebo webhookom."
+
+msgid "Email (Mail plugin)"
+msgstr "Email (doplnok Mail)"
+
+msgid "Configure the Mail plugin to send email notifications."
+msgstr "Nakonfigurujte doplnok Mail na odosielanie e-mailových upozornení."

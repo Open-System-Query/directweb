@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Publish release"
+msgstr "Sürümü yayınla"
+
+msgid "Tasks"
+msgstr "Görevler"
+
+msgid "Task"
+msgstr "Görev"
+
+msgid "Release ID"
+msgstr "Sürüm kimliği"
+
+msgid "Start (UTC)"
+msgstr "Başlangıç (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Tekrarla (dakika, 0 = bir kez)"
+
+msgid "Prune releases"
+msgstr "Sürümleri temizle"
+
+msgid "Run now"
+msgstr "Şimdi çalıştır"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Yayınlamayı, yedeklemeleri ve sürüm temizlemeyi planlayın."

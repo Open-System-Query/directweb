@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Sendu staðfestingarkóða og tilkynningar með SMTP."
+
+msgid "Outgoing email"
+msgstr "Útsendur póstur"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Sendir staðfestingarkóða og viðbótartilkynningar í gegnum SMTP-þjónustuaðilann þinn."
+
+msgid "Ready"
+msgstr "Tilbúið"
+
+msgid "Not configured"
+msgstr "Ekki stillt"
+
+msgid "Usage"
+msgstr "Notkun"
+
+msgid "Accounts using email 2FA"
+msgstr "Aðgangar með 2FA í tölvupósti"
+
+msgid "Email notification rules"
+msgstr "Reglur fyrir pósttilkynningar"
+
+msgid "Send email"
+msgstr "Senda tölvupóst"
+
+msgid "SMTP connection"
+msgstr "SMTP-tenging"
+
+msgid "Test email"
+msgstr "Prófunarpóstur"
+
+msgid "Recipient"
+msgstr "Viðtakandi"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb-prófunarpóstur"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb getur sent tölvupóst í gegnum SMTP-þjónustuaðilann þinn."
+
+msgid "Test email sent."
+msgstr "Prófunarpóstur sendur."
+
+msgid "Test email sent to %s."
+msgstr "Prófunarpóstur sendur á %s."
+
+msgid "Configured, untested"
+msgstr "Stillt, óprófað"
+
+msgid "Successfully tested"
+msgstr "Prófun tókst"
+
+msgid "Last send failed"
+msgstr "Síðasta sending mistókst"
+
+msgid "Last successful send"
+msgstr "Síðasta sending sem tókst"
+
+msgid "Last failure"
+msgstr "Síðasta villa"
+
+msgid "SMTP authentication failed."
+msgstr "SMTP-auðkenning mistókst."
+
+msgid "SMTP connection failed."
+msgstr "SMTP-tenging mistókst."
+
+msgid "SMTP server rejected the message."
+msgstr "SMTP-þjónninn hafnaði skilaboðunum."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP-þjónninn er tímabundið ótiltækur."

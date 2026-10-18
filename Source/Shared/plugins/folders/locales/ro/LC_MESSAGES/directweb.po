@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Folders"
+msgstr "Foldere"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Add folder"
+msgstr "Adăugați folderul"
+
+msgid "Server path"
+msgstr "Calea serverului"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Locație"
+
+msgid "Subfolders"
+msgstr "Subdosare"
+
+msgid "Rules"
+msgstr "Reguli"
+
+msgid "Directory listing"
+msgstr "Listarea directorului"
+
+msgid "Inherit"
+msgstr "Moștenește"
+
+msgid "On"
+msgstr "Pornit"
+
+msgid "Selected IP addresses"
+msgstr "Adresele IP selectate"
+
+msgid "IP addresses"
+msgstr "Adrese IP"
+
+msgid "Current"
+msgstr "Curent"
+
+msgid "New"
+msgstr "Nou"
+
+msgid "Apply"
+msgstr "Aplică"
+
+msgid "Choose a readable folder."
+msgstr "Alegeți un folder care poate fi citit."
+
+msgid "Choose a hosting folder."
+msgstr "Alegeți un folder de găzduire."
+
+msgid "Folder already added."
+msgstr "Dosarul a fost deja adăugat."
+
+msgid "Folder missing."
+msgstr "Folder lipsă."
+
+msgid "Folder changed."
+msgstr "Dosarul a fost schimbat."
+
+msgid "Symbolic links are not supported."
+msgstr "Legăturile simbolice nu sunt acceptate."
+
+msgid "DirectWeb folders are protected."
+msgstr "Dosarele DirectWeb sunt protejate."
+
+msgid "Folder is not writable."
+msgstr "Folderul nu poate fi scris."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Nu se poate gestiona acest fișier .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Verificați adresele IP."
+
+msgid "File changed outside DirectWeb."
+msgstr "Fișierul a fost modificat în afara DirectWeb."
+
+msgid "Preview expired."
+msgstr "Previzualizarea a expirat."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Sunt necesare permisiunile Apache 2.4 și AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Aceste reguli se aplică folderelor fizice servite de serverul web."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Gestionați accesul la foldere, stocarea în cache și paginile de eroare."

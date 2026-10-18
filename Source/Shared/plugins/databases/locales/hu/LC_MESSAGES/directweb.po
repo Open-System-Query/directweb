@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Databases"
+msgstr "Adatbázisok"
+
+msgid "Database"
+msgstr "Adatbázis"
+
+msgid "Host"
+msgstr "Kiszolgáló"
+
+msgid "Export"
+msgstr "Exportálás"
+
+msgid "Tables"
+msgstr "Táblák"
+
+msgid "Import SQL"
+msgstr "SQL importálása"
+
+msgid "Create database"
+msgstr "Adatbázis létrehozása"
+
+msgid "Enable PDO MySQL."
+msgstr "Engedélyezze a PDO MySQL-t."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "MySQL adatbázisok, importok és exportok kezelése."

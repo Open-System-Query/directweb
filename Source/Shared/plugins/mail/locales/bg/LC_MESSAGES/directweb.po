@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Изпращайте кодове за потвърждение и известия през SMTP."
+
+msgid "Outgoing email"
+msgstr "Изходящ имейл"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Изпраща кодове за потвърждение и известия за добавки чрез вашия SMTP доставчик."
+
+msgid "Ready"
+msgstr "Готов"
+
+msgid "Not configured"
+msgstr "Не е конфигуриран"
+
+msgid "Usage"
+msgstr "Използване"
+
+msgid "Accounts using email 2FA"
+msgstr "Акаунти, използващи имейл 2FA"
+
+msgid "Email notification rules"
+msgstr "Правила за уведомяване по имейл"
+
+msgid "Send email"
+msgstr "Изпратете имейл"
+
+msgid "SMTP connection"
+msgstr "SMTP връзка"
+
+msgid "Test email"
+msgstr "Тестов имейл"
+
+msgid "Recipient"
+msgstr "Получател"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb тестов имейл"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb може да изпраща имейл чрез вашия SMTP доставчик."
+
+msgid "Test email sent."
+msgstr "Тестовият имейл е изпратен."
+
+msgid "Test email sent to %s."
+msgstr "Пробен имейл, изпратен до %s."
+
+msgid "Configured, untested"
+msgstr "Конфигуриран, нетестван"
+
+msgid "Successfully tested"
+msgstr "Успешно тестван"
+
+msgid "Last send failed"
+msgstr "Последното изпращане е неуспешно"
+
+msgid "Last successful send"
+msgstr "Последно успешно изпращане"
+
+msgid "Last failure"
+msgstr "Последна грешка"
+
+msgid "SMTP authentication failed."
+msgstr "SMTP удостоверяването е неуспешно."
+
+msgid "SMTP connection failed."
+msgstr "SMTP връзката е неуспешна."
+
+msgid "SMTP server rejected the message."
+msgstr "SMTP сървърът отхвърли съобщението."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP сървърът е временно недостъпен."

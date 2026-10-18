@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Generate on publish"
+msgstr "Generálás közzétételkor"
+
+msgid "Scan"
+msgstr "Vizsgálat"
+
+msgid "Create sitemap"
+msgstr "Webhelytérkép létrehozása"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Ellenőrizze a metaadatokat, és generáljon webhelytérképeket és robots.txt fájlt."

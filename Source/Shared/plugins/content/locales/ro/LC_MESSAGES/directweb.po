@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Content"
+msgstr "Conținut"
+
+msgid "Content file"
+msgstr "Fișier de conținut"
+
+msgid "Fields (JSON)"
+msgstr "Câmpuri (JSON)"
+
+msgid "Template"
+msgstr "Șablon"
+
+msgid "Output file"
+msgstr "Fișier de ieșire"
+
+msgid "Fields"
+msgstr "Câmpuri"
+
+msgid "Invalid value."
+msgstr "Valoare nevalidă."
+
+msgid "Edit content"
+msgstr "Editați conținutul"
+
+msgid "Edit content and publish website updates."
+msgstr "Editați conținutul și publicați actualizări ale site-ului web."

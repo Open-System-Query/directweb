@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Cloudflare zone ID"
+msgstr "ID ζώνης Cloudflare"
+
+msgid "API token"
+msgstr "Διακριτικό API"
+
+msgid "Record ID"
+msgstr "ID εγγραφής"
+
+msgid "Record ID (optional)"
+msgstr "Αναγνωριστικό εγγραφής (προαιρετικό)"
+
+msgid "Records (JSON)"
+msgstr "Εγγραφές (JSON)"
+
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+msgid "Proxy"
+msgstr "Διακομιστής μεσολάβησης"
+
+msgid "Delete record"
+msgstr "Διαγραφή εγγραφής"
+
+msgid "Save record"
+msgstr "Αποθήκευση εγγραφής"
+
+msgid "Records"
+msgstr "Εγγραφές"
+
+msgid "Import records"
+msgstr "Εισαγωγή εγγραφών"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "Διαχείριση εγγραφών DNS μέσω του Cloudflare."

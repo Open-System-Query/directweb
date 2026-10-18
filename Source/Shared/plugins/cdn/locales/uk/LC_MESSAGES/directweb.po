@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Cloudflare zone ID"
+msgstr "ID зони Cloudflare"
+
+msgid "API token"
+msgstr "Токен API"
+
+msgid "Purge after publish"
+msgstr "Очистити після публікації"
+
+msgid "URLs (empty = all)"
+msgstr "URL-адреси (порожні = усі)"
+
+msgid "Rule (JSON)"
+msgstr "Правило (JSON)"
+
+msgid "Purge cache"
+msgstr "Очистити кеш"
+
+msgid "Cache rules"
+msgstr "Правила кешу"
+
+msgid "Save cache rule"
+msgstr "Зберегти правило кешу"
+
+msgid "Manage Cloudflare caching and cache clearing."
+msgstr "Керуйте кешуванням і очищенням кешу Cloudflare."

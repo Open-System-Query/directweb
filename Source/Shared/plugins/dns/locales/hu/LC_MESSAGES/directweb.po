@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-zónaazonosító"
+
+msgid "API token"
+msgstr "API-token"
+
+msgid "Record ID"
+msgstr "Rekordazonosító"
+
+msgid "Record ID (optional)"
+msgstr "Rekordazonosító (opcionális)"
+
+msgid "Records (JSON)"
+msgstr "Rekordok (JSON)"
+
+msgid "Priority"
+msgstr "Prioritás"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Delete record"
+msgstr "Rekord törlése"
+
+msgid "Save record"
+msgstr "Rekord mentése"
+
+msgid "Records"
+msgstr "Rekordok"
+
+msgid "Import records"
+msgstr "Rekordok importálása"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "DNS-rekordok kezelése a Cloudflare segítségével."

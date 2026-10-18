@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remote Backups"
+msgstr "Uzaktan Yedeklemeler"
+
+msgid "S3 endpoint"
+msgstr "S3 uç noktası"
+
+msgid "Bucket"
+msgstr "Depolama kovası"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "Access key"
+msgstr "Erişim anahtarı"
+
+msgid "Secret key"
+msgstr "Gizli anahtar"
+
+msgid "Backup passphrase"
+msgstr "Yedekleme parolası"
+
+msgid "Copies to retain"
+msgstr "Saklanacak kopyalar"
+
+msgid "Backup limit (MB)"
+msgstr "Yedek boyutu sınırı (MB)"
+
+msgid "Upload new backups"
+msgstr "Yeni yedeklemeler yükleyin"
+
+msgid "Object key"
+msgstr "Nesne anahtarı"
+
+msgid "Upload latest backup"
+msgstr "En son yedeği yükle"
+
+msgid "Remote copies"
+msgstr "Uzaktan kopyalar"
+
+msgid "Retrieve backup"
+msgstr "Yedeği al"
+
+msgid "Create a backup first."
+msgstr "Öncelikle bir yedek oluşturun."
+
+msgid "Backup exceeds remote limit."
+msgstr "Yedek, uzak depolama sınırını aşıyor."
+
+msgid "Backup decryption failed."
+msgstr "Yedekleme şifre çözme işlemi başarısız oldu."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Şifrelenmiş yedekleri S3 uyumlu depolama alanında saklayın."

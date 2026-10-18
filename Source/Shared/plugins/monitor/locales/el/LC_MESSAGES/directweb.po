@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Monitor"
+msgstr "Παρακολούθηση"
+
+msgid "Interval (minutes)"
+msgstr "Διάστημα (λεπτά)"
+
+msgid "Expected status"
+msgstr "Αναμενόμενη κατάσταση"
+
+msgid "Certificate warning (days)"
+msgstr "Προειδοποίηση πιστοποιητικού (ημέρες)"
+
+msgid "Check now"
+msgstr "Ελέγξτε τώρα"
+
+msgid "History"
+msgstr "Ιστορικό"
+
+msgid "Use an HTTPS URL."
+msgstr "Χρησιμοποιήστε μια διεύθυνση URL HTTPS."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Ελέγξτε τη διαθεσιμότητα του ιστότοπου και τη λήξη του πιστοποιητικού."

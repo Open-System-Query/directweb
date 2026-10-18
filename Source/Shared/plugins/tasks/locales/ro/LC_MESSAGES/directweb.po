@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Publish release"
+msgstr "Publică versiunea"
+
+msgid "Tasks"
+msgstr "Sarcini"
+
+msgid "Task"
+msgstr "Sarcină"
+
+msgid "Release ID"
+msgstr "ID versiune"
+
+msgid "Start (UTC)"
+msgstr "Start (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Repetați (minute, 0 = o dată)"
+
+msgid "Prune releases"
+msgstr "Curăță versiunile"
+
+msgid "Run now"
+msgstr "Execută acum"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Programați publicarea, backup-urile și curățarea versiunii."

@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Sisältö"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-alueen tunnus"
+
+msgid "API token"
+msgstr "API-tunniste"
+
+msgid "Record ID"
+msgstr "Tietueen tunnus"
+
+msgid "Record ID (optional)"
+msgstr "Tietueen tunnus (valinnainen)"
+
+msgid "Records (JSON)"
+msgstr "Tietueet (JSON)"
+
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgid "Proxy"
+msgstr "Välityspalvelin"
+
+msgid "Delete record"
+msgstr "Poista tietue"
+
+msgid "Save record"
+msgstr "Tallenna tietue"
+
+msgid "Records"
+msgstr "Tietueet"
+
+msgid "Import records"
+msgstr "Tuo tietueet"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "Hallitse DNS-tietueita Cloudflaren kautta."

@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Source release"
+msgstr "Wersja źródłowa"
+
+msgid "Publish target"
+msgstr "Opublikuj stronę docelową"
+
+msgid "Staging"
+msgstr "Środowisko testowe"
+
+msgid "Copy release"
+msgstr "Kopiuj wersję"
+
+msgid "Choose another website."
+msgstr "Wybierz inną stronę."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Kopiuj wersje strony do oddzielnego środowiska testowego."

@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Public search"
+msgstr "Δημόσια αναζήτηση"
+
+msgid "Results"
+msgstr "Αποτελέσματα"
+
+msgid "Build index"
+msgstr "Δημιουργία ευρετηρίου"
+
+msgid "Add public search to your websites."
+msgstr "Προσθέστε δημόσια αναζήτηση στους ιστότοπούς σας."

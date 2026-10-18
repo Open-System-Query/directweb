@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Cloudflare zone ID"
+msgstr "ID zóny Cloudflare"
+
+msgid "API token"
+msgstr "API token"
+
+msgid "Purge after publish"
+msgstr "Vyčistiť po zverejnení"
+
+msgid "URLs (empty = all)"
+msgstr "URL (prázdne = všetky)"
+
+msgid "Rule (JSON)"
+msgstr "Pravidlo (JSON)"
+
+msgid "Purge cache"
+msgstr "Vyčistiť vyrovnávaciu pamäť"
+
+msgid "Cache rules"
+msgstr "Pravidlá vyrovnávacej pamäte"
+
+msgid "Save cache rule"
+msgstr "Uložiť pravidlo vyrovnávacej pamäte"
+
+msgid "Manage Cloudflare caching and cache clearing."
+msgstr "Spravujte ukladanie do vyrovnávacej pamäte Cloudflare a vymazávanie vyrovnávacej pamäte."

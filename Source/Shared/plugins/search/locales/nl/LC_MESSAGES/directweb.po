@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Public search"
+msgstr "Openbaar zoeken"
+
+msgid "Results"
+msgstr "Resultaten"
+
+msgid "Build index"
+msgstr "Index maken"
+
+msgid "Add public search to your websites."
+msgstr "Voeg een openbare zoekfunctie toe aan websites."

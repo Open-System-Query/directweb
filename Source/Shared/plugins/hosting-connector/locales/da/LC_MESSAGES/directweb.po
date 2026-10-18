@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hosting Connector"
+msgstr "Hostingforbindelse"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Loginnøgle"
+
+msgid "Bandwidth (MB)"
+msgstr "Båndbredde (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disk (MB)"
+
+msgid "Mailbox"
+msgstr "Postkasse"
+
+msgid "Quota (MB)"
+msgstr "Kvote (MB)"
+
+msgid "Create database"
+msgstr "Opret database"
+
+msgid "Domains"
+msgstr "Domæner"
+
+msgid "Add domain"
+msgstr "Tilføj domæne"
+
+msgid "Mailboxes"
+msgstr "Postkasser"
+
+msgid "Add mailbox"
+msgstr "Tilføj postkasse"
+
+msgid "Certificates"
+msgstr "Certifikater"
+
+msgid "Hosting settings"
+msgstr "Hostingindstillinger"
+
+msgid "Request certificate"
+msgstr "Anmod om certifikat"
+
+msgid "Change hosting setting"
+msgstr "Skift hostingindstilling"
+
+msgid "Setting"
+msgstr "Indstilling"
+
+msgid "Hosting settings unavailable."
+msgstr "Hostingindstillinger er utilgængelige."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Administrer hostingtjenester via DirectAdmin."

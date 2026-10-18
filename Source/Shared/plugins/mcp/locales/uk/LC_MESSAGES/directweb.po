@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Access"
+msgstr "Доступ"
+
+msgid "Access denied."
+msgstr "Доступ заборонено."
+
+msgid "Access token"
+msgstr "Токен доступу"
+
+msgid "Allow"
+msgstr "Дозволити"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Client ID"
+msgstr "ID клієнта"
+
+msgid "Clients"
+msgstr "Клієнти"
+
+msgid "Connection"
+msgstr "Підключення"
+
+msgid "Create"
+msgstr "Створити"
+
+msgid "Create access"
+msgstr "Створити доступ"
+
+msgid "Days"
+msgstr "Днів"
+
+msgid "Expires"
+msgstr "Термін дії закінчується"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Файл завеликий для MCP (256 КБ)."
+
+msgid "Grant access"
+msgstr "Надати доступ"
+
+msgid "Invalid OAuth request."
+msgstr "Недійсний запит OAuth."
+
+msgid "Invalid input or action failed."
+msgstr "Недійсний вхід або не вдалося виконати дію."
+
+msgid "Invalid permissions."
+msgstr "Недійсні дозволи."
+
+msgid "Invalid redirect URL."
+msgstr "Недійсна URL-адреса перенаправлення."
+
+msgid "Last used"
+msgstr "Останнє використання"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "No websites available."
+msgstr "Немає доступних веб-сайтів."
+
+msgid "Not a text file."
+msgstr "Не текстовий файл."
+
+msgid "Not found."
+msgstr "Не знайдено."
+
+msgid "OAuth client"
+msgstr "Клієнт OAuth"
+
+msgid "Publish"
+msgstr "Опублікувати"
+
+msgid "Read and publish websites."
+msgstr "Читайте та публікуйте веб-сайти."
+
+msgid "Read websites."
+msgstr "Читайте веб-сайти."
+
+msgid "Redirect URL"
+msgstr "URL-адреса перенаправлення"
+
+msgid "Register"
+msgstr "Реєстрація"
+
+msgid "Request expired."
+msgstr "Термін дії запиту минув."
+
+msgid "Revoke"
+msgstr "Відкликати"
+
+msgid "Save this token. It is shown once."
+msgstr "Збережіть цей токен. Він показується лише один раз."
+
+msgid "Token"
+msgstr "Токен"
+
+msgid "Unknown OAuth client."
+msgstr "Невідомий клієнт OAuth."
+
+msgid "Unknown tool."
+msgstr "Невідомий інструмент."
+
+msgid "Website"
+msgstr "Веб-сайт"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Підключайте ШІ-асистентів з обмеженим доступом."
+
+msgid "Never expires"
+msgstr "Термін дії не закінчується"
+
+msgid "Never"
+msgstr "Ніколи"
+
+msgid "Show"
+msgstr "Показати"
+
+msgid "Hide"
+msgstr "Сховати"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "Copied"
+msgstr "Скопійовано"
+
+msgid "Expiry"
+msgstr "Термін дії"
+
+msgid "Replace token"
+msgstr "Замінити токен"
+
+msgid "Replace"
+msgstr "Замінити"
+
+msgid "Managed by OAuth."
+msgstr "Керується через OAuth."
+
+msgid "Invalid duration."
+msgstr "Недійсна тривалість."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Замініть токен, щоб увімкнути Показати та Копіювати."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Поточний токен перестане працювати. Після цього оновіть підключення."
+
+msgid "Connection URL"
+msgstr "URL-адреса підключення"

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Forms"
+msgstr "Űrlapok"
+
+msgid "Fields"
+msgstr "Mezők"
+
+msgid "Public form"
+msgstr "Nyilvános űrlap"
+
+msgid "Submissions per hour"
+msgstr "Beküldés óránként"
+
+msgid "Retention (days)"
+msgstr "Megőrzés (nap)"
+
+msgid "Form"
+msgstr "Űrlap"
+
+msgid "Received."
+msgstr "Érkezett."
+
+msgid "View submissions"
+msgstr "Beküldött anyagok megtekintése"
+
+msgid "Complete required fields."
+msgstr "Töltse ki a kötelező mezőket."
+
+msgid "Invalid value."
+msgstr "Érvénytelen érték."
+
+msgid "Collect and manage website form submissions."
+msgstr "Gyűjtse össze és kezelje a webhely-űrlapok benyújtását."

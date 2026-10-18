@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remote Backups"
+msgstr "Távoli biztonsági mentések"
+
+msgid "S3 endpoint"
+msgstr "S3 végpont"
+
+msgid "Bucket"
+msgstr "Tároló"
+
+msgid "Region"
+msgstr "Régió"
+
+msgid "Access key"
+msgstr "Hozzáférési kulcs"
+
+msgid "Secret key"
+msgstr "Titkos kulcs"
+
+msgid "Backup passphrase"
+msgstr "Mentés jelmondata"
+
+msgid "Copies to retain"
+msgstr "Megőrzendő másolatok"
+
+msgid "Backup limit (MB)"
+msgstr "Mentési korlát (MB)"
+
+msgid "Upload new backups"
+msgstr "Új biztonsági másolatok feltöltése"
+
+msgid "Object key"
+msgstr "Objektumkulcs"
+
+msgid "Upload latest backup"
+msgstr "Töltse fel a legújabb biztonsági másolatot"
+
+msgid "Remote copies"
+msgstr "Távoli másolatok"
+
+msgid "Retrieve backup"
+msgstr "Mentés lekérése"
+
+msgid "Create a backup first."
+msgstr "Először készítsen biztonsági másolatot."
+
+msgid "Backup exceeds remote limit."
+msgstr "A mentés meghaladja a távoli tárhely korlátját."
+
+msgid "Backup decryption failed."
+msgstr "A biztonsági mentés visszafejtése nem sikerült."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Tárolja a titkosított biztonsági másolatokat S3-kompatibilis tárhelyen."

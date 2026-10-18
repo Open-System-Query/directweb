@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: de\n"
+
+msgid "Folders"
+msgstr "Ordner"
+
+msgid "Folder"
+msgstr "Ordner"
+
+msgid "Add folder"
+msgstr "Ordner hinzufügen"
+
+msgid "Server path"
+msgstr "Serverpfad"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Speicherort"
+
+msgid "Subfolders"
+msgstr "Unterordner"
+
+msgid "Rules"
+msgstr "Regeln"
+
+msgid "Directory listing"
+msgstr "Verzeichnisauflistung"
+
+msgid "Inherit"
+msgstr "Vererben"
+
+msgid "On"
+msgstr "Ein"
+
+msgid "Selected IP addresses"
+msgstr "Ausgewählte IP-Adressen"
+
+msgid "IP addresses"
+msgstr "IP-Adressen"
+
+msgid "Current"
+msgstr "Aktuell"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "Apply"
+msgstr "Anwenden"
+
+msgid "Choose a readable folder."
+msgstr "Einen lesbaren Ordner wählen."
+
+msgid "Choose a hosting folder."
+msgstr "Einen Hostingordner wählen."
+
+msgid "Folder already added."
+msgstr "Ordner bereits hinzugefügt."
+
+msgid "Folder missing."
+msgstr "Ordner fehlt."
+
+msgid "Folder changed."
+msgstr "Ordner wurde geändert."
+
+msgid "Symbolic links are not supported."
+msgstr "Symbolische Links werden nicht unterstützt."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb-Ordner sind geschützt."
+
+msgid "Folder is not writable."
+msgstr "Ordner ist nicht beschreibbar."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Diese .htaccess-Datei kann nicht verwaltet werden."
+
+msgid "Check IP addresses."
+msgstr "IP-Adressen prüfen."
+
+msgid "File changed outside DirectWeb."
+msgstr "Datei wurde außerhalb von DirectWeb geändert."
+
+msgid "Preview expired."
+msgstr "Vorschau abgelaufen."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 und AllowOverride-Berechtigungen sind erforderlich."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Diese Regeln gelten für physische Ordner des Webservers."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Ordnerzugriff, Caching und Fehlerseiten verwalten."

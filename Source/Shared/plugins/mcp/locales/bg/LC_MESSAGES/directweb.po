@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Достъп"
+
+msgid "Access denied."
+msgstr "Достъпът е отказан."
+
+msgid "Access token"
+msgstr "Токен за достъп"
+
+msgid "Allow"
+msgstr "Разрешаване"
+
+msgid "Cancel"
+msgstr "Отказ"
+
+msgid "Client ID"
+msgstr "ID на клиент"
+
+msgid "Clients"
+msgstr "Клиенти"
+
+msgid "Connection"
+msgstr "Връзка"
+
+msgid "Create"
+msgstr "Създаване"
+
+msgid "Create access"
+msgstr "Създаване на достъп"
+
+msgid "Days"
+msgstr "Дни"
+
+msgid "Expires"
+msgstr "Изтича"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Файлът е твърде голям за MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Предоставяне на достъп"
+
+msgid "Invalid OAuth request."
+msgstr "Невалидна OAuth заявка."
+
+msgid "Invalid input or action failed."
+msgstr "Невалиден вход или неуспешно действие."
+
+msgid "Invalid permissions."
+msgstr "Невалидни разрешения."
+
+msgid "Invalid redirect URL."
+msgstr "Невалиден URL за пренасочване."
+
+msgid "Last used"
+msgstr "Последно използвано"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "No websites available."
+msgstr "Няма налични уебсайтове."
+
+msgid "Not a text file."
+msgstr "Не е текстов файл."
+
+msgid "Not found."
+msgstr "Не е намерен."
+
+msgid "OAuth client"
+msgstr "OAuth клиент"
+
+msgid "Publish"
+msgstr "Публикуване"
+
+msgid "Read and publish websites."
+msgstr "Четете и публикувайте уебсайтове."
+
+msgid "Read websites."
+msgstr "Четете уебсайтове."
+
+msgid "Redirect URL"
+msgstr "URL за пренасочване"
+
+msgid "Register"
+msgstr "Регистрирайте се"
+
+msgid "Request expired."
+msgstr "Заявката е изтекла."
+
+msgid "Revoke"
+msgstr "Отмени"
+
+msgid "Save this token. It is shown once."
+msgstr "Запазете този токен. Показва се само веднъж."
+
+msgid "Token"
+msgstr "Токен"
+
+msgid "Unknown OAuth client."
+msgstr "Неизвестен OAuth клиент."
+
+msgid "Unknown tool."
+msgstr "Неизвестен инструмент."
+
+msgid "Website"
+msgstr "Уебсайт"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Свържете AI асистенти с ограничен достъп."
+
+msgid "Never expires"
+msgstr "Никога не изтича"
+
+msgid "Never"
+msgstr "Никога"
+
+msgid "Show"
+msgstr "Показване"
+
+msgid "Hide"
+msgstr "Скрий"
+
+msgid "Copy"
+msgstr "Копиране"
+
+msgid "Copied"
+msgstr "Копирано"
+
+msgid "Expiry"
+msgstr "Изтичане"
+
+msgid "Replace token"
+msgstr "Замяна на токен"
+
+msgid "Replace"
+msgstr "Замени"
+
+msgid "Managed by OAuth."
+msgstr "Управлява се чрез OAuth."
+
+msgid "Invalid duration."
+msgstr "Невалидна продължителност."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Заменете токена, за да активирате Показване и Копиране."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Текущият токен ще спре да работи. След това актуализирайте връзката."
+
+msgid "Connection URL"
+msgstr "URL адрес за връзка"

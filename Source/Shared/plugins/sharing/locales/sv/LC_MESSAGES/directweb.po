@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Åtkomst nekad."
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Check the input."
+msgstr "Kontrollera inmatningen."
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Nedladdningsgräns (0 = obegränsat)"
+
+msgid "Downloads"
+msgstr "Nedladdningar"
+
+msgid "Expired"
+msgstr "Utgången"
+
+msgid "Expires"
+msgstr "Går ut"
+
+msgid "File not found."
+msgstr "Filen hittades inte."
+
+msgid "File unavailable."
+msgstr "Filen är inte tillgänglig."
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "Invalid filename."
+msgstr "Ogiltigt filnamn."
+
+msgid "Invalid password."
+msgstr "Ogiltigt lösenord."
+
+msgid "Link unavailable."
+msgstr "Länken är inte tillgänglig."
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Password required."
+msgstr "Lösenord krävs."
+
+msgid "Revoke"
+msgstr "Återkalla"
+
+msgid "Revoked"
+msgstr "Återkallad"
+
+msgid "Save failed."
+msgstr "Det gick inte att spara."
+
+msgid "Share"
+msgstr "Dela"
+
+msgid "Share link"
+msgstr "Delningslänk"
+
+msgid "Shared"
+msgstr "Delad"
+
+msgid "Sharing"
+msgstr "Delning"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Storage limit reached."
+msgstr "Lagringsgränsen har nåtts."
+
+msgid "Upload failed."
+msgstr "Uppladdningen misslyckades."
+
+msgid "File transfer"
+msgstr "Filöverföring"
+
+msgid "Receive"
+msgstr "Ta emot"
+
+msgid "Send"
+msgstr "Skicka"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Send files"
+msgstr "Skicka filer"
+
+msgid "Sign in to upload files."
+msgstr "Logga in för att ladda upp filer."
+
+msgid "Used"
+msgstr "Använt"
+
+msgid "Per file"
+msgstr "Per fil"
+
+msgid "Per transfer"
+msgstr "Per överföring"
+
+msgid "Transfers"
+msgstr "Överföringar"
+
+msgid "Transfer"
+msgstr "Överföring"
+
+msgid "Manage"
+msgstr "Hantera"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Open portal"
+msgstr "Öppna portal"
+
+msgid "Sharing settings"
+msgstr "Delningsinställningar"
+
+msgid "Limits"
+msgstr "Gränser"
+
+msgid "Public portal"
+msgstr "Publik portal"
+
+msgid "Guest uploads"
+msgstr "Gästuppladdningar"
+
+msgid "Require download password"
+msgstr "Kräv nedladdningslösenord"
+
+msgid "File limit (MB)"
+msgstr "Filgräns (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Överföringsgräns (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Lagringsgräns (MB)"
+
+msgid "Files per transfer"
+msgstr "Filer per överföring"
+
+msgid "Default expiry (hours)"
+msgstr "Standardgiltighet (timmar)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maximal giltighet (timmar)"
+
+msgid "Uploads per hour per IP"
+msgstr "Uppladdningar per timme och IP"
+
+msgid "Expires in (hours)"
+msgstr "Går ut om (timmar)"
+
+msgid "Download password"
+msgstr "Nedladdningslösenord"
+
+msgid "Check sharing limits."
+msgstr "Kontrollera delningsgränserna."
+
+msgid "Check transfer settings."
+msgstr "Kontrollera överföringsinställningarna."
+
+msgid "Upload expired."
+msgstr "Uppladdningen har gått ut."
+
+msgid "Invalid upload chunk."
+msgstr "Ogiltig uppladdningsdel."
+
+msgid "Upload position changed."
+msgstr "Uppladdningspositionen har ändrats."
+
+msgid "Upload too large."
+msgstr "Uppladdningen är för stor."
+
+msgid "Upload incomplete."
+msgstr "Uppladdningen är ofullständig."
+
+msgid "Share files with short links and upload requests."
+msgstr "Dela filer med korta länkar och uppladdningsförfrågningar."

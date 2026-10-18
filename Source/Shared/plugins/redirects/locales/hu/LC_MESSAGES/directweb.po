@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Redirects"
+msgstr "Átirányítások"
+
+msgid "From"
+msgstr "Forrás"
+
+msgid "To"
+msgstr "Cél"
+
+msgid "Redirect loop."
+msgstr "Átirányítási hurok."
+
+msgid "Redirect already exists."
+msgstr "Már létezik átirányítás."
+
+msgid "Redirect website URLs to another address."
+msgstr "A webhely URL-címeinek átirányítása egy másik címre."

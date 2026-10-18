@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Pääsy"
+
+msgid "Access denied."
+msgstr "Pääsy estetty."
+
+msgid "Access token"
+msgstr "Käyttötunniste"
+
+msgid "Allow"
+msgstr "Salli"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Client ID"
+msgstr "Asiakastunnus"
+
+msgid "Clients"
+msgstr "Asiakkaat"
+
+msgid "Connection"
+msgstr "Yhteys"
+
+msgid "Create"
+msgstr "Luo"
+
+msgid "Create access"
+msgstr "Luo käyttöoikeus"
+
+msgid "Days"
+msgstr "Päivää"
+
+msgid "Expires"
+msgstr "Vanhenee"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Tiedosto on liian suuri MCP:lle (256 KB)."
+
+msgid "Grant access"
+msgstr "Myönnä käyttöoikeus"
+
+msgid "Invalid OAuth request."
+msgstr "Virheellinen OAuth-pyyntö."
+
+msgid "Invalid input or action failed."
+msgstr "Virheellinen syöte tai toiminto epäonnistui."
+
+msgid "Invalid permissions."
+msgstr "Virheelliset oikeudet."
+
+msgid "Invalid redirect URL."
+msgstr "Virheellinen uudelleenohjausosoite."
+
+msgid "Last used"
+msgstr "Viimeksi käytetty"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "No websites available."
+msgstr "Sivustoja ei ole saatavilla."
+
+msgid "Not a text file."
+msgstr "Ei tekstitiedosto."
+
+msgid "Not found."
+msgstr "Ei löytynyt."
+
+msgid "OAuth client"
+msgstr "OAuth-asiakas"
+
+msgid "Publish"
+msgstr "Julkaise"
+
+msgid "Read and publish websites."
+msgstr "Lue ja julkaise sivustoja."
+
+msgid "Read websites."
+msgstr "Lue sivustoja."
+
+msgid "Redirect URL"
+msgstr "Uudelleenohjausosoite"
+
+msgid "Register"
+msgstr "Rekisteröi"
+
+msgid "Request expired."
+msgstr "Pyyntö on vanhentunut."
+
+msgid "Revoke"
+msgstr "Peru käyttöoikeus"
+
+msgid "Save this token. It is shown once."
+msgstr "Tallenna tunniste. Se näytetään vain kerran."
+
+msgid "Token"
+msgstr "Tunniste"
+
+msgid "Unknown OAuth client."
+msgstr "Tuntematon OAuth-asiakas."
+
+msgid "Unknown tool."
+msgstr "Tuntematon työkalu."
+
+msgid "Website"
+msgstr "Sivusto"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Yhdistä tekoälyavustajia rajatuilla käyttöoikeuksilla."
+
+msgid "Never expires"
+msgstr "Ei vanhene"
+
+msgid "Never"
+msgstr "Ei koskaan"
+
+msgid "Show"
+msgstr "Näytä"
+
+msgid "Hide"
+msgstr "Piilota"
+
+msgid "Copy"
+msgstr "Kopioi"
+
+msgid "Copied"
+msgstr "Kopioitu"
+
+msgid "Expiry"
+msgstr "Vanheneminen"
+
+msgid "Replace token"
+msgstr "Korvaa tunniste"
+
+msgid "Replace"
+msgstr "Korvaa"
+
+msgid "Managed by OAuth."
+msgstr "OAuth hallinnoi."
+
+msgid "Invalid duration."
+msgstr "Virheellinen kesto."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Korvaa tunniste, jotta Näytä ja Kopioi tulevat käyttöön."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Nykyinen tunniste lakkaa toimimasta. Päivitä yhteys sen jälkeen."
+
+msgid "Connection URL"
+msgstr "Yhteysosoite"

@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nb\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Source release"
+msgstr "Kildeversjon"
+
+msgid "Publish target"
+msgstr "Publiser mål"
+
+msgid "Staging"
+msgstr "Testmiljø"
+
+msgid "Copy release"
+msgstr "Kopier versjon"
+
+msgid "Choose another website."
+msgstr "Velg et annet nettsted."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Kopier nettstedsversjoner til et eget testnettsted."

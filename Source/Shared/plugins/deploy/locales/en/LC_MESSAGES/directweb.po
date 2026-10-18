@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Language: en\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Deploy"
+msgstr "Deploy"
+
+msgid "Artifact URL"
+msgstr "Artifact URL"
+
+msgid "Artifact token"
+msgstr "Artifact token"
+
+msgid "Provider"
+msgstr "Provider"
+
+msgid "Webhook secret"
+msgstr "Webhook secret"
+
+msgid "Branch"
+msgstr "Branch"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Publish build files from GitHub or GitLab."

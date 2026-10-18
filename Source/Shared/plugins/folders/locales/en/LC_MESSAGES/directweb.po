@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: en\n"
+
+msgid "Folders"
+msgstr "Folders"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Add folder"
+msgstr "Add folder"
+
+msgid "Server path"
+msgstr "Server path"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Subfolders"
+msgstr "Subfolders"
+
+msgid "Rules"
+msgstr "Rules"
+
+msgid "Directory listing"
+msgstr "Directory listing"
+
+msgid "Inherit"
+msgstr "Inherit"
+
+msgid "On"
+msgstr "On"
+
+msgid "Selected IP addresses"
+msgstr "Selected IP addresses"
+
+msgid "IP addresses"
+msgstr "IP addresses"
+
+msgid "Current"
+msgstr "Current"
+
+msgid "New"
+msgstr "New"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Choose a readable folder."
+msgstr "Choose a readable folder."
+
+msgid "Choose a hosting folder."
+msgstr "Choose a hosting folder."
+
+msgid "Folder already added."
+msgstr "Folder already added."
+
+msgid "Folder missing."
+msgstr "Folder missing."
+
+msgid "Folder changed."
+msgstr "Folder changed."
+
+msgid "Symbolic links are not supported."
+msgstr "Symbolic links are not supported."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb folders are protected."
+
+msgid "Folder is not writable."
+msgstr "Folder is not writable."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Cannot manage this .htaccess file."
+
+msgid "Check IP addresses."
+msgstr "Check IP addresses."
+
+msgid "File changed outside DirectWeb."
+msgstr "File changed outside DirectWeb."
+
+msgid "Preview expired."
+msgstr "Preview expired."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 and AllowOverride permissions are required."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "These rules apply to physical folders served by the webserver."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Manage folder access, caching and error pages."

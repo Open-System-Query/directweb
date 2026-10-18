@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Content"
+msgstr "Efni"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-svæðisauðkenni"
+
+msgid "API token"
+msgstr "API-tákn"
+
+msgid "Record ID"
+msgstr "Færsluauðkenni"
+
+msgid "Record ID (optional)"
+msgstr "Færsluauðkenni (valfrjálst)"
+
+msgid "Records (JSON)"
+msgstr "Færslur (JSON)"
+
+msgid "Priority"
+msgstr "Forgangur"
+
+msgid "Proxy"
+msgstr "Milliþjónn"
+
+msgid "Delete record"
+msgstr "Eyða færslu"
+
+msgid "Save record"
+msgstr "Vista færslu"
+
+msgid "Records"
+msgstr "Færslur"
+
+msgid "Import records"
+msgstr "Flytja inn færslur"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "Stjórnaðu DNS-færslum í gegnum Cloudflare."

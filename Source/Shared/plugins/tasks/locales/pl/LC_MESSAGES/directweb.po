@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Publish release"
+msgstr "Opublikuj wersję"
+
+msgid "Tasks"
+msgstr "Zadania"
+
+msgid "Task"
+msgstr "Zadanie"
+
+msgid "Release ID"
+msgstr "ID wersji"
+
+msgid "Start (UTC)"
+msgstr "Początek (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Powtarzaj (minuty, 0 = jednorazowo)"
+
+msgid "Prune releases"
+msgstr "Wyczyść wersje"
+
+msgid "Run now"
+msgstr "Uruchom teraz"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Planuj publikacje, kopie zapasowe i usuwanie starych wersji."

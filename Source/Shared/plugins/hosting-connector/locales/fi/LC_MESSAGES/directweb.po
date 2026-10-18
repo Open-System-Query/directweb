@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hosting Connector"
+msgstr "Webhotelliyhteys"
+
+msgid "Database"
+msgstr "Tietokanta"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Kirjautumisavain"
+
+msgid "Bandwidth (MB)"
+msgstr "Tiedonsiirto (Mt)"
+
+msgid "Disk (MB)"
+msgstr "Levytila (Mt)"
+
+msgid "Mailbox"
+msgstr "Postilaatikko"
+
+msgid "Quota (MB)"
+msgstr "Kiintiö (Mt)"
+
+msgid "Create database"
+msgstr "Luo tietokanta"
+
+msgid "Domains"
+msgstr "Verkkotunnukset"
+
+msgid "Add domain"
+msgstr "Lisää verkkotunnus"
+
+msgid "Mailboxes"
+msgstr "Postilaatikot"
+
+msgid "Add mailbox"
+msgstr "Lisää postilaatikko"
+
+msgid "Certificates"
+msgstr "Varmenteet"
+
+msgid "Hosting settings"
+msgstr "Webhotellin asetukset"
+
+msgid "Request certificate"
+msgstr "Pyydä varmenne"
+
+msgid "Change hosting setting"
+msgstr "Muuta webhotellin asetusta"
+
+msgid "Setting"
+msgstr "Asetus"
+
+msgid "Hosting settings unavailable."
+msgstr "Webhotellin asetukset eivät ole saatavilla."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Hallitse webhotellipalveluita DirectAdminin kautta."

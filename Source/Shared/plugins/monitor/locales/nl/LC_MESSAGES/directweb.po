@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Monitor"
+msgstr "Bewaking"
+
+msgid "Interval (minutes)"
+msgstr "Interval (minuten)"
+
+msgid "Expected status"
+msgstr "Verwachte status"
+
+msgid "Certificate warning (days)"
+msgstr "Certificaatmelding (dagen)"
+
+msgid "Check now"
+msgstr "Nu controleren"
+
+msgid "History"
+msgstr "Geschiedenis"
+
+msgid "Use an HTTPS URL."
+msgstr "Gebruik een HTTPS-URL."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Controleer bereikbaarheid en certificaatverval."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Forms"
+msgstr "Формуляри"
+
+msgid "Fields"
+msgstr "Полета"
+
+msgid "Public form"
+msgstr "Публичен формуляр"
+
+msgid "Submissions per hour"
+msgstr "Изпращания на час"
+
+msgid "Retention (days)"
+msgstr "Съхранение (дни)"
+
+msgid "Form"
+msgstr "Формуляр"
+
+msgid "Received."
+msgstr "Получено."
+
+msgid "View submissions"
+msgstr "Вижте изпратените материали"
+
+msgid "Complete required fields."
+msgstr "Попълнете задължителните полета."
+
+msgid "Invalid value."
+msgstr "Невалидна стойност."
+
+msgid "Collect and manage website form submissions."
+msgstr "Събирайте и управлявайте изпратени формуляри за уебсайтове."

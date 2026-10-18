@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Forms"
+msgstr "Formularze"
+
+msgid "Fields"
+msgstr "Pola"
+
+msgid "Public form"
+msgstr "Formularz publiczny"
+
+msgid "Submissions per hour"
+msgstr "Zgłoszenia na godzinę"
+
+msgid "Retention (days)"
+msgstr "Przechowywanie (dni)"
+
+msgid "Form"
+msgstr "Formularz"
+
+msgid "Received."
+msgstr "Odebrano."
+
+msgid "View submissions"
+msgstr "Zobacz zgłoszenia"
+
+msgid "Complete required fields."
+msgstr "Wypełnij wymagane pola."
+
+msgid "Invalid value."
+msgstr "Nieprawidłowa wartość."
+
+msgid "Collect and manage website form submissions."
+msgstr "Zbieraj i zarządzaj zgłoszeniami z formularzy."

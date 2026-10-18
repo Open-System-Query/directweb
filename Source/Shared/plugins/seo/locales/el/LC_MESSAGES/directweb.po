@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Generate on publish"
+msgstr "Δημιουργία κατά τη δημοσίευση"
+
+msgid "Scan"
+msgstr "Σάρωση"
+
+msgid "Create sitemap"
+msgstr "Δημιουργία χάρτη ιστότοπου"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Ελέγξτε τα μεταδεδομένα και δημιουργήστε χάρτες ιστότοπου και robots.txt."

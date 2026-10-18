@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Databases"
+msgstr "Databases"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "Export"
+msgstr "Exporteren"
+
+msgid "Tables"
+msgstr "Tabellen"
+
+msgid "Import SQL"
+msgstr "SQL importeren"
+
+msgid "Create database"
+msgstr "Database maken"
+
+msgid "Enable PDO MySQL."
+msgstr "Schakel PDO MySQL in."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "Beheer MySQL-databases, imports en exports."

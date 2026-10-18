@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Надсилайте коди перевірки та сповіщення через SMTP."
+
+msgid "Outgoing email"
+msgstr "Вихідна електронна пошта"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Надсилає коди перевірки та сповіщення плагінів через постачальника SMTP."
+
+msgid "Ready"
+msgstr "Готово"
+
+msgid "Not configured"
+msgstr "Не налаштовано"
+
+msgid "Usage"
+msgstr "Використання"
+
+msgid "Accounts using email 2FA"
+msgstr "Облікові записи, що використовують електронну пошту 2FA"
+
+msgid "Email notification rules"
+msgstr "Правила сповіщень електронною поштою"
+
+msgid "Send email"
+msgstr "Надіслати електронний лист"
+
+msgid "SMTP connection"
+msgstr "SMTP-з'єднання"
+
+msgid "Test email"
+msgstr "Тестовий лист"
+
+msgid "Recipient"
+msgstr "Одержувач"
+
+msgid "DirectWeb test email"
+msgstr "Тестовий електронний лист DirectWeb"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb може надсилати електронні листи через постачальника SMTP."
+
+msgid "Test email sent."
+msgstr "Тестовий електронний лист надіслано."
+
+msgid "Test email sent to %s."
+msgstr "Тестовий електронний лист надіслано на адресу %s."
+
+msgid "Configured, untested"
+msgstr "Налаштовано, не перевірено"
+
+msgid "Successfully tested"
+msgstr "Успішно протестовано"
+
+msgid "Last send failed"
+msgstr "Останнє надсилання не вдалося"
+
+msgid "Last successful send"
+msgstr "Останнє успішне надсилання"
+
+msgid "Last failure"
+msgstr "Остання помилка"
+
+msgid "SMTP authentication failed."
+msgstr "Помилка автентифікації SMTP."
+
+msgid "SMTP connection failed."
+msgstr "Помилка з’єднання SMTP."
+
+msgid "SMTP server rejected the message."
+msgstr "Сервер SMTP відхилив повідомлення."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP-сервер тимчасово недоступний."

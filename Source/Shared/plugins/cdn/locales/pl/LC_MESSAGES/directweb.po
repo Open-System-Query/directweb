@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Cloudflare zone ID"
+msgstr "ID strefy Cloudflare"
+
+msgid "API token"
+msgstr "Token API"
+
+msgid "Purge after publish"
+msgstr "Wyczyść po publikacji"
+
+msgid "URLs (empty = all)"
+msgstr "Adresy URL (puste = wszystkie)"
+
+msgid "Rule (JSON)"
+msgstr "Reguła (JSON)"
+
+msgid "Purge cache"
+msgstr "Wyczyść pamięć podręczną"
+
+msgid "Cache rules"
+msgstr "Reguły pamięci podręcznej"
+
+msgid "Save cache rule"
+msgstr "Zapisz regułę pamięci podręcznej"
+
+msgid "Manage Cloudflare caching and cache clearing."
+msgstr "Zarządzaj pamięcią podręczną Cloudflare i jej czyszczeniem."

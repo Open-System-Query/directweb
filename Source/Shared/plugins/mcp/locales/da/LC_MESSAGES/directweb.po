@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Adgang"
+
+msgid "Access denied."
+msgstr "Adgang nægtet."
+
+msgid "Access token"
+msgstr "Adgangstoken"
+
+msgid "Allow"
+msgstr "Tillad"
+
+msgid "Cancel"
+msgstr "Annuller"
+
+msgid "Client ID"
+msgstr "Klient-ID"
+
+msgid "Clients"
+msgstr "Klienter"
+
+msgid "Connection"
+msgstr "Forbindelse"
+
+msgid "Create"
+msgstr "Opret"
+
+msgid "Create access"
+msgstr "Opret adgang"
+
+msgid "Days"
+msgstr "Dage"
+
+msgid "Expires"
+msgstr "Udløber"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Filen er for stor til MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Giv adgang"
+
+msgid "Invalid OAuth request."
+msgstr "Ugyldig OAuth-anmodning."
+
+msgid "Invalid input or action failed."
+msgstr "Ugyldig indtastning, eller handlingen mislykkedes."
+
+msgid "Invalid permissions."
+msgstr "Ugyldige rettigheder."
+
+msgid "Invalid redirect URL."
+msgstr "Ugyldig omdirigerings-URL."
+
+msgid "Last used"
+msgstr "Sidst brugt"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "No websites available."
+msgstr "Ingen websteder er tilgængelige."
+
+msgid "Not a text file."
+msgstr "Ikke en tekstfil."
+
+msgid "Not found."
+msgstr "Ikke fundet."
+
+msgid "OAuth client"
+msgstr "OAuth-klient"
+
+msgid "Publish"
+msgstr "Udgiv"
+
+msgid "Read and publish websites."
+msgstr "Læs og udgiv websteder."
+
+msgid "Read websites."
+msgstr "Læs websteder."
+
+msgid "Redirect URL"
+msgstr "Omdirigerings-URL"
+
+msgid "Register"
+msgstr "Registrer"
+
+msgid "Request expired."
+msgstr "Anmodningen er udløbet."
+
+msgid "Revoke"
+msgstr "Tilbagekald"
+
+msgid "Save this token. It is shown once."
+msgstr "Gem dette token. Det vises kun én gang."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Unknown OAuth client."
+msgstr "Ukendt OAuth-klient."
+
+msgid "Unknown tool."
+msgstr "Ukendt værktøj."
+
+msgid "Website"
+msgstr "Websted"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Tilslut AI-assistenter med afgrænset adgang."
+
+msgid "Never expires"
+msgstr "Udløber aldrig"
+
+msgid "Never"
+msgstr "Aldrig"
+
+msgid "Show"
+msgstr "Vis"
+
+msgid "Hide"
+msgstr "Skjul"
+
+msgid "Copy"
+msgstr "Kopiér"
+
+msgid "Copied"
+msgstr "Kopieret"
+
+msgid "Expiry"
+msgstr "Udløb"
+
+msgid "Replace token"
+msgstr "Erstat token"
+
+msgid "Replace"
+msgstr "Erstat"
+
+msgid "Managed by OAuth."
+msgstr "Administreres af OAuth."
+
+msgid "Invalid duration."
+msgstr "Ugyldig varighed."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Erstat dette token for at aktivere Vis og Kopiér."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Det nuværende token holder op med at virke. Opdater derefter din forbindelse."
+
+msgid "Connection URL"
+msgstr "Forbindelses-URL"

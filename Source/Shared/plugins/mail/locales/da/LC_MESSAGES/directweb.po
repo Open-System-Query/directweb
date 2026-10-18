@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Send bekræftelseskoder og notifikationer via SMTP."
+
+msgid "Outgoing email"
+msgstr "Udgående e-mail"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Sender bekræftelseskoder og udvidelsesnotifikationer via din SMTP-udbyder."
+
+msgid "Ready"
+msgstr "Klar"
+
+msgid "Not configured"
+msgstr "Ikke konfigureret"
+
+msgid "Usage"
+msgstr "Brug"
+
+msgid "Accounts using email 2FA"
+msgstr "Konti med e-mail-2FA"
+
+msgid "Email notification rules"
+msgstr "Regler for e-mailnotifikationer"
+
+msgid "Send email"
+msgstr "Send e-mail"
+
+msgid "SMTP connection"
+msgstr "SMTP-forbindelse"
+
+msgid "Test email"
+msgstr "Testmail"
+
+msgid "Recipient"
+msgstr "Modtager"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb-testmail"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb kan sende e-mail via din SMTP-udbyder."
+
+msgid "Test email sent."
+msgstr "Testmail sendt."
+
+msgid "Test email sent to %s."
+msgstr "Testmail sendt til %s."
+
+msgid "Configured, untested"
+msgstr "Konfigureret, ikke testet"
+
+msgid "Successfully tested"
+msgstr "Testet med succes"
+
+msgid "Last send failed"
+msgstr "Seneste afsendelse mislykkedes"
+
+msgid "Last successful send"
+msgstr "Seneste vellykkede afsendelse"
+
+msgid "Last failure"
+msgstr "Seneste fejl"
+
+msgid "SMTP authentication failed."
+msgstr "SMTP-godkendelse mislykkedes."
+
+msgid "SMTP connection failed."
+msgstr "SMTP-forbindelsen mislykkedes."
+
+msgid "SMTP server rejected the message."
+msgstr "SMTP-serveren afviste beskeden."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP-serveren er midlertidigt utilgængelig."

@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nb\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remote Backups"
+msgstr "Eksterne sikkerhetskopier"
+
+msgid "S3 endpoint"
+msgstr "S3-endepunkt"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Access key"
+msgstr "Tilgangsnøkkel"
+
+msgid "Secret key"
+msgstr "Hemmelig nøkkel"
+
+msgid "Backup passphrase"
+msgstr "Passfrase for sikkerhetskopi"
+
+msgid "Copies to retain"
+msgstr "Kopier som beholdes"
+
+msgid "Backup limit (MB)"
+msgstr "Sikkerhetskopigrense (MB)"
+
+msgid "Upload new backups"
+msgstr "Last opp nye sikkerhetskopier"
+
+msgid "Object key"
+msgstr "Objektnøkkel"
+
+msgid "Upload latest backup"
+msgstr "Last opp siste sikkerhetskopi"
+
+msgid "Remote copies"
+msgstr "Eksterne kopier"
+
+msgid "Retrieve backup"
+msgstr "Hent sikkerhetskopi"
+
+msgid "Create a backup first."
+msgstr "Opprett en sikkerhetskopi først."
+
+msgid "Backup exceeds remote limit."
+msgstr "Sikkerhetskopien overskrider grensen for ekstern lagring."
+
+msgid "Backup decryption failed."
+msgstr "Dekryptering av sikkerhetskopien mislyktes."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Lagre krypterte sikkerhetskopier i S3-kompatibel lagring."

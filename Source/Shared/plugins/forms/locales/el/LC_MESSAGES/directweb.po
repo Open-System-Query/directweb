@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Forms"
+msgstr "Εντυπα"
+
+msgid "Fields"
+msgstr "Πεδία"
+
+msgid "Public form"
+msgstr "Δημόσια φόρμα"
+
+msgid "Submissions per hour"
+msgstr "Υποβολές ανά ώρα"
+
+msgid "Retention (days)"
+msgstr "Διατήρηση (ημέρες)"
+
+msgid "Form"
+msgstr "Φόρμα"
+
+msgid "Received."
+msgstr "Ελήφθη."
+
+msgid "View submissions"
+msgstr "Προβολή υποβολών"
+
+msgid "Complete required fields."
+msgstr "Συμπληρώστε τα υποχρεωτικά πεδία."
+
+msgid "Invalid value."
+msgstr "Μη έγκυρη τιμή."
+
+msgid "Collect and manage website form submissions."
+msgstr "Συλλέξτε και διαχειριστείτε τις υποβολές φόρμας ιστότοπου."

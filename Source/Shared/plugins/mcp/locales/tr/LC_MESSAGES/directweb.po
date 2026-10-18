@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Erişim"
+
+msgid "Access denied."
+msgstr "Erişim reddedildi."
+
+msgid "Access token"
+msgstr "Erişim belirteci"
+
+msgid "Allow"
+msgstr "İzin ver"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Client ID"
+msgstr "İstemci kimliği"
+
+msgid "Clients"
+msgstr "İstemciler"
+
+msgid "Connection"
+msgstr "Bağlantı"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "Create access"
+msgstr "Erişim oluştur"
+
+msgid "Days"
+msgstr "Günler"
+
+msgid "Expires"
+msgstr "Süresi doluyor"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Dosya MCP için çok büyük (256 KB)."
+
+msgid "Grant access"
+msgstr "Erişim izni ver"
+
+msgid "Invalid OAuth request."
+msgstr "Geçersiz OAuth isteği."
+
+msgid "Invalid input or action failed."
+msgstr "Geçersiz giriş veya işlem başarısız oldu."
+
+msgid "Invalid permissions."
+msgstr "Geçersiz izinler."
+
+msgid "Invalid redirect URL."
+msgstr "Geçersiz yönlendirme URL'si."
+
+msgid "Last used"
+msgstr "Son kullanılan"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "No websites available."
+msgstr "Web sitesi mevcut değil."
+
+msgid "Not a text file."
+msgstr "Bir metin dosyası değil."
+
+msgid "Not found."
+msgstr "Bulunamadı."
+
+msgid "OAuth client"
+msgstr "OAuth istemcisi"
+
+msgid "Publish"
+msgstr "Yayınla"
+
+msgid "Read and publish websites."
+msgstr "Web sitelerini okuyun ve yayınlayın."
+
+msgid "Read websites."
+msgstr "Web sitelerini okuyun."
+
+msgid "Redirect URL"
+msgstr "Yönlendirme URL'si"
+
+msgid "Register"
+msgstr "Kayıt ol"
+
+msgid "Request expired."
+msgstr "İsteğin süresi doldu."
+
+msgid "Revoke"
+msgstr "İptal Et"
+
+msgid "Save this token. It is shown once."
+msgstr "Bu belirteci kaydedin. Yalnızca bir kez gösterilir."
+
+msgid "Token"
+msgstr "Belirteç"
+
+msgid "Unknown OAuth client."
+msgstr "Bilinmeyen OAuth istemcisi."
+
+msgid "Unknown tool."
+msgstr "Bilinmeyen araç."
+
+msgid "Website"
+msgstr "Web sitesi"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Yapay zekâ asistanlarını sınırlı erişimle bağlayın."
+
+msgid "Never expires"
+msgstr "Süresi asla dolmaz"
+
+msgid "Never"
+msgstr "Hiçbir zaman"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "Copied"
+msgstr "Kopyalandı"
+
+msgid "Expiry"
+msgstr "Son kullanma tarihi"
+
+msgid "Replace token"
+msgstr "Belirteci değiştir"
+
+msgid "Replace"
+msgstr "Değiştir"
+
+msgid "Managed by OAuth."
+msgstr "OAuth tarafından yönetilir."
+
+msgid "Invalid duration."
+msgstr "Geçersiz süre."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Göster ve Kopyala’yı etkinleştirmek için bu belirteci değiştirin."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Geçerli belirteç çalışmayı durduracak. Ardından bağlantınızı güncelleyin."
+
+msgid "Connection URL"
+msgstr "Bağlantı URL'si"

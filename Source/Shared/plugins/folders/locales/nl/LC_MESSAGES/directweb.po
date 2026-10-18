@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nl\n"
+
+msgid "Folders"
+msgstr "Mappen"
+
+msgid "Folder"
+msgstr "Map"
+
+msgid "Add folder"
+msgstr "Map toevoegen"
+
+msgid "Server path"
+msgstr "Serverpad"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Subfolders"
+msgstr "Submappen"
+
+msgid "Rules"
+msgstr "Regels"
+
+msgid "Directory listing"
+msgstr "Mapinhoud tonen"
+
+msgid "Inherit"
+msgstr "Overnemen"
+
+msgid "On"
+msgstr "Aan"
+
+msgid "Selected IP addresses"
+msgstr "Geselecteerde IP-adressen"
+
+msgid "IP addresses"
+msgstr "IP-adressen"
+
+msgid "Current"
+msgstr "Huidig"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Choose a readable folder."
+msgstr "Kies een leesbare map."
+
+msgid "Choose a hosting folder."
+msgstr "Kies een hostingmap."
+
+msgid "Folder already added."
+msgstr "Map is al toegevoegd."
+
+msgid "Folder missing."
+msgstr "Map ontbreekt."
+
+msgid "Folder changed."
+msgstr "Map is gewijzigd."
+
+msgid "Symbolic links are not supported."
+msgstr "Symbolische links worden niet ondersteund."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb-mappen zijn beschermd."
+
+msgid "Folder is not writable."
+msgstr "Map is niet schrijfbaar."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Dit .htaccess-bestand kan niet worden beheerd."
+
+msgid "Check IP addresses."
+msgstr "Controleer de IP-adressen."
+
+msgid "File changed outside DirectWeb."
+msgstr "Bestand is buiten DirectWeb gewijzigd."
+
+msgid "Preview expired."
+msgstr "Voorbeeld is verlopen."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 en AllowOverride-rechten zijn vereist."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Deze regels gelden voor fysieke mappen die de webserver aanbiedt."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Beheer maptoegang, caching en foutpagina’s."

@@ -1,0 +1,1661 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nb\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "2FA / recovery code"
+msgstr "2FA / gjenopprettingskode"
+
+msgid "2FA enabled"
+msgstr "2FA aktivert"
+
+msgid "2FA is already enabled."
+msgstr "2FA er allerede aktivert."
+
+msgid "2FA required"
+msgstr "2FA kreves"
+
+msgid "Access"
+msgstr "Tilgang"
+
+msgid "Access denied."
+msgstr "Tilgang nektet."
+
+msgid "Access token"
+msgstr "Tilgangstoken"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Account created."
+msgstr "Konto opprettet."
+
+msgid "Account enabled"
+msgstr "Konto aktivert"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Action already exists."
+msgstr "Handlingen finnes allerede."
+
+msgid "Action failed."
+msgstr "Handlingen mislyktes."
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Activity"
+msgstr "Aktivitet"
+
+msgid "Add"
+msgstr "Legg til"
+
+msgid "Add this key to your authenticator."
+msgstr "Legg til nøkkelen i autentiseringsappen."
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Allow"
+msgstr "Tillat"
+
+msgid "Already installed."
+msgstr "Allerede installert."
+
+msgid "Available"
+msgstr "Tilgjengelig"
+
+msgid "Backup"
+msgstr "Sikkerhetskopi"
+
+msgid "Backup corrupted."
+msgstr "Sikkerhetskopien er skadet."
+
+msgid "Backup failed."
+msgstr "Sikkerhetskopiering mislyktes."
+
+msgid "Backup incomplete."
+msgstr "Sikkerhetskopien er ufullstendig."
+
+msgid "Backup missing."
+msgstr "Sikkerhetskopien mangler."
+
+msgid "Backup queued."
+msgstr "Sikkerhetskopiering lagt i kø."
+
+msgid "Backup too large."
+msgstr "Sikkerhetskopien er for stor."
+
+msgid "Backups"
+msgstr "Sikkerhetskopier"
+
+msgid "Blocked"
+msgstr "Blokkert"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Change is closed."
+msgstr "Endringen er lukket."
+
+msgid "Change not found."
+msgstr "Endringen ble ikke funnet."
+
+msgid "Change password"
+msgstr "Endre passord"
+
+msgid "Check account and password (12+ characters)."
+msgstr "Kontroller konto og passord (minst 12 tegn)."
+
+msgid "Check name and domain."
+msgstr "Kontroller navn og domene."
+
+msgid "Check name, email and password (12+ characters)."
+msgstr "Kontroller navn, e-post og passord (minst 12 tegn)."
+
+msgid "Check the input."
+msgstr "Kontroller inndataene."
+
+msgid "Check the password (12+ characters)."
+msgstr "Kontroller passordet (minst 12 tegn)."
+
+msgid "Choose a file."
+msgstr "Velg en fil."
+
+msgid "Choose a renderer."
+msgstr "Velg en renderer."
+
+msgid "Client ID"
+msgstr "Klient-ID"
+
+msgid "Clients"
+msgstr "Klienter"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid "Completed"
+msgstr "Fullført"
+
+msgid "Confirm"
+msgstr "Bekreft"
+
+msgid "Connection"
+msgstr "Tilkobling"
+
+msgid "Content"
+msgstr "Innhold"
+
+msgid "Continue"
+msgstr "Fortsett"
+
+msgid "Copy failed."
+msgstr "Kopiering mislyktes."
+
+msgid "Create"
+msgstr "Opprett"
+
+msgid "Create access"
+msgstr "Opprett tilgang"
+
+msgid "Create backup"
+msgstr "Opprett sikkerhetskopi"
+
+msgid "Create your administrator account."
+msgstr "Opprett administratorkontoen din."
+
+msgid "Current password"
+msgstr "Nåværende passord"
+
+msgid "Daily backup"
+msgstr "Daglig sikkerhetskopi"
+
+msgid "Database backup failed."
+msgstr "Sikkerhetskopiering av databasen mislyktes."
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Days"
+msgstr "Dager"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "Delete failed."
+msgstr "Sletting mislyktes."
+
+msgid "Delete file"
+msgstr "Slett fil"
+
+msgid "Destination must be empty."
+msgstr "Målet må være tomt."
+
+msgid "Disable"
+msgstr "Deaktiver"
+
+msgid "Disable the plugin first."
+msgstr "Deaktiver utvidelsen først."
+
+msgid "Domain"
+msgstr "Domene"
+
+msgid "Domain already exists."
+msgstr "Domenet finnes allerede."
+
+msgid "Download"
+msgstr "Last ned"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Nedlastingsgrense (0 = ubegrenset)"
+
+msgid "Downloads"
+msgstr "Nedlastinger"
+
+msgid "Duplicate file."
+msgstr "Duplikatfil."
+
+msgid "Duplicate filename."
+msgstr "Filnavnet finnes allerede."
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Editor"
+msgstr "Redaktør"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Enable"
+msgstr "Aktiver"
+
+msgid "Enable 2FA."
+msgstr "Aktiver 2FA."
+
+msgid "Entry point missing."
+msgstr "Startfilen mangler."
+
+msgid "Everything in its place."
+msgstr "Alt på sin plass."
+
+msgid "Expired"
+msgstr "Utløpt"
+
+msgid "Expires"
+msgstr "Utløper"
+
+msgid "Extensions"
+msgstr "Utvidelser"
+
+msgid "External backup failed."
+msgstr "Ekstern sikkerhetskopiering mislyktes."
+
+msgid "Extraction failed."
+msgstr "Utpakking mislyktes."
+
+msgid "Failed"
+msgstr "Mislyktes"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "File not found."
+msgstr "Filen ble ikke funnet."
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Filen er for stor for MCP (256 KB)."
+
+msgid "File too large."
+msgstr "Filen er for stor."
+
+msgid "File type not allowed: %s"
+msgstr "Filtypen er ikke tillatt: %s"
+
+msgid "File unavailable."
+msgstr "Filen er utilgjengelig."
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "General"
+msgstr "Generelt"
+
+msgid "Grant access"
+msgstr "Gi tilgang"
+
+msgid "HTTPS required."
+msgstr "HTTPS kreves."
+
+msgid "In use: %s"
+msgstr "I bruk: %s"
+
+msgid "Install"
+msgstr "Installer"
+
+msgid "Install / update"
+msgstr "Installer / oppdater"
+
+msgid "Install DirectWeb."
+msgstr "Installer DirectWeb."
+
+msgid "Install through the command line."
+msgstr "Installer via kommandolinjen."
+
+msgid "Install trusted plugins only."
+msgstr "Installer bare pålitelige utvidelser."
+
+msgid "Installation failed."
+msgstr "Installasjonen mislyktes."
+
+msgid "Invalid OAuth request."
+msgstr "Ugyldig OAuth-forespørsel."
+
+msgid "Invalid ZIP."
+msgstr "Ugyldig ZIP-fil."
+
+msgid "Invalid access."
+msgstr "Ugyldig tilgang."
+
+msgid "Invalid backup path."
+msgstr "Ugyldig sikkerhetskopisti."
+
+msgid "Invalid backup."
+msgstr "Ugyldig sikkerhetskopi."
+
+msgid "Invalid code."
+msgstr "Ugyldig kode."
+
+msgid "Invalid domain."
+msgstr "Ugyldig domene."
+
+msgid "Invalid file."
+msgstr "Ugyldig fil."
+
+msgid "Invalid filename."
+msgstr "Ugyldig filnavn."
+
+msgid "Invalid input or action failed."
+msgstr "Ugyldige inndata eller mislykket handling."
+
+msgid "Invalid key."
+msgstr "Ugyldig nøkkel."
+
+msgid "Invalid message."
+msgstr "Ugyldig melding."
+
+msgid "Invalid package."
+msgstr "Ugyldig pakke."
+
+msgid "Invalid password."
+msgstr "Ugyldig passord."
+
+msgid "Invalid path."
+msgstr "Ugyldig sti."
+
+msgid "Invalid permissions."
+msgstr "Ugyldige tillatelser."
+
+msgid "Invalid plugin."
+msgstr "Ugyldig utvidelse."
+
+msgid "Invalid preview domain."
+msgstr "Ugyldig forhåndsvisningsdomene."
+
+msgid "Invalid redirect URL."
+msgstr "Ugyldig omdirigeringsadresse."
+
+msgid "Invalid release."
+msgstr "Ugyldig versjon."
+
+msgid "Invalid request ID."
+msgstr "Ugyldig forespørsels-ID."
+
+msgid "Invalid role."
+msgstr "Ugyldig rolle."
+
+msgid "Invalid setting."
+msgstr "Ugyldig innstilling."
+
+msgid "Invalid storage."
+msgstr "Ugyldig lagring."
+
+msgid "Job"
+msgstr "Jobb"
+
+msgid "Job failed."
+msgstr "Jobben mislyktes."
+
+msgid "Job not found."
+msgstr "Jobben ble ikke funnet."
+
+msgid "Jobs"
+msgstr "Jobber"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Last active"
+msgstr "Sist aktiv"
+
+msgid "Last used"
+msgstr "Sist brukt"
+
+msgid "Link unavailable."
+msgstr "Lenken er utilgjengelig."
+
+msgid "Links not allowed."
+msgstr "Lenker er ikke tillatt."
+
+msgid "Live"
+msgstr "Publisert"
+
+msgid "Management"
+msgstr "Administrasjon"
+
+msgid "Message too large."
+msgstr "Meldingen er for stor."
+
+msgid "Method not allowed."
+msgstr "Metoden er ikke tillatt."
+
+msgid "Migration changed."
+msgstr "Migreringen er endret."
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Navigation"
+msgstr "Navigasjon"
+
+msgid "New password"
+msgstr "Nytt passord"
+
+msgid "Newer version required."
+msgstr "En nyere versjon kreves."
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "No extensions enabled."
+msgstr "Ingen utvidelser er aktivert."
+
+msgid "No items yet."
+msgstr "Ingen elementer ennå."
+
+msgid "No websites available."
+msgstr "Ingen nettsteder er tilgjengelige."
+
+msgid "Not a text file."
+msgstr "Ikke en tekstfil."
+
+msgid "Not found."
+msgstr "Ikke funnet."
+
+msgid "Not run yet."
+msgstr "Ikke kjørt ennå."
+
+msgid "OAuth client"
+msgstr "OAuth-klient"
+
+msgid "Off"
+msgstr "Av"
+
+msgid "Online"
+msgstr "På nett"
+
+msgid "Open"
+msgstr "Åpne"
+
+msgid "Open website"
+msgstr "Åpne nettsted"
+
+msgid "Overview"
+msgstr "Oversikt"
+
+msgid "Owner"
+msgstr "Eier"
+
+msgid "Package corrupted."
+msgstr "Pakken er skadet."
+
+msgid "Package incompatible."
+msgstr "Pakken er ikke kompatibel."
+
+msgid "Package too large."
+msgstr "Pakken er for stor."
+
+msgid "Page already exists."
+msgstr "Siden finnes allerede."
+
+msgid "Page expired."
+msgstr "Siden er utløpt."
+
+msgid "Page not found."
+msgstr "Siden ble ikke funnet."
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Password required."
+msgstr "Passord kreves."
+
+msgid "Perform this action?"
+msgstr "Utføre denne handlingen?"
+
+msgid "Pin"
+msgstr "Fest"
+
+msgid "Pinned"
+msgstr "Festet"
+
+msgid "Plugin file"
+msgstr "Utvidelsesfil"
+
+msgid "Plugin missing."
+msgstr "Utvidelsen mangler."
+
+msgid "Plugins"
+msgstr "Utvidelser"
+
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+msgid "Preview domain missing."
+msgstr "Forhåndsvisningsdomenet mangler."
+
+msgid "Preview expired."
+msgstr "Forhåndsvisningen er utløpt."
+
+msgid "Previous"
+msgstr "Forrige"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Protected"
+msgstr "Beskyttet"
+
+msgid "Prune old releases"
+msgstr "Rydd gamle versjoner"
+
+msgid "Publication failed."
+msgstr "Publiseringen mislyktes."
+
+msgid "Publish"
+msgstr "Publiser"
+
+msgid "Publish automatically"
+msgstr "Publiser automatisk"
+
+msgid "Queued"
+msgstr "I kø"
+
+msgid "Read and publish websites."
+msgstr "Les og publiser nettsteder."
+
+msgid "Read websites."
+msgstr "Les nettsteder."
+
+msgid "Reader"
+msgstr "Leser"
+
+msgid "Recent actions"
+msgstr "Siste handlinger"
+
+msgid "Recovery codes"
+msgstr "Gjenopprettingskoder"
+
+msgid "Redirect URL"
+msgstr "Omdirigeringsadresse"
+
+msgid "Register"
+msgstr "Registrer"
+
+msgid "Release changed."
+msgstr "Versjonen er endret."
+
+msgid "Release changed. Reopen the page."
+msgstr "Versjonen er endret. Åpne siden på nytt."
+
+msgid "Release corrupted."
+msgstr "Versjonen er skadet."
+
+msgid "Release not found."
+msgstr "Versjonen ble ikke funnet."
+
+msgid "Releases to retain"
+msgstr "Versjoner som beholdes"
+
+msgid "Renderer missing."
+msgstr "Rendereren mangler."
+
+msgid "Reopen Account."
+msgstr "Åpne Konto på nytt."
+
+msgid "Request conflict."
+msgstr "Forespørselskonflikt."
+
+msgid "Request expired."
+msgstr "Forespørselen er utløpt."
+
+msgid "Required: %s"
+msgstr "Påkrevd: %s"
+
+msgid "Restore"
+msgstr "Gjenopprett"
+
+msgid "Retained"
+msgstr "Beholdt"
+
+msgid "Retention"
+msgstr "Oppbevaring"
+
+msgid "Revoke"
+msgstr "Tilbakekall"
+
+msgid "Revoke other sessions"
+msgstr "Tilbakekall andre økter"
+
+msgid "Revoked"
+msgstr "Tilbakekalt"
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Running"
+msgstr "Kjører"
+
+msgid "Runs through the worker."
+msgstr "Kjøres av bakgrunnsprosessen."
+
+msgid "SPA routing"
+msgstr "SPA-ruting"
+
+msgid "Save"
+msgstr "Lagre"
+
+msgid "Save failed."
+msgstr "Lagring mislyktes."
+
+msgid "Save these codes. They are shown once."
+msgstr "Lagre kodene. De vises én gang."
+
+msgid "Save this token. It is shown once."
+msgstr "Lagre dette tokenet. Det vises én gang."
+
+msgid "Saved."
+msgstr "Lagret."
+
+msgid "Schedule"
+msgstr "Tidsplan"
+
+msgid "Security"
+msgstr "Sikkerhet"
+
+msgid "Session expired."
+msgstr "Økten er utløpt."
+
+msgid "Sessions"
+msgstr "Økter"
+
+msgid "Set up 2FA"
+msgstr "Sett opp 2FA"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Share"
+msgstr "Del"
+
+msgid "Share link"
+msgstr "Delingslenke"
+
+msgid "Shared"
+msgstr "Delt"
+
+msgid "Sharing"
+msgstr "Deling"
+
+msgid "Sharing storage (MB)"
+msgstr "Delingslagring (MB)"
+
+msgid "Sign in"
+msgstr "Logg inn"
+
+msgid "Sign in failed."
+msgstr "Innlogging mislyktes."
+
+msgid "Sign in required."
+msgstr "Innlogging kreves."
+
+msgid "Sign out"
+msgstr "Logg ut"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Skip to content"
+msgstr "Hopp til innhold"
+
+msgid "Started"
+msgstr "Startet"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Storage"
+msgstr "Lagring"
+
+msgid "Storage limit reached."
+msgstr "Lagringsgrensen er nådd."
+
+msgid "Storage unavailable."
+msgstr "Lagringen er utilgjengelig."
+
+msgid "System"
+msgstr "System"
+
+msgid "System busy."
+msgstr "Systemet er opptatt."
+
+msgid "Target"
+msgstr "Mål"
+
+msgid "Temporary password"
+msgstr "Midlertidig passord"
+
+msgid "This account cannot be changed."
+msgstr "Denne kontoen kan ikke endres."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Too many files."
+msgstr "For mange filer."
+
+msgid "Too many open changes."
+msgstr "For mange åpne endringer."
+
+msgid "Try again later."
+msgstr "Prøv igjen senere."
+
+msgid "Unavailable."
+msgstr "Utilgjengelig."
+
+msgid "Unknown OAuth client."
+msgstr "Ukjent OAuth-klient."
+
+msgid "Unknown action."
+msgstr "Ukjent handling."
+
+msgid "Unknown job."
+msgstr "Ukjent jobb."
+
+msgid "Unknown tool."
+msgstr "Ukjent verktøy."
+
+msgid "Unsupported component: %s"
+msgstr "Komponenten støttes ikke: %s"
+
+msgid "Until %s"
+msgstr "Til %s"
+
+msgid "Update failed."
+msgstr "Oppdateringen mislyktes."
+
+msgid "Upload"
+msgstr "Last opp"
+
+msgid "Upload failed."
+msgstr "Opplastingen mislyktes."
+
+msgid "Upload too large."
+msgstr "Opplastingen er for stor."
+
+msgid "Use"
+msgstr "Bruk"
+
+msgid "Use POST."
+msgstr "Bruk POST."
+
+msgid "User"
+msgstr "Bruker"
+
+msgid "User missing."
+msgstr "Brukeren mangler."
+
+msgid "Users"
+msgstr "Brukere"
+
+msgid "Version"
+msgstr "Versjon"
+
+msgid "Version name"
+msgstr "Versjonsnavn"
+
+msgid "Versions"
+msgstr "Versjoner"
+
+msgid "Website"
+msgstr "Nettsted"
+
+msgid "Website enabled"
+msgstr "Nettsted aktivert"
+
+msgid "Website file"
+msgstr "Nettstedsfil"
+
+msgid "Website management"
+msgstr "Nettstedsadministrasjon"
+
+msgid "Website not found."
+msgstr "Nettstedet ble ikke funnet."
+
+msgid "Website unavailable."
+msgstr "Nettstedet er utilgjengelig."
+
+msgid "Websites"
+msgstr "Nettsteder"
+
+msgid "Welcome to DirectWeb"
+msgstr "Velkommen til DirectWeb"
+
+msgid "Worker: %s"
+msgstr "Bakgrunnsprosess: %s"
+
+msgid "index.html missing."
+msgstr "index.html mangler."
+
+msgid "Username"
+msgstr "Brukernavn"
+
+msgid "Authenticator app"
+msgstr "Autentiseringsapp"
+
+msgid "Authenticator code"
+msgstr "Autentiseringskode"
+
+msgid "Authenticator QR code"
+msgstr "QR-kode for autentiseringsapp"
+
+msgid "Scan the QR code."
+msgstr "Skann QR-koden."
+
+msgid "Current 2FA / recovery code"
+msgstr "Nåværende 2FA / gjenopprettingskode"
+
+msgid "Recovery code"
+msgstr "Gjenopprettingskode"
+
+msgid "Verify"
+msgstr "Bekreft"
+
+msgid "Verified"
+msgstr "Bekreftet"
+
+msgid "Enabled"
+msgstr "Aktivert"
+
+msgid "Method"
+msgstr "Metode"
+
+msgid "Send code"
+msgstr "Send kode"
+
+msgid "Code sent."
+msgstr "Kode sendt."
+
+msgid "Verification code"
+msgstr "Bekreftelseskode"
+
+msgid "Mail"
+msgstr "E-post"
+
+msgid "Enable email"
+msgstr "Aktiver e-post"
+
+msgid "SMTP host"
+msgstr "SMTP-vert"
+
+msgid "SMTP username"
+msgstr "SMTP-brukernavn"
+
+msgid "SMTP password"
+msgstr "SMTP-passord"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Encryption"
+msgstr "Kryptering"
+
+msgid "Sender"
+msgstr "Avsender"
+
+msgid "Your verification code"
+msgstr "Din bekreftelseskode"
+
+msgid "Your code: %s"
+msgstr "Din kode: %s"
+
+msgid "Expires in 5 minutes."
+msgstr "Utløper om 5 minutter."
+
+msgid "Email-only users must add an authenticator first."
+msgstr "Brukere med bare e-post må først legge til en autentiseringsapp."
+
+msgid "Check SMTP settings."
+msgstr "Kontroller SMTP-innstillingene."
+
+msgid "SMTP encryption required."
+msgstr "SMTP-kryptering kreves."
+
+msgid "Email is not configured."
+msgstr "E-post er ikke konfigurert."
+
+msgid "Email delivery failed."
+msgstr "E-postlevering mislyktes."
+
+msgid "Email is not verified."
+msgstr "E-postadressen er ikke bekreftet."
+
+msgid "Invalid email address."
+msgstr "Ugyldig e-postadresse."
+
+msgid "Email already exists."
+msgstr "E-postadressen finnes allerede."
+
+msgid "Username already exists."
+msgstr "Brukernavnet finnes allerede."
+
+msgid "Check name, username and password (12+ characters)."
+msgstr "Kontroller navn, brukernavn og passord (minst 12 tegn)."
+
+msgid "Keep at least one available method."
+msgstr "Behold minst én tilgjengelig metode."
+
+msgid "Invalid request."
+msgstr "Ugyldig forespørsel."
+
+msgid "Account migration failed."
+msgstr "Kontomigrering mislyktes."
+
+msgid "Account backup failed."
+msgstr "Sikkerhetskopiering av kontoen mislyktes."
+
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+msgid "Add website"
+msgstr "Legg til nettsted"
+
+msgid "2FA off"
+msgstr "2FA av"
+
+msgid "Two-factor authentication"
+msgstr "Tofaktorautentisering"
+
+msgid "Mail settings"
+msgstr "E-postinnstillinger"
+
+msgid "Error"
+msgstr "Feil"
+
+msgid "Copied"
+msgstr "Kopiert"
+
+msgid "Copy link"
+msgstr "Kopier lenke"
+
+msgid "Upload progress"
+msgstr "Opplastingsfremdrift"
+
+msgid "Uploading"
+msgstr "Laster opp"
+
+msgid "Finishing"
+msgstr "Fullfører"
+
+msgid "Upload cancelled."
+msgstr "Opplasting avbrutt."
+
+msgid "File limit exceeded."
+msgstr "Filgrensen er overskredet."
+
+msgid "Transfer limit exceeded."
+msgstr "Overføringsgrensen er overskredet."
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Administration"
+msgstr "Administrasjon"
+
+msgid "Installed"
+msgstr "Installert"
+
+msgid "Appearance"
+msgstr "Utseende"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "Plugin"
+msgstr "Utvidelse"
+
+msgid "In use"
+msgstr "I bruk"
+
+msgid "Choose another renderer first."
+msgstr "Velg en annen renderer først."
+
+msgid "Disable to delete."
+msgstr "Deaktiver for å slette."
+
+msgid "Hosting"
+msgstr "Hosting"
+
+msgid "Environment"
+msgstr "Miljø"
+
+msgid "Requirements"
+msgstr "Krav"
+
+msgid "Setting"
+msgstr "Innstilling"
+
+msgid "Value"
+msgstr "Verdi"
+
+msgid "Installation key"
+msgstr "Installasjonsnøkkel"
+
+msgid "Invalid installation key."
+msgstr "Ugyldig installasjonsnøkkel."
+
+msgid "Read the key in storage/database/setup.key using your hosting file manager."
+msgstr "Les nøkkelen i storage/database/setup.key med filbehandleren på webhotellet."
+
+msgid "Apache rewrite rules and HTTPS are required for the upload package."
+msgstr "Apache-omskrivingsregler og HTTPS kreves for opplastingspakken."
+
+msgid "Additional domains must point to this installation."
+msgstr "Ekstra domener må peke til denne installasjonen."
+
+msgid "Scheduled jobs require a hosting cron task."
+msgstr "Planlagte jobber krever en cron-oppgave på webhotellet."
+
+msgid "Actions"
+msgstr "Handlinger"
+
+msgid "Add user"
+msgstr "Legg til bruker"
+
+msgid "Add file"
+msgstr "Legg til fil"
+
+msgid "Edit file"
+msgstr "Rediger fil"
+
+msgid "Delete data"
+msgstr "Slett data"
+
+msgid "Install plugin"
+msgstr "Installer utvidelse"
+
+msgid "Import backup"
+msgstr "Importer sikkerhetskopi"
+
+msgid "Backup file"
+msgstr "Sikkerhetskopifil"
+
+msgid "Current release"
+msgstr "Nåværende versjon"
+
+msgid "Earlier release"
+msgstr "Tidligere versjon"
+
+msgid "Later release"
+msgstr "Senere versjon"
+
+msgid "Source release"
+msgstr "Kildeversjon"
+
+msgid "Target website"
+msgstr "Målnettsted"
+
+msgid "Publish target"
+msgstr "Publiser mål"
+
+msgid "Publish release"
+msgstr "Publiser versjon"
+
+msgid "Redirects"
+msgstr "Omdirigeringer"
+
+msgid "Revisions"
+msgstr "Revisjoner"
+
+msgid "Staging"
+msgstr "Testmiljø"
+
+msgid "Forms"
+msgstr "Skjemaer"
+
+msgid "Deploy"
+msgstr "Distribuer"
+
+msgid "Monitor"
+msgstr "Overvåking"
+
+msgid "Media"
+msgstr "Medier"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Statistics"
+msgstr "Statistikk"
+
+msgid "Tasks"
+msgstr "Oppgaver"
+
+msgid "Notifications"
+msgstr "Varsler"
+
+msgid "Remote Backups"
+msgstr "Eksterne sikkerhetskopier"
+
+msgid "Databases"
+msgstr "Databaser"
+
+msgid "Hosting Connector"
+msgstr "Hostingtilkobling"
+
+msgid "From"
+msgstr "Fra"
+
+msgid "To"
+msgstr "Til"
+
+msgid "Content file"
+msgstr "Innholdsfil"
+
+msgid "Fields (JSON)"
+msgstr "Felter (JSON)"
+
+msgid "Template"
+msgstr "Mal"
+
+msgid "Output file"
+msgstr "Utdatafil"
+
+msgid "Generate on publish"
+msgstr "Generer ved publisering"
+
+msgid "Public search"
+msgstr "Offentlig søk"
+
+msgid "Results"
+msgstr "Resultater"
+
+msgid "Source file"
+msgstr "Kildefil"
+
+msgid "Width"
+msgstr "Bredde"
+
+msgid "Height"
+msgstr "Høyde"
+
+msgid "Crop"
+msgstr "Beskjær"
+
+msgid "Quality"
+msgstr "Kvalitet"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Fields"
+msgstr "Felter"
+
+msgid "Public form"
+msgstr "Offentlig skjema"
+
+msgid "Submissions per hour"
+msgstr "Innsendinger per time"
+
+msgid "Retention (days)"
+msgstr "Oppbevaring (dager)"
+
+msgid "Form"
+msgstr "Skjema"
+
+msgid "Received."
+msgstr "Mottatt."
+
+msgid "Artifact URL"
+msgstr "Artefakt-URL"
+
+msgid "Artifact token"
+msgstr "Artefakttoken"
+
+msgid "Provider"
+msgstr "Leverandør"
+
+msgid "Webhook secret"
+msgstr "Webhook-hemmelighet"
+
+msgid "Branch"
+msgstr "Gren"
+
+msgid "Interval (minutes)"
+msgstr "Intervall (minutter)"
+
+msgid "Expected status"
+msgstr "Forventet status"
+
+msgid "Certificate warning (days)"
+msgstr "Sertifikatvarsel (dager)"
+
+msgid "Task"
+msgstr "Oppgave"
+
+msgid "Release ID"
+msgstr "Versjons-ID"
+
+msgid "Start (UTC)"
+msgstr "Start (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Gjenta (minutter, 0 = én gang)"
+
+msgid "Prune releases"
+msgstr "Rydd versjoner"
+
+msgid "Event"
+msgstr "Hendelse"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "S3 endpoint"
+msgstr "S3-endepunkt"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Access key"
+msgstr "Tilgangsnøkkel"
+
+msgid "Secret key"
+msgstr "Hemmelig nøkkel"
+
+msgid "Backup passphrase"
+msgstr "Passfrase for sikkerhetskopi"
+
+msgid "Copies to retain"
+msgstr "Kopier som beholdes"
+
+msgid "Backup limit (MB)"
+msgstr "Sikkerhetskopigrense (MB)"
+
+msgid "Upload new backups"
+msgstr "Last opp nye sikkerhetskopier"
+
+msgid "Object key"
+msgstr "Objektnøkkel"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-sone-ID"
+
+msgid "API token"
+msgstr "API-token"
+
+msgid "Record ID"
+msgstr "Post-ID"
+
+msgid "Record ID (optional)"
+msgstr "Post-ID (valgfritt)"
+
+msgid "Records (JSON)"
+msgstr "Poster (JSON)"
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Purge after publish"
+msgstr "Tøm etter publisering"
+
+msgid "URLs (empty = all)"
+msgstr "URL-er (tomt = alle)"
+
+msgid "Rule (JSON)"
+msgstr "Regel (JSON)"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Host"
+msgstr "Vert"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Innloggingsnøkkel"
+
+msgid "Bandwidth (MB)"
+msgstr "Båndbredde (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disk (MB)"
+
+msgid "Mailbox"
+msgstr "Postkasse"
+
+msgid "Quota (MB)"
+msgstr "Kvote (MB)"
+
+msgid "Details"
+msgstr "Detaljer"
+
+msgid "Export"
+msgstr "Eksporter"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Close"
+msgstr "Lukk"
+
+msgid "Delete record"
+msgstr "Slett post"
+
+msgid "Save record"
+msgstr "Lagre post"
+
+msgid "Records"
+msgstr "Poster"
+
+msgid "Import records"
+msgstr "Importer poster"
+
+msgid "Purge cache"
+msgstr "Tøm hurtigbuffer"
+
+msgid "Cache rules"
+msgstr "Hurtigbufferregler"
+
+msgid "Save cache rule"
+msgstr "Lagre hurtigbufferregel"
+
+msgid "Tables"
+msgstr "Tabeller"
+
+msgid "Import SQL"
+msgstr "Importer SQL"
+
+msgid "Create database"
+msgstr "Opprett database"
+
+msgid "Domains"
+msgstr "Domener"
+
+msgid "Add domain"
+msgstr "Legg til domene"
+
+msgid "Mailboxes"
+msgstr "Postkasser"
+
+msgid "Add mailbox"
+msgstr "Legg til postkasse"
+
+msgid "Certificates"
+msgstr "Sertifikater"
+
+msgid "Hosting settings"
+msgstr "Hostinginnstillinger"
+
+msgid "Compare"
+msgstr "Sammenlign"
+
+msgid "Copy release"
+msgstr "Kopier versjon"
+
+msgid "Scan"
+msgstr "Skann"
+
+msgid "Create sitemap"
+msgstr "Opprett nettstedskart"
+
+msgid "Build index"
+msgstr "Bygg indeks"
+
+msgid "Convert"
+msgstr "Konverter"
+
+msgid "View submissions"
+msgstr "Vis innsendinger"
+
+msgid "Check now"
+msgstr "Kontroller nå"
+
+msgid "History"
+msgstr "Historikk"
+
+msgid "Run now"
+msgstr "Kjør nå"
+
+msgid "View report"
+msgstr "Vis rapport"
+
+msgid "Inbox"
+msgstr "Innboks"
+
+msgid "Send test"
+msgstr "Send test"
+
+msgid "Upload latest backup"
+msgstr "Last opp siste sikkerhetskopi"
+
+msgid "Remote copies"
+msgstr "Eksterne kopier"
+
+msgid "Retrieve backup"
+msgstr "Hent sikkerhetskopi"
+
+msgid "Index files"
+msgstr "Indeksfiler"
+
+msgid "403 page"
+msgstr "403-side"
+
+msgid "404 page"
+msgstr "404-side"
+
+msgid "500 page"
+msgstr "500-side"
+
+msgid "Cache"
+msgstr "Hurtigbuffer"
+
+msgid "Password protection"
+msgstr "Passordbeskyttelse"
+
+msgid "Hour"
+msgstr "Time"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Week"
+msgstr "Uke"
+
+msgid "Download notifications"
+msgstr "Nedlastingsvarsler"
+
+msgid "Download ZIP"
+msgstr "Last ned ZIP"
+
+msgid "File requests"
+msgstr "Filforespørsler"
+
+msgid "Add request"
+msgstr "Legg til forespørsel"
+
+msgid "Request"
+msgstr "Forespørsel"
+
+msgid "Requests"
+msgstr "Forespørsler"
+
+msgid "Expiry"
+msgstr "Utløp"
+
+msgid "Endpoint"
+msgstr "Endepunkt"
+
+msgid "Permissions"
+msgstr "Tillatelser"
+
+msgid "Tokens"
+msgstr "Tokener"
+
+msgid "Client"
+msgstr "Klient"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "Updated"
+msgstr "Oppdatert"
+
+msgid "Field"
+msgstr "Felt"
+
+msgid "Data is retained."
+msgstr "Data beholdes."
+
+msgid "A backup is created first."
+msgstr "En sikkerhetskopi opprettes først."
+
+msgid "Current data is backed up before restoration."
+msgstr "Nåværende data sikkerhetskopieres før gjenoppretting."
+
+msgid "Restore queued. Sign in again after completion."
+msgstr "Gjenoppretting lagt i kø. Logg inn igjen når den er ferdig."
+
+msgid "Add a website first."
+msgstr "Legg til et nettsted først."
+
+msgid "Complete required fields."
+msgstr "Fyll ut obligatoriske felter."
+
+msgid "Record changed. Reopen the page."
+msgstr "Posten er endret. Åpne siden på nytt."
+
+msgid "Record not found."
+msgstr "Posten ble ikke funnet."
+
+msgid "Record changed."
+msgstr "Posten er endret."
+
+msgid "Invalid value."
+msgstr "Ugyldig verdi."
+
+msgid "Value out of range."
+msgstr "Verdien er utenfor området."
+
+msgid "Choose a website."
+msgstr "Velg et nettsted."
+
+msgid "Choose another website."
+msgstr "Velg et annet nettsted."
+
+msgid "Action unavailable."
+msgstr "Handlingen er utilgjengelig."
+
+msgid "Operation not granted."
+msgstr "Handlingen er ikke tillatt."
+
+msgid "Read only."
+msgstr "Skrivebeskyttet."
+
+msgid "Redirect loop."
+msgstr "Omdirigeringssløyfe."
+
+msgid "Redirect already exists."
+msgstr "Omdirigeringen finnes allerede."
+
+msgid "Connection failed."
+msgstr "Tilkoblingen mislyktes."
+
+msgid "Connection timed out."
+msgstr "Tilkoblingen ble tidsavbrutt."
+
+msgid "Enable the GD extension."
+msgstr "Aktiver GD-utvidelsen."
+
+msgid "Enable the DOM extension."
+msgstr "Aktiver DOM-utvidelsen."
+
+msgid "Enable PDO MySQL."
+msgstr "Aktiver PDO MySQL."
+
+msgid "Create a backup first."
+msgstr "Opprett en sikkerhetskopi først."
+
+msgid "Backup exceeds remote limit."
+msgstr "Sikkerhetskopien overskrider grensen for ekstern lagring."
+
+msgid "Backup decryption failed."
+msgstr "Dekryptering av sikkerhetskopien mislyktes."
+
+msgid "Use an HTTPS URL."
+msgstr "Bruk en HTTPS-adresse."
+
+msgid "Invalid JSON."
+msgstr "Ugyldig JSON."
+
+msgid "Token already shown."
+msgstr "Tokenet er allerede vist."
+
+msgid "Token missing."
+msgstr "Token mangler."
+
+msgid "Client missing."
+msgstr "Klienten mangler."
+
+msgid "Edit content"
+msgstr "Rediger innhold"
+
+msgid "Request certificate"
+msgstr "Be om sertifikat"
+
+msgid "Change hosting setting"
+msgstr "Endre hostinginnstilling"
+
+msgid "Hosting settings unavailable."
+msgstr "Hostinginnstillinger er utilgjengelige."
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Disable email 2FA before removing the authenticator."
+msgstr "Deaktiver e-post-2FA før du fjerner autentiseringsappen."
+
+msgid "Draft"
+msgstr "Utkast"
+
+msgid "Replace current data"
+msgstr "Erstatt nåværende data"
+
+msgid "Confirm restoration."
+msgstr "Bekreft gjenoppretting."
+
+msgid "Backup in use."
+msgstr "Sikkerhetskopien er i bruk."
+
+msgid "Delete backup"
+msgstr "Slett sikkerhetskopi"
+
+msgid "Scheduled"
+msgstr "Planlagt"
+
+msgid "Publishing"
+msgstr "Publisering"
+
+msgid "Change website"
+msgstr "Bytt nettsted"
+
+msgid "HTML website manager"
+msgstr "HTML-nettstedsbehandler"
+
+msgid "Import existing versions. Original files remain available."
+msgstr "Importer eksisterende versjoner. Originalfilene beholdes."
+
+msgid "Manage accounts and security in WordPress."
+msgstr "Administrer kontoer og sikkerhet i WordPress."
+
+msgid "Background jobs use WordPress cron."
+msgstr "Bakgrunnsjobber bruker WordPress cron."
+
+msgid "Choose a published website on this domain."
+msgstr "Velg et publisert nettsted på dette domenet."
+
+msgid "Plugin management is disabled in WordPress."
+msgstr "Utvidelsesadministrasjon er deaktivert i WordPress."
+
+msgid "Preview unavailable."
+msgstr "Forhåndsvisningen er utilgjengelig."

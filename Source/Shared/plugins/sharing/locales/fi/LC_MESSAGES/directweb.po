@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Pääsy estetty."
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgid "Check the input."
+msgstr "Tarkista syöte."
+
+msgid "Days"
+msgstr "Päivää"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Latausraja (0 = rajaton)"
+
+msgid "Downloads"
+msgstr "Lataukset"
+
+msgid "Expired"
+msgstr "Vanhentunut"
+
+msgid "Expires"
+msgstr "Vanhenee"
+
+msgid "File not found."
+msgstr "Tiedostoa ei löytynyt."
+
+msgid "File unavailable."
+msgstr "Tiedosto ei ole saatavilla."
+
+msgid "Files"
+msgstr "Tiedostot"
+
+msgid "Invalid filename."
+msgstr "Virheellinen tiedostonimi."
+
+msgid "Invalid password."
+msgstr "Virheellinen salasana."
+
+msgid "Link unavailable."
+msgstr "Linkki ei ole saatavilla."
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Password required."
+msgstr "Salasana vaaditaan."
+
+msgid "Revoke"
+msgstr "Peru käyttöoikeus"
+
+msgid "Revoked"
+msgstr "Peruttu"
+
+msgid "Save failed."
+msgstr "Tallennus epäonnistui."
+
+msgid "Share"
+msgstr "Jaa"
+
+msgid "Share link"
+msgstr "Jakolinkki"
+
+msgid "Shared"
+msgstr "Jaettu"
+
+msgid "Sharing"
+msgstr "Jakaminen"
+
+msgid "Status"
+msgstr "Tila"
+
+msgid "Storage limit reached."
+msgstr "Tallennustilan raja saavutettu."
+
+msgid "Upload failed."
+msgstr "Lähetys epäonnistui."
+
+msgid "File transfer"
+msgstr "Tiedostonsiirto"
+
+msgid "Receive"
+msgstr "Vastaanota"
+
+msgid "Send"
+msgstr "Lähetä"
+
+msgid "Code"
+msgstr "Koodi"
+
+msgid "Send files"
+msgstr "Lähetä tiedostoja"
+
+msgid "Sign in to upload files."
+msgstr "Kirjaudu sisään lähettääksesi tiedostoja."
+
+msgid "Used"
+msgstr "Käytetty"
+
+msgid "Per file"
+msgstr "Tiedostoa kohden"
+
+msgid "Per transfer"
+msgstr "Siirtoa kohden"
+
+msgid "Transfers"
+msgstr "Siirrot"
+
+msgid "Transfer"
+msgstr "Siirto"
+
+msgid "Manage"
+msgstr "Hallitse"
+
+msgid "Portal"
+msgstr "Portaali"
+
+msgid "Open portal"
+msgstr "Avaa portaali"
+
+msgid "Sharing settings"
+msgstr "Jakoasetukset"
+
+msgid "Limits"
+msgstr "Rajat"
+
+msgid "Public portal"
+msgstr "Julkinen portaali"
+
+msgid "Guest uploads"
+msgstr "Vierailijoiden lähetykset"
+
+msgid "Require download password"
+msgstr "Vaadi lataussalasana"
+
+msgid "File limit (MB)"
+msgstr "Tiedostoraja (Mt)"
+
+msgid "Transfer limit (MB)"
+msgstr "Siirtoraja (Mt)"
+
+msgid "Storage limit (MB)"
+msgstr "Tallennusraja (Mt)"
+
+msgid "Files per transfer"
+msgstr "Tiedostoja siirtoa kohden"
+
+msgid "Default expiry (hours)"
+msgstr "Oletusvoimassaolo (tuntia)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Enimmäisvoimassaolo (tuntia)"
+
+msgid "Uploads per hour per IP"
+msgstr "Lähetyksiä tunnissa per IP"
+
+msgid "Expires in (hours)"
+msgstr "Vanhenee (tunnin kuluttua)"
+
+msgid "Download password"
+msgstr "Lataussalasana"
+
+msgid "Check sharing limits."
+msgstr "Tarkista jakorajat."
+
+msgid "Check transfer settings."
+msgstr "Tarkista siirtoasetukset."
+
+msgid "Upload expired."
+msgstr "Lähetys on vanhentunut."
+
+msgid "Invalid upload chunk."
+msgstr "Virheellinen lähetyslohko."
+
+msgid "Upload position changed."
+msgstr "Lähetyksen sijainti on muuttunut."
+
+msgid "Upload too large."
+msgstr "Lähetys on liian suuri."
+
+msgid "Upload incomplete."
+msgstr "Lähetys on puutteellinen."
+
+msgid "Share files with short links and upload requests."
+msgstr "Jaa tiedostoja lyhyillä linkeillä ja lähetyspyynnöillä."

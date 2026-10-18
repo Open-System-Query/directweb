@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Publish release"
+msgstr "Публикуване на версия"
+
+msgid "Tasks"
+msgstr "Задачи"
+
+msgid "Task"
+msgstr "Задача"
+
+msgid "Release ID"
+msgstr "ID на версия"
+
+msgid "Start (UTC)"
+msgstr "Начало (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Повторение (минути, 0 = веднъж)"
+
+msgid "Prune releases"
+msgstr "Почистване на версии"
+
+msgid "Run now"
+msgstr "Изпълнение сега"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Планирайте публикуване, архивиране и почистване на версията."

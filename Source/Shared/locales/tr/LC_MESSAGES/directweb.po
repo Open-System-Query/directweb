@@ -1,0 +1,1661 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "2FA / recovery code"
+msgstr "2FA / kurtarma kodu"
+
+msgid "2FA enabled"
+msgstr "2FA etkin"
+
+msgid "2FA is already enabled."
+msgstr "2FA zaten etkin."
+
+msgid "2FA required"
+msgstr "2FA gerekli"
+
+msgid "Access"
+msgstr "Erişim"
+
+msgid "Access denied."
+msgstr "Erişim reddedildi."
+
+msgid "Access token"
+msgstr "Erişim belirteci"
+
+msgid "Account"
+msgstr "Hesap"
+
+msgid "Account created."
+msgstr "Hesap oluşturuldu."
+
+msgid "Account enabled"
+msgstr "Hesap etkin"
+
+msgid "Action"
+msgstr "İşlem"
+
+msgid "Action already exists."
+msgstr "İşlem zaten var."
+
+msgid "Action failed."
+msgstr "İşlem başarısız."
+
+msgid "Active"
+msgstr "Etkin"
+
+msgid "Activity"
+msgstr "Etkinlik"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Add this key to your authenticator."
+msgstr "Bu anahtarı doğrulama uygulamanıza ekleyin."
+
+msgid "Administrator"
+msgstr "Yönetici"
+
+msgid "Allow"
+msgstr "İzin ver"
+
+msgid "Already installed."
+msgstr "Zaten kurulu."
+
+msgid "Available"
+msgstr "Kullanılabilir"
+
+msgid "Backup"
+msgstr "Yedek"
+
+msgid "Backup corrupted."
+msgstr "Yedek bozuk."
+
+msgid "Backup failed."
+msgstr "Yedekleme başarısız."
+
+msgid "Backup incomplete."
+msgstr "Yedek eksik."
+
+msgid "Backup missing."
+msgstr "Yedek bulunamadı."
+
+msgid "Backup queued."
+msgstr "Yedekleme sıraya alındı."
+
+msgid "Backup too large."
+msgstr "Yedek çok büyük."
+
+msgid "Backups"
+msgstr "Yedekler"
+
+msgid "Blocked"
+msgstr "Engellendi"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Change is closed."
+msgstr "Değişiklik kapatıldı."
+
+msgid "Change not found."
+msgstr "Değişiklik bulunamadı."
+
+msgid "Change password"
+msgstr "Parolayı değiştir"
+
+msgid "Check account and password (12+ characters)."
+msgstr "Hesabı ve parolayı kontrol edin (en az 12 karakter)."
+
+msgid "Check name and domain."
+msgstr "Adı ve alan adını kontrol edin."
+
+msgid "Check name, email and password (12+ characters)."
+msgstr "Adı, e-postayı ve parolayı kontrol edin (en az 12 karakter)."
+
+msgid "Check the input."
+msgstr "Girdiyi kontrol edin."
+
+msgid "Check the password (12+ characters)."
+msgstr "Parolayı kontrol edin (en az 12 karakter)."
+
+msgid "Choose a file."
+msgstr "Bir dosya seçin."
+
+msgid "Choose a renderer."
+msgstr "Bir görüntüleyici seçin."
+
+msgid "Client ID"
+msgstr "İstemci kimliği"
+
+msgid "Clients"
+msgstr "İstemciler"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Completed"
+msgstr "Tamamlandı"
+
+msgid "Confirm"
+msgstr "Onayla"
+
+msgid "Connection"
+msgstr "Bağlantı"
+
+msgid "Content"
+msgstr "İçerik"
+
+msgid "Continue"
+msgstr "Devam"
+
+msgid "Copy failed."
+msgstr "Kopyalama başarısız."
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "Create access"
+msgstr "Erişim oluştur"
+
+msgid "Create backup"
+msgstr "Yedek oluştur"
+
+msgid "Create your administrator account."
+msgstr "Yönetici hesabınızı oluşturun."
+
+msgid "Current password"
+msgstr "Mevcut şifre"
+
+msgid "Daily backup"
+msgstr "Günlük yedekleme"
+
+msgid "Database backup failed."
+msgstr "Veritabanı yedeklemesi başarısız oldu."
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Days"
+msgstr "Günler"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Delete failed."
+msgstr "Silme başarısız oldu."
+
+msgid "Delete file"
+msgstr "Dosyayı sil"
+
+msgid "Destination must be empty."
+msgstr "Hedef boş olmalıdır."
+
+msgid "Disable"
+msgstr "Devre dışı bırak"
+
+msgid "Disable the plugin first."
+msgstr "Önce eklentiyi devre dışı bırakın."
+
+msgid "Domain"
+msgstr "Alan Adı"
+
+msgid "Domain already exists."
+msgstr "Alan adı zaten mevcut."
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "İndirme limiti (0 = sınırsız)"
+
+msgid "Downloads"
+msgstr "İndirilenler"
+
+msgid "Duplicate file."
+msgstr "Yinelenen dosya."
+
+msgid "Duplicate filename."
+msgstr "Yinelenen dosya adı."
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Editor"
+msgstr "Editör"
+
+msgid "Email"
+msgstr "E-posta"
+
+msgid "Enable"
+msgstr "Etkinleştir"
+
+msgid "Enable 2FA."
+msgstr "2FA'yı etkinleştirin."
+
+msgid "Entry point missing."
+msgstr "Giriş noktası eksik."
+
+msgid "Everything in its place."
+msgstr "Her şey yerli yerinde."
+
+msgid "Expired"
+msgstr "Süresi dolmuş"
+
+msgid "Expires"
+msgstr "Süresi doluyor"
+
+msgid "Extensions"
+msgstr "Uzantılar"
+
+msgid "External backup failed."
+msgstr "Harici yedekleme başarısız oldu."
+
+msgid "Extraction failed."
+msgstr "Çıkarma başarısız oldu."
+
+msgid "Failed"
+msgstr "Başarısız"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "File not found."
+msgstr "Dosya bulunamadı."
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Dosya MCP için çok büyük (256 KB)."
+
+msgid "File too large."
+msgstr "Dosya çok büyük."
+
+msgid "File type not allowed: %s"
+msgstr "Dosya türüne izin verilmiyor: %s"
+
+msgid "File unavailable."
+msgstr "Dosya mevcut değil."
+
+msgid "Files"
+msgstr "Dosyalar"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Grant access"
+msgstr "Erişim izni ver"
+
+msgid "HTTPS required."
+msgstr "HTTPS gerekli."
+
+msgid "In use: %s"
+msgstr "Kullanımda: %s"
+
+msgid "Install"
+msgstr "Kur"
+
+msgid "Install / update"
+msgstr "Kur / güncelle"
+
+msgid "Install DirectWeb."
+msgstr "DirectWeb'i yükleyin."
+
+msgid "Install through the command line."
+msgstr "Komut satırı üzerinden kurulum yapın."
+
+msgid "Install trusted plugins only."
+msgstr "Yalnızca güvenilir eklentileri yükleyin."
+
+msgid "Installation failed."
+msgstr "Kurulum başarısız oldu."
+
+msgid "Invalid OAuth request."
+msgstr "Geçersiz OAuth isteği."
+
+msgid "Invalid ZIP."
+msgstr "Geçersiz ZIP."
+
+msgid "Invalid access."
+msgstr "Geçersiz erişim."
+
+msgid "Invalid backup path."
+msgstr "Geçersiz yedekleme yolu."
+
+msgid "Invalid backup."
+msgstr "Geçersiz yedekleme."
+
+msgid "Invalid code."
+msgstr "Geçersiz kod."
+
+msgid "Invalid domain."
+msgstr "Geçersiz alan adı."
+
+msgid "Invalid file."
+msgstr "Geçersiz dosya."
+
+msgid "Invalid filename."
+msgstr "Geçersiz dosya adı."
+
+msgid "Invalid input or action failed."
+msgstr "Geçersiz giriş veya işlem başarısız oldu."
+
+msgid "Invalid key."
+msgstr "Geçersiz anahtar."
+
+msgid "Invalid message."
+msgstr "Geçersiz mesaj."
+
+msgid "Invalid package."
+msgstr "Geçersiz paket."
+
+msgid "Invalid password."
+msgstr "Geçersiz şifre."
+
+msgid "Invalid path."
+msgstr "Geçersiz yol."
+
+msgid "Invalid permissions."
+msgstr "Geçersiz izinler."
+
+msgid "Invalid plugin."
+msgstr "Geçersiz eklenti."
+
+msgid "Invalid preview domain."
+msgstr "Geçersiz önizleme alanı."
+
+msgid "Invalid redirect URL."
+msgstr "Geçersiz yönlendirme URL'si."
+
+msgid "Invalid release."
+msgstr "Geçersiz sürüm."
+
+msgid "Invalid request ID."
+msgstr "Geçersiz istek kimliği."
+
+msgid "Invalid role."
+msgstr "Geçersiz rol."
+
+msgid "Invalid setting."
+msgstr "Geçersiz ayar."
+
+msgid "Invalid storage."
+msgstr "Geçersiz depolama."
+
+msgid "Job"
+msgstr "İş"
+
+msgid "Job failed."
+msgstr "İş başarısız oldu."
+
+msgid "Job not found."
+msgstr "İş bulunamadı."
+
+msgid "Jobs"
+msgstr "İş İlanları"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Last active"
+msgstr "Son aktif"
+
+msgid "Last used"
+msgstr "Son kullanılan"
+
+msgid "Link unavailable."
+msgstr "Bağlantı kullanılamıyor."
+
+msgid "Links not allowed."
+msgstr "Bağlantılara izin verilmiyor."
+
+msgid "Live"
+msgstr "Yayında"
+
+msgid "Management"
+msgstr "Yönetim"
+
+msgid "Message too large."
+msgstr "Mesaj çok büyük."
+
+msgid "Method not allowed."
+msgstr "Yönteme izin verilmiyor."
+
+msgid "Migration changed."
+msgstr "Veri taşıma işlemi değişti."
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Navigation"
+msgstr "Gezinme"
+
+msgid "New password"
+msgstr "Yeni şifre"
+
+msgid "Newer version required."
+msgstr "Daha yeni sürüm gerekli."
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "No extensions enabled."
+msgstr "Hiçbir uzantı etkin değil."
+
+msgid "No items yet."
+msgstr "Henüz ürün yok."
+
+msgid "No websites available."
+msgstr "Web sitesi mevcut değil."
+
+msgid "Not a text file."
+msgstr "Bir metin dosyası değil."
+
+msgid "Not found."
+msgstr "Bulunamadı."
+
+msgid "Not run yet."
+msgstr "Henüz çalıştırılmadı."
+
+msgid "OAuth client"
+msgstr "OAuth istemcisi"
+
+msgid "Off"
+msgstr "Kapalı"
+
+msgid "Online"
+msgstr "Çevrimiçi"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Open website"
+msgstr "Web sitesini aç"
+
+msgid "Overview"
+msgstr "Genel Bakış"
+
+msgid "Owner"
+msgstr "Sahip"
+
+msgid "Package corrupted."
+msgstr "Paket bozuk."
+
+msgid "Package incompatible."
+msgstr "Paket uyumsuz."
+
+msgid "Package too large."
+msgstr "Paket çok büyük."
+
+msgid "Page already exists."
+msgstr "Sayfa zaten mevcut."
+
+msgid "Page expired."
+msgstr "Sayfanın süresi doldu."
+
+msgid "Page not found."
+msgstr "Sayfa bulunamadı."
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Password required."
+msgstr "Şifre gerekli."
+
+msgid "Perform this action?"
+msgstr "Bu eylem gerçekleştirilsin mi?"
+
+msgid "Pin"
+msgstr "Sabitle"
+
+msgid "Pinned"
+msgstr "Sabitlendi"
+
+msgid "Plugin file"
+msgstr "Eklenti dosyası"
+
+msgid "Plugin missing."
+msgstr "Eklenti bulunamadı."
+
+msgid "Plugins"
+msgstr "Eklentiler"
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "Preview domain missing."
+msgstr "Önizleme alan adı bulunamadı."
+
+msgid "Preview expired."
+msgstr "Önizlemenin süresi doldu."
+
+msgid "Previous"
+msgstr "Önceki"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Protected"
+msgstr "Korumalı"
+
+msgid "Prune old releases"
+msgstr "Eski sürümleri temizle"
+
+msgid "Publication failed."
+msgstr "Yayınlama başarısız oldu."
+
+msgid "Publish"
+msgstr "Yayınla"
+
+msgid "Publish automatically"
+msgstr "Otomatik yayınla"
+
+msgid "Queued"
+msgstr "Sıraya alındı"
+
+msgid "Read and publish websites."
+msgstr "Web sitelerini okuyun ve yayınlayın."
+
+msgid "Read websites."
+msgstr "Web sitelerini okuyun."
+
+msgid "Reader"
+msgstr "Okuyucu"
+
+msgid "Recent actions"
+msgstr "Son eylemler"
+
+msgid "Recovery codes"
+msgstr "Kurtarma kodları"
+
+msgid "Redirect URL"
+msgstr "Yönlendirme URL'si"
+
+msgid "Register"
+msgstr "Kayıt ol"
+
+msgid "Release changed."
+msgstr "Sürüm değişti."
+
+msgid "Release changed. Reopen the page."
+msgstr "Sürüm değişti. Sayfayı yeniden açın."
+
+msgid "Release corrupted."
+msgstr "Sürüm bozuk."
+
+msgid "Release not found."
+msgstr "Sürüm bulunamadı."
+
+msgid "Releases to retain"
+msgstr "Saklanacak sürümler"
+
+msgid "Renderer missing."
+msgstr "Görüntüleyici bulunamadı."
+
+msgid "Reopen Account."
+msgstr "Hesap sayfasını yeniden açın."
+
+msgid "Request conflict."
+msgstr "Talep çakışması."
+
+msgid "Request expired."
+msgstr "İsteğin süresi doldu."
+
+msgid "Required: %s"
+msgstr "Gerekli: %s"
+
+msgid "Restore"
+msgstr "Geri Yükle"
+
+msgid "Retained"
+msgstr "Korundu"
+
+msgid "Retention"
+msgstr "Saklama"
+
+msgid "Revoke"
+msgstr "İptal Et"
+
+msgid "Revoke other sessions"
+msgstr "Diğer oturumları iptal et"
+
+msgid "Revoked"
+msgstr "İptal edildi"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Running"
+msgstr "Koşuyor"
+
+msgid "Runs through the worker."
+msgstr "Arka plan işlemiyle çalışır."
+
+msgid "SPA routing"
+msgstr "SPA yönlendirme"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save failed."
+msgstr "Kaydetme başarısız oldu."
+
+msgid "Save these codes. They are shown once."
+msgstr "Bu kodları kaydedin. Bir kez gösterilirler."
+
+msgid "Save this token. It is shown once."
+msgstr "Bu belirteci kaydedin. Yalnızca bir kez gösterilir."
+
+msgid "Saved."
+msgstr "Kaydedildi."
+
+msgid "Schedule"
+msgstr "Zamanlama"
+
+msgid "Security"
+msgstr "Güvenlik"
+
+msgid "Session expired."
+msgstr "Oturumun süresi doldu."
+
+msgid "Sessions"
+msgstr "Oturumlar"
+
+msgid "Set up 2FA"
+msgstr "2FA'yı kurun"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Share"
+msgstr "Paylaş"
+
+msgid "Share link"
+msgstr "Bağlantıyı paylaş"
+
+msgid "Shared"
+msgstr "Paylaşıldı"
+
+msgid "Sharing"
+msgstr "Paylaşma"
+
+msgid "Sharing storage (MB)"
+msgstr "Depolamayı paylaşma (MB)"
+
+msgid "Sign in"
+msgstr "Giriş yap"
+
+msgid "Sign in failed."
+msgstr "Oturum açma başarısız oldu."
+
+msgid "Sign in required."
+msgstr "Oturum açmanız gerekiyor."
+
+msgid "Sign out"
+msgstr "Çıkış yap"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "Skip to content"
+msgstr "İçeriğe atla"
+
+msgid "Started"
+msgstr "Başlatıldı"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Storage"
+msgstr "Depolama"
+
+msgid "Storage limit reached."
+msgstr "Depolama sınırına ulaşıldı."
+
+msgid "Storage unavailable."
+msgstr "Depolama alanı kullanılamıyor."
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "System busy."
+msgstr "Sistem meşgul."
+
+msgid "Target"
+msgstr "Hedef"
+
+msgid "Temporary password"
+msgstr "Geçici şifre"
+
+msgid "This account cannot be changed."
+msgstr "Bu hesap değiştirilemez."
+
+msgid "Token"
+msgstr "Belirteç"
+
+msgid "Too many files."
+msgstr "Çok fazla dosya var."
+
+msgid "Too many open changes."
+msgstr "Çok fazla açık değişiklik var."
+
+msgid "Try again later."
+msgstr "Daha sonra tekrar deneyin."
+
+msgid "Unavailable."
+msgstr "Mevcut değil."
+
+msgid "Unknown OAuth client."
+msgstr "Bilinmeyen OAuth istemcisi."
+
+msgid "Unknown action."
+msgstr "Bilinmeyen eylem."
+
+msgid "Unknown job."
+msgstr "Bilinmeyen iş."
+
+msgid "Unknown tool."
+msgstr "Bilinmeyen araç."
+
+msgid "Unsupported component: %s"
+msgstr "Desteklenmeyen bileşen: %s"
+
+msgid "Until %s"
+msgstr "%s'e kadar"
+
+msgid "Update failed."
+msgstr "Güncelleme başarısız oldu."
+
+msgid "Upload"
+msgstr "Yükle"
+
+msgid "Upload failed."
+msgstr "Yükleme başarısız oldu."
+
+msgid "Upload too large."
+msgstr "Yükleme çok büyük."
+
+msgid "Use"
+msgstr "Kullan"
+
+msgid "Use POST."
+msgstr "POST'u kullanın."
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "User missing."
+msgstr "Kullanıcı eksik."
+
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Version name"
+msgstr "Sürüm adı"
+
+msgid "Versions"
+msgstr "Sürümler"
+
+msgid "Website"
+msgstr "Web sitesi"
+
+msgid "Website enabled"
+msgstr "Web sitesi etkin"
+
+msgid "Website file"
+msgstr "Web sitesi dosyası"
+
+msgid "Website management"
+msgstr "Web sitesi yönetimi"
+
+msgid "Website not found."
+msgstr "Web sitesi bulunamadı."
+
+msgid "Website unavailable."
+msgstr "Web sitesi mevcut değil."
+
+msgid "Websites"
+msgstr "Web siteleri"
+
+msgid "Welcome to DirectWeb"
+msgstr "DirectWeb'e Hoş Geldiniz"
+
+msgid "Worker: %s"
+msgstr "Arka plan işlemi: %s"
+
+msgid "index.html missing."
+msgstr "index.html eksik."
+
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+msgid "Authenticator app"
+msgstr "Doğrulama uygulaması"
+
+msgid "Authenticator code"
+msgstr "Kimlik doğrulayıcı kodu"
+
+msgid "Authenticator QR code"
+msgstr "Kimlik doğrulayıcı QR kodu"
+
+msgid "Scan the QR code."
+msgstr "QR kodunu tarayın."
+
+msgid "Current 2FA / recovery code"
+msgstr "Mevcut 2FA / kurtarma kodu"
+
+msgid "Recovery code"
+msgstr "Kurtarma kodu"
+
+msgid "Verify"
+msgstr "Doğrula"
+
+msgid "Verified"
+msgstr "Doğrulandı"
+
+msgid "Enabled"
+msgstr "Etkin"
+
+msgid "Method"
+msgstr "Yöntem"
+
+msgid "Send code"
+msgstr "Kodu gönder"
+
+msgid "Code sent."
+msgstr "Kod gönderildi."
+
+msgid "Verification code"
+msgstr "Doğrulama kodu"
+
+msgid "Mail"
+msgstr "Posta"
+
+msgid "Enable email"
+msgstr "E-postayı etkinleştir"
+
+msgid "SMTP host"
+msgstr "SMTP sunucusu"
+
+msgid "SMTP username"
+msgstr "SMTP kullanıcı adı"
+
+msgid "SMTP password"
+msgstr "SMTP şifresi"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Encryption"
+msgstr "Şifreleme"
+
+msgid "Sender"
+msgstr "Gönderen"
+
+msgid "Your verification code"
+msgstr "Doğrulama kodunuz"
+
+msgid "Your code: %s"
+msgstr "Kodunuz: %s"
+
+msgid "Expires in 5 minutes."
+msgstr "5 dakika içinde geçerliliği sona erer."
+
+msgid "Email-only users must add an authenticator first."
+msgstr "Yalnızca e-posta doğrulaması kullananlar önce bir doğrulama uygulaması eklemelidir."
+
+msgid "Check SMTP settings."
+msgstr "SMTP ayarlarını kontrol edin."
+
+msgid "SMTP encryption required."
+msgstr "SMTP şifrelemesi gereklidir."
+
+msgid "Email is not configured."
+msgstr "E-posta yapılandırılmamış."
+
+msgid "Email delivery failed."
+msgstr "E-posta teslimi başarısız oldu."
+
+msgid "Email is not verified."
+msgstr "E-posta doğrulanmadı."
+
+msgid "Invalid email address."
+msgstr "Geçersiz e-posta adresi."
+
+msgid "Email already exists."
+msgstr "E-posta zaten mevcut."
+
+msgid "Username already exists."
+msgstr "Kullanıcı adı zaten mevcut."
+
+msgid "Check name, username and password (12+ characters)."
+msgstr "Adı, kullanıcı adını ve şifreyi kontrol edin (12+ karakter)."
+
+msgid "Keep at least one available method."
+msgstr "En az bir yöntemi mevcut tutun."
+
+msgid "Invalid request."
+msgstr "Geçersiz istek."
+
+msgid "Account migration failed."
+msgstr "Hesap geçişi başarısız oldu."
+
+msgid "Account backup failed."
+msgstr "Hesap yedekleme başarısız oldu."
+
+msgid "Dashboard"
+msgstr "Kontrol paneli"
+
+msgid "Add website"
+msgstr "Web sitesi ekle"
+
+msgid "2FA off"
+msgstr "2FA kapalı"
+
+msgid "Two-factor authentication"
+msgstr "İki faktörlü kimlik doğrulama"
+
+msgid "Mail settings"
+msgstr "Posta ayarları"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Copied"
+msgstr "Kopyalandı"
+
+msgid "Copy link"
+msgstr "Bağlantıyı kopyala"
+
+msgid "Upload progress"
+msgstr "Yükleme ilerlemesi"
+
+msgid "Uploading"
+msgstr "Yükleniyor"
+
+msgid "Finishing"
+msgstr "Tamamlanıyor"
+
+msgid "Upload cancelled."
+msgstr "Yükleme iptal edildi."
+
+msgid "File limit exceeded."
+msgstr "Dosya sınırı aşıldı."
+
+msgid "Transfer limit exceeded."
+msgstr "Aktarım limiti aşıldı."
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Administration"
+msgstr "Yönetim"
+
+msgid "Installed"
+msgstr "Yüklendi"
+
+msgid "Appearance"
+msgstr "Görünüm"
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Renderer"
+msgstr "Görüntüleyici"
+
+msgid "Plugin"
+msgstr "Eklenti"
+
+msgid "In use"
+msgstr "Kullanımda"
+
+msgid "Choose another renderer first."
+msgstr "Önce başka bir oluşturucu seçin."
+
+msgid "Disable to delete."
+msgstr "Silmeden önce devre dışı bırakın."
+
+msgid "Hosting"
+msgstr "Barındırma"
+
+msgid "Environment"
+msgstr "Çevre"
+
+msgid "Requirements"
+msgstr "Gereksinimler"
+
+msgid "Setting"
+msgstr "Ayar"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "Installation key"
+msgstr "Kurulum anahtarı"
+
+msgid "Invalid installation key."
+msgstr "Geçersiz kurulum anahtarı."
+
+msgid "Read the key in storage/database/setup.key using your hosting file manager."
+msgstr "Barındırma dosya yöneticisiyle storage/database/setup.key dosyasındaki anahtarı okuyun."
+
+msgid "Apache rewrite rules and HTTPS are required for the upload package."
+msgstr "Yükleme paketi için Apache yeniden yazma kuralları ve HTTPS gereklidir."
+
+msgid "Additional domains must point to this installation."
+msgstr "Ek alan adları bu kuruluma işaret etmelidir."
+
+msgid "Scheduled jobs require a hosting cron task."
+msgstr "Zamanlanmış işler bir barındırma cron görevi gerektirir."
+
+msgid "Actions"
+msgstr "Eylemler"
+
+msgid "Add user"
+msgstr "Kullanıcı ekle"
+
+msgid "Add file"
+msgstr "Dosya ekle"
+
+msgid "Edit file"
+msgstr "Dosyayı düzenle"
+
+msgid "Delete data"
+msgstr "Verileri sil"
+
+msgid "Install plugin"
+msgstr "Eklenti kur"
+
+msgid "Import backup"
+msgstr "Yedeği içe aktar"
+
+msgid "Backup file"
+msgstr "Yedekleme dosyası"
+
+msgid "Current release"
+msgstr "Geçerli sürüm"
+
+msgid "Earlier release"
+msgstr "Önceki sürüm"
+
+msgid "Later release"
+msgstr "Sonraki sürüm"
+
+msgid "Source release"
+msgstr "Kaynak sürüm"
+
+msgid "Target website"
+msgstr "Web sitesini hedefle"
+
+msgid "Publish target"
+msgstr "Hedefi yayınla"
+
+msgid "Publish release"
+msgstr "Sürümü yayınla"
+
+msgid "Redirects"
+msgstr "Yönlendirmeler"
+
+msgid "Revisions"
+msgstr "Revizyonlar"
+
+msgid "Staging"
+msgstr "Test ortamı"
+
+msgid "Forms"
+msgstr "Formlar"
+
+msgid "Deploy"
+msgstr "Dağıt"
+
+msgid "Monitor"
+msgstr "İzleme"
+
+msgid "Media"
+msgstr "Medya"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Tasks"
+msgstr "Görevler"
+
+msgid "Notifications"
+msgstr "Bildirimler"
+
+msgid "Remote Backups"
+msgstr "Uzaktan Yedeklemeler"
+
+msgid "Databases"
+msgstr "Veritabanları"
+
+msgid "Hosting Connector"
+msgstr "Barındırma bağlantısı"
+
+msgid "From"
+msgstr "Kaynak"
+
+msgid "To"
+msgstr "Hedef"
+
+msgid "Content file"
+msgstr "İçerik dosyası"
+
+msgid "Fields (JSON)"
+msgstr "Alanlar (JSON)"
+
+msgid "Template"
+msgstr "Şablon"
+
+msgid "Output file"
+msgstr "Çıktı dosyası"
+
+msgid "Generate on publish"
+msgstr "Yayınlandığında oluştur"
+
+msgid "Public search"
+msgstr "Genel arama"
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "Source file"
+msgstr "Kaynak dosyası"
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid "Height"
+msgstr "Yükseklik"
+
+msgid "Crop"
+msgstr "Kırp"
+
+msgid "Quality"
+msgstr "Kalite"
+
+msgid "Format"
+msgstr "Biçim"
+
+msgid "Fields"
+msgstr "Alanlar"
+
+msgid "Public form"
+msgstr "Herkese açık form"
+
+msgid "Submissions per hour"
+msgstr "Saat başına gönderim sayısı"
+
+msgid "Retention (days)"
+msgstr "Saklama (gün)"
+
+msgid "Form"
+msgstr "Form"
+
+msgid "Received."
+msgstr "Alındı."
+
+msgid "Artifact URL"
+msgstr "Paket URL’si"
+
+msgid "Artifact token"
+msgstr "Paket belirteci"
+
+msgid "Provider"
+msgstr "Sağlayıcı"
+
+msgid "Webhook secret"
+msgstr "Webhook sırrı"
+
+msgid "Branch"
+msgstr "Dal"
+
+msgid "Interval (minutes)"
+msgstr "Aralık (dakika)"
+
+msgid "Expected status"
+msgstr "Beklenen durum"
+
+msgid "Certificate warning (days)"
+msgstr "Sertifika uyarısı (gün)"
+
+msgid "Task"
+msgstr "Görev"
+
+msgid "Release ID"
+msgstr "Sürüm kimliği"
+
+msgid "Start (UTC)"
+msgstr "Başlangıç (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Tekrarla (dakika, 0 = bir kez)"
+
+msgid "Prune releases"
+msgstr "Sürümleri temizle"
+
+msgid "Event"
+msgstr "Etkinlik"
+
+msgid "Webhook URL"
+msgstr "Web kancası URL'si"
+
+msgid "S3 endpoint"
+msgstr "S3 uç noktası"
+
+msgid "Bucket"
+msgstr "Depolama kovası"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "Access key"
+msgstr "Erişim anahtarı"
+
+msgid "Secret key"
+msgstr "Gizli anahtar"
+
+msgid "Backup passphrase"
+msgstr "Yedekleme parolası"
+
+msgid "Copies to retain"
+msgstr "Saklanacak kopyalar"
+
+msgid "Backup limit (MB)"
+msgstr "Yedek boyutu sınırı (MB)"
+
+msgid "Upload new backups"
+msgstr "Yeni yedeklemeler yükleyin"
+
+msgid "Object key"
+msgstr "Nesne anahtarı"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare bölge kimliği"
+
+msgid "API token"
+msgstr "API belirteci"
+
+msgid "Record ID"
+msgstr "Kayıt kimliği"
+
+msgid "Record ID (optional)"
+msgstr "Kayıt Kimliği (isteğe bağlı)"
+
+msgid "Records (JSON)"
+msgstr "Kayıtlar (JSON)"
+
+msgid "Priority"
+msgstr "Öncelik"
+
+msgid "Proxy"
+msgstr "Vekil sunucu"
+
+msgid "Purge after publish"
+msgstr "Yayınladıktan sonra temizle"
+
+msgid "URLs (empty = all)"
+msgstr "URL'ler (boş = tümü)"
+
+msgid "Rule (JSON)"
+msgstr "Kural (JSON)"
+
+msgid "Database"
+msgstr "Veritabanı"
+
+msgid "Host"
+msgstr "Sunucu"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin URL'si"
+
+msgid "Login key"
+msgstr "Giriş anahtarı"
+
+msgid "Bandwidth (MB)"
+msgstr "Veri trafiği (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disk (MB)"
+
+msgid "Mailbox"
+msgstr "Posta Kutusu"
+
+msgid "Quota (MB)"
+msgstr "Kota (MB)"
+
+msgid "Details"
+msgstr "Ayrıntılar"
+
+msgid "Export"
+msgstr "Dışa Aktar"
+
+msgid "Import"
+msgstr "İçe aktar"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Delete record"
+msgstr "Kaydı sil"
+
+msgid "Save record"
+msgstr "Kaydı kaydet"
+
+msgid "Records"
+msgstr "Kayıtlar"
+
+msgid "Import records"
+msgstr "Kayıtları içe aktar"
+
+msgid "Purge cache"
+msgstr "Önbelleği temizle"
+
+msgid "Cache rules"
+msgstr "Önbellek kuralları"
+
+msgid "Save cache rule"
+msgstr "Önbellek kuralını kaydet"
+
+msgid "Tables"
+msgstr "Tablolar"
+
+msgid "Import SQL"
+msgstr "SQL'i içe aktar"
+
+msgid "Create database"
+msgstr "Veritabanı oluştur"
+
+msgid "Domains"
+msgstr "Alan Adları"
+
+msgid "Add domain"
+msgstr "Alan adı ekle"
+
+msgid "Mailboxes"
+msgstr "Posta Kutuları"
+
+msgid "Add mailbox"
+msgstr "Posta kutusu ekle"
+
+msgid "Certificates"
+msgstr "Sertifikalar"
+
+msgid "Hosting settings"
+msgstr "Barındırma ayarları"
+
+msgid "Compare"
+msgstr "Karşılaştır"
+
+msgid "Copy release"
+msgstr "Sürümü kopyala"
+
+msgid "Scan"
+msgstr "Tara"
+
+msgid "Create sitemap"
+msgstr "Site haritası oluştur"
+
+msgid "Build index"
+msgstr "Dizin oluştur"
+
+msgid "Convert"
+msgstr "Dönüştür"
+
+msgid "View submissions"
+msgstr "Gönderimleri görüntüle"
+
+msgid "Check now"
+msgstr "Şimdi kontrol et"
+
+msgid "History"
+msgstr "Geçmiş"
+
+msgid "Run now"
+msgstr "Şimdi çalıştır"
+
+msgid "View report"
+msgstr "Raporu görüntüle"
+
+msgid "Inbox"
+msgstr "Gelen Kutusu"
+
+msgid "Send test"
+msgstr "Testi gönder"
+
+msgid "Upload latest backup"
+msgstr "En son yedeği yükle"
+
+msgid "Remote copies"
+msgstr "Uzaktan kopyalar"
+
+msgid "Retrieve backup"
+msgstr "Yedeği al"
+
+msgid "Index files"
+msgstr "Dizin dosyaları"
+
+msgid "403 page"
+msgstr "403 sayfası"
+
+msgid "404 page"
+msgstr "404 sayfası"
+
+msgid "500 page"
+msgstr "500 sayfası"
+
+msgid "Cache"
+msgstr "Önbellek"
+
+msgid "Password protection"
+msgstr "Şifre koruması"
+
+msgid "Hour"
+msgstr "Saat"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Week"
+msgstr "Hafta"
+
+msgid "Download notifications"
+msgstr "İndirme bildirimleri"
+
+msgid "Download ZIP"
+msgstr "ZIP'i indirin"
+
+msgid "File requests"
+msgstr "Dosya istekleri"
+
+msgid "Add request"
+msgstr "İstek ekle"
+
+msgid "Request"
+msgstr "Talep"
+
+msgid "Requests"
+msgstr "İstekler"
+
+msgid "Expiry"
+msgstr "Son kullanma tarihi"
+
+msgid "Endpoint"
+msgstr "Bitiş noktası"
+
+msgid "Permissions"
+msgstr "İzinler"
+
+msgid "Tokens"
+msgstr "Belirteçler"
+
+msgid "Client"
+msgstr "İstemci"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Updated"
+msgstr "Güncellendi"
+
+msgid "Field"
+msgstr "Alan"
+
+msgid "Data is retained."
+msgstr "Veriler korunur."
+
+msgid "A backup is created first."
+msgstr "Öncelikle yedek oluşturulur."
+
+msgid "Current data is backed up before restoration."
+msgstr "Güncel veriler restorasyondan önce yedeklenir."
+
+msgid "Restore queued. Sign in again after completion."
+msgstr "Geri yükleme sıraya alındı. Tamamlanınca yeniden giriş yapın."
+
+msgid "Add a website first."
+msgstr "Önce bir web sitesi ekleyin."
+
+msgid "Complete required fields."
+msgstr "Gerekli alanları doldurun."
+
+msgid "Record changed. Reopen the page."
+msgstr "Kayıt değiştirildi. Sayfayı yeniden açın."
+
+msgid "Record not found."
+msgstr "Kayıt bulunamadı."
+
+msgid "Record changed."
+msgstr "Kayıt değiştirildi."
+
+msgid "Invalid value."
+msgstr "Geçersiz değer."
+
+msgid "Value out of range."
+msgstr "Değer aralık dışında."
+
+msgid "Choose a website."
+msgstr "Bir web sitesi seçin."
+
+msgid "Choose another website."
+msgstr "Başka bir web sitesi seçin."
+
+msgid "Action unavailable."
+msgstr "Eylem kullanılamıyor."
+
+msgid "Operation not granted."
+msgstr "İşleme izin verilmedi."
+
+msgid "Read only."
+msgstr "Salt okunur."
+
+msgid "Redirect loop."
+msgstr "Yönlendirme döngüsü."
+
+msgid "Redirect already exists."
+msgstr "Yönlendirme zaten mevcut."
+
+msgid "Connection failed."
+msgstr "Bağlantı başarısız oldu."
+
+msgid "Connection timed out."
+msgstr "Bağlantı zaman aşımına uğradı."
+
+msgid "Enable the GD extension."
+msgstr "GD uzantısını etkinleştirin."
+
+msgid "Enable the DOM extension."
+msgstr "DOM uzantısını etkinleştirin."
+
+msgid "Enable PDO MySQL."
+msgstr "PDO MySQL'i etkinleştirin."
+
+msgid "Create a backup first."
+msgstr "Öncelikle bir yedek oluşturun."
+
+msgid "Backup exceeds remote limit."
+msgstr "Yedek, uzak depolama sınırını aşıyor."
+
+msgid "Backup decryption failed."
+msgstr "Yedekleme şifre çözme işlemi başarısız oldu."
+
+msgid "Use an HTTPS URL."
+msgstr "Bir HTTPS URL'si kullanın."
+
+msgid "Invalid JSON."
+msgstr "Geçersiz JSON."
+
+msgid "Token already shown."
+msgstr "Belirteç zaten gösterildi."
+
+msgid "Token missing."
+msgstr "Belirteç bulunamadı."
+
+msgid "Client missing."
+msgstr "İstemci eksik."
+
+msgid "Edit content"
+msgstr "İçeriği düzenle"
+
+msgid "Request certificate"
+msgstr "Sertifika iste"
+
+msgid "Change hosting setting"
+msgstr "Barındırma ayarını değiştir"
+
+msgid "Hosting settings unavailable."
+msgstr "Barındırma ayarları mevcut değil."
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Disable email 2FA before removing the authenticator."
+msgstr "Kimlik doğrulayıcıyı kaldırmadan önce e-posta 2FA'yı devre dışı bırakın."
+
+msgid "Draft"
+msgstr "Taslak"
+
+msgid "Replace current data"
+msgstr "Mevcut verileri değiştir"
+
+msgid "Confirm restoration."
+msgstr "Geri yüklemeyi onaylayın."
+
+msgid "Backup in use."
+msgstr "Yedekleme kullanımda."
+
+msgid "Delete backup"
+msgstr "Yedeklemeyi sil"
+
+msgid "Scheduled"
+msgstr "Planlanmış"
+
+msgid "Publishing"
+msgstr "Yayınlama"
+
+msgid "Change website"
+msgstr "Web sitesini değiştir"
+
+msgid "HTML website manager"
+msgstr "HTML web sitesi yöneticisi"
+
+msgid "Import existing versions. Original files remain available."
+msgstr "Mevcut sürümleri içe aktarın. Orijinal dosyalar mevcut kalır."
+
+msgid "Manage accounts and security in WordPress."
+msgstr "WordPress'te hesapları ve güvenliği yönetin."
+
+msgid "Background jobs use WordPress cron."
+msgstr "Arka plan işleri WordPress cronunu kullanır."
+
+msgid "Choose a published website on this domain."
+msgstr "Bu alan adında yayınlanmış bir web sitesi seçin."
+
+msgid "Plugin management is disabled in WordPress."
+msgstr "WordPress'te eklenti yönetimi devre dışıdır."
+
+msgid "Preview unavailable."
+msgstr "Önizleme kullanılamıyor."

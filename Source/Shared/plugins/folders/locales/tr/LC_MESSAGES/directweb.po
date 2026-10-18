@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Klasörler"
+
+msgid "Folder"
+msgstr "Klasör"
+
+msgid "Add folder"
+msgstr "Klasör ekle"
+
+msgid "Server path"
+msgstr "Sunucu yolu"
+
+msgid "Server"
+msgstr "Sunucu"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Subfolders"
+msgstr "Alt klasörler"
+
+msgid "Rules"
+msgstr "Kurallar"
+
+msgid "Directory listing"
+msgstr "Dizin listeleme"
+
+msgid "Inherit"
+msgstr "Devral"
+
+msgid "On"
+msgstr "Açık"
+
+msgid "Selected IP addresses"
+msgstr "Seçilen IP adresleri"
+
+msgid "IP addresses"
+msgstr "IP adresleri"
+
+msgid "Current"
+msgstr "Geçerli"
+
+msgid "New"
+msgstr "Yeni"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Choose a readable folder."
+msgstr "Okunabilir bir klasör seçin."
+
+msgid "Choose a hosting folder."
+msgstr "Bir barındırma klasörü seçin."
+
+msgid "Folder already added."
+msgstr "Klasör zaten eklendi."
+
+msgid "Folder missing."
+msgstr "Klasör eksik."
+
+msgid "Folder changed."
+msgstr "Klasör değiştirildi."
+
+msgid "Symbolic links are not supported."
+msgstr "Sembolik bağlantılar desteklenmez."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb klasörleri korunur."
+
+msgid "Folder is not writable."
+msgstr "Klasör yazılabilir değil."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Bu .htaccess dosyası yönetilemiyor."
+
+msgid "Check IP addresses."
+msgstr "IP adreslerini kontrol edin."
+
+msgid "File changed outside DirectWeb."
+msgstr "Dosya DirectWeb dışında değiştirildi."
+
+msgid "Preview expired."
+msgstr "Önizlemenin süresi doldu."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 ve AllowOverride izinleri gereklidir."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Bu kurallar web sunucusu tarafından sunulan fiziksel klasörler için geçerlidir."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Klasör erişimini, önbelleğe almayı ve hata sayfalarını yönetin."

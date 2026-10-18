@@ -1,0 +1,1661 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "2FA / recovery code"
+msgstr "2FA / återställningskod"
+
+msgid "2FA enabled"
+msgstr "2FA aktiverat"
+
+msgid "2FA is already enabled."
+msgstr "2FA är redan aktiverat."
+
+msgid "2FA required"
+msgstr "2FA krävs"
+
+msgid "Access"
+msgstr "Åtkomst"
+
+msgid "Access denied."
+msgstr "Åtkomst nekad."
+
+msgid "Access token"
+msgstr "Åtkomsttoken"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Account created."
+msgstr "Konto skapat."
+
+msgid "Account enabled"
+msgstr "Konto aktiverat"
+
+msgid "Action"
+msgstr "Åtgärd"
+
+msgid "Action already exists."
+msgstr "Åtgärden finns redan."
+
+msgid "Action failed."
+msgstr "Åtgärden misslyckades."
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Activity"
+msgstr "Aktivitet"
+
+msgid "Add"
+msgstr "Lägg till"
+
+msgid "Add this key to your authenticator."
+msgstr "Lägg till nyckeln i din autentiseringsapp."
+
+msgid "Administrator"
+msgstr "Administratör"
+
+msgid "Allow"
+msgstr "Tillåt"
+
+msgid "Already installed."
+msgstr "Redan installerat."
+
+msgid "Available"
+msgstr "Tillgänglig"
+
+msgid "Backup"
+msgstr "Säkerhetskopia"
+
+msgid "Backup corrupted."
+msgstr "Säkerhetskopian är skadad."
+
+msgid "Backup failed."
+msgstr "Säkerhetskopieringen misslyckades."
+
+msgid "Backup incomplete."
+msgstr "Säkerhetskopian är ofullständig."
+
+msgid "Backup missing."
+msgstr "Säkerhetskopian saknas."
+
+msgid "Backup queued."
+msgstr "Säkerhetskopiering köad."
+
+msgid "Backup too large."
+msgstr "Säkerhetskopian är för stor."
+
+msgid "Backups"
+msgstr "Säkerhetskopior"
+
+msgid "Blocked"
+msgstr "Blockerad"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Change is closed."
+msgstr "Ändringen är stängd."
+
+msgid "Change not found."
+msgstr "Ändringen hittades inte."
+
+msgid "Change password"
+msgstr "Ändra lösenord"
+
+msgid "Check account and password (12+ characters)."
+msgstr "Kontrollera konto och lösenord (minst 12 tecken)."
+
+msgid "Check name and domain."
+msgstr "Kontrollera namn och domän."
+
+msgid "Check name, email and password (12+ characters)."
+msgstr "Kontrollera namn, e-post och lösenord (minst 12 tecken)."
+
+msgid "Check the input."
+msgstr "Kontrollera inmatningen."
+
+msgid "Check the password (12+ characters)."
+msgstr "Kontrollera lösenordet (minst 12 tecken)."
+
+msgid "Choose a file."
+msgstr "Välj en fil."
+
+msgid "Choose a renderer."
+msgstr "Välj en renderare."
+
+msgid "Client ID"
+msgstr "Klient-ID"
+
+msgid "Clients"
+msgstr "Klienter"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid "Completed"
+msgstr "Slutfört"
+
+msgid "Confirm"
+msgstr "Bekräfta"
+
+msgid "Connection"
+msgstr "Anslutning"
+
+msgid "Content"
+msgstr "Innehåll"
+
+msgid "Continue"
+msgstr "Fortsätt"
+
+msgid "Copy failed."
+msgstr "Kopieringen misslyckades."
+
+msgid "Create"
+msgstr "Skapa"
+
+msgid "Create access"
+msgstr "Skapa åtkomst"
+
+msgid "Create backup"
+msgstr "Skapa säkerhetskopia"
+
+msgid "Create your administrator account."
+msgstr "Skapa ditt administratörskonto."
+
+msgid "Current password"
+msgstr "Nuvarande lösenord"
+
+msgid "Daily backup"
+msgstr "Daglig säkerhetskopia"
+
+msgid "Database backup failed."
+msgstr "Säkerhetskopiering av databasen misslyckades."
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "Delete failed."
+msgstr "Raderingen misslyckades."
+
+msgid "Delete file"
+msgstr "Radera fil"
+
+msgid "Destination must be empty."
+msgstr "Målet måste vara tomt."
+
+msgid "Disable"
+msgstr "Inaktivera"
+
+msgid "Disable the plugin first."
+msgstr "Inaktivera tillägget först."
+
+msgid "Domain"
+msgstr "Domän"
+
+msgid "Domain already exists."
+msgstr "Domänen finns redan."
+
+msgid "Download"
+msgstr "Ladda ner"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Nedladdningsgräns (0 = obegränsat)"
+
+msgid "Downloads"
+msgstr "Nedladdningar"
+
+msgid "Duplicate file."
+msgstr "Dubblettfil."
+
+msgid "Duplicate filename."
+msgstr "Filnamnet används redan."
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Editor"
+msgstr "Redaktör"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Enable"
+msgstr "Aktivera"
+
+msgid "Enable 2FA."
+msgstr "Aktivera 2FA."
+
+msgid "Entry point missing."
+msgstr "Startfilen saknas."
+
+msgid "Everything in its place."
+msgstr "Allt på sin plats."
+
+msgid "Expired"
+msgstr "Utgången"
+
+msgid "Expires"
+msgstr "Går ut"
+
+msgid "Extensions"
+msgstr "Utökningar"
+
+msgid "External backup failed."
+msgstr "Extern säkerhetskopiering misslyckades."
+
+msgid "Extraction failed."
+msgstr "Uppackningen misslyckades."
+
+msgid "Failed"
+msgstr "Misslyckades"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "File not found."
+msgstr "Filen hittades inte."
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Filen är för stor för MCP (256 KB)."
+
+msgid "File too large."
+msgstr "Filen är för stor."
+
+msgid "File type not allowed: %s"
+msgstr "Filtypen tillåts inte: %s"
+
+msgid "File unavailable."
+msgstr "Filen är inte tillgänglig."
+
+msgid "Files"
+msgstr "Filer"
+
+msgid "General"
+msgstr "Allmänt"
+
+msgid "Grant access"
+msgstr "Bevilja åtkomst"
+
+msgid "HTTPS required."
+msgstr "HTTPS krävs."
+
+msgid "In use: %s"
+msgstr "Används: %s"
+
+msgid "Install"
+msgstr "Installera"
+
+msgid "Install / update"
+msgstr "Installera / uppdatera"
+
+msgid "Install DirectWeb."
+msgstr "Installera DirectWeb."
+
+msgid "Install through the command line."
+msgstr "Installera via kommandoraden."
+
+msgid "Install trusted plugins only."
+msgstr "Installera endast betrodda tillägg."
+
+msgid "Installation failed."
+msgstr "Installationen misslyckades."
+
+msgid "Invalid OAuth request."
+msgstr "Ogiltig OAuth-begäran."
+
+msgid "Invalid ZIP."
+msgstr "Ogiltig ZIP-fil."
+
+msgid "Invalid access."
+msgstr "Ogiltig åtkomst."
+
+msgid "Invalid backup path."
+msgstr "Ogiltig sökväg för säkerhetskopian."
+
+msgid "Invalid backup."
+msgstr "Ogiltig säkerhetskopia."
+
+msgid "Invalid code."
+msgstr "Ogiltig kod."
+
+msgid "Invalid domain."
+msgstr "Ogiltig domän."
+
+msgid "Invalid file."
+msgstr "Ogiltig fil."
+
+msgid "Invalid filename."
+msgstr "Ogiltigt filnamn."
+
+msgid "Invalid input or action failed."
+msgstr "Ogiltig inmatning eller misslyckad åtgärd."
+
+msgid "Invalid key."
+msgstr "Ogiltig nyckel."
+
+msgid "Invalid message."
+msgstr "Ogiltigt meddelande."
+
+msgid "Invalid package."
+msgstr "Ogiltigt paket."
+
+msgid "Invalid password."
+msgstr "Ogiltigt lösenord."
+
+msgid "Invalid path."
+msgstr "Ogiltig sökväg."
+
+msgid "Invalid permissions."
+msgstr "Ogiltiga behörigheter."
+
+msgid "Invalid plugin."
+msgstr "Ogiltigt tillägg."
+
+msgid "Invalid preview domain."
+msgstr "Ogiltig förhandsvisningsdomän."
+
+msgid "Invalid redirect URL."
+msgstr "Ogiltig omdirigeringsadress."
+
+msgid "Invalid release."
+msgstr "Ogiltig version."
+
+msgid "Invalid request ID."
+msgstr "Ogiltigt begärande-ID."
+
+msgid "Invalid role."
+msgstr "Ogiltig roll."
+
+msgid "Invalid setting."
+msgstr "Ogiltig inställning."
+
+msgid "Invalid storage."
+msgstr "Ogiltig lagring."
+
+msgid "Job"
+msgstr "Jobb"
+
+msgid "Job failed."
+msgstr "Jobbet misslyckades."
+
+msgid "Job not found."
+msgstr "Jobbet hittades inte."
+
+msgid "Jobs"
+msgstr "Jobb"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Last active"
+msgstr "Senast aktiv"
+
+msgid "Last used"
+msgstr "Senast använd"
+
+msgid "Link unavailable."
+msgstr "Länken är inte tillgänglig."
+
+msgid "Links not allowed."
+msgstr "Länkar tillåts inte."
+
+msgid "Live"
+msgstr "Publicerad"
+
+msgid "Management"
+msgstr "Hantering"
+
+msgid "Message too large."
+msgstr "Meddelandet är för stort."
+
+msgid "Method not allowed."
+msgstr "Metoden tillåts inte."
+
+msgid "Migration changed."
+msgstr "Migreringen har ändrats."
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "Navigation"
+msgstr "Navigering"
+
+msgid "New password"
+msgstr "Nytt lösenord"
+
+msgid "Newer version required."
+msgstr "En nyare version krävs."
+
+msgid "Next"
+msgstr "Nästa"
+
+msgid "No extensions enabled."
+msgstr "Inga utökningar är aktiverade."
+
+msgid "No items yet."
+msgstr "Inga objekt ännu."
+
+msgid "No websites available."
+msgstr "Inga webbplatser är tillgängliga."
+
+msgid "Not a text file."
+msgstr "Inte en textfil."
+
+msgid "Not found."
+msgstr "Hittades inte."
+
+msgid "Not run yet."
+msgstr "Inte körd ännu."
+
+msgid "OAuth client"
+msgstr "OAuth-klient"
+
+msgid "Off"
+msgstr "Av"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Open"
+msgstr "Öppna"
+
+msgid "Open website"
+msgstr "Öppna webbplats"
+
+msgid "Overview"
+msgstr "Översikt"
+
+msgid "Owner"
+msgstr "Ägare"
+
+msgid "Package corrupted."
+msgstr "Paketet är skadat."
+
+msgid "Package incompatible."
+msgstr "Paketet är inte kompatibelt."
+
+msgid "Package too large."
+msgstr "Paketet är för stort."
+
+msgid "Page already exists."
+msgstr "Sidan finns redan."
+
+msgid "Page expired."
+msgstr "Sidan har gått ut."
+
+msgid "Page not found."
+msgstr "Sidan hittades inte."
+
+msgid "Password"
+msgstr "Lösenord"
+
+msgid "Password required."
+msgstr "Lösenord krävs."
+
+msgid "Perform this action?"
+msgstr "Utföra åtgärden?"
+
+msgid "Pin"
+msgstr "Fäst"
+
+msgid "Pinned"
+msgstr "Fäst"
+
+msgid "Plugin file"
+msgstr "Tilläggsfil"
+
+msgid "Plugin missing."
+msgstr "Tillägget saknas."
+
+msgid "Plugins"
+msgstr "Tillägg"
+
+msgid "Preview"
+msgstr "Förhandsvisa"
+
+msgid "Preview domain missing."
+msgstr "Förhandsvisningsdomänen saknas."
+
+msgid "Preview expired."
+msgstr "Förhandsvisningen har gått ut."
+
+msgid "Previous"
+msgstr "Föregående"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Protected"
+msgstr "Skyddad"
+
+msgid "Prune old releases"
+msgstr "Rensa gamla versioner"
+
+msgid "Publication failed."
+msgstr "Publiceringen misslyckades."
+
+msgid "Publish"
+msgstr "Publicera"
+
+msgid "Publish automatically"
+msgstr "Publicera automatiskt"
+
+msgid "Queued"
+msgstr "Köad"
+
+msgid "Read and publish websites."
+msgstr "Läs och publicera webbplatser."
+
+msgid "Read websites."
+msgstr "Läs webbplatser."
+
+msgid "Reader"
+msgstr "Läsare"
+
+msgid "Recent actions"
+msgstr "Senaste åtgärder"
+
+msgid "Recovery codes"
+msgstr "Återställningskoder"
+
+msgid "Redirect URL"
+msgstr "Omdirigeringsadress"
+
+msgid "Register"
+msgstr "Registrera"
+
+msgid "Release changed."
+msgstr "Versionen har ändrats."
+
+msgid "Release changed. Reopen the page."
+msgstr "Versionen har ändrats. Öppna sidan igen."
+
+msgid "Release corrupted."
+msgstr "Versionen är skadad."
+
+msgid "Release not found."
+msgstr "Versionen hittades inte."
+
+msgid "Releases to retain"
+msgstr "Versioner att behålla"
+
+msgid "Renderer missing."
+msgstr "Renderaren saknas."
+
+msgid "Reopen Account."
+msgstr "Öppna Konto igen."
+
+msgid "Request conflict."
+msgstr "Begärandekonflikt."
+
+msgid "Request expired."
+msgstr "Begäran har gått ut."
+
+msgid "Required: %s"
+msgstr "Krävs: %s"
+
+msgid "Restore"
+msgstr "Återställ"
+
+msgid "Retained"
+msgstr "Behållen"
+
+msgid "Retention"
+msgstr "Lagringstid"
+
+msgid "Revoke"
+msgstr "Återkalla"
+
+msgid "Revoke other sessions"
+msgstr "Återkalla andra sessioner"
+
+msgid "Revoked"
+msgstr "Återkallad"
+
+msgid "Role"
+msgstr "Roll"
+
+msgid "Running"
+msgstr "Körs"
+
+msgid "Runs through the worker."
+msgstr "Körs via bakgrundsprocessen."
+
+msgid "SPA routing"
+msgstr "SPA-routning"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Save failed."
+msgstr "Det gick inte att spara."
+
+msgid "Save these codes. They are shown once."
+msgstr "Spara koderna. De visas en gång."
+
+msgid "Save this token. It is shown once."
+msgstr "Spara denna token. Den visas en gång."
+
+msgid "Saved."
+msgstr "Sparat."
+
+msgid "Schedule"
+msgstr "Schema"
+
+msgid "Security"
+msgstr "Säkerhet"
+
+msgid "Session expired."
+msgstr "Sessionen har gått ut."
+
+msgid "Sessions"
+msgstr "Sessioner"
+
+msgid "Set up 2FA"
+msgstr "Ställ in 2FA"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Share"
+msgstr "Dela"
+
+msgid "Share link"
+msgstr "Delningslänk"
+
+msgid "Shared"
+msgstr "Delad"
+
+msgid "Sharing"
+msgstr "Delning"
+
+msgid "Sharing storage (MB)"
+msgstr "Delningslagring (MB)"
+
+msgid "Sign in"
+msgstr "Logga in"
+
+msgid "Sign in failed."
+msgstr "Inloggningen misslyckades."
+
+msgid "Sign in required."
+msgstr "Inloggning krävs."
+
+msgid "Sign out"
+msgstr "Logga ut"
+
+msgid "Size"
+msgstr "Storlek"
+
+msgid "Skip to content"
+msgstr "Hoppa till innehållet"
+
+msgid "Started"
+msgstr "Startad"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Storage"
+msgstr "Lagring"
+
+msgid "Storage limit reached."
+msgstr "Lagringsgränsen har nåtts."
+
+msgid "Storage unavailable."
+msgstr "Lagringen är inte tillgänglig."
+
+msgid "System"
+msgstr "System"
+
+msgid "System busy."
+msgstr "Systemet är upptaget."
+
+msgid "Target"
+msgstr "Mål"
+
+msgid "Temporary password"
+msgstr "Tillfälligt lösenord"
+
+msgid "This account cannot be changed."
+msgstr "Kontot kan inte ändras."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Too many files."
+msgstr "För många filer."
+
+msgid "Too many open changes."
+msgstr "För många öppna ändringar."
+
+msgid "Try again later."
+msgstr "Försök igen senare."
+
+msgid "Unavailable."
+msgstr "Inte tillgänglig."
+
+msgid "Unknown OAuth client."
+msgstr "Okänd OAuth-klient."
+
+msgid "Unknown action."
+msgstr "Okänd åtgärd."
+
+msgid "Unknown job."
+msgstr "Okänt jobb."
+
+msgid "Unknown tool."
+msgstr "Okänt verktyg."
+
+msgid "Unsupported component: %s"
+msgstr "Komponenten stöds inte: %s"
+
+msgid "Until %s"
+msgstr "Till %s"
+
+msgid "Update failed."
+msgstr "Uppdateringen misslyckades."
+
+msgid "Upload"
+msgstr "Ladda upp"
+
+msgid "Upload failed."
+msgstr "Uppladdningen misslyckades."
+
+msgid "Upload too large."
+msgstr "Uppladdningen är för stor."
+
+msgid "Use"
+msgstr "Använd"
+
+msgid "Use POST."
+msgstr "Använd POST."
+
+msgid "User"
+msgstr "Användare"
+
+msgid "User missing."
+msgstr "Användaren saknas."
+
+msgid "Users"
+msgstr "Användare"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version name"
+msgstr "Versionsnamn"
+
+msgid "Versions"
+msgstr "Versioner"
+
+msgid "Website"
+msgstr "Webbplats"
+
+msgid "Website enabled"
+msgstr "Webbplats aktiverad"
+
+msgid "Website file"
+msgstr "Webbplatsfil"
+
+msgid "Website management"
+msgstr "Webbplatshantering"
+
+msgid "Website not found."
+msgstr "Webbplatsen hittades inte."
+
+msgid "Website unavailable."
+msgstr "Webbplatsen är inte tillgänglig."
+
+msgid "Websites"
+msgstr "Webbplatser"
+
+msgid "Welcome to DirectWeb"
+msgstr "Välkommen till DirectWeb"
+
+msgid "Worker: %s"
+msgstr "Bakgrundsprocess: %s"
+
+msgid "index.html missing."
+msgstr "index.html saknas."
+
+msgid "Username"
+msgstr "Användarnamn"
+
+msgid "Authenticator app"
+msgstr "Autentiseringsapp"
+
+msgid "Authenticator code"
+msgstr "Autentiseringskod"
+
+msgid "Authenticator QR code"
+msgstr "QR-kod för autentiseringsapp"
+
+msgid "Scan the QR code."
+msgstr "Skanna QR-koden."
+
+msgid "Current 2FA / recovery code"
+msgstr "Nuvarande 2FA / återställningskod"
+
+msgid "Recovery code"
+msgstr "Återställningskod"
+
+msgid "Verify"
+msgstr "Verifiera"
+
+msgid "Verified"
+msgstr "Verifierad"
+
+msgid "Enabled"
+msgstr "Aktiverad"
+
+msgid "Method"
+msgstr "Metod"
+
+msgid "Send code"
+msgstr "Skicka kod"
+
+msgid "Code sent."
+msgstr "Kod skickad."
+
+msgid "Verification code"
+msgstr "Verifieringskod"
+
+msgid "Mail"
+msgstr "E-post"
+
+msgid "Enable email"
+msgstr "Aktivera e-post"
+
+msgid "SMTP host"
+msgstr "SMTP-server"
+
+msgid "SMTP username"
+msgstr "SMTP-användarnamn"
+
+msgid "SMTP password"
+msgstr "SMTP-lösenord"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Encryption"
+msgstr "Kryptering"
+
+msgid "Sender"
+msgstr "Avsändare"
+
+msgid "Your verification code"
+msgstr "Din verifieringskod"
+
+msgid "Your code: %s"
+msgstr "Din kod: %s"
+
+msgid "Expires in 5 minutes."
+msgstr "Går ut om 5 minuter."
+
+msgid "Email-only users must add an authenticator first."
+msgstr "Användare med enbart e-post måste först lägga till en autentiseringsapp."
+
+msgid "Check SMTP settings."
+msgstr "Kontrollera SMTP-inställningarna."
+
+msgid "SMTP encryption required."
+msgstr "SMTP-kryptering krävs."
+
+msgid "Email is not configured."
+msgstr "E-post har inte konfigurerats."
+
+msgid "Email delivery failed."
+msgstr "E-postleveransen misslyckades."
+
+msgid "Email is not verified."
+msgstr "E-postadressen är inte verifierad."
+
+msgid "Invalid email address."
+msgstr "Ogiltig e-postadress."
+
+msgid "Email already exists."
+msgstr "E-postadressen finns redan."
+
+msgid "Username already exists."
+msgstr "Användarnamnet finns redan."
+
+msgid "Check name, username and password (12+ characters)."
+msgstr "Kontrollera namn, användarnamn och lösenord (minst 12 tecken)."
+
+msgid "Keep at least one available method."
+msgstr "Behåll minst en tillgänglig metod."
+
+msgid "Invalid request."
+msgstr "Ogiltig begäran."
+
+msgid "Account migration failed."
+msgstr "Kontomigreringen misslyckades."
+
+msgid "Account backup failed."
+msgstr "Säkerhetskopiering av kontot misslyckades."
+
+msgid "Dashboard"
+msgstr "Kontrollpanel"
+
+msgid "Add website"
+msgstr "Lägg till webbplats"
+
+msgid "2FA off"
+msgstr "2FA av"
+
+msgid "Two-factor authentication"
+msgstr "Tvåfaktorsautentisering"
+
+msgid "Mail settings"
+msgstr "E-postinställningar"
+
+msgid "Error"
+msgstr "Fel"
+
+msgid "Copied"
+msgstr "Kopierat"
+
+msgid "Copy link"
+msgstr "Kopiera länk"
+
+msgid "Upload progress"
+msgstr "Uppladdningsförlopp"
+
+msgid "Uploading"
+msgstr "Laddar upp"
+
+msgid "Finishing"
+msgstr "Slutför"
+
+msgid "Upload cancelled."
+msgstr "Uppladdningen avbröts."
+
+msgid "File limit exceeded."
+msgstr "Filgränsen har överskridits."
+
+msgid "Transfer limit exceeded."
+msgstr "Överföringsgränsen har överskridits."
+
+msgid "Remove"
+msgstr "Ta bort"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Installed"
+msgstr "Installerad"
+
+msgid "Appearance"
+msgstr "Utseende"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Renderer"
+msgstr "Renderare"
+
+msgid "Plugin"
+msgstr "Tillägg"
+
+msgid "In use"
+msgstr "Används"
+
+msgid "Choose another renderer first."
+msgstr "Välj en annan renderare först."
+
+msgid "Disable to delete."
+msgstr "Inaktivera för att radera."
+
+msgid "Hosting"
+msgstr "Webbhotell"
+
+msgid "Environment"
+msgstr "Miljö"
+
+msgid "Requirements"
+msgstr "Krav"
+
+msgid "Setting"
+msgstr "Inställning"
+
+msgid "Value"
+msgstr "Värde"
+
+msgid "Installation key"
+msgstr "Installationsnyckel"
+
+msgid "Invalid installation key."
+msgstr "Ogiltig installationsnyckel."
+
+msgid "Read the key in storage/database/setup.key using your hosting file manager."
+msgstr "Läs nyckeln i storage/database/setup.key via webbhotellets filhanterare."
+
+msgid "Apache rewrite rules and HTTPS are required for the upload package."
+msgstr "Apache-omskrivningsregler och HTTPS krävs för uppladdningspaketet."
+
+msgid "Additional domains must point to this installation."
+msgstr "Ytterligare domäner måste peka på denna installation."
+
+msgid "Scheduled jobs require a hosting cron task."
+msgstr "Schemalagda jobb kräver en cron-uppgift på webbhotellet."
+
+msgid "Actions"
+msgstr "Åtgärder"
+
+msgid "Add user"
+msgstr "Lägg till användare"
+
+msgid "Add file"
+msgstr "Lägg till fil"
+
+msgid "Edit file"
+msgstr "Redigera fil"
+
+msgid "Delete data"
+msgstr "Radera data"
+
+msgid "Install plugin"
+msgstr "Installera tillägg"
+
+msgid "Import backup"
+msgstr "Importera säkerhetskopia"
+
+msgid "Backup file"
+msgstr "Säkerhetskopiefil"
+
+msgid "Current release"
+msgstr "Nuvarande version"
+
+msgid "Earlier release"
+msgstr "Tidigare version"
+
+msgid "Later release"
+msgstr "Senare version"
+
+msgid "Source release"
+msgstr "Källversion"
+
+msgid "Target website"
+msgstr "Målwebbplats"
+
+msgid "Publish target"
+msgstr "Publicera mål"
+
+msgid "Publish release"
+msgstr "Publicera version"
+
+msgid "Redirects"
+msgstr "Omdirigeringar"
+
+msgid "Revisions"
+msgstr "Revisioner"
+
+msgid "Staging"
+msgstr "Testmiljö"
+
+msgid "Forms"
+msgstr "Formulär"
+
+msgid "Deploy"
+msgstr "Driftsätt"
+
+msgid "Monitor"
+msgstr "Övervakning"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Tasks"
+msgstr "Uppgifter"
+
+msgid "Notifications"
+msgstr "Aviseringar"
+
+msgid "Remote Backups"
+msgstr "Fjärrkopior"
+
+msgid "Databases"
+msgstr "Databaser"
+
+msgid "Hosting Connector"
+msgstr "Webbhotellskoppling"
+
+msgid "From"
+msgstr "Från"
+
+msgid "To"
+msgstr "Till"
+
+msgid "Content file"
+msgstr "Innehållsfil"
+
+msgid "Fields (JSON)"
+msgstr "Fält (JSON)"
+
+msgid "Template"
+msgstr "Mall"
+
+msgid "Output file"
+msgstr "Utdatafil"
+
+msgid "Generate on publish"
+msgstr "Generera vid publicering"
+
+msgid "Public search"
+msgstr "Publik sökning"
+
+msgid "Results"
+msgstr "Resultat"
+
+msgid "Source file"
+msgstr "Källfil"
+
+msgid "Width"
+msgstr "Bredd"
+
+msgid "Height"
+msgstr "Höjd"
+
+msgid "Crop"
+msgstr "Beskär"
+
+msgid "Quality"
+msgstr "Kvalitet"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Fields"
+msgstr "Fält"
+
+msgid "Public form"
+msgstr "Publikt formulär"
+
+msgid "Submissions per hour"
+msgstr "Inskick per timme"
+
+msgid "Retention (days)"
+msgstr "Lagringstid (dagar)"
+
+msgid "Form"
+msgstr "Formulär"
+
+msgid "Received."
+msgstr "Mottaget."
+
+msgid "Artifact URL"
+msgstr "Artefakt-URL"
+
+msgid "Artifact token"
+msgstr "Artefakttoken"
+
+msgid "Provider"
+msgstr "Leverantör"
+
+msgid "Webhook secret"
+msgstr "Webhook-hemlighet"
+
+msgid "Branch"
+msgstr "Gren"
+
+msgid "Interval (minutes)"
+msgstr "Intervall (minuter)"
+
+msgid "Expected status"
+msgstr "Förväntad status"
+
+msgid "Certificate warning (days)"
+msgstr "Certifikatvarning (dagar)"
+
+msgid "Task"
+msgstr "Uppgift"
+
+msgid "Release ID"
+msgstr "Versions-ID"
+
+msgid "Start (UTC)"
+msgstr "Start (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Upprepa (minuter, 0 = en gång)"
+
+msgid "Prune releases"
+msgstr "Rensa versioner"
+
+msgid "Event"
+msgstr "Händelse"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "S3 endpoint"
+msgstr "S3-slutpunkt"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Access key"
+msgstr "Åtkomstnyckel"
+
+msgid "Secret key"
+msgstr "Hemlig nyckel"
+
+msgid "Backup passphrase"
+msgstr "Lösenfras för säkerhetskopian"
+
+msgid "Copies to retain"
+msgstr "Kopior att behålla"
+
+msgid "Backup limit (MB)"
+msgstr "Säkerhetskopiegräns (MB)"
+
+msgid "Upload new backups"
+msgstr "Ladda upp nya säkerhetskopior"
+
+msgid "Object key"
+msgstr "Objektnyckel"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-zon-ID"
+
+msgid "API token"
+msgstr "API-token"
+
+msgid "Record ID"
+msgstr "Post-ID"
+
+msgid "Record ID (optional)"
+msgstr "Post-ID (valfritt)"
+
+msgid "Records (JSON)"
+msgstr "Poster (JSON)"
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Purge after publish"
+msgstr "Rensa efter publicering"
+
+msgid "URLs (empty = all)"
+msgstr "URL:er (tomt = alla)"
+
+msgid "Rule (JSON)"
+msgstr "Regel (JSON)"
+
+msgid "Database"
+msgstr "Databas"
+
+msgid "Host"
+msgstr "Värd"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Inloggningsnyckel"
+
+msgid "Bandwidth (MB)"
+msgstr "Bandbredd (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disk (MB)"
+
+msgid "Mailbox"
+msgstr "Brevlåda"
+
+msgid "Quota (MB)"
+msgstr "Kvot (MB)"
+
+msgid "Details"
+msgstr "Detaljer"
+
+msgid "Export"
+msgstr "Exportera"
+
+msgid "Import"
+msgstr "Importera"
+
+msgid "Close"
+msgstr "Stäng"
+
+msgid "Delete record"
+msgstr "Radera post"
+
+msgid "Save record"
+msgstr "Spara post"
+
+msgid "Records"
+msgstr "Poster"
+
+msgid "Import records"
+msgstr "Importera poster"
+
+msgid "Purge cache"
+msgstr "Rensa cache"
+
+msgid "Cache rules"
+msgstr "Cacheregler"
+
+msgid "Save cache rule"
+msgstr "Spara cacheregel"
+
+msgid "Tables"
+msgstr "Tabeller"
+
+msgid "Import SQL"
+msgstr "Importera SQL"
+
+msgid "Create database"
+msgstr "Skapa databas"
+
+msgid "Domains"
+msgstr "Domäner"
+
+msgid "Add domain"
+msgstr "Lägg till domän"
+
+msgid "Mailboxes"
+msgstr "Brevlådor"
+
+msgid "Add mailbox"
+msgstr "Lägg till brevlåda"
+
+msgid "Certificates"
+msgstr "Certifikat"
+
+msgid "Hosting settings"
+msgstr "Webbhotellsinställningar"
+
+msgid "Compare"
+msgstr "Jämför"
+
+msgid "Copy release"
+msgstr "Kopiera version"
+
+msgid "Scan"
+msgstr "Skanna"
+
+msgid "Create sitemap"
+msgstr "Skapa webbplatskarta"
+
+msgid "Build index"
+msgstr "Bygg index"
+
+msgid "Convert"
+msgstr "Konvertera"
+
+msgid "View submissions"
+msgstr "Visa inskick"
+
+msgid "Check now"
+msgstr "Kontrollera nu"
+
+msgid "History"
+msgstr "Historik"
+
+msgid "Run now"
+msgstr "Kör nu"
+
+msgid "View report"
+msgstr "Visa rapport"
+
+msgid "Inbox"
+msgstr "Inkorg"
+
+msgid "Send test"
+msgstr "Skicka test"
+
+msgid "Upload latest backup"
+msgstr "Ladda upp senaste säkerhetskopian"
+
+msgid "Remote copies"
+msgstr "Fjärrkopior"
+
+msgid "Retrieve backup"
+msgstr "Hämta säkerhetskopia"
+
+msgid "Index files"
+msgstr "Indexfiler"
+
+msgid "403 page"
+msgstr "403-sida"
+
+msgid "404 page"
+msgstr "404-sida"
+
+msgid "500 page"
+msgstr "500-sida"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Password protection"
+msgstr "Lösenordsskydd"
+
+msgid "Hour"
+msgstr "Timme"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Week"
+msgstr "Vecka"
+
+msgid "Download notifications"
+msgstr "Nedladdningsaviseringar"
+
+msgid "Download ZIP"
+msgstr "Ladda ner ZIP"
+
+msgid "File requests"
+msgstr "Filförfrågningar"
+
+msgid "Add request"
+msgstr "Lägg till förfrågan"
+
+msgid "Request"
+msgstr "Förfrågan"
+
+msgid "Requests"
+msgstr "Förfrågningar"
+
+msgid "Expiry"
+msgstr "Utgångstid"
+
+msgid "Endpoint"
+msgstr "Slutpunkt"
+
+msgid "Permissions"
+msgstr "Behörigheter"
+
+msgid "Tokens"
+msgstr "Token"
+
+msgid "Client"
+msgstr "Klient"
+
+msgid "Back"
+msgstr "Tillbaka"
+
+msgid "Updated"
+msgstr "Uppdaterad"
+
+msgid "Field"
+msgstr "Fält"
+
+msgid "Data is retained."
+msgstr "Data behålls."
+
+msgid "A backup is created first."
+msgstr "En säkerhetskopia skapas först."
+
+msgid "Current data is backed up before restoration."
+msgstr "Nuvarande data säkerhetskopieras före återställning."
+
+msgid "Restore queued. Sign in again after completion."
+msgstr "Återställning köad. Logga in igen när den är klar."
+
+msgid "Add a website first."
+msgstr "Lägg till en webbplats först."
+
+msgid "Complete required fields."
+msgstr "Fyll i obligatoriska fält."
+
+msgid "Record changed. Reopen the page."
+msgstr "Posten har ändrats. Öppna sidan igen."
+
+msgid "Record not found."
+msgstr "Posten hittades inte."
+
+msgid "Record changed."
+msgstr "Posten har ändrats."
+
+msgid "Invalid value."
+msgstr "Ogiltigt värde."
+
+msgid "Value out of range."
+msgstr "Värdet ligger utanför intervallet."
+
+msgid "Choose a website."
+msgstr "Välj en webbplats."
+
+msgid "Choose another website."
+msgstr "Välj en annan webbplats."
+
+msgid "Action unavailable."
+msgstr "Åtgärden är inte tillgänglig."
+
+msgid "Operation not granted."
+msgstr "Åtgärden är inte beviljad."
+
+msgid "Read only."
+msgstr "Skrivskyddad."
+
+msgid "Redirect loop."
+msgstr "Omdirigeringsloop."
+
+msgid "Redirect already exists."
+msgstr "Omdirigeringen finns redan."
+
+msgid "Connection failed."
+msgstr "Anslutningen misslyckades."
+
+msgid "Connection timed out."
+msgstr "Anslutningen tog för lång tid."
+
+msgid "Enable the GD extension."
+msgstr "Aktivera GD-tillägget."
+
+msgid "Enable the DOM extension."
+msgstr "Aktivera DOM-tillägget."
+
+msgid "Enable PDO MySQL."
+msgstr "Aktivera PDO MySQL."
+
+msgid "Create a backup first."
+msgstr "Skapa en säkerhetskopia först."
+
+msgid "Backup exceeds remote limit."
+msgstr "Säkerhetskopian överskrider fjärrgränsen."
+
+msgid "Backup decryption failed."
+msgstr "Dekryptering av säkerhetskopian misslyckades."
+
+msgid "Use an HTTPS URL."
+msgstr "Använd en HTTPS-adress."
+
+msgid "Invalid JSON."
+msgstr "Ogiltig JSON."
+
+msgid "Token already shown."
+msgstr "Token har redan visats."
+
+msgid "Token missing."
+msgstr "Token saknas."
+
+msgid "Client missing."
+msgstr "Klienten saknas."
+
+msgid "Edit content"
+msgstr "Redigera innehåll"
+
+msgid "Request certificate"
+msgstr "Begär certifikat"
+
+msgid "Change hosting setting"
+msgstr "Ändra webbhotellsinställning"
+
+msgid "Hosting settings unavailable."
+msgstr "Webbhotellsinställningarna är inte tillgängliga."
+
+msgid "Description"
+msgstr "Beskrivning"
+
+msgid "Disable email 2FA before removing the authenticator."
+msgstr "Inaktivera 2FA via e-post innan du tar bort autentiseringsappen."
+
+msgid "Draft"
+msgstr "Utkast"
+
+msgid "Replace current data"
+msgstr "Ersätt nuvarande data"
+
+msgid "Confirm restoration."
+msgstr "Bekräfta återställning."
+
+msgid "Backup in use."
+msgstr "Säkerhetskopian används."
+
+msgid "Delete backup"
+msgstr "Radera säkerhetskopia"
+
+msgid "Scheduled"
+msgstr "Schemalagd"
+
+msgid "Publishing"
+msgstr "Publicering"
+
+msgid "Change website"
+msgstr "Byt webbplats"
+
+msgid "HTML website manager"
+msgstr "HTML-webbplatshanterare"
+
+msgid "Import existing versions. Original files remain available."
+msgstr "Importera befintliga versioner. Originalfilerna finns kvar."
+
+msgid "Manage accounts and security in WordPress."
+msgstr "Hantera konton och säkerhet i WordPress."
+
+msgid "Background jobs use WordPress cron."
+msgstr "Bakgrundsjobb använder WordPress cron."
+
+msgid "Choose a published website on this domain."
+msgstr "Välj en publicerad webbplats på denna domän."
+
+msgid "Plugin management is disabled in WordPress."
+msgstr "Tilläggshantering är inaktiverad i WordPress."
+
+msgid "Preview unavailable."
+msgstr "Förhandsvisningen är inte tillgänglig."

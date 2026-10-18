@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Source release"
+msgstr "Εκδοση προέλευσης"
+
+msgid "Publish target"
+msgstr "Δημοσίευση προορισμού"
+
+msgid "Staging"
+msgstr "Περιβάλλον δοκιμών"
+
+msgid "Copy release"
+msgstr "Αντιγραφή έκδοσης"
+
+msgid "Choose another website."
+msgstr "Επιλέξτε έναν άλλο ιστότοπο."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Αντιγράφει εκδόσεις ιστότοπου σε ξεχωριστό ιστότοπο δοκιμών."

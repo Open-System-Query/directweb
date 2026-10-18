@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hosting Connector"
+msgstr "Σύνδεση φιλοξενίας"
+
+msgid "Database"
+msgstr "Βάση δεδομένων"
+
+msgid "DirectAdmin URL"
+msgstr "Διεύθυνση URL DirectAdmin"
+
+msgid "Login key"
+msgstr "Κλειδί σύνδεσης"
+
+msgid "Bandwidth (MB)"
+msgstr "Κίνηση δεδομένων (MB)"
+
+msgid "Disk (MB)"
+msgstr "Δίσκος (MB)"
+
+msgid "Mailbox"
+msgstr "Γραμματοκιβώτιο"
+
+msgid "Quota (MB)"
+msgstr "Ποσόστωση (MB)"
+
+msgid "Create database"
+msgstr "Δημιουργία βάσης δεδομένων"
+
+msgid "Domains"
+msgstr "Τομείς"
+
+msgid "Add domain"
+msgstr "Προσθήκη τομέα"
+
+msgid "Mailboxes"
+msgstr "Γραμματοκιβώτια"
+
+msgid "Add mailbox"
+msgstr "Προσθήκη γραμματοκιβωτίου"
+
+msgid "Certificates"
+msgstr "Πιστοποιητικά"
+
+msgid "Hosting settings"
+msgstr "Ρυθμίσεις φιλοξενίας"
+
+msgid "Request certificate"
+msgstr "Αίτημα πιστοποιητικού"
+
+msgid "Change hosting setting"
+msgstr "Αλλάξτε τη ρύθμιση φιλοξενίας"
+
+msgid "Setting"
+msgstr "Ρύθμιση"
+
+msgid "Hosting settings unavailable."
+msgstr "Οι ρυθμίσεις φιλοξενίας δεν είναι διαθέσιμες."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Διαχείριση υπηρεσιών φιλοξενίας μέσω του DirectAdmin."

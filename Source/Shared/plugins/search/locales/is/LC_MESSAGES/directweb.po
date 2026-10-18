@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Search"
+msgstr "Leit"
+
+msgid "Public search"
+msgstr "Opin leit"
+
+msgid "Results"
+msgstr "Niðurstöður"
+
+msgid "Build index"
+msgstr "Búa til atriðaskrá"
+
+msgid "Add public search to your websites."
+msgstr "Bættu opinni leit við vefina þína."

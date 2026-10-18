@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remote Backups"
+msgstr "Fjernsikkerhedskopier"
+
+msgid "S3 endpoint"
+msgstr "S3-endpoint"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Access key"
+msgstr "Adgangsnøgle"
+
+msgid "Secret key"
+msgstr "Hemmelig nøgle"
+
+msgid "Backup passphrase"
+msgstr "Adgangssætning til sikkerhedskopi"
+
+msgid "Copies to retain"
+msgstr "Kopier der beholdes"
+
+msgid "Backup limit (MB)"
+msgstr "Sikkerhedskopigrænse (MB)"
+
+msgid "Upload new backups"
+msgstr "Upload nye sikkerhedskopier"
+
+msgid "Object key"
+msgstr "Objektnøgle"
+
+msgid "Upload latest backup"
+msgstr "Upload seneste sikkerhedskopi"
+
+msgid "Remote copies"
+msgstr "Fjernkopier"
+
+msgid "Retrieve backup"
+msgstr "Hent sikkerhedskopi"
+
+msgid "Create a backup first."
+msgstr "Opret først en sikkerhedskopi."
+
+msgid "Backup exceeds remote limit."
+msgstr "Sikkerhedskopien overskrider grænsen for fjernlageret."
+
+msgid "Backup decryption failed."
+msgstr "Dekryptering af sikkerhedskopien mislykkedes."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Gem krypterede sikkerhedskopier i S3-kompatibelt lager."

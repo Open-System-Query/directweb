@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Language: de\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-Zonen-ID"
+
+msgid "API token"
+msgstr "API-Token"
+
+msgid "Record ID"
+msgstr "Eintrags-ID"
+
+msgid "Record ID (optional)"
+msgstr "Eintrags-ID (optional)"
+
+msgid "Records (JSON)"
+msgstr "Einträge (JSON)"
+
+msgid "Priority"
+msgstr "Priorität"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Delete record"
+msgstr "Eintrag löschen"
+
+msgid "Save record"
+msgstr "Eintrag speichern"
+
+msgid "Records"
+msgstr "Einträge"
+
+msgid "Import records"
+msgstr "Einträge importieren"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "DNS-Einträge über Cloudflare verwalten."

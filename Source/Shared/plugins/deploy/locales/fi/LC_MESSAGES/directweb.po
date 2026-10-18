@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Deploy"
+msgstr "Ota käyttöön"
+
+msgid "Artifact URL"
+msgstr "Koontipaketin URL"
+
+msgid "Artifact token"
+msgstr "Koontipaketin tunniste"
+
+msgid "Provider"
+msgstr "Palveluntarjoaja"
+
+msgid "Webhook secret"
+msgstr "Webhook-salaisuus"
+
+msgid "Branch"
+msgstr "Haara"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Julkaise koontitiedostoja GitHubista tai GitLabista."

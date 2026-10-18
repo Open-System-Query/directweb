@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Language: de\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Monitor"
+msgstr "Überwachung"
+
+msgid "Interval (minutes)"
+msgstr "Intervall (Minuten)"
+
+msgid "Expected status"
+msgstr "Erwarteter Status"
+
+msgid "Certificate warning (days)"
+msgstr "Zertifikatswarnung (Tage)"
+
+msgid "Check now"
+msgstr "Jetzt prüfen"
+
+msgid "History"
+msgstr "Verlauf"
+
+msgid "Use an HTTPS URL."
+msgstr "Verwenden Sie eine HTTPS-URL."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Erreichbarkeit und Zertifikatsablauf prüfen."

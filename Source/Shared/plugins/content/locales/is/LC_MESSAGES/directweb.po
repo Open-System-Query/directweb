@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Content"
+msgstr "Efni"
+
+msgid "Content file"
+msgstr "Efnisskrá"
+
+msgid "Fields (JSON)"
+msgstr "Reitir (JSON)"
+
+msgid "Template"
+msgstr "Sniðmát"
+
+msgid "Output file"
+msgstr "Úttaksskrá"
+
+msgid "Fields"
+msgstr "Reitir"
+
+msgid "Invalid value."
+msgstr "Ógilt gildi."
+
+msgid "Edit content"
+msgstr "Breyta efni"
+
+msgid "Edit content and publish website updates."
+msgstr "Breyttu efni og birtu vefuppfærslur."

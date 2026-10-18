@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Earlier release"
+msgstr "Staršia verzia"
+
+msgid "Later release"
+msgstr "Novšia verzia"
+
+msgid "Revisions"
+msgstr "Revízie"
+
+msgid "Compare"
+msgstr "Porovnať"
+
+msgid "Compare files and changes between website versions."
+msgstr "Porovnajte súbory a zmeny medzi verziami webových stránok."

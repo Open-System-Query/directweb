@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Generate on publish"
+msgstr "Luo julkaistaessa"
+
+msgid "Scan"
+msgstr "Skannaa"
+
+msgid "Create sitemap"
+msgstr "Luo sivustokartta"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Tarkista metatiedot ja luo sivustokarttoja sekä robots.txt."

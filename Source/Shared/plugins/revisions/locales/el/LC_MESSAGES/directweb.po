@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Earlier release"
+msgstr "Προηγούμενη έκδοση"
+
+msgid "Later release"
+msgstr "Μεταγενέστερη έκδοση"
+
+msgid "Revisions"
+msgstr "Αναθεωρήσεις"
+
+msgid "Compare"
+msgstr "Σύγκριση"
+
+msgid "Compare files and changes between website versions."
+msgstr "Συγκρίνετε αρχεία και αλλαγές μεταξύ των εκδόσεων ιστότοπου."

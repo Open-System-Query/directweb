@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Φάκελοι"
+
+msgid "Folder"
+msgstr "Φάκελος"
+
+msgid "Add folder"
+msgstr "Προσθήκη φακέλου"
+
+msgid "Server path"
+msgstr "Διαδρομή διακομιστή"
+
+msgid "Server"
+msgstr "Διακομιστής"
+
+msgid "Location"
+msgstr "Τοποθεσία"
+
+msgid "Subfolders"
+msgstr "Υποφάκελοι"
+
+msgid "Rules"
+msgstr "Κανόνες"
+
+msgid "Directory listing"
+msgstr "Περιεχόμενα καταλόγου"
+
+msgid "Inherit"
+msgstr "Κληρονόμηση"
+
+msgid "On"
+msgstr "Ενεργό"
+
+msgid "Selected IP addresses"
+msgstr "Επιλεγμένες διευθύνσεις IP"
+
+msgid "IP addresses"
+msgstr "Διευθύνσεις IP"
+
+msgid "Current"
+msgstr "Τρέχον"
+
+msgid "New"
+msgstr "Νέο"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "Choose a readable folder."
+msgstr "Επιλέξτε έναν αναγνώσιμο φάκελο."
+
+msgid "Choose a hosting folder."
+msgstr "Επιλέξτε έναν φάκελο φιλοξενίας."
+
+msgid "Folder already added."
+msgstr "Ο φάκελος έχει ήδη προστεθεί."
+
+msgid "Folder missing."
+msgstr "Λείπει ο φάκελος."
+
+msgid "Folder changed."
+msgstr "Ο φάκελος άλλαξε."
+
+msgid "Symbolic links are not supported."
+msgstr "Οι συμβολικοί σύνδεσμοι δεν υποστηρίζονται."
+
+msgid "DirectWeb folders are protected."
+msgstr "Οι φάκελοι DirectWeb προστατεύονται."
+
+msgid "Folder is not writable."
+msgstr "Ο φάκελος δεν είναι εγγράψιμος."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Δεν είναι δυνατή η διαχείριση αυτού του αρχείου .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Ελέγξτε τις διευθύνσεις IP."
+
+msgid "File changed outside DirectWeb."
+msgstr "Το αρχείο άλλαξε εκτός του DirectWeb."
+
+msgid "Preview expired."
+msgstr "Η προεπισκόπηση έληξε."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Απαιτούνται δικαιώματα Apache 2.4 και AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Αυτοί οι κανόνες ισχύουν για φυσικούς φακέλους που εξυπηρετούνται από τον διακομιστή ιστού."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Διαχειριστείτε την πρόσβαση φακέλων, την προσωρινή αποθήκευση και τις σελίδες σφαλμάτων."

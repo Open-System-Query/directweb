@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Monitor"
+msgstr "Моніторинг"
+
+msgid "Interval (minutes)"
+msgstr "Інтервал (хвилини)"
+
+msgid "Expected status"
+msgstr "Очікуваний статус"
+
+msgid "Certificate warning (days)"
+msgstr "Попередження про сертифікат (днів)"
+
+msgid "Check now"
+msgstr "Перевір зараз"
+
+msgid "History"
+msgstr "Історія"
+
+msgid "Use an HTTPS URL."
+msgstr "Використовуйте URL-адресу HTTPS."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Перевірте доступність веб-сайту та термін дії сертифіката."

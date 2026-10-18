@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Access denied."
+msgstr "Acces refuzat."
+
+msgid "Active"
+msgstr "Activ"
+
+msgid "Check the input."
+msgstr "Verifică datele introduse."
+
+msgid "Days"
+msgstr "Zile"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Limită de descărcare (0 = nelimitat)"
+
+msgid "Downloads"
+msgstr "Descărcări"
+
+msgid "Expired"
+msgstr "A expirat"
+
+msgid "Expires"
+msgstr "Expiră"
+
+msgid "File not found."
+msgstr "Fișierul nu a fost găsit."
+
+msgid "File unavailable."
+msgstr "Fișier indisponibil."
+
+msgid "Files"
+msgstr "Fișiere"
+
+msgid "Invalid filename."
+msgstr "Nume de fișier nevalid."
+
+msgid "Invalid password."
+msgstr "Parolă nevalidă."
+
+msgid "Link unavailable."
+msgstr "Link indisponibil."
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "Password"
+msgstr "Parolă"
+
+msgid "Password required."
+msgstr "Este necesară parola."
+
+msgid "Revoke"
+msgstr "Revocare"
+
+msgid "Revoked"
+msgstr "Revocat"
+
+msgid "Save failed."
+msgstr "Salvarea nu a reușit."
+
+msgid "Share"
+msgstr "Distribuie"
+
+msgid "Share link"
+msgstr "Distribuiți linkul"
+
+msgid "Shared"
+msgstr "Partajat"
+
+msgid "Sharing"
+msgstr "Partajare"
+
+msgid "Status"
+msgstr "Stare"
+
+msgid "Storage limit reached."
+msgstr "Limita de stocare a fost atinsă."
+
+msgid "Upload failed."
+msgstr "Încărcarea nu a reușit."
+
+msgid "File transfer"
+msgstr "Transfer de fișiere"
+
+msgid "Receive"
+msgstr "Primește"
+
+msgid "Send"
+msgstr "Trimite"
+
+msgid "Code"
+msgstr "Cod"
+
+msgid "Send files"
+msgstr "Trimiteți fișiere"
+
+msgid "Sign in to upload files."
+msgstr "Conectați-vă pentru a încărca fișiere."
+
+msgid "Used"
+msgstr "Utilizat"
+
+msgid "Per file"
+msgstr "Per fișier"
+
+msgid "Per transfer"
+msgstr "Per transfer"
+
+msgid "Transfers"
+msgstr "Transferuri"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Manage"
+msgstr "Gestionați"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Open portal"
+msgstr "Deschide portalul"
+
+msgid "Sharing settings"
+msgstr "Setări de partajare"
+
+msgid "Limits"
+msgstr "Limite"
+
+msgid "Public portal"
+msgstr "Portal public"
+
+msgid "Guest uploads"
+msgstr "Încărcări pentru vizitatori"
+
+msgid "Require download password"
+msgstr "Solicită parola de descărcare"
+
+msgid "File limit (MB)"
+msgstr "Limită de fișiere (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Limită de transfer (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Limită de stocare (MB)"
+
+msgid "Files per transfer"
+msgstr "Fișiere per transfer"
+
+msgid "Default expiry (hours)"
+msgstr "Expirare implicită (ore)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Expirare maximă (ore)"
+
+msgid "Uploads per hour per IP"
+msgstr "Încărcări pe oră pe IP"
+
+msgid "Expires in (hours)"
+msgstr "Expiră în (ore)"
+
+msgid "Download password"
+msgstr "Parolă de descărcare"
+
+msgid "Check sharing limits."
+msgstr "Verificați limitele de partajare."
+
+msgid "Check transfer settings."
+msgstr "Verificați setările de transfer."
+
+msgid "Upload expired."
+msgstr "Încărcarea a expirat."
+
+msgid "Invalid upload chunk."
+msgstr "Secțiune de încărcare nevalidă."
+
+msgid "Upload position changed."
+msgstr "Poziția de încărcare a fost schimbată."
+
+msgid "Upload too large."
+msgstr "Încărcați prea mare."
+
+msgid "Upload incomplete."
+msgstr "Încărcare incompletă."
+
+msgid "Share files with short links and upload requests."
+msgstr "Partajați fișiere cu link-uri scurte și solicitări de încărcare."

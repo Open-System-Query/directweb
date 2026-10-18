@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Language: fr\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Statistics"
+msgstr "Statistiques"
+
+msgid "Retention (days)"
+msgstr "Conservation (jours)"
+
+msgid "View report"
+msgstr "Voir le rapport"
+
+msgid "View page requests, downloads and missing pages."
+msgstr "Consultez les requêtes, téléchargements et pages introuvables."

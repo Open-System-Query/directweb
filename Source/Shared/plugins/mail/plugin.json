@@ -1,0 +1,14 @@
+{
+  "id": "mail",
+  "name": "Mail",
+  "version": "1.0",
+  "type": "plugin",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "plugin.php",
+  "min_core": "1.0",
+  "settings": [
+    "mail"
+  ],
+  "description": "Send verification codes and notifications through SMTP."
+}

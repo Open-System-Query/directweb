@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Databases"
+msgstr "Бази данни"
+
+msgid "Database"
+msgstr "База данни"
+
+msgid "Host"
+msgstr "Сървър"
+
+msgid "Export"
+msgstr "Експортиране"
+
+msgid "Tables"
+msgstr "Таблици"
+
+msgid "Import SQL"
+msgstr "Импортиране на SQL"
+
+msgid "Create database"
+msgstr "Създайте база данни"
+
+msgid "Enable PDO MySQL."
+msgstr "Активирайте PDO MySQL."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "Управление на MySQL бази данни, импортиране и експортиране."

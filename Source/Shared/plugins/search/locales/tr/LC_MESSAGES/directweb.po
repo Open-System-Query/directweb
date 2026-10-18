@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Public search"
+msgstr "Genel arama"
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "Build index"
+msgstr "Dizin oluştur"
+
+msgid "Add public search to your websites."
+msgstr "Web sitelerinize genel arama ekleyin."

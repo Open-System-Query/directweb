@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Access denied."
+msgstr "Доступ заборонено."
+
+msgid "Active"
+msgstr "Активно"
+
+msgid "Check the input."
+msgstr "Перевірте введені дані."
+
+msgid "Days"
+msgstr "Днів"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Обмеження завантажень (0 = необмежено)"
+
+msgid "Downloads"
+msgstr "Завантаження"
+
+msgid "Expired"
+msgstr "Термін дії минув"
+
+msgid "Expires"
+msgstr "Термін дії закінчується"
+
+msgid "File not found."
+msgstr "Файл не знайдено."
+
+msgid "File unavailable."
+msgstr "Файл недоступний."
+
+msgid "Files"
+msgstr "Файли"
+
+msgid "Invalid filename."
+msgstr "Недійсна назва файлу."
+
+msgid "Invalid password."
+msgstr "Невірний пароль."
+
+msgid "Link unavailable."
+msgstr "Посилання недоступне."
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password required."
+msgstr "Потрібен пароль."
+
+msgid "Revoke"
+msgstr "Відкликати"
+
+msgid "Revoked"
+msgstr "Відкликано"
+
+msgid "Save failed."
+msgstr "Не вдалося зберегти."
+
+msgid "Share"
+msgstr "Поділитися"
+
+msgid "Share link"
+msgstr "Поділитися посиланням"
+
+msgid "Shared"
+msgstr "Спільний доступ"
+
+msgid "Sharing"
+msgstr "Обмін"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Storage limit reached."
+msgstr "Досягнуто ліміту пам’яті."
+
+msgid "Upload failed."
+msgstr "Помилка завантаження."
+
+msgid "File transfer"
+msgstr "Передача файлів"
+
+msgid "Receive"
+msgstr "Отримати"
+
+msgid "Send"
+msgstr "Надіслати"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Send files"
+msgstr "Надсилати файли"
+
+msgid "Sign in to upload files."
+msgstr "Увійдіть, щоб завантажити файли."
+
+msgid "Used"
+msgstr "Використано"
+
+msgid "Per file"
+msgstr "За файл"
+
+msgid "Per transfer"
+msgstr "На передачу"
+
+msgid "Transfers"
+msgstr "Передачі"
+
+msgid "Transfer"
+msgstr "Передача"
+
+msgid "Manage"
+msgstr "Керувати"
+
+msgid "Portal"
+msgstr "Портал"
+
+msgid "Open portal"
+msgstr "Відкрити портал"
+
+msgid "Sharing settings"
+msgstr "Налаштування спільного доступу"
+
+msgid "Limits"
+msgstr "Обмеження"
+
+msgid "Public portal"
+msgstr "Громадський портал"
+
+msgid "Guest uploads"
+msgstr "Вивантаження гостей"
+
+msgid "Require download password"
+msgstr "Вимагати пароль для завантаження"
+
+msgid "File limit (MB)"
+msgstr "Ліміт файлів (МБ)"
+
+msgid "Transfer limit (MB)"
+msgstr "Ліміт передачі (МБ)"
+
+msgid "Storage limit (MB)"
+msgstr "Ліміт сховища (МБ)"
+
+msgid "Files per transfer"
+msgstr "Файлів на передачу"
+
+msgid "Default expiry (hours)"
+msgstr "Термін дії за умовчанням (годин)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Максимальний термін дії (годин)"
+
+msgid "Uploads per hour per IP"
+msgstr "Завантажень на годину на IP"
+
+msgid "Expires in (hours)"
+msgstr "Термін дії закінчується через (годин)"
+
+msgid "Download password"
+msgstr "Пароль завантаження"
+
+msgid "Check sharing limits."
+msgstr "Перевірте обмеження спільного доступу."
+
+msgid "Check transfer settings."
+msgstr "Перевірте налаштування передачі."
+
+msgid "Upload expired."
+msgstr "Термін дії завантаження минув."
+
+msgid "Invalid upload chunk."
+msgstr "Недійсний фрагмент завантаження."
+
+msgid "Upload position changed."
+msgstr "Позицію завантаження змінено."
+
+msgid "Upload too large."
+msgstr "Завантажений файл завеликий."
+
+msgid "Upload incomplete."
+msgstr "Завантаження не завершено."
+
+msgid "Share files with short links and upload requests."
+msgstr "Діліться файлами за допомогою коротких посилань і запитів на завантаження."

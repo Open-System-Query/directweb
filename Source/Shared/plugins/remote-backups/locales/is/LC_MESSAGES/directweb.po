@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Remote Backups"
+msgstr "Fjarlæg öryggisafrit"
+
+msgid "S3 endpoint"
+msgstr "S3-endapunktur"
+
+msgid "Bucket"
+msgstr "Geymsluhólf"
+
+msgid "Region"
+msgstr "Svæði"
+
+msgid "Access key"
+msgstr "Aðgangslykill"
+
+msgid "Secret key"
+msgstr "Leyndarlykill"
+
+msgid "Backup passphrase"
+msgstr "Lykilsetning öryggisafrits"
+
+msgid "Copies to retain"
+msgstr "Afrit til varðveislu"
+
+msgid "Backup limit (MB)"
+msgstr "Öryggisafritsmörk (MB)"
+
+msgid "Upload new backups"
+msgstr "Hlaða upp nýjum öryggisafritum"
+
+msgid "Object key"
+msgstr "Hlutalykill"
+
+msgid "Upload latest backup"
+msgstr "Hlaða upp nýjasta öryggisafriti"
+
+msgid "Remote copies"
+msgstr "Fjarlæg afrit"
+
+msgid "Retrieve backup"
+msgstr "Sækja öryggisafrit"
+
+msgid "Create a backup first."
+msgstr "Búðu fyrst til öryggisafrit."
+
+msgid "Backup exceeds remote limit."
+msgstr "Öryggisafrit fer yfir mörk fjargeymslu."
+
+msgid "Backup decryption failed."
+msgstr "Afkóðun öryggisafrits mistókst."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Geymdu dulkóðuð öryggisafrit í S3-samhæfri geymslu."

@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Publish release"
+msgstr "Versie publiceren"
+
+msgid "Tasks"
+msgstr "Taken"
+
+msgid "Task"
+msgstr "Taak"
+
+msgid "Release ID"
+msgstr "Versie-ID"
+
+msgid "Start (UTC)"
+msgstr "Start (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Herhaling (minuten, 0 = eenmalig)"
+
+msgid "Prune releases"
+msgstr "Versies opschonen"
+
+msgid "Run now"
+msgstr "Nu uitvoeren"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Plan publicaties, back-ups en versieopruiming."

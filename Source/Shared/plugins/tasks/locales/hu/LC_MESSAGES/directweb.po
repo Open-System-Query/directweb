@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Publish release"
+msgstr "Verzió közzététele"
+
+msgid "Tasks"
+msgstr "Feladatok"
+
+msgid "Task"
+msgstr "Feladat"
+
+msgid "Release ID"
+msgstr "Verzióazonosító"
+
+msgid "Start (UTC)"
+msgstr "Kezdés (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Ismétlés (perc, 0 = egyszer)"
+
+msgid "Prune releases"
+msgstr "Verziók tisztítása"
+
+msgid "Run now"
+msgstr "Futtatás most"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Ütemezze a közzétételt, a biztonsági mentéseket és a verziótisztítást."

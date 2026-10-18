@@ -1,0 +1,1661 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: de\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "2FA / recovery code"
+msgstr "2FA / Wiederherstellungscode"
+
+msgid "2FA enabled"
+msgstr "2FA aktiviert"
+
+msgid "2FA is already enabled."
+msgstr "2FA ist bereits aktiviert."
+
+msgid "2FA required"
+msgstr "2FA erforderlich"
+
+msgid "Access"
+msgstr "Zugriff"
+
+msgid "Access denied."
+msgstr "Zugriff verweigert."
+
+msgid "Access token"
+msgstr "Zugriffstoken"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Account created."
+msgstr "Konto erstellt."
+
+msgid "Account enabled"
+msgstr "Konto aktiviert"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Action already exists."
+msgstr "Aktion existiert bereits."
+
+msgid "Action failed."
+msgstr "Aktion fehlgeschlagen."
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Activity"
+msgstr "Aktivität"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Add this key to your authenticator."
+msgstr "Diesen Schlüssel in der Authenticator-App hinzufügen."
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Allow"
+msgstr "Erlauben"
+
+msgid "Already installed."
+msgstr "Bereits installiert."
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "Backup"
+msgstr "Sicherung"
+
+msgid "Backup corrupted."
+msgstr "Sicherung beschädigt."
+
+msgid "Backup failed."
+msgstr "Sicherung fehlgeschlagen."
+
+msgid "Backup incomplete."
+msgstr "Sicherung unvollständig."
+
+msgid "Backup missing."
+msgstr "Sicherung fehlt."
+
+msgid "Backup queued."
+msgstr "Sicherung eingeplant."
+
+msgid "Backup too large."
+msgstr "Sicherung zu groß."
+
+msgid "Backups"
+msgstr "Sicherungen"
+
+msgid "Blocked"
+msgstr "Gesperrt"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Change is closed."
+msgstr "Änderung ist abgeschlossen."
+
+msgid "Change not found."
+msgstr "Änderung nicht gefunden."
+
+msgid "Change password"
+msgstr "Passwort ändern"
+
+msgid "Check account and password (12+ characters)."
+msgstr "Konto und Passwort prüfen (mindestens 12 Zeichen)."
+
+msgid "Check name and domain."
+msgstr "Name und Domain prüfen."
+
+msgid "Check name, email and password (12+ characters)."
+msgstr "Name, E-Mail und Passwort prüfen (mindestens 12 Zeichen)."
+
+msgid "Check the input."
+msgstr "Eingabe prüfen."
+
+msgid "Check the password (12+ characters)."
+msgstr "Passwort prüfen (mindestens 12 Zeichen)."
+
+msgid "Choose a file."
+msgstr "Datei auswählen."
+
+msgid "Choose a renderer."
+msgstr "Renderer auswählen."
+
+msgid "Client ID"
+msgstr "Client-ID"
+
+msgid "Clients"
+msgstr "Clients"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Completed"
+msgstr "Abgeschlossen"
+
+msgid "Confirm"
+msgstr "Bestätigen"
+
+msgid "Connection"
+msgstr "Verbindung"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Continue"
+msgstr "Weiter"
+
+msgid "Copy failed."
+msgstr "Kopieren fehlgeschlagen."
+
+msgid "Create"
+msgstr "Erstellen"
+
+msgid "Create access"
+msgstr "Zugang erstellen"
+
+msgid "Create backup"
+msgstr "Sicherung erstellen"
+
+msgid "Create your administrator account."
+msgstr "Administratorkonto erstellen."
+
+msgid "Current password"
+msgstr "Aktuelles Passwort"
+
+msgid "Daily backup"
+msgstr "Tägliche Sicherung"
+
+msgid "Database backup failed."
+msgstr "Datenbanksicherung fehlgeschlagen."
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete failed."
+msgstr "Löschen fehlgeschlagen."
+
+msgid "Delete file"
+msgstr "Datei löschen"
+
+msgid "Destination must be empty."
+msgstr "Zielordner muss leer sein."
+
+msgid "Disable"
+msgstr "Deaktivieren"
+
+msgid "Disable the plugin first."
+msgstr "Plugin zuerst deaktivieren."
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid "Domain already exists."
+msgstr "Domain existiert bereits."
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Downloadlimit (0 = unbegrenzt)"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Duplicate file."
+msgstr "Doppelte Datei."
+
+msgid "Duplicate filename."
+msgstr "Doppelter Dateiname."
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Editor"
+msgstr "Redakteur"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Enable"
+msgstr "Aktivieren"
+
+msgid "Enable 2FA."
+msgstr "2FA aktivieren."
+
+msgid "Entry point missing."
+msgstr "Einstiegspunkt fehlt."
+
+msgid "Everything in its place."
+msgstr "Alles an seinem Platz."
+
+msgid "Expired"
+msgstr "Abgelaufen"
+
+msgid "Expires"
+msgstr "Läuft ab"
+
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+msgid "External backup failed."
+msgstr "Externe Sicherung fehlgeschlagen."
+
+msgid "Extraction failed."
+msgstr "Entpacken fehlgeschlagen."
+
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+msgid "File"
+msgstr "Datei"
+
+msgid "File not found."
+msgstr "Datei nicht gefunden."
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Datei zu groß für MCP (256 KB)."
+
+msgid "File too large."
+msgstr "Datei zu groß."
+
+msgid "File type not allowed: %s"
+msgstr "Dateityp nicht erlaubt: %s"
+
+msgid "File unavailable."
+msgstr "Datei nicht verfügbar."
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Grant access"
+msgstr "Zugriff gewähren"
+
+msgid "HTTPS required."
+msgstr "HTTPS erforderlich."
+
+msgid "In use: %s"
+msgstr "In Verwendung: %s"
+
+msgid "Install"
+msgstr "Installieren"
+
+msgid "Install / update"
+msgstr "Installieren / aktualisieren"
+
+msgid "Install DirectWeb."
+msgstr "DirectWeb installieren."
+
+msgid "Install through the command line."
+msgstr "Über die Befehlszeile installieren."
+
+msgid "Install trusted plugins only."
+msgstr "Nur vertrauenswürdige Plugins installieren."
+
+msgid "Installation failed."
+msgstr "Installation fehlgeschlagen."
+
+msgid "Invalid OAuth request."
+msgstr "Ungültige OAuth-Anfrage."
+
+msgid "Invalid ZIP."
+msgstr "Ungültige ZIP-Datei."
+
+msgid "Invalid access."
+msgstr "Ungültiger Zugang."
+
+msgid "Invalid backup path."
+msgstr "Ungültiger Sicherungspfad."
+
+msgid "Invalid backup."
+msgstr "Ungültige Sicherung."
+
+msgid "Invalid code."
+msgstr "Ungültiger Code."
+
+msgid "Invalid domain."
+msgstr "Ungültige Domain."
+
+msgid "Invalid file."
+msgstr "Ungültige Datei."
+
+msgid "Invalid filename."
+msgstr "Ungültiger Dateiname."
+
+msgid "Invalid input or action failed."
+msgstr "Ungültige Eingabe oder Aktion fehlgeschlagen."
+
+msgid "Invalid key."
+msgstr "Ungültiger Schlüssel."
+
+msgid "Invalid message."
+msgstr "Ungültige Nachricht."
+
+msgid "Invalid package."
+msgstr "Ungültiges Paket."
+
+msgid "Invalid password."
+msgstr "Ungültiges Passwort."
+
+msgid "Invalid path."
+msgstr "Ungültiger Pfad."
+
+msgid "Invalid permissions."
+msgstr "Ungültige Berechtigungen."
+
+msgid "Invalid plugin."
+msgstr "Ungültiges Plugin."
+
+msgid "Invalid preview domain."
+msgstr "Ungültige Vorschau-Domain."
+
+msgid "Invalid redirect URL."
+msgstr "Ungültige Weiterleitungs-URL."
+
+msgid "Invalid release."
+msgstr "Ungültige Version."
+
+msgid "Invalid request ID."
+msgstr "Ungültige Anfrage-ID."
+
+msgid "Invalid role."
+msgstr "Ungültige Rolle."
+
+msgid "Invalid setting."
+msgstr "Ungültige Einstellung."
+
+msgid "Invalid storage."
+msgstr "Ungültiger Speicher."
+
+msgid "Job"
+msgstr "Aufgabe"
+
+msgid "Job failed."
+msgstr "Aufgabe fehlgeschlagen."
+
+msgid "Job not found."
+msgstr "Aufgabe nicht gefunden."
+
+msgid "Jobs"
+msgstr "Aufgaben"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Last active"
+msgstr "Zuletzt aktiv"
+
+msgid "Last used"
+msgstr "Zuletzt verwendet"
+
+msgid "Link unavailable."
+msgstr "Link nicht verfügbar."
+
+msgid "Links not allowed."
+msgstr "Verknüpfungen nicht erlaubt."
+
+msgid "Live"
+msgstr "Live"
+
+msgid "Management"
+msgstr "Verwaltung"
+
+msgid "Message too large."
+msgstr "Nachricht zu groß."
+
+msgid "Method not allowed."
+msgstr "Methode nicht erlaubt."
+
+msgid "Migration changed."
+msgstr "Migration geändert."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "New password"
+msgstr "Neues Passwort"
+
+msgid "Newer version required."
+msgstr "Neuere Version erforderlich."
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "No extensions enabled."
+msgstr "Keine Erweiterungen aktiviert."
+
+msgid "No items yet."
+msgstr "Noch keine Einträge."
+
+msgid "No websites available."
+msgstr "Keine Websites verfügbar."
+
+msgid "Not a text file."
+msgstr "Keine Textdatei."
+
+msgid "Not found."
+msgstr "Nicht gefunden."
+
+msgid "Not run yet."
+msgstr "Noch nicht ausgeführt."
+
+msgid "OAuth client"
+msgstr "OAuth-Client"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "Open website"
+msgstr "Website öffnen"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Owner"
+msgstr "Eigentümer"
+
+msgid "Package corrupted."
+msgstr "Paket beschädigt."
+
+msgid "Package incompatible."
+msgstr "Paket nicht kompatibel."
+
+msgid "Package too large."
+msgstr "Paket zu groß."
+
+msgid "Page already exists."
+msgstr "Seite existiert bereits."
+
+msgid "Page expired."
+msgstr "Seite abgelaufen."
+
+msgid "Page not found."
+msgstr "Seite nicht gefunden."
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Password required."
+msgstr "Passwort erforderlich."
+
+msgid "Perform this action?"
+msgstr "Diese Aktion ausführen?"
+
+msgid "Pin"
+msgstr "Anheften"
+
+msgid "Pinned"
+msgstr "Angeheftet"
+
+msgid "Plugin file"
+msgstr "Plugin-Datei"
+
+msgid "Plugin missing."
+msgstr "Plugin fehlt."
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Preview domain missing."
+msgstr "Vorschau-Domain fehlt."
+
+msgid "Preview expired."
+msgstr "Vorschau abgelaufen."
+
+msgid "Previous"
+msgstr "Zurück"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Protected"
+msgstr "Geschützt"
+
+msgid "Prune old releases"
+msgstr "Alte Versionen bereinigen"
+
+msgid "Publication failed."
+msgstr "Veröffentlichung fehlgeschlagen."
+
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+msgid "Publish automatically"
+msgstr "Automatisch veröffentlichen"
+
+msgid "Queued"
+msgstr "In Warteschlange"
+
+msgid "Read and publish websites."
+msgstr "Websites lesen und veröffentlichen."
+
+msgid "Read websites."
+msgstr "Websites lesen."
+
+msgid "Reader"
+msgstr "Leser"
+
+msgid "Recent actions"
+msgstr "Letzte Aktionen"
+
+msgid "Recovery codes"
+msgstr "Wiederherstellungscodes"
+
+msgid "Redirect URL"
+msgstr "Weiterleitungs-URL"
+
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Release changed."
+msgstr "Version geändert."
+
+msgid "Release changed. Reopen the page."
+msgstr "Version geändert. Seite erneut öffnen."
+
+msgid "Release corrupted."
+msgstr "Version beschädigt."
+
+msgid "Release not found."
+msgstr "Version nicht gefunden."
+
+msgid "Releases to retain"
+msgstr "Versionen aufbewahren"
+
+msgid "Renderer missing."
+msgstr "Renderer fehlt."
+
+msgid "Reopen Account."
+msgstr "Konto erneut öffnen."
+
+msgid "Request conflict."
+msgstr "Anfragekonflikt."
+
+msgid "Request expired."
+msgstr "Anfrage abgelaufen."
+
+msgid "Required: %s"
+msgstr "Erforderlich: %s"
+
+msgid "Restore"
+msgstr "Wiederherstellen"
+
+msgid "Retained"
+msgstr "Aufbewahrt"
+
+msgid "Retention"
+msgstr "Aufbewahrung"
+
+msgid "Revoke"
+msgstr "Widerrufen"
+
+msgid "Revoke other sessions"
+msgstr "Andere Sitzungen beenden"
+
+msgid "Revoked"
+msgstr "Widerrufen"
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Running"
+msgstr "Wird ausgeführt"
+
+msgid "Runs through the worker."
+msgstr "Wird vom Worker ausgeführt."
+
+msgid "SPA routing"
+msgstr "SPA-Routing"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save failed."
+msgstr "Speichern fehlgeschlagen."
+
+msgid "Save these codes. They are shown once."
+msgstr "Diese Codes speichern. Sie werden nur einmal angezeigt."
+
+msgid "Save this token. It is shown once."
+msgstr "Diesen Token speichern. Er wird nur einmal angezeigt."
+
+msgid "Saved."
+msgstr "Gespeichert."
+
+msgid "Schedule"
+msgstr "Zeitplan"
+
+msgid "Security"
+msgstr "Sicherheit"
+
+msgid "Session expired."
+msgstr "Sitzung abgelaufen."
+
+msgid "Sessions"
+msgstr "Sitzungen"
+
+msgid "Set up 2FA"
+msgstr "2FA einrichten"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Share"
+msgstr "Teilen"
+
+msgid "Share link"
+msgstr "Freigabelink"
+
+msgid "Shared"
+msgstr "Geteilt"
+
+msgid "Sharing"
+msgstr "Freigaben"
+
+msgid "Sharing storage (MB)"
+msgstr "Speicher für Freigaben (MB)"
+
+msgid "Sign in"
+msgstr "Anmelden"
+
+msgid "Sign in failed."
+msgstr "Anmeldung fehlgeschlagen."
+
+msgid "Sign in required."
+msgstr "Anmeldung erforderlich."
+
+msgid "Sign out"
+msgstr "Abmelden"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Skip to content"
+msgstr "Zum Inhalt"
+
+msgid "Started"
+msgstr "Gestartet"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Storage"
+msgstr "Speicher"
+
+msgid "Storage limit reached."
+msgstr "Speicherlimit erreicht."
+
+msgid "Storage unavailable."
+msgstr "Speicher nicht verfügbar."
+
+msgid "System"
+msgstr "System"
+
+msgid "System busy."
+msgstr "System ausgelastet."
+
+msgid "Target"
+msgstr "Ziel"
+
+msgid "Temporary password"
+msgstr "Temporäres Passwort"
+
+msgid "This account cannot be changed."
+msgstr "Dieses Konto kann nicht geändert werden."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Too many files."
+msgstr "Zu viele Dateien."
+
+msgid "Too many open changes."
+msgstr "Zu viele offene Änderungen."
+
+msgid "Try again later."
+msgstr "Später erneut versuchen."
+
+msgid "Unavailable."
+msgstr "Nicht verfügbar."
+
+msgid "Unknown OAuth client."
+msgstr "Unbekannter OAuth-Client."
+
+msgid "Unknown action."
+msgstr "Unbekannte Aktion."
+
+msgid "Unknown job."
+msgstr "Unbekannte Aufgabe."
+
+msgid "Unknown tool."
+msgstr "Unbekanntes Tool."
+
+msgid "Unsupported component: %s"
+msgstr "Nicht unterstützte Komponente: %s"
+
+msgid "Until %s"
+msgstr "Bis %s"
+
+msgid "Update failed."
+msgstr "Aktualisierung fehlgeschlagen."
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "Upload failed."
+msgstr "Hochladen fehlgeschlagen."
+
+msgid "Upload too large."
+msgstr "Upload zu groß."
+
+msgid "Use"
+msgstr "Verwenden"
+
+msgid "Use POST."
+msgstr "POST verwenden."
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "User missing."
+msgstr "Benutzer fehlt."
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version name"
+msgstr "Versionsname"
+
+msgid "Versions"
+msgstr "Versionen"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Website enabled"
+msgstr "Website aktiviert"
+
+msgid "Website file"
+msgstr "Website-Datei"
+
+msgid "Website management"
+msgstr "Website-Verwaltung"
+
+msgid "Website not found."
+msgstr "Website nicht gefunden."
+
+msgid "Website unavailable."
+msgstr "Website nicht verfügbar."
+
+msgid "Websites"
+msgstr "Websites"
+
+msgid "Welcome to DirectWeb"
+msgstr "Willkommen bei DirectWeb"
+
+msgid "Worker: %s"
+msgstr "Worker: %s"
+
+msgid "index.html missing."
+msgstr "index.html fehlt."
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Authenticator app"
+msgstr "Authenticator-App"
+
+msgid "Authenticator code"
+msgstr "Authenticator-Code"
+
+msgid "Authenticator QR code"
+msgstr "Authenticator-QR-Code"
+
+msgid "Scan the QR code."
+msgstr "QR-Code scannen."
+
+msgid "Current 2FA / recovery code"
+msgstr "Aktueller 2FA- / Wiederherstellungscode"
+
+msgid "Recovery code"
+msgstr "Wiederherstellungscode"
+
+msgid "Verify"
+msgstr "Bestätigen"
+
+msgid "Verified"
+msgstr "Bestätigt"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Method"
+msgstr "Methode"
+
+msgid "Send code"
+msgstr "Code senden"
+
+msgid "Code sent."
+msgstr "Code gesendet."
+
+msgid "Verification code"
+msgstr "Bestätigungscode"
+
+msgid "Mail"
+msgstr "E-Mail"
+
+msgid "Enable email"
+msgstr "E-Mail aktivieren"
+
+msgid "SMTP host"
+msgstr "SMTP-Host"
+
+msgid "SMTP username"
+msgstr "SMTP-Benutzername"
+
+msgid "SMTP password"
+msgstr "SMTP-Passwort"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Encryption"
+msgstr "Verschlüsselung"
+
+msgid "Sender"
+msgstr "Absender"
+
+msgid "Your verification code"
+msgstr "Ihr Bestätigungscode"
+
+msgid "Your code: %s"
+msgstr "Ihr Code: %s"
+
+msgid "Expires in 5 minutes."
+msgstr "Läuft in 5 Minuten ab."
+
+msgid "Email-only users must add an authenticator first."
+msgstr "Benutzer mit nur E-Mail müssen zuerst einen Authenticator hinzufügen."
+
+msgid "Check SMTP settings."
+msgstr "SMTP-Einstellungen prüfen."
+
+msgid "SMTP encryption required."
+msgstr "SMTP-Verschlüsselung erforderlich."
+
+msgid "Email is not configured."
+msgstr "E-Mail ist nicht konfiguriert."
+
+msgid "Email delivery failed."
+msgstr "E-Mail-Versand fehlgeschlagen."
+
+msgid "Email is not verified."
+msgstr "E-Mail ist nicht bestätigt."
+
+msgid "Invalid email address."
+msgstr "Ungültige E-Mail-Adresse."
+
+msgid "Email already exists."
+msgstr "E-Mail-Adresse existiert bereits."
+
+msgid "Username already exists."
+msgstr "Benutzername existiert bereits."
+
+msgid "Check name, username and password (12+ characters)."
+msgstr "Name, Benutzername und Passwort prüfen (mindestens 12 Zeichen)."
+
+msgid "Keep at least one available method."
+msgstr "Mindestens eine verfügbare Methode beibehalten."
+
+msgid "Invalid request."
+msgstr "Ungültige Anfrage."
+
+msgid "Account migration failed."
+msgstr "Kontomigration fehlgeschlagen."
+
+msgid "Account backup failed."
+msgstr "Kontosicherung fehlgeschlagen."
+
+msgid "Dashboard"
+msgstr "Übersicht"
+
+msgid "Add website"
+msgstr "Website hinzufügen"
+
+msgid "2FA off"
+msgstr "2FA aus"
+
+msgid "Two-factor authentication"
+msgstr "Zwei-Faktor-Authentifizierung"
+
+msgid "Mail settings"
+msgstr "E-Mail-Einstellungen"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Copied"
+msgstr "Kopiert"
+
+msgid "Copy link"
+msgstr "Link kopieren"
+
+msgid "Upload progress"
+msgstr "Upload-Fortschritt"
+
+msgid "Uploading"
+msgstr "Wird hochgeladen"
+
+msgid "Finishing"
+msgstr "Abschließen"
+
+msgid "Upload cancelled."
+msgstr "Upload abgebrochen."
+
+msgid "File limit exceeded."
+msgstr "Dateilimit überschritten."
+
+msgid "Transfer limit exceeded."
+msgstr "Transferlimit überschritten."
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Administration"
+msgstr "Verwaltung"
+
+msgid "Installed"
+msgstr "Installiert"
+
+msgid "Appearance"
+msgstr "Darstellung"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "In use"
+msgstr "In Verwendung"
+
+msgid "Choose another renderer first."
+msgstr "Zuerst einen anderen Renderer wählen."
+
+msgid "Disable to delete."
+msgstr "Zum Löschen deaktivieren."
+
+msgid "Hosting"
+msgstr "Hosting"
+
+msgid "Environment"
+msgstr "Umgebung"
+
+msgid "Requirements"
+msgstr "Anforderungen"
+
+msgid "Setting"
+msgstr "Einstellung"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Installation key"
+msgstr "Installationsschlüssel"
+
+msgid "Invalid installation key."
+msgstr "Ungültiger Installationsschlüssel."
+
+msgid "Read the key in storage/database/setup.key using your hosting file manager."
+msgstr "Den Schlüssel in storage/database/setup.key über die Hosting-Dateiverwaltung lesen."
+
+msgid "Apache rewrite rules and HTTPS are required for the upload package."
+msgstr "Das Uploadpaket benötigt Apache-Rewrite-Regeln und HTTPS."
+
+msgid "Additional domains must point to this installation."
+msgstr "Weitere Domains müssen auf diese Installation zeigen."
+
+msgid "Scheduled jobs require a hosting cron task."
+msgstr "Geplante Aufgaben benötigen einen Hosting-Cronjob."
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Add user"
+msgstr "Benutzer hinzufügen"
+
+msgid "Add file"
+msgstr "Datei hinzufügen"
+
+msgid "Edit file"
+msgstr "Datei bearbeiten"
+
+msgid "Delete data"
+msgstr "Daten löschen"
+
+msgid "Install plugin"
+msgstr "Plugin installieren"
+
+msgid "Import backup"
+msgstr "Backup importieren"
+
+msgid "Backup file"
+msgstr "Backupdatei"
+
+msgid "Current release"
+msgstr "Aktuelle Version"
+
+msgid "Earlier release"
+msgstr "Frühere Version"
+
+msgid "Later release"
+msgstr "Spätere Version"
+
+msgid "Source release"
+msgstr "Quellversion"
+
+msgid "Target website"
+msgstr "Zielwebsite"
+
+msgid "Publish target"
+msgstr "Ziel veröffentlichen"
+
+msgid "Publish release"
+msgstr "Version veröffentlichen"
+
+msgid "Redirects"
+msgstr "Weiterleitungen"
+
+msgid "Revisions"
+msgstr "Versionsvergleich"
+
+msgid "Staging"
+msgstr "Testumgebung"
+
+msgid "Forms"
+msgstr "Formulare"
+
+msgid "Deploy"
+msgstr "Bereitstellung"
+
+msgid "Monitor"
+msgstr "Überwachung"
+
+msgid "Media"
+msgstr "Medien"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Tasks"
+msgstr "Aufgaben"
+
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+msgid "Remote Backups"
+msgstr "Externe Backups"
+
+msgid "Databases"
+msgstr "Datenbanken"
+
+msgid "Hosting Connector"
+msgstr "Hosting-Anbindung"
+
+msgid "From"
+msgstr "Von"
+
+msgid "To"
+msgstr "Nach"
+
+msgid "Content file"
+msgstr "Inhaltsdatei"
+
+msgid "Fields (JSON)"
+msgstr "Felder (JSON)"
+
+msgid "Template"
+msgstr "Vorlage"
+
+msgid "Output file"
+msgstr "Ausgabedatei"
+
+msgid "Generate on publish"
+msgstr "Bei Veröffentlichung erstellen"
+
+msgid "Public search"
+msgstr "Öffentliche Suche"
+
+msgid "Results"
+msgstr "Ergebnisse"
+
+msgid "Source file"
+msgstr "Quelldatei"
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "Crop"
+msgstr "Zuschneiden"
+
+msgid "Quality"
+msgstr "Qualität"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Fields"
+msgstr "Felder"
+
+msgid "Public form"
+msgstr "Öffentliches Formular"
+
+msgid "Submissions per hour"
+msgstr "Einsendungen pro Stunde"
+
+msgid "Retention (days)"
+msgstr "Aufbewahrung (Tage)"
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Received."
+msgstr "Empfangen."
+
+msgid "Artifact URL"
+msgstr "Paket-URL"
+
+msgid "Artifact token"
+msgstr "Pakettoken"
+
+msgid "Provider"
+msgstr "Anbieter"
+
+msgid "Webhook secret"
+msgstr "Webhook-Schlüssel"
+
+msgid "Branch"
+msgstr "Branch"
+
+msgid "Interval (minutes)"
+msgstr "Intervall (Minuten)"
+
+msgid "Expected status"
+msgstr "Erwarteter Status"
+
+msgid "Certificate warning (days)"
+msgstr "Zertifikatswarnung (Tage)"
+
+msgid "Task"
+msgstr "Aufgabe"
+
+msgid "Release ID"
+msgstr "Versions-ID"
+
+msgid "Start (UTC)"
+msgstr "Start (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Wiederholung (Minuten, 0 = einmal)"
+
+msgid "Prune releases"
+msgstr "Versionen bereinigen"
+
+msgid "Event"
+msgstr "Ereignis"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "S3 endpoint"
+msgstr "S3-Endpunkt"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Access key"
+msgstr "Zugriffsschlüssel"
+
+msgid "Secret key"
+msgstr "Geheimer Schlüssel"
+
+msgid "Backup passphrase"
+msgstr "Backup-Passphrase"
+
+msgid "Copies to retain"
+msgstr "Aufzubewahrende Kopien"
+
+msgid "Backup limit (MB)"
+msgstr "Backup-Limit (MB)"
+
+msgid "Upload new backups"
+msgstr "Neue Backups hochladen"
+
+msgid "Object key"
+msgstr "Objektschlüssel"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-Zonen-ID"
+
+msgid "API token"
+msgstr "API-Token"
+
+msgid "Record ID"
+msgstr "Eintrags-ID"
+
+msgid "Record ID (optional)"
+msgstr "Eintrags-ID (optional)"
+
+msgid "Records (JSON)"
+msgstr "Einträge (JSON)"
+
+msgid "Priority"
+msgstr "Priorität"
+
+msgid "Proxy"
+msgstr "Proxy"
+
+msgid "Purge after publish"
+msgstr "Cache nach Veröffentlichung leeren"
+
+msgid "URLs (empty = all)"
+msgstr "URLs (leer = alle)"
+
+msgid "Rule (JSON)"
+msgstr "Regel (JSON)"
+
+msgid "Database"
+msgstr "Datenbank"
+
+msgid "Host"
+msgstr "Host"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Anmeldeschlüssel"
+
+msgid "Bandwidth (MB)"
+msgstr "Datenverkehr (MB)"
+
+msgid "Disk (MB)"
+msgstr "Speicherplatz (MB)"
+
+msgid "Mailbox"
+msgstr "Postfach"
+
+msgid "Quota (MB)"
+msgstr "Kontingent (MB)"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Export"
+msgstr "Exportieren"
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Delete record"
+msgstr "Eintrag löschen"
+
+msgid "Save record"
+msgstr "Eintrag speichern"
+
+msgid "Records"
+msgstr "Einträge"
+
+msgid "Import records"
+msgstr "Einträge importieren"
+
+msgid "Purge cache"
+msgstr "Cache leeren"
+
+msgid "Cache rules"
+msgstr "Cache-Regeln"
+
+msgid "Save cache rule"
+msgstr "Cache-Regel speichern"
+
+msgid "Tables"
+msgstr "Tabellen"
+
+msgid "Import SQL"
+msgstr "SQL importieren"
+
+msgid "Create database"
+msgstr "Datenbank erstellen"
+
+msgid "Domains"
+msgstr "Domains"
+
+msgid "Add domain"
+msgstr "Domain hinzufügen"
+
+msgid "Mailboxes"
+msgstr "Postfächer"
+
+msgid "Add mailbox"
+msgstr "Postfach hinzufügen"
+
+msgid "Certificates"
+msgstr "Zertifikate"
+
+msgid "Hosting settings"
+msgstr "Hosting-Einstellungen"
+
+msgid "Compare"
+msgstr "Vergleichen"
+
+msgid "Copy release"
+msgstr "Version kopieren"
+
+msgid "Scan"
+msgstr "Prüfen"
+
+msgid "Create sitemap"
+msgstr "Sitemap erstellen"
+
+msgid "Build index"
+msgstr "Index erstellen"
+
+msgid "Convert"
+msgstr "Konvertieren"
+
+msgid "View submissions"
+msgstr "Einsendungen ansehen"
+
+msgid "Check now"
+msgstr "Jetzt prüfen"
+
+msgid "History"
+msgstr "Verlauf"
+
+msgid "Run now"
+msgstr "Jetzt ausführen"
+
+msgid "View report"
+msgstr "Bericht ansehen"
+
+msgid "Inbox"
+msgstr "Posteingang"
+
+msgid "Send test"
+msgstr "Test senden"
+
+msgid "Upload latest backup"
+msgstr "Letztes Backup hochladen"
+
+msgid "Remote copies"
+msgstr "Externe Kopien"
+
+msgid "Retrieve backup"
+msgstr "Backup abrufen"
+
+msgid "Index files"
+msgstr "Indexdateien"
+
+msgid "403 page"
+msgstr "403-Seite"
+
+msgid "404 page"
+msgstr "404-Seite"
+
+msgid "500 page"
+msgstr "500-Seite"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Password protection"
+msgstr "Passwortschutz"
+
+msgid "Hour"
+msgstr "Stunde"
+
+msgid "Day"
+msgstr "Tag"
+
+msgid "Week"
+msgstr "Woche"
+
+msgid "Download notifications"
+msgstr "Download-Benachrichtigungen"
+
+msgid "Download ZIP"
+msgstr "ZIP herunterladen"
+
+msgid "File requests"
+msgstr "Dateianfragen"
+
+msgid "Add request"
+msgstr "Anfrage hinzufügen"
+
+msgid "Request"
+msgstr "Anfrage"
+
+msgid "Requests"
+msgstr "Anfragen"
+
+msgid "Expiry"
+msgstr "Ablauf"
+
+msgid "Endpoint"
+msgstr "Endpunkt"
+
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+msgid "Tokens"
+msgstr "Tokens"
+
+msgid "Client"
+msgstr "Client"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Updated"
+msgstr "Aktualisiert"
+
+msgid "Field"
+msgstr "Feld"
+
+msgid "Data is retained."
+msgstr "Daten bleiben erhalten."
+
+msgid "A backup is created first."
+msgstr "Zuerst wird ein Backup erstellt."
+
+msgid "Current data is backed up before restoration."
+msgstr "Aktuelle Daten werden vorab gesichert."
+
+msgid "Restore queued. Sign in again after completion."
+msgstr "Wiederherstellung geplant. Danach erneut anmelden."
+
+msgid "Add a website first."
+msgstr "Fügen Sie zuerst eine Website hinzu."
+
+msgid "Complete required fields."
+msgstr "Füllen Sie die Pflichtfelder aus."
+
+msgid "Record changed. Reopen the page."
+msgstr "Eintrag geändert. Seite erneut öffnen."
+
+msgid "Record not found."
+msgstr "Eintrag nicht gefunden."
+
+msgid "Record changed."
+msgstr "Eintrag geändert."
+
+msgid "Invalid value."
+msgstr "Ungültiger Wert."
+
+msgid "Value out of range."
+msgstr "Wert außerhalb des Bereichs."
+
+msgid "Choose a website."
+msgstr "Wählen Sie eine Website."
+
+msgid "Choose another website."
+msgstr "Wählen Sie eine andere Website."
+
+msgid "Action unavailable."
+msgstr "Aktion nicht verfügbar."
+
+msgid "Operation not granted."
+msgstr "Aktion nicht gestattet."
+
+msgid "Read only."
+msgstr "Schreibgeschützt."
+
+msgid "Redirect loop."
+msgstr "Weiterleitungsschleife."
+
+msgid "Redirect already exists."
+msgstr "Weiterleitung existiert bereits."
+
+msgid "Connection failed."
+msgstr "Verbindung fehlgeschlagen."
+
+msgid "Connection timed out."
+msgstr "Zeitüberschreitung der Verbindung."
+
+msgid "Enable the GD extension."
+msgstr "Aktivieren Sie die GD-Erweiterung."
+
+msgid "Enable the DOM extension."
+msgstr "Aktivieren Sie die DOM-Erweiterung."
+
+msgid "Enable PDO MySQL."
+msgstr "Aktivieren Sie PDO MySQL."
+
+msgid "Create a backup first."
+msgstr "Erstellen Sie zuerst ein Backup."
+
+msgid "Backup exceeds remote limit."
+msgstr "Backup überschreitet das externe Limit."
+
+msgid "Backup decryption failed."
+msgstr "Backup-Entschlüsselung fehlgeschlagen."
+
+msgid "Use an HTTPS URL."
+msgstr "Verwenden Sie eine HTTPS-URL."
+
+msgid "Invalid JSON."
+msgstr "Ungültiges JSON."
+
+msgid "Token already shown."
+msgstr "Token wurde bereits angezeigt."
+
+msgid "Token missing."
+msgstr "Token fehlt."
+
+msgid "Client missing."
+msgstr "Client fehlt."
+
+msgid "Edit content"
+msgstr "Inhalt bearbeiten"
+
+msgid "Request certificate"
+msgstr "Zertifikat anfordern"
+
+msgid "Change hosting setting"
+msgstr "Hosting-Einstellung ändern"
+
+msgid "Hosting settings unavailable."
+msgstr "Hosting-Einstellungen nicht verfügbar."
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Disable email 2FA before removing the authenticator."
+msgstr "Deaktivieren Sie E-Mail-2FA, bevor Sie den Authenticator entfernen."
+
+msgid "Draft"
+msgstr "Entwurf"
+
+msgid "Replace current data"
+msgstr "Aktuelle Daten ersetzen"
+
+msgid "Confirm restoration."
+msgstr "Wiederherstellung bestätigen."
+
+msgid "Backup in use."
+msgstr "Sicherung wird verwendet."
+
+msgid "Delete backup"
+msgstr "Sicherung löschen"
+
+msgid "Scheduled"
+msgstr "Geplant"
+
+msgid "Publishing"
+msgstr "Veröffentlichung"
+
+msgid "Change website"
+msgstr "Website wechseln"
+
+msgid "HTML website manager"
+msgstr "HTML-Website-Verwaltung"
+
+msgid "Import existing versions. Original files remain available."
+msgstr "Bestehende Versionen importieren. Originaldateien bleiben erhalten."
+
+msgid "Manage accounts and security in WordPress."
+msgstr "Konten und Sicherheit in WordPress verwalten."
+
+msgid "Background jobs use WordPress cron."
+msgstr "Hintergrundaufgaben verwenden WordPress-Cron."
+
+msgid "Choose a published website on this domain."
+msgstr "Wählen Sie eine veröffentlichte Website auf dieser Domain."
+
+msgid "Plugin management is disabled in WordPress."
+msgstr "Die Plugin-Verwaltung ist in WordPress deaktiviert."
+
+msgid "Preview unavailable."
+msgstr "Vorschau nicht verfügbar."

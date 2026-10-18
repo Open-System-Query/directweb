@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Deploy"
+msgstr "Udrul"
+
+msgid "Artifact URL"
+msgstr "Artefakt-URL"
+
+msgid "Artifact token"
+msgstr "Artefakttoken"
+
+msgid "Provider"
+msgstr "Udbyder"
+
+msgid "Webhook secret"
+msgstr "Webhook-hemmelighed"
+
+msgid "Branch"
+msgstr "Gren"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Udgiv buildfiler fra GitHub eller GitLab."

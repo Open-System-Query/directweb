@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Hosting Connector"
+msgstr "Hýsingartenging"
+
+msgid "Database"
+msgstr "Gagnagrunnur"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-slóð"
+
+msgid "Login key"
+msgstr "Innskráningarlykill"
+
+msgid "Bandwidth (MB)"
+msgstr "Gagnaflutningur (MB)"
+
+msgid "Disk (MB)"
+msgstr "Diskur (MB)"
+
+msgid "Mailbox"
+msgstr "Pósthólf"
+
+msgid "Quota (MB)"
+msgstr "Kvóti (MB)"
+
+msgid "Create database"
+msgstr "Búa til gagnagrunn"
+
+msgid "Domains"
+msgstr "Lén"
+
+msgid "Add domain"
+msgstr "Bæta við léni"
+
+msgid "Mailboxes"
+msgstr "Pósthólf"
+
+msgid "Add mailbox"
+msgstr "Bæta við pósthólfi"
+
+msgid "Certificates"
+msgstr "Vottorð"
+
+msgid "Hosting settings"
+msgstr "Hýsingarstillingar"
+
+msgid "Request certificate"
+msgstr "Biðja um vottorð"
+
+msgid "Change hosting setting"
+msgstr "Breyta hýsingarstillingu"
+
+msgid "Setting"
+msgstr "Stilling"
+
+msgid "Hosting settings unavailable."
+msgstr "Hýsingarstillingar eru ekki tiltækar."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Stjórnaðu hýsingarþjónustu í gegnum DirectAdmin."

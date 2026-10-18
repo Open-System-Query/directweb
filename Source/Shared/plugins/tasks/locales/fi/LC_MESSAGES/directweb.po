@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Publish release"
+msgstr "Julkaise versio"
+
+msgid "Tasks"
+msgstr "Tehtävät"
+
+msgid "Task"
+msgstr "Tehtävä"
+
+msgid "Release ID"
+msgstr "Version tunnus"
+
+msgid "Start (UTC)"
+msgstr "Alku (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Toisto (minuuttia, 0 = kerran)"
+
+msgid "Prune releases"
+msgstr "Siivoa versiot"
+
+msgid "Run now"
+msgstr "Suorita nyt"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Ajasta julkaisut, varmuuskopiot ja versioiden siivous."

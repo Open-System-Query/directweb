@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Language: fr\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Remote Backups"
+msgstr "Sauvegardes distantes"
+
+msgid "S3 endpoint"
+msgstr "Point de terminaison S3"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "Access key"
+msgstr "Clé d’accès"
+
+msgid "Secret key"
+msgstr "Clé secrète"
+
+msgid "Backup passphrase"
+msgstr "Phrase secrète de sauvegarde"
+
+msgid "Copies to retain"
+msgstr "Copies à conserver"
+
+msgid "Backup limit (MB)"
+msgstr "Limite de sauvegarde (Mo)"
+
+msgid "Upload new backups"
+msgstr "Envoyer les nouvelles sauvegardes"
+
+msgid "Object key"
+msgstr "Clé d’objet"
+
+msgid "Upload latest backup"
+msgstr "Envoyer la dernière sauvegarde"
+
+msgid "Remote copies"
+msgstr "Copies distantes"
+
+msgid "Retrieve backup"
+msgstr "Récupérer une sauvegarde"
+
+msgid "Create a backup first."
+msgstr "Créez d’abord une sauvegarde."
+
+msgid "Backup exceeds remote limit."
+msgstr "La sauvegarde dépasse la limite distante."
+
+msgid "Backup decryption failed."
+msgstr "Déchiffrement de sauvegarde échoué."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Stockez les sauvegardes chiffrées sur un stockage compatible S3."

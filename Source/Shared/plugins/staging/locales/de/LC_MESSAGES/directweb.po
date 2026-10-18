@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Language: de\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Source release"
+msgstr "Quellversion"
+
+msgid "Publish target"
+msgstr "Ziel veröffentlichen"
+
+msgid "Staging"
+msgstr "Testumgebung"
+
+msgid "Copy release"
+msgstr "Version kopieren"
+
+msgid "Choose another website."
+msgstr "Wählen Sie eine andere Website."
+
+msgid "Copy website versions to a separate staging site."
+msgstr "Website-Versionen auf eine separate Testwebsite kopieren."

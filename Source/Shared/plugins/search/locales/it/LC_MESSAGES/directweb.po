@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: it\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Public search"
+msgstr "Ricerca pubblica"
+
+msgid "Results"
+msgstr "Risultati"
+
+msgid "Build index"
+msgstr "Crea indice"
+
+msgid "Add public search to your websites."
+msgstr "Aggiungi una ricerca pubblica ai tuoi siti."

@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Hozzáférés"
+
+msgid "Access denied."
+msgstr "Hozzáférés megtagadva."
+
+msgid "Access token"
+msgstr "Hozzáférési token"
+
+msgid "Allow"
+msgstr "Engedélyezés"
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Client ID"
+msgstr "Ügyfélazonosító"
+
+msgid "Clients"
+msgstr "Ügyfelek"
+
+msgid "Connection"
+msgstr "Kapcsolat"
+
+msgid "Create"
+msgstr "Létrehozás"
+
+msgid "Create access"
+msgstr "Hozzáférés létrehozása"
+
+msgid "Days"
+msgstr "Nap"
+
+msgid "Expires"
+msgstr "Lejár"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "A fájl túl nagy az MCP-hez (256 KB)."
+
+msgid "Grant access"
+msgstr "Hozzáférés engedélyezése"
+
+msgid "Invalid OAuth request."
+msgstr "Érvénytelen OAuth-kérés."
+
+msgid "Invalid input or action failed."
+msgstr "Érvénytelen bevitel vagy sikertelen művelet."
+
+msgid "Invalid permissions."
+msgstr "Érvénytelen engedélyek."
+
+msgid "Invalid redirect URL."
+msgstr "Érvénytelen átirányítási URL."
+
+msgid "Last used"
+msgstr "Utoljára használt"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "No websites available."
+msgstr "Nincs elérhető webhely."
+
+msgid "Not a text file."
+msgstr "Nem szöveges fájl."
+
+msgid "Not found."
+msgstr "Nem található."
+
+msgid "OAuth client"
+msgstr "OAuth-kliens"
+
+msgid "Publish"
+msgstr "Közzététel"
+
+msgid "Read and publish websites."
+msgstr "Webhelyek olvasása és közzététele."
+
+msgid "Read websites."
+msgstr "Webhelyek olvasása."
+
+msgid "Redirect URL"
+msgstr "URL átirányítása"
+
+msgid "Register"
+msgstr "Regisztráció"
+
+msgid "Request expired."
+msgstr "A kérelem lejárt."
+
+msgid "Revoke"
+msgstr "Visszavonás"
+
+msgid "Save this token. It is shown once."
+msgstr "Mentse el ezt a tokent. Csak egyszer jelenik meg."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Unknown OAuth client."
+msgstr "Ismeretlen OAuth-kliens."
+
+msgid "Unknown tool."
+msgstr "Ismeretlen eszköz."
+
+msgid "Website"
+msgstr "Webhely"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Csatlakoztasson AI-asszisztenseket korlátozott hozzáféréssel."
+
+msgid "Never expires"
+msgstr "Soha nem jár le"
+
+msgid "Never"
+msgstr "Soha"
+
+msgid "Show"
+msgstr "Megjelenítés"
+
+msgid "Hide"
+msgstr "Elrejtés"
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "Copied"
+msgstr "Másolva"
+
+msgid "Expiry"
+msgstr "Lejárat"
+
+msgid "Replace token"
+msgstr "Token cseréje"
+
+msgid "Replace"
+msgstr "Cserélje ki"
+
+msgid "Managed by OAuth."
+msgstr "Az OAuth kezeli."
+
+msgid "Invalid duration."
+msgstr "Érvénytelen időtartam."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Cserélje le a tokent a Megjelenítés és Másolás használatához."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "A jelenlegi token érvénytelenné válik. Utána frissítse a kapcsolatot."
+
+msgid "Connection URL"
+msgstr "Kapcsolat URL-je"

@@ -1,0 +1,2 @@
+CREATE TABLE IF NOT EXISTS oauth_clients(id TEXT PRIMARY KEY,name TEXT NOT NULL,redirect_uri TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS oauth_codes(hash TEXT PRIMARY KEY,client_id TEXT NOT NULL,user_id TEXT NOT NULL,session_version INTEGER NOT NULL,redirect_uri TEXT NOT NULL,challenge TEXT NOT NULL,scopes TEXT NOT NULL,sites TEXT NOT NULL,expires_at INTEGER NOT NULL);

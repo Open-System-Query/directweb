@@ -1,0 +1,20 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Redirects"
+msgstr "Tilvísanir"
+
+msgid "From"
+msgstr "Frá"
+
+msgid "To"
+msgstr "Til"
+
+msgid "Redirect loop."
+msgstr "Tilvísunarlykkja."
+
+msgid "Redirect already exists."
+msgstr "Tilvísunin er þegar til."
+
+msgid "Redirect website URLs to another address."
+msgstr "Beindu vefslóðum á annað heimilisfang."

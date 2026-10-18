@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Language: de\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Content file"
+msgstr "Inhaltsdatei"
+
+msgid "Fields (JSON)"
+msgstr "Felder (JSON)"
+
+msgid "Template"
+msgstr "Vorlage"
+
+msgid "Output file"
+msgstr "Ausgabedatei"
+
+msgid "Fields"
+msgstr "Felder"
+
+msgid "Invalid value."
+msgstr "Ungültiger Wert."
+
+msgid "Edit content"
+msgstr "Inhalt bearbeiten"
+
+msgid "Edit content and publish website updates."
+msgstr "Inhalte bearbeiten und Website-Änderungen veröffentlichen."

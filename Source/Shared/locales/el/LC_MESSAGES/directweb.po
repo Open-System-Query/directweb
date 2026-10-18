@@ -1,0 +1,1661 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "2FA / recovery code"
+msgstr "2FA / κωδικός ανάκτησης"
+
+msgid "2FA enabled"
+msgstr "2FA ενεργό"
+
+msgid "2FA is already enabled."
+msgstr "Το 2FA είναι ήδη ενεργό."
+
+msgid "2FA required"
+msgstr "Απαιτείται 2FA"
+
+msgid "Access"
+msgstr "Πρόσβαση"
+
+msgid "Access denied."
+msgstr "Δεν επιτρέπεται η πρόσβαση."
+
+msgid "Access token"
+msgstr "Διακριτικό πρόσβασης"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "Account created."
+msgstr "Ο λογαριασμός δημιουργήθηκε."
+
+msgid "Account enabled"
+msgstr "Λογαριασμός ενεργός"
+
+msgid "Action"
+msgstr "Ενέργεια"
+
+msgid "Action already exists."
+msgstr "Η ενέργεια υπάρχει ήδη."
+
+msgid "Action failed."
+msgstr "Η ενέργεια απέτυχε."
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Activity"
+msgstr "Δραστηριότητα"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Add this key to your authenticator."
+msgstr "Προσθέστε αυτό το κλειδί στην εφαρμογή επαλήθευσης."
+
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+msgid "Allow"
+msgstr "Να επιτρέπεται"
+
+msgid "Already installed."
+msgstr "Εχει ήδη εγκατασταθεί."
+
+msgid "Available"
+msgstr "Διαθέσιμο"
+
+msgid "Backup"
+msgstr "Αντίγραφο ασφαλείας"
+
+msgid "Backup corrupted."
+msgstr "Το αντίγραφο ασφαλείας είναι κατεστραμμένο."
+
+msgid "Backup failed."
+msgstr "Η δημιουργία αντιγράφου απέτυχε."
+
+msgid "Backup incomplete."
+msgstr "Το αντίγραφο ασφαλείας είναι ελλιπές."
+
+msgid "Backup missing."
+msgstr "Λείπει το αντίγραφο ασφαλείας."
+
+msgid "Backup queued."
+msgstr "Το αντίγραφο μπήκε στην ουρά."
+
+msgid "Backup too large."
+msgstr "Το αντίγραφο ασφαλείας είναι πολύ μεγάλο."
+
+msgid "Backups"
+msgstr "Αντίγραφα ασφαλείας"
+
+msgid "Blocked"
+msgstr "Αποκλεισμένο"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Change is closed."
+msgstr "Η αλλαγή έχει κλείσει."
+
+msgid "Change not found."
+msgstr "Η αλλαγή δεν βρέθηκε."
+
+msgid "Change password"
+msgstr "Αλλαγή κωδικού"
+
+msgid "Check account and password (12+ characters)."
+msgstr "Ελέγξτε λογαριασμό και κωδικό (τουλάχιστον 12 χαρακτήρες)."
+
+msgid "Check name and domain."
+msgstr "Ελέγξτε όνομα και τομέα."
+
+msgid "Check name, email and password (12+ characters)."
+msgstr "Ελέγξτε όνομα, email και κωδικό (τουλάχιστον 12 χαρακτήρες)."
+
+msgid "Check the input."
+msgstr "Ελέγξτε τα δεδομένα."
+
+msgid "Check the password (12+ characters)."
+msgstr "Ελέγξτε τον κωδικό (τουλάχιστον 12 χαρακτήρες)."
+
+msgid "Choose a file."
+msgstr "Επιλέξτε αρχείο."
+
+msgid "Choose a renderer."
+msgstr "Επιλέξτε μηχανή απόδοσης."
+
+msgid "Client ID"
+msgstr "ID πελάτη"
+
+msgid "Clients"
+msgstr "Πελάτες"
+
+msgid "Code"
+msgstr "Κωδικός"
+
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+msgid "Connection"
+msgstr "Σύνδεση"
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Continue"
+msgstr "Συνέχεια"
+
+msgid "Copy failed."
+msgstr "Η αντιγραφή απέτυχε."
+
+msgid "Create"
+msgstr "Δημιουργία"
+
+msgid "Create access"
+msgstr "Δημιουργία πρόσβασης"
+
+msgid "Create backup"
+msgstr "Δημιουργία αντιγράφου ασφαλείας"
+
+msgid "Create your administrator account."
+msgstr "Δημιουργήστε τον λογαριασμό διαχειριστή σας."
+
+msgid "Current password"
+msgstr "Τρέχων κωδικός πρόσβασης"
+
+msgid "Daily backup"
+msgstr "Καθημερινή δημιουργία αντιγράφων ασφαλείας"
+
+msgid "Database backup failed."
+msgstr "Η δημιουργία αντιγράφων ασφαλείας της βάσης δεδομένων απέτυχε."
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Days"
+msgstr "Ημέρες"
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Delete failed."
+msgstr "Η διαγραφή απέτυχε."
+
+msgid "Delete file"
+msgstr "Διαγραφή αρχείου"
+
+msgid "Destination must be empty."
+msgstr "Ο προορισμός πρέπει να είναι κενός."
+
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+msgid "Disable the plugin first."
+msgstr "Απενεργοποιήστε πρώτα το πρόσθετο."
+
+msgid "Domain"
+msgstr "Πεδίο ορισμού"
+
+msgid "Domain already exists."
+msgstr "Ο τομέας υπάρχει ήδη."
+
+msgid "Download"
+msgstr "Λήψη"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Οριο λήψης (0 = απεριόριστο)"
+
+msgid "Downloads"
+msgstr "Λήψεις"
+
+msgid "Duplicate file."
+msgstr "Διπλότυπο αρχείο."
+
+msgid "Duplicate filename."
+msgstr "Διπλότυπο όνομα αρχείου."
+
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+msgid "Editor"
+msgstr "Συντάκτης"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+msgid "Enable 2FA."
+msgstr "Ενεργοποίηση 2FA."
+
+msgid "Entry point missing."
+msgstr "Λείπει το σημείο εισόδου."
+
+msgid "Everything in its place."
+msgstr "Ολα στη θέση τους."
+
+msgid "Expired"
+msgstr "Εχει λήξει"
+
+msgid "Expires"
+msgstr "Λήγει"
+
+msgid "Extensions"
+msgstr "Επεκτάσεις"
+
+msgid "External backup failed."
+msgstr "Το εξωτερικό αντίγραφο ασφαλείας απέτυχε."
+
+msgid "Extraction failed."
+msgstr "Η εξαγωγή απέτυχε."
+
+msgid "Failed"
+msgstr "Απέτυχε"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "File not found."
+msgstr "Το αρχείο δεν βρέθηκε."
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Το αρχείο είναι πολύ μεγάλο για MCP (256 KB)."
+
+msgid "File too large."
+msgstr "Το αρχείο είναι πολύ μεγάλο."
+
+msgid "File type not allowed: %s"
+msgstr "Δεν επιτρέπεται ο τύπος αρχείου: %s"
+
+msgid "File unavailable."
+msgstr "Το αρχείο δεν είναι διαθέσιμο."
+
+msgid "Files"
+msgstr "Αρχεία"
+
+msgid "General"
+msgstr "Γενικός"
+
+msgid "Grant access"
+msgstr "Παραχώρηση πρόσβασης"
+
+msgid "HTTPS required."
+msgstr "Απαιτείται HTTPS."
+
+msgid "In use: %s"
+msgstr "Σε χρήση: %s"
+
+msgid "Install"
+msgstr "Εγκατάσταση"
+
+msgid "Install / update"
+msgstr "Εγκατάσταση / ενημέρωση"
+
+msgid "Install DirectWeb."
+msgstr "Εγκαταστήστε το DirectWeb."
+
+msgid "Install through the command line."
+msgstr "Εγκατάσταση μέσω της γραμμής εντολών."
+
+msgid "Install trusted plugins only."
+msgstr "Εγκαταστήστε μόνο αξιόπιστες προσθήκες."
+
+msgid "Installation failed."
+msgstr "Η εγκατάσταση απέτυχε."
+
+msgid "Invalid OAuth request."
+msgstr "Μη έγκυρο αίτημα OAuth."
+
+msgid "Invalid ZIP."
+msgstr "Μη έγκυρο ZIP."
+
+msgid "Invalid access."
+msgstr "Μη έγκυρη πρόσβαση."
+
+msgid "Invalid backup path."
+msgstr "Μη έγκυρη διαδρομή αντιγράφου ασφαλείας."
+
+msgid "Invalid backup."
+msgstr "Μη έγκυρο αντίγραφο ασφαλείας."
+
+msgid "Invalid code."
+msgstr "Μη έγκυρος κωδικός."
+
+msgid "Invalid domain."
+msgstr "Μη έγκυρος τομέας."
+
+msgid "Invalid file."
+msgstr "Μη έγκυρο αρχείο."
+
+msgid "Invalid filename."
+msgstr "Μη έγκυρο όνομα αρχείου."
+
+msgid "Invalid input or action failed."
+msgstr "Μη έγκυρη εισαγωγή ή ενέργεια απέτυχε."
+
+msgid "Invalid key."
+msgstr "Μη έγκυρο κλειδί."
+
+msgid "Invalid message."
+msgstr "Μη έγκυρο μήνυμα."
+
+msgid "Invalid package."
+msgstr "Μη έγκυρο πακέτο."
+
+msgid "Invalid password."
+msgstr "Μη έγκυρος κωδικός πρόσβασης."
+
+msgid "Invalid path."
+msgstr "Μη έγκυρη διαδρομή."
+
+msgid "Invalid permissions."
+msgstr "Μη έγκυρα δικαιώματα."
+
+msgid "Invalid plugin."
+msgstr "Μη έγκυρη προσθήκη."
+
+msgid "Invalid preview domain."
+msgstr "Μη έγκυρος τομέας προεπισκόπησης."
+
+msgid "Invalid redirect URL."
+msgstr "Μη έγκυρη διεύθυνση URL ανακατεύθυνσης."
+
+msgid "Invalid release."
+msgstr "Μη έγκυρη έκδοση."
+
+msgid "Invalid request ID."
+msgstr "Μη έγκυρο αναγνωριστικό αιτήματος."
+
+msgid "Invalid role."
+msgstr "Μη έγκυρος ρόλος."
+
+msgid "Invalid setting."
+msgstr "Μη έγκυρη ρύθμιση."
+
+msgid "Invalid storage."
+msgstr "Μη έγκυρος χώρος αποθήκευσης."
+
+msgid "Job"
+msgstr "Εργασία"
+
+msgid "Job failed."
+msgstr "Η εργασία απέτυχε."
+
+msgid "Job not found."
+msgstr "Δεν βρέθηκε δουλειά."
+
+msgid "Jobs"
+msgstr "Θέσεις εργασίας"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Last active"
+msgstr "Τελευταία ενεργή"
+
+msgid "Last used"
+msgstr "Τελευταία χρήση"
+
+msgid "Link unavailable."
+msgstr "Ο σύνδεσμος δεν είναι διαθέσιμος."
+
+msgid "Links not allowed."
+msgstr "Δεν επιτρέπονται σύνδεσμοι."
+
+msgid "Live"
+msgstr "Δημοσιευμένο"
+
+msgid "Management"
+msgstr "Διαχείριση"
+
+msgid "Message too large."
+msgstr "Το μήνυμα είναι πολύ μεγάλο."
+
+msgid "Method not allowed."
+msgstr "Η μέθοδος δεν επιτρέπεται."
+
+msgid "Migration changed."
+msgstr "Η μεταφορά δεδομένων άλλαξε."
+
+msgid "Name"
+msgstr "Ονομα"
+
+msgid "Navigation"
+msgstr "Πλοήγηση"
+
+msgid "New password"
+msgstr "Νέος κωδικός πρόσβασης"
+
+msgid "Newer version required."
+msgstr "Απαιτείται νεότερη έκδοση."
+
+msgid "Next"
+msgstr "Επόμενο"
+
+msgid "No extensions enabled."
+msgstr "Δεν είναι ενεργοποιημένες οι επεκτάσεις."
+
+msgid "No items yet."
+msgstr "Δεν υπάρχουν ακόμα αντικείμενα."
+
+msgid "No websites available."
+msgstr "Δεν υπάρχουν διαθέσιμοι ιστότοποι."
+
+msgid "Not a text file."
+msgstr "Δεν είναι αρχείο κειμένου."
+
+msgid "Not found."
+msgstr "Δεν βρέθηκε."
+
+msgid "Not run yet."
+msgstr "Δεν έχει εκτελεστεί ακόμα."
+
+msgid "OAuth client"
+msgstr "Πελάτη OAuth"
+
+msgid "Off"
+msgstr "Απενεργοποίηση"
+
+msgid "Online"
+msgstr "Διαδικτυακά"
+
+msgid "Open"
+msgstr "Ανοιγμα"
+
+msgid "Open website"
+msgstr "Ανοιγμα ιστότοπου"
+
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+msgid "Owner"
+msgstr "Ιδιοκτήτης"
+
+msgid "Package corrupted."
+msgstr "Το πακέτο είναι κατεστραμμένο."
+
+msgid "Package incompatible."
+msgstr "Ασυμβίβαστο πακέτο."
+
+msgid "Package too large."
+msgstr "Το πακέτο είναι πολύ μεγάλο."
+
+msgid "Page already exists."
+msgstr "Η σελίδα υπάρχει ήδη."
+
+msgid "Page expired."
+msgstr "Η σελίδα έληξε."
+
+msgid "Page not found."
+msgstr "Η σελίδα δεν βρέθηκε."
+
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Password required."
+msgstr "Απαιτείται κωδικός πρόσβασης."
+
+msgid "Perform this action?"
+msgstr "Εκτέλεση αυτής της ενέργειας;"
+
+msgid "Pin"
+msgstr "Καρφίτσωμα"
+
+msgid "Pinned"
+msgstr "Καρφιτσωμένο"
+
+msgid "Plugin file"
+msgstr "Αρχείο προσθήκης"
+
+msgid "Plugin missing."
+msgstr "Λείπει το πρόσθετο."
+
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "Preview domain missing."
+msgstr "Λείπει ο τομέας προεπισκόπησης."
+
+msgid "Preview expired."
+msgstr "Η προεπισκόπηση έληξε."
+
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Protected"
+msgstr "Προστατευμένο"
+
+msgid "Prune old releases"
+msgstr "Εκκαθάριση παλιών εκδόσεων"
+
+msgid "Publication failed."
+msgstr "Η δημοσίευση απέτυχε."
+
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+msgid "Publish automatically"
+msgstr "Αυτόματη δημοσίευση"
+
+msgid "Queued"
+msgstr "Σε ουρά"
+
+msgid "Read and publish websites."
+msgstr "Διαβάστε και δημοσιεύστε ιστότοπους."
+
+msgid "Read websites."
+msgstr "Διαβάστε ιστοσελίδες."
+
+msgid "Reader"
+msgstr "Αναγνώστης"
+
+msgid "Recent actions"
+msgstr "Πρόσφατες ενέργειες"
+
+msgid "Recovery codes"
+msgstr "Κωδικοί ανάκτησης"
+
+msgid "Redirect URL"
+msgstr "Διεύθυνση URL ανακατεύθυνσης"
+
+msgid "Register"
+msgstr "Εγγραφή"
+
+msgid "Release changed."
+msgstr "Η έκδοση άλλαξε."
+
+msgid "Release changed. Reopen the page."
+msgstr "Η έκδοση άλλαξε. Ανοίξτε ξανά τη σελίδα."
+
+msgid "Release corrupted."
+msgstr "Η έκδοση είναι κατεστραμμένη."
+
+msgid "Release not found."
+msgstr "Η έκδοση δεν βρέθηκε."
+
+msgid "Releases to retain"
+msgstr "Εκδόσεις προς διατήρηση"
+
+msgid "Renderer missing."
+msgstr "Λείπει η μηχανή απόδοσης."
+
+msgid "Reopen Account."
+msgstr "Ανοίξτε ξανά τον Λογαριασμό."
+
+msgid "Request conflict."
+msgstr "Διένεξη αιτήματος."
+
+msgid "Request expired."
+msgstr "Το αίτημα έληξε."
+
+msgid "Required: %s"
+msgstr "Απαιτείται: %s"
+
+msgid "Restore"
+msgstr "Επαναφορά"
+
+msgid "Retained"
+msgstr "Διατηρήθηκε"
+
+msgid "Retention"
+msgstr "Διατήρηση"
+
+msgid "Revoke"
+msgstr "Ανάκληση"
+
+msgid "Revoke other sessions"
+msgstr "Ανάκληση άλλων συνεδριών"
+
+msgid "Revoked"
+msgstr "Ανακλήθηκε"
+
+msgid "Role"
+msgstr "Ρόλος"
+
+msgid "Running"
+msgstr "Τρέξιμο"
+
+msgid "Runs through the worker."
+msgstr "Εκτελείται από τη διεργασία παρασκηνίου."
+
+msgid "SPA routing"
+msgstr "Δρομολόγηση SPA"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Save failed."
+msgstr "Η αποθήκευση απέτυχε."
+
+msgid "Save these codes. They are shown once."
+msgstr "Αποθηκεύστε αυτούς τους κωδικούς. Εμφανίζονται μία φορά."
+
+msgid "Save this token. It is shown once."
+msgstr "Αποθηκεύστε αυτό το διακριτικό. Εμφανίζεται μόνο μία φορά."
+
+msgid "Saved."
+msgstr "Αποθηκεύτηκε."
+
+msgid "Schedule"
+msgstr "Προγραμματισμός"
+
+msgid "Security"
+msgstr "Ασφάλεια"
+
+msgid "Session expired."
+msgstr "Η συνεδρία έληξε."
+
+msgid "Sessions"
+msgstr "Συνεδρίες"
+
+msgid "Set up 2FA"
+msgstr "Ρύθμιση 2FA"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Share"
+msgstr "Κοινή χρήση"
+
+msgid "Share link"
+msgstr "Κοινή χρήση συνδέσμου"
+
+msgid "Shared"
+msgstr "Κοινόχρηστο"
+
+msgid "Sharing"
+msgstr "Κοινή χρήση"
+
+msgid "Sharing storage (MB)"
+msgstr "Κοινή χρήση αποθηκευτικού χώρου (MB)"
+
+msgid "Sign in"
+msgstr "Σύνδεση"
+
+msgid "Sign in failed."
+msgstr "Η σύνδεση απέτυχε."
+
+msgid "Sign in required."
+msgstr "Απαιτείται είσοδος."
+
+msgid "Sign out"
+msgstr "Αποσύνδεση"
+
+msgid "Size"
+msgstr "Μέγεθος"
+
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+msgid "Started"
+msgstr "Ξεκίνησε"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Storage"
+msgstr "Αποθηκευτικός χώρος"
+
+msgid "Storage limit reached."
+msgstr "Συμπληρώθηκε το όριο αποθήκευσης."
+
+msgid "Storage unavailable."
+msgstr "Μη διαθέσιμος χώρος αποθήκευσης."
+
+msgid "System"
+msgstr "Σύστημα"
+
+msgid "System busy."
+msgstr "Το σύστημα είναι απασχολημένο."
+
+msgid "Target"
+msgstr "Στόχος"
+
+msgid "Temporary password"
+msgstr "Προσωρινός κωδικός πρόσβασης"
+
+msgid "This account cannot be changed."
+msgstr "Αυτός ο λογαριασμός δεν μπορεί να αλλάξει."
+
+msgid "Token"
+msgstr "Διακριτικό"
+
+msgid "Too many files."
+msgstr "Πάρα πολλά αρχεία."
+
+msgid "Too many open changes."
+msgstr "Πάρα πολλές ανοιχτές αλλαγές."
+
+msgid "Try again later."
+msgstr "Δοκιμάστε ξανά αργότερα."
+
+msgid "Unavailable."
+msgstr "Μη διαθέσιμο."
+
+msgid "Unknown OAuth client."
+msgstr "Αγνωστος πελάτης OAuth."
+
+msgid "Unknown action."
+msgstr "Αγνωστη ενέργεια."
+
+msgid "Unknown job."
+msgstr "Αγνωστη δουλειά."
+
+msgid "Unknown tool."
+msgstr "Αγνωστο εργαλείο."
+
+msgid "Unsupported component: %s"
+msgstr "Μη υποστηριζόμενο στοιχείο: %s"
+
+msgid "Until %s"
+msgstr "Εως %s"
+
+msgid "Update failed."
+msgstr "Η ενημέρωση απέτυχε."
+
+msgid "Upload"
+msgstr "Μεταφόρτωση"
+
+msgid "Upload failed."
+msgstr "Η μεταφόρτωση απέτυχε."
+
+msgid "Upload too large."
+msgstr "Η μεταφόρτωση είναι πολύ μεγάλη."
+
+msgid "Use"
+msgstr "Χρήση"
+
+msgid "Use POST."
+msgstr "Χρησιμοποιήστε POST."
+
+msgid "User"
+msgstr "Χρήστης"
+
+msgid "User missing."
+msgstr "Ο χρήστης λείπει."
+
+msgid "Users"
+msgstr "Χρήστες"
+
+msgid "Version"
+msgstr "Εκδοση"
+
+msgid "Version name"
+msgstr "Ονομα έκδοσης"
+
+msgid "Versions"
+msgstr "Εκδόσεις"
+
+msgid "Website"
+msgstr "Δικτυακός τόπος"
+
+msgid "Website enabled"
+msgstr "Ο ιστότοπος ενεργοποιήθηκε"
+
+msgid "Website file"
+msgstr "Αρχείο ιστοσελίδας"
+
+msgid "Website management"
+msgstr "Διαχείριση ιστοσελίδων"
+
+msgid "Website not found."
+msgstr "Ο ιστότοπος δεν βρέθηκε."
+
+msgid "Website unavailable."
+msgstr "Ο ιστότοπος δεν είναι διαθέσιμος."
+
+msgid "Websites"
+msgstr "Ιστοσελίδες"
+
+msgid "Welcome to DirectWeb"
+msgstr "Καλώς ήρθατε στο DirectWeb"
+
+msgid "Worker: %s"
+msgstr "Διεργασία παρασκηνίου: %s"
+
+msgid "index.html missing."
+msgstr "λείπει το index.html."
+
+msgid "Username"
+msgstr "Ονομα χρήστη"
+
+msgid "Authenticator app"
+msgstr "Εφαρμογή επαλήθευσης"
+
+msgid "Authenticator code"
+msgstr "Κωδικός ελέγχου ταυτότητας"
+
+msgid "Authenticator QR code"
+msgstr "Κωδικός QR του Authenticator"
+
+msgid "Scan the QR code."
+msgstr "Σαρώστε τον κωδικό QR."
+
+msgid "Current 2FA / recovery code"
+msgstr "Τρέχον 2FA / κωδικός ανάκτησης"
+
+msgid "Recovery code"
+msgstr "Κωδικός ανάκτησης"
+
+msgid "Verify"
+msgstr "Επαλήθευση"
+
+msgid "Verified"
+msgstr "Επαληθεύτηκε"
+
+msgid "Enabled"
+msgstr "Ενεργοποιημένο"
+
+msgid "Method"
+msgstr "Μέθοδος"
+
+msgid "Send code"
+msgstr "Αποστολή κωδικού"
+
+msgid "Code sent."
+msgstr "Ο κωδικός εστάλη."
+
+msgid "Verification code"
+msgstr "Κωδικός επαλήθευσης"
+
+msgid "Mail"
+msgstr "Αλληλογραφία"
+
+msgid "Enable email"
+msgstr "Ενεργοποίηση email"
+
+msgid "SMTP host"
+msgstr "Διακομιστής SMTP"
+
+msgid "SMTP username"
+msgstr "Ονομα χρήστη SMTP"
+
+msgid "SMTP password"
+msgstr "Κωδικός πρόσβασης SMTP"
+
+msgid "Port"
+msgstr "Θύρα"
+
+msgid "Encryption"
+msgstr "Κρυπτογράφηση"
+
+msgid "Sender"
+msgstr "Αποστολέας"
+
+msgid "Your verification code"
+msgstr "Ο κωδικός επαλήθευσής σας"
+
+msgid "Your code: %s"
+msgstr "Ο κωδικός σας: %s"
+
+msgid "Expires in 5 minutes."
+msgstr "Λήγει σε 5 λεπτά."
+
+msgid "Email-only users must add an authenticator first."
+msgstr "Οι χρήστες με επαλήθευση μόνο μέσω email πρέπει πρώτα να προσθέσουν εφαρμογή επαλήθευσης."
+
+msgid "Check SMTP settings."
+msgstr "Ελέγξτε τις ρυθμίσεις SMTP."
+
+msgid "SMTP encryption required."
+msgstr "Απαιτείται κρυπτογράφηση SMTP."
+
+msgid "Email is not configured."
+msgstr "Το email δεν έχει διαμορφωθεί."
+
+msgid "Email delivery failed."
+msgstr "Η παράδοση email απέτυχε."
+
+msgid "Email is not verified."
+msgstr "Το email δεν έχει επαληθευτεί."
+
+msgid "Invalid email address."
+msgstr "Μη έγκυρη διεύθυνση email."
+
+msgid "Email already exists."
+msgstr "Το email υπάρχει ήδη."
+
+msgid "Username already exists."
+msgstr "Το όνομα χρήστη υπάρχει ήδη."
+
+msgid "Check name, username and password (12+ characters)."
+msgstr "Ελέγξτε το όνομα, το όνομα χρήστη και τον κωδικό πρόσβασης (12+ χαρακτήρες)."
+
+msgid "Keep at least one available method."
+msgstr "Διατηρήστε τουλάχιστον μία διαθέσιμη μέθοδο."
+
+msgid "Invalid request."
+msgstr "Μη έγκυρο αίτημα."
+
+msgid "Account migration failed."
+msgstr "Η μετεγκατάσταση λογαριασμού απέτυχε."
+
+msgid "Account backup failed."
+msgstr "Η δημιουργία αντιγράφων ασφαλείας λογαριασμού απέτυχε."
+
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+msgid "Add website"
+msgstr "Προσθήκη ιστότοπου"
+
+msgid "2FA off"
+msgstr "2FA ανενεργό"
+
+msgid "Two-factor authentication"
+msgstr "Ελεγχος ταυτότητας δύο παραγόντων"
+
+msgid "Mail settings"
+msgstr "Ρυθμίσεις αλληλογραφίας"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "Copied"
+msgstr "Αντιγράφηκε"
+
+msgid "Copy link"
+msgstr "Αντιγραφή συνδέσμου"
+
+msgid "Upload progress"
+msgstr "Πρόοδος μεταφόρτωσης"
+
+msgid "Uploading"
+msgstr "Μεταφόρτωση"
+
+msgid "Finishing"
+msgstr "Ολοκλήρωση"
+
+msgid "Upload cancelled."
+msgstr "Η μεταφόρτωση ακυρώθηκε."
+
+msgid "File limit exceeded."
+msgstr "Υπέρβαση του ορίου αρχείου."
+
+msgid "Transfer limit exceeded."
+msgstr "Υπέρβαση του ορίου μεταφοράς."
+
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+msgid "Administration"
+msgstr "Διαχείριση"
+
+msgid "Installed"
+msgstr "Εγκατεστημένο"
+
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Renderer"
+msgstr "Μηχανή απόδοσης"
+
+msgid "Plugin"
+msgstr "Πρόσθετο"
+
+msgid "In use"
+msgstr "Σε χρήση"
+
+msgid "Choose another renderer first."
+msgstr "Επιλέξτε πρώτα άλλο πρόγραμμα απόδοσης."
+
+msgid "Disable to delete."
+msgstr "Απενεργοποιήστε πριν τη διαγραφή."
+
+msgid "Hosting"
+msgstr "Φιλοξενία"
+
+msgid "Environment"
+msgstr "Περιβάλλον"
+
+msgid "Requirements"
+msgstr "Απαιτήσεις"
+
+msgid "Setting"
+msgstr "Ρύθμιση"
+
+msgid "Value"
+msgstr "Τιμή"
+
+msgid "Installation key"
+msgstr "Κλειδί εγκατάστασης"
+
+msgid "Invalid installation key."
+msgstr "Μη έγκυρο κλειδί εγκατάστασης."
+
+msgid "Read the key in storage/database/setup.key using your hosting file manager."
+msgstr "Διαβάστε το κλειδί στο storage/database/setup.key μέσω της διαχείρισης αρχείων φιλοξενίας."
+
+msgid "Apache rewrite rules and HTTPS are required for the upload package."
+msgstr "Απαιτούνται κανόνες επανεγγραφής Apache και HTTPS για το πακέτο μεταφόρτωσης."
+
+msgid "Additional domains must point to this installation."
+msgstr "Πρόσθετοι τομείς πρέπει να παραπέμπουν σε αυτήν την εγκατάσταση."
+
+msgid "Scheduled jobs require a hosting cron task."
+msgstr "Οι προγραμματισμένες εργασίες απαιτούν εργασία cron φιλοξενίας."
+
+msgid "Actions"
+msgstr "Ενέργειες"
+
+msgid "Add user"
+msgstr "Προσθήκη χρήστη"
+
+msgid "Add file"
+msgstr "Προσθήκη αρχείου"
+
+msgid "Edit file"
+msgstr "Επεξεργασία αρχείου"
+
+msgid "Delete data"
+msgstr "Διαγραφή δεδομένων"
+
+msgid "Install plugin"
+msgstr "Εγκατάσταση πρόσθετου"
+
+msgid "Import backup"
+msgstr "Εισαγωγή αντιγράφου ασφαλείας"
+
+msgid "Backup file"
+msgstr "Εφεδρικό αρχείο"
+
+msgid "Current release"
+msgstr "Τρέχουσα έκδοση"
+
+msgid "Earlier release"
+msgstr "Προηγούμενη έκδοση"
+
+msgid "Later release"
+msgstr "Μεταγενέστερη έκδοση"
+
+msgid "Source release"
+msgstr "Εκδοση προέλευσης"
+
+msgid "Target website"
+msgstr "Στοχεύστε τον ιστότοπο"
+
+msgid "Publish target"
+msgstr "Δημοσίευση προορισμού"
+
+msgid "Publish release"
+msgstr "Δημοσίευση έκδοσης"
+
+msgid "Redirects"
+msgstr "Ανακατευθύνσεις"
+
+msgid "Revisions"
+msgstr "Αναθεωρήσεις"
+
+msgid "Staging"
+msgstr "Περιβάλλον δοκιμών"
+
+msgid "Forms"
+msgstr "Εντυπα"
+
+msgid "Deploy"
+msgstr "Ανάπτυξη"
+
+msgid "Monitor"
+msgstr "Παρακολούθηση"
+
+msgid "Media"
+msgstr "Μέσα"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgid "Tasks"
+msgstr "Καθήκοντα"
+
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+msgid "Remote Backups"
+msgstr "Απομακρυσμένα αντίγραφα ασφαλείας"
+
+msgid "Databases"
+msgstr "Βάσεις δεδομένων"
+
+msgid "Hosting Connector"
+msgstr "Σύνδεση φιλοξενίας"
+
+msgid "From"
+msgstr "Από"
+
+msgid "To"
+msgstr "Προς"
+
+msgid "Content file"
+msgstr "Αρχείο περιεχομένου"
+
+msgid "Fields (JSON)"
+msgstr "Πεδία (JSON)"
+
+msgid "Template"
+msgstr "Περίγραμμα"
+
+msgid "Output file"
+msgstr "Αρχείο εξόδου"
+
+msgid "Generate on publish"
+msgstr "Δημιουργία κατά τη δημοσίευση"
+
+msgid "Public search"
+msgstr "Δημόσια αναζήτηση"
+
+msgid "Results"
+msgstr "Αποτελέσματα"
+
+msgid "Source file"
+msgstr "Αρχείο προέλευσης"
+
+msgid "Width"
+msgstr "Πλάτος"
+
+msgid "Height"
+msgstr "Υψος"
+
+msgid "Crop"
+msgstr "Περικοπή"
+
+msgid "Quality"
+msgstr "Ποιότητα"
+
+msgid "Format"
+msgstr "Μορφή"
+
+msgid "Fields"
+msgstr "Πεδία"
+
+msgid "Public form"
+msgstr "Δημόσια φόρμα"
+
+msgid "Submissions per hour"
+msgstr "Υποβολές ανά ώρα"
+
+msgid "Retention (days)"
+msgstr "Διατήρηση (ημέρες)"
+
+msgid "Form"
+msgstr "Φόρμα"
+
+msgid "Received."
+msgstr "Ελήφθη."
+
+msgid "Artifact URL"
+msgstr "URL πακέτου"
+
+msgid "Artifact token"
+msgstr "Διακριτικό πακέτου"
+
+msgid "Provider"
+msgstr "Προμηθευτής"
+
+msgid "Webhook secret"
+msgstr "Μυστικό webhook"
+
+msgid "Branch"
+msgstr "Κλάδος"
+
+msgid "Interval (minutes)"
+msgstr "Διάστημα (λεπτά)"
+
+msgid "Expected status"
+msgstr "Αναμενόμενη κατάσταση"
+
+msgid "Certificate warning (days)"
+msgstr "Προειδοποίηση πιστοποιητικού (ημέρες)"
+
+msgid "Task"
+msgstr "Εργο"
+
+msgid "Release ID"
+msgstr "ID έκδοσης"
+
+msgid "Start (UTC)"
+msgstr "Εναρξη (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Επανάληψη (λεπτά, 0 = μία φορά)"
+
+msgid "Prune releases"
+msgstr "Εκκαθάριση εκδόσεων"
+
+msgid "Event"
+msgstr "Εκδήλωση"
+
+msgid "Webhook URL"
+msgstr "URL Webhook"
+
+msgid "S3 endpoint"
+msgstr "S3 τελικό σημείο"
+
+msgid "Bucket"
+msgstr "Κάδος αποθήκευσης"
+
+msgid "Region"
+msgstr "Περιφέρεια"
+
+msgid "Access key"
+msgstr "Κλειδί πρόσβασης"
+
+msgid "Secret key"
+msgstr "Μυστικό κλειδί"
+
+msgid "Backup passphrase"
+msgstr "Φράση πρόσβασης αντιγράφου"
+
+msgid "Copies to retain"
+msgstr "Αντίγραφα προς διατήρηση"
+
+msgid "Backup limit (MB)"
+msgstr "Οριο αντιγράφου (MB)"
+
+msgid "Upload new backups"
+msgstr "Ανεβάστε νέα αντίγραφα ασφαλείας"
+
+msgid "Object key"
+msgstr "Κλειδί αντικειμένου"
+
+msgid "Cloudflare zone ID"
+msgstr "ID ζώνης Cloudflare"
+
+msgid "API token"
+msgstr "Διακριτικό API"
+
+msgid "Record ID"
+msgstr "ID εγγραφής"
+
+msgid "Record ID (optional)"
+msgstr "Αναγνωριστικό εγγραφής (προαιρετικό)"
+
+msgid "Records (JSON)"
+msgstr "Εγγραφές (JSON)"
+
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+msgid "Proxy"
+msgstr "Διακομιστής μεσολάβησης"
+
+msgid "Purge after publish"
+msgstr "Εκκαθάριση μετά τη δημοσίευση"
+
+msgid "URLs (empty = all)"
+msgstr "Διευθύνσεις URL (κενό = όλα)"
+
+msgid "Rule (JSON)"
+msgstr "Κανόνας (JSON)"
+
+msgid "Database"
+msgstr "Βάση δεδομένων"
+
+msgid "Host"
+msgstr "Διακομιστής"
+
+msgid "DirectAdmin URL"
+msgstr "Διεύθυνση URL DirectAdmin"
+
+msgid "Login key"
+msgstr "Κλειδί σύνδεσης"
+
+msgid "Bandwidth (MB)"
+msgstr "Κίνηση δεδομένων (MB)"
+
+msgid "Disk (MB)"
+msgstr "Δίσκος (MB)"
+
+msgid "Mailbox"
+msgstr "Γραμματοκιβώτιο"
+
+msgid "Quota (MB)"
+msgstr "Ποσόστωση (MB)"
+
+msgid "Details"
+msgstr "Καθέκαστα"
+
+msgid "Export"
+msgstr "Εξαγωγή"
+
+msgid "Import"
+msgstr "Εισαγωγή"
+
+msgid "Close"
+msgstr "Κοντά"
+
+msgid "Delete record"
+msgstr "Διαγραφή εγγραφής"
+
+msgid "Save record"
+msgstr "Αποθήκευση εγγραφής"
+
+msgid "Records"
+msgstr "Εγγραφές"
+
+msgid "Import records"
+msgstr "Εισαγωγή εγγραφών"
+
+msgid "Purge cache"
+msgstr "Εκκαθάριση της προσωρινής μνήμης"
+
+msgid "Cache rules"
+msgstr "Κανόνες προσωρινής μνήμης"
+
+msgid "Save cache rule"
+msgstr "Αποθήκευση κανόνα προσωρινής μνήμης"
+
+msgid "Tables"
+msgstr "Πίνακες"
+
+msgid "Import SQL"
+msgstr "Εισαγωγή SQL"
+
+msgid "Create database"
+msgstr "Δημιουργία βάσης δεδομένων"
+
+msgid "Domains"
+msgstr "Τομείς"
+
+msgid "Add domain"
+msgstr "Προσθήκη τομέα"
+
+msgid "Mailboxes"
+msgstr "Γραμματοκιβώτια"
+
+msgid "Add mailbox"
+msgstr "Προσθήκη γραμματοκιβωτίου"
+
+msgid "Certificates"
+msgstr "Πιστοποιητικά"
+
+msgid "Hosting settings"
+msgstr "Ρυθμίσεις φιλοξενίας"
+
+msgid "Compare"
+msgstr "Σύγκριση"
+
+msgid "Copy release"
+msgstr "Αντιγραφή έκδοσης"
+
+msgid "Scan"
+msgstr "Σάρωση"
+
+msgid "Create sitemap"
+msgstr "Δημιουργία χάρτη ιστότοπου"
+
+msgid "Build index"
+msgstr "Δημιουργία ευρετηρίου"
+
+msgid "Convert"
+msgstr "Μετατροπή"
+
+msgid "View submissions"
+msgstr "Προβολή υποβολών"
+
+msgid "Check now"
+msgstr "Ελέγξτε τώρα"
+
+msgid "History"
+msgstr "Ιστορικό"
+
+msgid "Run now"
+msgstr "Εκτέλεση τώρα"
+
+msgid "View report"
+msgstr "Προβολή αναφοράς"
+
+msgid "Inbox"
+msgstr "Εισερχόμενα"
+
+msgid "Send test"
+msgstr "Αποστολή δοκιμής"
+
+msgid "Upload latest backup"
+msgstr "Ανεβάστε το τελευταίο αντίγραφο ασφαλείας"
+
+msgid "Remote copies"
+msgstr "Απομακρυσμένα αντίγραφα"
+
+msgid "Retrieve backup"
+msgstr "Λήψη αντιγράφου ασφαλείας"
+
+msgid "Index files"
+msgstr "Αρχεία ευρετηρίου"
+
+msgid "403 page"
+msgstr "Σελίδα 403"
+
+msgid "404 page"
+msgstr "Σελίδα 404"
+
+msgid "500 page"
+msgstr "Σελίδα 500"
+
+msgid "Cache"
+msgstr "Προσωρινή μνήμη"
+
+msgid "Password protection"
+msgstr "Προστασία με κωδικό πρόσβασης"
+
+msgid "Hour"
+msgstr "Ωρα"
+
+msgid "Day"
+msgstr "Ημέρα"
+
+msgid "Week"
+msgstr "Εβδομάδα"
+
+msgid "Download notifications"
+msgstr "Ειδοποιήσεις λήψης"
+
+msgid "Download ZIP"
+msgstr "Λήψη ZIP"
+
+msgid "File requests"
+msgstr "Αιτήματα αρχείων"
+
+msgid "Add request"
+msgstr "Προσθήκη αιτήματος"
+
+msgid "Request"
+msgstr "Αίτημα"
+
+msgid "Requests"
+msgstr "Αιτήματα"
+
+msgid "Expiry"
+msgstr "Λήξη"
+
+msgid "Endpoint"
+msgstr "Τελικό σημείο"
+
+msgid "Permissions"
+msgstr "Αδειες"
+
+msgid "Tokens"
+msgstr "Διακριτικά"
+
+msgid "Client"
+msgstr "Πελάτης"
+
+msgid "Back"
+msgstr "Πίσω"
+
+msgid "Updated"
+msgstr "Ενημερώθηκε"
+
+msgid "Field"
+msgstr "Πεδίο"
+
+msgid "Data is retained."
+msgstr "Τα δεδομένα διατηρούνται."
+
+msgid "A backup is created first."
+msgstr "Δημιουργείται πρώτα ένα αντίγραφο ασφαλείας."
+
+msgid "Current data is backed up before restoration."
+msgstr "Δημιουργούνται αντίγραφα ασφαλείας των τρεχόντων δεδομένων πριν από την επαναφορά."
+
+msgid "Restore queued. Sign in again after completion."
+msgstr "Η επαναφορά είναι στην ουρά. Συνδεθείτε ξανά μετά την ολοκλήρωση."
+
+msgid "Add a website first."
+msgstr "Προσθέστε πρώτα έναν ιστότοπο."
+
+msgid "Complete required fields."
+msgstr "Συμπληρώστε τα υποχρεωτικά πεδία."
+
+msgid "Record changed. Reopen the page."
+msgstr "Το αρχείο άλλαξε. Ανοίξτε ξανά τη σελίδα."
+
+msgid "Record not found."
+msgstr "Η εγγραφή δεν βρέθηκε."
+
+msgid "Record changed."
+msgstr "Το αρχείο άλλαξε."
+
+msgid "Invalid value."
+msgstr "Μη έγκυρη τιμή."
+
+msgid "Value out of range."
+msgstr "Τιμή εκτός εύρους."
+
+msgid "Choose a website."
+msgstr "Επιλέξτε έναν ιστότοπο."
+
+msgid "Choose another website."
+msgstr "Επιλέξτε έναν άλλο ιστότοπο."
+
+msgid "Action unavailable."
+msgstr "Η ενέργεια δεν είναι διαθέσιμη."
+
+msgid "Operation not granted."
+msgstr "Η ενέργεια δεν επιτρέπεται."
+
+msgid "Read only."
+msgstr "Μόνο για ανάγνωση."
+
+msgid "Redirect loop."
+msgstr "Βρόχος ανακατεύθυνσης."
+
+msgid "Redirect already exists."
+msgstr "Η ανακατεύθυνση υπάρχει ήδη."
+
+msgid "Connection failed."
+msgstr "Η σύνδεση απέτυχε."
+
+msgid "Connection timed out."
+msgstr "Το χρονικό όριο της σύνδεσης έληξε."
+
+msgid "Enable the GD extension."
+msgstr "Ενεργοποιήστε την επέκταση GD."
+
+msgid "Enable the DOM extension."
+msgstr "Ενεργοποιήστε την επέκταση DOM."
+
+msgid "Enable PDO MySQL."
+msgstr "Ενεργοποίηση PDO MySQL."
+
+msgid "Create a backup first."
+msgstr "Δημιουργήστε πρώτα ένα αντίγραφο ασφαλείας."
+
+msgid "Backup exceeds remote limit."
+msgstr "Το αντίγραφο υπερβαίνει το όριο απομακρυσμένης αποθήκευσης."
+
+msgid "Backup decryption failed."
+msgstr "Η αποκρυπτογράφηση αντιγράφων ασφαλείας απέτυχε."
+
+msgid "Use an HTTPS URL."
+msgstr "Χρησιμοποιήστε μια διεύθυνση URL HTTPS."
+
+msgid "Invalid JSON."
+msgstr "Μη έγκυρο JSON."
+
+msgid "Token already shown."
+msgstr "Το διακριτικό έχει ήδη εμφανιστεί."
+
+msgid "Token missing."
+msgstr "Λείπει το διακριτικό."
+
+msgid "Client missing."
+msgstr "Ο πελάτης λείπει."
+
+msgid "Edit content"
+msgstr "Επεξεργασία περιεχομένου"
+
+msgid "Request certificate"
+msgstr "Αίτημα πιστοποιητικού"
+
+msgid "Change hosting setting"
+msgstr "Αλλάξτε τη ρύθμιση φιλοξενίας"
+
+msgid "Hosting settings unavailable."
+msgstr "Οι ρυθμίσεις φιλοξενίας δεν είναι διαθέσιμες."
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Disable email 2FA before removing the authenticator."
+msgstr "Απενεργοποιήστε το email 2FA πριν αφαιρέσετε τον έλεγχο ταυτότητας."
+
+msgid "Draft"
+msgstr "Πρόχειρο"
+
+msgid "Replace current data"
+msgstr "Αντικαταστήστε τα τρέχοντα δεδομένα"
+
+msgid "Confirm restoration."
+msgstr "Επιβεβαίωση αποκατάστασης."
+
+msgid "Backup in use."
+msgstr "Εφεδρικό αντίγραφο σε χρήση."
+
+msgid "Delete backup"
+msgstr "Διαγραφή αντιγράφου ασφαλείας"
+
+msgid "Scheduled"
+msgstr "Προγραμματισμένο"
+
+msgid "Publishing"
+msgstr "Δημοσίευση"
+
+msgid "Change website"
+msgstr "Αλλαγή ιστότοπου"
+
+msgid "HTML website manager"
+msgstr "Διαχειριστής ιστότοπου HTML"
+
+msgid "Import existing versions. Original files remain available."
+msgstr "Εισαγάγετε υπάρχουσες εκδόσεις. Τα πρωτότυπα αρχεία παραμένουν διαθέσιμα."
+
+msgid "Manage accounts and security in WordPress."
+msgstr "Διαχείριση λογαριασμών και ασφάλειας στο WordPress."
+
+msgid "Background jobs use WordPress cron."
+msgstr "Οι εργασίες στο παρασκήνιο χρησιμοποιούν το WordPress cron."
+
+msgid "Choose a published website on this domain."
+msgstr "Επιλέξτε έναν δημοσιευμένο ιστότοπο σε αυτόν τον τομέα."
+
+msgid "Plugin management is disabled in WordPress."
+msgstr "Η διαχείριση προσθηκών είναι απενεργοποιημένη στο WordPress."
+
+msgid "Preview unavailable."
+msgstr "Η προεπισκόπηση δεν είναι διαθέσιμη."

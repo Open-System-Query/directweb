@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Mappák"
+
+msgid "Folder"
+msgstr "Mappa"
+
+msgid "Add folder"
+msgstr "Mappa hozzáadása"
+
+msgid "Server path"
+msgstr "Szerver elérési útja"
+
+msgid "Server"
+msgstr "Szerver"
+
+msgid "Location"
+msgstr "Hely"
+
+msgid "Subfolders"
+msgstr "Almappák"
+
+msgid "Rules"
+msgstr "Szabályok"
+
+msgid "Directory listing"
+msgstr "Könyvtárlista"
+
+msgid "Inherit"
+msgstr "Öröklés"
+
+msgid "On"
+msgstr "Be"
+
+msgid "Selected IP addresses"
+msgstr "Kiválasztott IP-címek"
+
+msgid "IP addresses"
+msgstr "IP-címek"
+
+msgid "Current"
+msgstr "Jelenlegi"
+
+msgid "New"
+msgstr "Új"
+
+msgid "Apply"
+msgstr "Alkalmazás"
+
+msgid "Choose a readable folder."
+msgstr "Válasszon egy olvasható mappát."
+
+msgid "Choose a hosting folder."
+msgstr "Válasszon egy hosting mappát."
+
+msgid "Folder already added."
+msgstr "A mappa már hozzáadva."
+
+msgid "Folder missing."
+msgstr "Mappa hiányzik."
+
+msgid "Folder changed."
+msgstr "A mappa megváltozott."
+
+msgid "Symbolic links are not supported."
+msgstr "A szimbolikus hivatkozások nem támogatottak."
+
+msgid "DirectWeb folders are protected."
+msgstr "A DirectWeb mappák védettek."
+
+msgid "Folder is not writable."
+msgstr "A mappa nem írható."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Ez a .htaccess fájl nem kezelhető."
+
+msgid "Check IP addresses."
+msgstr "Ellenőrizze az IP-címeket."
+
+msgid "File changed outside DirectWeb."
+msgstr "A fájl a DirectWeb-en kívül módosult."
+
+msgid "Preview expired."
+msgstr "Az előnézet lejárt."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 és AllowOverride engedélyek szükségesek."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Ezek a szabályok a webszerver által kiszolgált fizikai mappákra vonatkoznak."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Kezelje a mappákhoz való hozzáférést, a gyorsítótárat és a hibaoldalakat."

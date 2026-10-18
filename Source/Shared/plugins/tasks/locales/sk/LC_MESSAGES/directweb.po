@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Publish release"
+msgstr "Zverejniť verziu"
+
+msgid "Tasks"
+msgstr "Úlohy"
+
+msgid "Task"
+msgstr "Úloha"
+
+msgid "Release ID"
+msgstr "ID verzie"
+
+msgid "Start (UTC)"
+msgstr "Štart (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Opakovať (minúty, 0 = raz)"
+
+msgid "Prune releases"
+msgstr "Prečistiť verzie"
+
+msgid "Run now"
+msgstr "Spustiť teraz"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Naplánujte si publikovanie, zálohovanie a čistenie verzií."

@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Monitor"
+msgstr "Monitorovanie"
+
+msgid "Interval (minutes)"
+msgstr "Interval (minúty)"
+
+msgid "Expected status"
+msgstr "Očakávaný stav"
+
+msgid "Certificate warning (days)"
+msgstr "Upozornenie na certifikát (dni)"
+
+msgid "Check now"
+msgstr "Skontrolujte teraz"
+
+msgid "History"
+msgstr "História"
+
+msgid "Use an HTTPS URL."
+msgstr "Použite HTTPS URL."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Skontrolujte dostupnosť webových stránok a uplynutie platnosti certifikátu."

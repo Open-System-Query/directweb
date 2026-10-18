@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Trimiteți coduri de verificare și notificări prin SMTP."
+
+msgid "Outgoing email"
+msgstr "E-mail trimis"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Trimite coduri de verificare și notificări de plugin prin furnizorul tău SMTP."
+
+msgid "Ready"
+msgstr "Gata"
+
+msgid "Not configured"
+msgstr "Neconfigurat"
+
+msgid "Usage"
+msgstr "Utilizare"
+
+msgid "Accounts using email 2FA"
+msgstr "Conturi care utilizează e-mailul 2FA"
+
+msgid "Email notification rules"
+msgstr "Reguli de notificare prin e-mail"
+
+msgid "Send email"
+msgstr "Trimite e-mail"
+
+msgid "SMTP connection"
+msgstr "Conexiune SMTP"
+
+msgid "Test email"
+msgstr "E-mail de test"
+
+msgid "Recipient"
+msgstr "Destinatar"
+
+msgid "DirectWeb test email"
+msgstr "E-mail de testare DirectWeb"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb poate trimite e-mail prin furnizorul dvs. SMTP."
+
+msgid "Test email sent."
+msgstr "E-mail de test trimis."
+
+msgid "Test email sent to %s."
+msgstr "E-mail de testare trimis către %s."
+
+msgid "Configured, untested"
+msgstr "Configurat, netestat"
+
+msgid "Successfully tested"
+msgstr "Testat cu succes"
+
+msgid "Last send failed"
+msgstr "Ultima trimitere a eșuat"
+
+msgid "Last successful send"
+msgstr "Ultima trimitere reușită"
+
+msgid "Last failure"
+msgstr "Ultimul eșec"
+
+msgid "SMTP authentication failed."
+msgstr "Autentificarea SMTP a eșuat."
+
+msgid "SMTP connection failed."
+msgstr "Conexiunea SMTP a eșuat."
+
+msgid "SMTP server rejected the message."
+msgstr "Serverul SMTP a respins mesajul."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "Serverul SMTP este temporar indisponibil."

@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Remote Backups"
+msgstr "Kopie zdalne"
+
+msgid "S3 endpoint"
+msgstr "Punkt końcowy S3"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Access key"
+msgstr "Klucz dostępu"
+
+msgid "Secret key"
+msgstr "Tajny klucz"
+
+msgid "Backup passphrase"
+msgstr "Hasło kopii zapasowej"
+
+msgid "Copies to retain"
+msgstr "Liczba kopii do zachowania"
+
+msgid "Backup limit (MB)"
+msgstr "Limit kopii (MB)"
+
+msgid "Upload new backups"
+msgstr "Prześlij nowe kopie"
+
+msgid "Object key"
+msgstr "Klucz obiektu"
+
+msgid "Upload latest backup"
+msgstr "Prześlij najnowszą kopię"
+
+msgid "Remote copies"
+msgstr "Kopie zdalne"
+
+msgid "Retrieve backup"
+msgstr "Pobierz kopię"
+
+msgid "Create a backup first."
+msgstr "Najpierw utwórz kopię zapasową."
+
+msgid "Backup exceeds remote limit."
+msgstr "Kopia przekracza limit zdalny."
+
+msgid "Backup decryption failed."
+msgstr "Nie udało się odszyfrować kopii."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Przechowuj szyfrowane kopie w magazynie zgodnym z S3."

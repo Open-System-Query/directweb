@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nl\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Geen toegang."
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Check the input."
+msgstr "Controleer de invoer."
+
+msgid "Days"
+msgstr "Dagen"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Downloadlimiet (0 = onbeperkt)"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Expired"
+msgstr "Verlopen"
+
+msgid "Expires"
+msgstr "Verloopt"
+
+msgid "File not found."
+msgstr "Bestand niet gevonden."
+
+msgid "File unavailable."
+msgstr "Bestand niet beschikbaar."
+
+msgid "Files"
+msgstr "Bestanden"
+
+msgid "Invalid filename."
+msgstr "Ongeldige bestandsnaam."
+
+msgid "Invalid password."
+msgstr "Ongeldig wachtwoord."
+
+msgid "Link unavailable."
+msgstr "Link niet beschikbaar."
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Password required."
+msgstr "Wachtwoord vereist."
+
+msgid "Revoke"
+msgstr "Intrekken"
+
+msgid "Revoked"
+msgstr "Ingetrokken"
+
+msgid "Save failed."
+msgstr "Opslaan mislukt."
+
+msgid "Share"
+msgstr "Delen"
+
+msgid "Share link"
+msgstr "Deellink"
+
+msgid "Shared"
+msgstr "Gedeeld"
+
+msgid "Sharing"
+msgstr "Delen"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Storage limit reached."
+msgstr "Opslaglimiet bereikt."
+
+msgid "Upload failed."
+msgstr "Upload mislukt."
+
+msgid "File transfer"
+msgstr "Bestanden delen"
+
+msgid "Receive"
+msgstr "Ontvangen"
+
+msgid "Send"
+msgstr "Verzenden"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Send files"
+msgstr "Bestanden verzenden"
+
+msgid "Sign in to upload files."
+msgstr "Log in om bestanden te uploaden."
+
+msgid "Used"
+msgstr "Gebruikt"
+
+msgid "Per file"
+msgstr "Per bestand"
+
+msgid "Per transfer"
+msgstr "Per transfer"
+
+msgid "Transfers"
+msgstr "Transfers"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Manage"
+msgstr "Beheren"
+
+msgid "Portal"
+msgstr "Portaal"
+
+msgid "Open portal"
+msgstr "Portaal openen"
+
+msgid "Sharing settings"
+msgstr "Deelinstellingen"
+
+msgid "Limits"
+msgstr "Limieten"
+
+msgid "Public portal"
+msgstr "Publiek portaal"
+
+msgid "Guest uploads"
+msgstr "Gastuploads"
+
+msgid "Require download password"
+msgstr "Downloadwachtwoord verplicht"
+
+msgid "File limit (MB)"
+msgstr "Bestandslimiet (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Transferlimiet (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Opslaglimiet (MB)"
+
+msgid "Files per transfer"
+msgstr "Bestanden per transfer"
+
+msgid "Default expiry (hours)"
+msgstr "Standaard verlooptijd (uren)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maximale verlooptijd (uren)"
+
+msgid "Uploads per hour per IP"
+msgstr "Uploads per uur per IP"
+
+msgid "Expires in (hours)"
+msgstr "Verloopt na (uren)"
+
+msgid "Download password"
+msgstr "Downloadwachtwoord"
+
+msgid "Check sharing limits."
+msgstr "Controleer de deellimieten."
+
+msgid "Check transfer settings."
+msgstr "Controleer de transferinstellingen."
+
+msgid "Upload expired."
+msgstr "Upload verlopen."
+
+msgid "Invalid upload chunk."
+msgstr "Ongeldig uploaddeel."
+
+msgid "Upload position changed."
+msgstr "Uploadpositie gewijzigd."
+
+msgid "Upload too large."
+msgstr "Upload te groot."
+
+msgid "Upload incomplete."
+msgstr "Upload onvolledig."
+
+msgid "Share files with short links and upload requests."
+msgstr "Deel bestanden met korte links en uploadverzoeken."

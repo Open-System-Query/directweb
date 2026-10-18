@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hosting Connector"
+msgstr "Връзка с хостинга"
+
+msgid "Database"
+msgstr "База данни"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin URL"
+
+msgid "Login key"
+msgstr "Ключ за вход"
+
+msgid "Bandwidth (MB)"
+msgstr "Трафик (MB)"
+
+msgid "Disk (MB)"
+msgstr "Диск (MB)"
+
+msgid "Mailbox"
+msgstr "Пощенска кутия"
+
+msgid "Quota (MB)"
+msgstr "Квота (MB)"
+
+msgid "Create database"
+msgstr "Създайте база данни"
+
+msgid "Domains"
+msgstr "Домейни"
+
+msgid "Add domain"
+msgstr "Добавете домейн"
+
+msgid "Mailboxes"
+msgstr "Пощенски кутии"
+
+msgid "Add mailbox"
+msgstr "Добавете пощенска кутия"
+
+msgid "Certificates"
+msgstr "Сертификати"
+
+msgid "Hosting settings"
+msgstr "Настройки за хостинг"
+
+msgid "Request certificate"
+msgstr "Поискайте сертификат"
+
+msgid "Change hosting setting"
+msgstr "Променете настройката за хостинг"
+
+msgid "Setting"
+msgstr "Настройка"
+
+msgid "Hosting settings unavailable."
+msgstr "Настройките за хостинг не са налични."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Управлявайте хостинг услуги чрез DirectAdmin."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Forms"
+msgstr "Форми"
+
+msgid "Fields"
+msgstr "Поля"
+
+msgid "Public form"
+msgstr "Публічна форма"
+
+msgid "Submissions per hour"
+msgstr "Подання за годину"
+
+msgid "Retention (days)"
+msgstr "Зберігання (днів)"
+
+msgid "Form"
+msgstr "Форма"
+
+msgid "Received."
+msgstr "Отримано."
+
+msgid "View submissions"
+msgstr "Переглянути подання"
+
+msgid "Complete required fields."
+msgstr "Заповніть обов'язкові поля."
+
+msgid "Invalid value."
+msgstr "Недійсне значення."
+
+msgid "Collect and manage website form submissions."
+msgstr "Збирайте та керуйте формами веб-сайту."

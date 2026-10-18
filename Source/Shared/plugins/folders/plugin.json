@@ -1,0 +1,16 @@
+{
+  "id": "folders",
+  "name": "Folders",
+  "version": "1.0",
+  "type": "plugin",
+  "api": 1,
+  "lumui": "1.0",
+  "entry": "plugin.php",
+  "min_core": "1.0",
+  "tables": [
+    "folder_roots",
+    "folder_changes",
+    "folder_rules"
+  ],
+  "description": "Manage folder access, caching and error pages."
+}

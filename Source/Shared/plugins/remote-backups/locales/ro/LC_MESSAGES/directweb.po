@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Remote Backups"
+msgstr "Backups la distanță"
+
+msgid "S3 endpoint"
+msgstr "Punct final S3"
+
+msgid "Bucket"
+msgstr "Container"
+
+msgid "Region"
+msgstr "Regiunea"
+
+msgid "Access key"
+msgstr "Cheie de acces"
+
+msgid "Secret key"
+msgstr "Cheie secretă"
+
+msgid "Backup passphrase"
+msgstr "Frază secretă pentru copie"
+
+msgid "Copies to retain"
+msgstr "Copii de păstrat"
+
+msgid "Backup limit (MB)"
+msgstr "Limită copie (MB)"
+
+msgid "Upload new backups"
+msgstr "Încărcați copii de rezervă noi"
+
+msgid "Object key"
+msgstr "Cheie obiect"
+
+msgid "Upload latest backup"
+msgstr "Încărcați cea mai recentă copie de rezervă"
+
+msgid "Remote copies"
+msgstr "Copii de la distanță"
+
+msgid "Retrieve backup"
+msgstr "Preia copia de siguranță"
+
+msgid "Create a backup first."
+msgstr "Creați mai întâi o copie de rezervă."
+
+msgid "Backup exceeds remote limit."
+msgstr "Copia depășește limita stocării la distanță."
+
+msgid "Backup decryption failed."
+msgstr "Decriptarea copiei de rezervă a eșuat."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Stocați copiile de rezervă criptate în spațiu de stocare compatibil cu S3."

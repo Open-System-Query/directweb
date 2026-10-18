@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Hozzáférés megtagadva."
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Check the input."
+msgstr "Ellenőrizze a bevitt adatokat."
+
+msgid "Days"
+msgstr "Nap"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Letöltési korlát (0 = korlátlan)"
+
+msgid "Downloads"
+msgstr "Letöltések"
+
+msgid "Expired"
+msgstr "Lejárt"
+
+msgid "Expires"
+msgstr "Lejár"
+
+msgid "File not found."
+msgstr "A fájl nem található."
+
+msgid "File unavailable."
+msgstr "A fájl nem érhető el."
+
+msgid "Files"
+msgstr "Fájlok"
+
+msgid "Invalid filename."
+msgstr "Érvénytelen fájlnév."
+
+msgid "Invalid password."
+msgstr "Érvénytelen jelszó."
+
+msgid "Link unavailable."
+msgstr "A link nem érhető el."
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Password required."
+msgstr "Jelszó szükséges."
+
+msgid "Revoke"
+msgstr "Visszavonás"
+
+msgid "Revoked"
+msgstr "Visszavonva"
+
+msgid "Save failed."
+msgstr "A mentés nem sikerült."
+
+msgid "Share"
+msgstr "Megosztás"
+
+msgid "Share link"
+msgstr "Link megosztása"
+
+msgid "Shared"
+msgstr "Megosztva"
+
+msgid "Sharing"
+msgstr "Megosztás"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "Storage limit reached."
+msgstr "Elérte a tárhely korlátját."
+
+msgid "Upload failed."
+msgstr "A feltöltés sikertelen."
+
+msgid "File transfer"
+msgstr "Fájlátvitel"
+
+msgid "Receive"
+msgstr "Fogadás"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "Send files"
+msgstr "Fájlok küldése"
+
+msgid "Sign in to upload files."
+msgstr "Fájlok feltöltéséhez jelentkezzen be."
+
+msgid "Used"
+msgstr "Felhasznált"
+
+msgid "Per file"
+msgstr "Fájlonként"
+
+msgid "Per transfer"
+msgstr "Átvitelenként"
+
+msgid "Transfers"
+msgstr "Átvitelek"
+
+msgid "Transfer"
+msgstr "Átvitel"
+
+msgid "Manage"
+msgstr "Kezelés"
+
+msgid "Portal"
+msgstr "Portál"
+
+msgid "Open portal"
+msgstr "Portál megnyitása"
+
+msgid "Sharing settings"
+msgstr "Megosztási beállítások"
+
+msgid "Limits"
+msgstr "Korlátok"
+
+msgid "Public portal"
+msgstr "Nyilvános portál"
+
+msgid "Guest uploads"
+msgstr "Vendégfeltöltések"
+
+msgid "Require download password"
+msgstr "Letöltési jelszó szükséges"
+
+msgid "File limit (MB)"
+msgstr "Fájlkorlát (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Átviteli korlát (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Tárhelykorlát (MB)"
+
+msgid "Files per transfer"
+msgstr "Fájlok átvitelenként"
+
+msgid "Default expiry (hours)"
+msgstr "Alapértelmezett lejárat (óra)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maximális lejárati idő (óra)"
+
+msgid "Uploads per hour per IP"
+msgstr "Feltöltés óránként IP-nként"
+
+msgid "Expires in (hours)"
+msgstr "Lejár (óra)"
+
+msgid "Download password"
+msgstr "Letöltési jelszó"
+
+msgid "Check sharing limits."
+msgstr "Ellenőrizze a megosztási korlátokat."
+
+msgid "Check transfer settings."
+msgstr "Ellenőrizze az átviteli beállításokat."
+
+msgid "Upload expired."
+msgstr "A feltöltés lejárt."
+
+msgid "Invalid upload chunk."
+msgstr "Érvénytelen feltöltési rész."
+
+msgid "Upload position changed."
+msgstr "Feltöltési pozíció megváltozott."
+
+msgid "Upload too large."
+msgstr "A feltöltés túl nagy."
+
+msgid "Upload incomplete."
+msgstr "A feltöltés nem fejeződött be."
+
+msgid "Share files with short links and upload requests."
+msgstr "Fájlok megosztása rövid hivatkozásokkal és feltöltési kérelmekkel."

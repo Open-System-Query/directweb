@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: de\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Zugriff verweigert."
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Check the input."
+msgstr "Eingabe prüfen."
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Downloadlimit (0 = unbegrenzt)"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Expired"
+msgstr "Abgelaufen"
+
+msgid "Expires"
+msgstr "Läuft ab"
+
+msgid "File not found."
+msgstr "Datei nicht gefunden."
+
+msgid "File unavailable."
+msgstr "Datei nicht verfügbar."
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "Invalid filename."
+msgstr "Ungültiger Dateiname."
+
+msgid "Invalid password."
+msgstr "Ungültiges Passwort."
+
+msgid "Link unavailable."
+msgstr "Link nicht verfügbar."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Password required."
+msgstr "Passwort erforderlich."
+
+msgid "Revoke"
+msgstr "Widerrufen"
+
+msgid "Revoked"
+msgstr "Widerrufen"
+
+msgid "Save failed."
+msgstr "Speichern fehlgeschlagen."
+
+msgid "Share"
+msgstr "Teilen"
+
+msgid "Share link"
+msgstr "Freigabelink"
+
+msgid "Shared"
+msgstr "Geteilt"
+
+msgid "Sharing"
+msgstr "Freigaben"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Storage limit reached."
+msgstr "Speicherlimit erreicht."
+
+msgid "Upload failed."
+msgstr "Hochladen fehlgeschlagen."
+
+msgid "File transfer"
+msgstr "Dateitransfer"
+
+msgid "Receive"
+msgstr "Empfangen"
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Send files"
+msgstr "Dateien senden"
+
+msgid "Sign in to upload files."
+msgstr "Zum Hochladen anmelden."
+
+msgid "Used"
+msgstr "Belegt"
+
+msgid "Per file"
+msgstr "Pro Datei"
+
+msgid "Per transfer"
+msgstr "Pro Transfer"
+
+msgid "Transfers"
+msgstr "Transfers"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Manage"
+msgstr "Verwalten"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Open portal"
+msgstr "Portal öffnen"
+
+msgid "Sharing settings"
+msgstr "Freigabeeinstellungen"
+
+msgid "Limits"
+msgstr "Limits"
+
+msgid "Public portal"
+msgstr "Öffentliches Portal"
+
+msgid "Guest uploads"
+msgstr "Gast-Uploads"
+
+msgid "Require download password"
+msgstr "Download-Passwort erforderlich"
+
+msgid "File limit (MB)"
+msgstr "Dateilimit (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Transferlimit (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Speicherlimit (MB)"
+
+msgid "Files per transfer"
+msgstr "Dateien pro Transfer"
+
+msgid "Default expiry (hours)"
+msgstr "Standardablauf (Stunden)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maximaler Ablauf (Stunden)"
+
+msgid "Uploads per hour per IP"
+msgstr "Uploads pro Stunde je IP"
+
+msgid "Expires in (hours)"
+msgstr "Läuft ab nach (Stunden)"
+
+msgid "Download password"
+msgstr "Download-Passwort"
+
+msgid "Check sharing limits."
+msgstr "Freigabelimits prüfen."
+
+msgid "Check transfer settings."
+msgstr "Transfereinstellungen prüfen."
+
+msgid "Upload expired."
+msgstr "Upload abgelaufen."
+
+msgid "Invalid upload chunk."
+msgstr "Ungültiger Upload-Block."
+
+msgid "Upload position changed."
+msgstr "Upload-Position geändert."
+
+msgid "Upload too large."
+msgstr "Upload zu groß."
+
+msgid "Upload incomplete."
+msgstr "Upload unvollständig."
+
+msgid "Share files with short links and upload requests."
+msgstr "Dateien über Kurzlinks und Upload-Anfragen teilen."

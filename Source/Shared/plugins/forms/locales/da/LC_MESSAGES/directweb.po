@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Forms"
+msgstr "Formularer"
+
+msgid "Fields"
+msgstr "Felter"
+
+msgid "Public form"
+msgstr "Offentlig formular"
+
+msgid "Submissions per hour"
+msgstr "Indsendelser pr. time"
+
+msgid "Retention (days)"
+msgstr "Opbevaring (dage)"
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Received."
+msgstr "Modtaget."
+
+msgid "View submissions"
+msgstr "Vis indsendelser"
+
+msgid "Complete required fields."
+msgstr "Udfyld de påkrævede felter."
+
+msgid "Invalid value."
+msgstr "Ugyldig værdi."
+
+msgid "Collect and manage website form submissions."
+msgstr "Indsaml og administrer formularindsendelser."

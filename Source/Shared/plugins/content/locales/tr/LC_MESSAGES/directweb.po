@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "İçerik"
+
+msgid "Content file"
+msgstr "İçerik dosyası"
+
+msgid "Fields (JSON)"
+msgstr "Alanlar (JSON)"
+
+msgid "Template"
+msgstr "Şablon"
+
+msgid "Output file"
+msgstr "Çıktı dosyası"
+
+msgid "Fields"
+msgstr "Alanlar"
+
+msgid "Invalid value."
+msgstr "Geçersiz değer."
+
+msgid "Edit content"
+msgstr "İçeriği düzenle"
+
+msgid "Edit content and publish website updates."
+msgstr "İçeriği düzenleyin ve web sitesi güncellemelerini yayınlayın."

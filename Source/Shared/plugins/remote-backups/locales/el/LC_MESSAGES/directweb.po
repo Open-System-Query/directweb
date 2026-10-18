@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Remote Backups"
+msgstr "Απομακρυσμένα αντίγραφα ασφαλείας"
+
+msgid "S3 endpoint"
+msgstr "S3 τελικό σημείο"
+
+msgid "Bucket"
+msgstr "Κάδος αποθήκευσης"
+
+msgid "Region"
+msgstr "Περιφέρεια"
+
+msgid "Access key"
+msgstr "Κλειδί πρόσβασης"
+
+msgid "Secret key"
+msgstr "Μυστικό κλειδί"
+
+msgid "Backup passphrase"
+msgstr "Φράση πρόσβασης αντιγράφου"
+
+msgid "Copies to retain"
+msgstr "Αντίγραφα προς διατήρηση"
+
+msgid "Backup limit (MB)"
+msgstr "Οριο αντιγράφου (MB)"
+
+msgid "Upload new backups"
+msgstr "Ανεβάστε νέα αντίγραφα ασφαλείας"
+
+msgid "Object key"
+msgstr "Κλειδί αντικειμένου"
+
+msgid "Upload latest backup"
+msgstr "Ανεβάστε το τελευταίο αντίγραφο ασφαλείας"
+
+msgid "Remote copies"
+msgstr "Απομακρυσμένα αντίγραφα"
+
+msgid "Retrieve backup"
+msgstr "Λήψη αντιγράφου ασφαλείας"
+
+msgid "Create a backup first."
+msgstr "Δημιουργήστε πρώτα ένα αντίγραφο ασφαλείας."
+
+msgid "Backup exceeds remote limit."
+msgstr "Το αντίγραφο υπερβαίνει το όριο απομακρυσμένης αποθήκευσης."
+
+msgid "Backup decryption failed."
+msgstr "Η αποκρυπτογράφηση αντιγράφων ασφαλείας απέτυχε."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Αποθηκεύστε κρυπτογραφημένα αντίγραφα ασφαλείας σε αποθηκευτικό χώρο συμβατό με S3."

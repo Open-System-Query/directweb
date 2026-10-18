@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Kansiot"
+
+msgid "Folder"
+msgstr "Kansio"
+
+msgid "Add folder"
+msgstr "Lisää kansio"
+
+msgid "Server path"
+msgstr "Palvelinpolku"
+
+msgid "Server"
+msgstr "Palvelin"
+
+msgid "Location"
+msgstr "Sijainti"
+
+msgid "Subfolders"
+msgstr "Alikansiot"
+
+msgid "Rules"
+msgstr "Säännöt"
+
+msgid "Directory listing"
+msgstr "Hakemistolistaus"
+
+msgid "Inherit"
+msgstr "Peri"
+
+msgid "On"
+msgstr "Päällä"
+
+msgid "Selected IP addresses"
+msgstr "Valitut IP-osoitteet"
+
+msgid "IP addresses"
+msgstr "IP-osoitteet"
+
+msgid "Current"
+msgstr "Nykyinen"
+
+msgid "New"
+msgstr "Uusi"
+
+msgid "Apply"
+msgstr "Käytä"
+
+msgid "Choose a readable folder."
+msgstr "Valitse luettava kansio."
+
+msgid "Choose a hosting folder."
+msgstr "Valitse webhotellin kansio."
+
+msgid "Folder already added."
+msgstr "Kansio on jo lisätty."
+
+msgid "Folder missing."
+msgstr "Kansio puuttuu."
+
+msgid "Folder changed."
+msgstr "Kansio on muuttunut."
+
+msgid "Symbolic links are not supported."
+msgstr "Symbolisia linkkejä ei tueta."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb-kansiot on suojattu."
+
+msgid "Folder is not writable."
+msgstr "Kansioon ei voi kirjoittaa."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Tätä .htaccess-tiedostoa ei voi hallita."
+
+msgid "Check IP addresses."
+msgstr "Tarkista IP-osoitteet."
+
+msgid "File changed outside DirectWeb."
+msgstr "Tiedostoa on muutettu DirectWebin ulkopuolella."
+
+msgid "Preview expired."
+msgstr "Esikatselu on vanhentunut."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 ja AllowOverride-oikeudet vaaditaan."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Säännöt koskevat verkkopalvelimen tarjoamia fyysisiä kansioita."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Hallitse kansioiden käyttöoikeuksia, välimuistia ja virhesivuja."

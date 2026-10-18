@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Folders"
+msgstr "Složky"
+
+msgid "Folder"
+msgstr "Složka"
+
+msgid "Add folder"
+msgstr "Přidat složku"
+
+msgid "Server path"
+msgstr "Cesta k serveru"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Umístění"
+
+msgid "Subfolders"
+msgstr "Podsložky"
+
+msgid "Rules"
+msgstr "Pravidla"
+
+msgid "Directory listing"
+msgstr "Výpis adresáře"
+
+msgid "Inherit"
+msgstr "Zdědit"
+
+msgid "On"
+msgstr "Zapnuto"
+
+msgid "Selected IP addresses"
+msgstr "Vybrané IP adresy"
+
+msgid "IP addresses"
+msgstr "IP adresy"
+
+msgid "Current"
+msgstr "Aktuální"
+
+msgid "New"
+msgstr "Nové"
+
+msgid "Apply"
+msgstr "Použít"
+
+msgid "Choose a readable folder."
+msgstr "Vyberte čitelnou složku."
+
+msgid "Choose a hosting folder."
+msgstr "Vyberte hostitelskou složku."
+
+msgid "Folder already added."
+msgstr "Složka již přidána."
+
+msgid "Folder missing."
+msgstr "Chybí složka."
+
+msgid "Folder changed."
+msgstr "Složka změněna."
+
+msgid "Symbolic links are not supported."
+msgstr "Symbolické odkazy nejsou podporovány."
+
+msgid "DirectWeb folders are protected."
+msgstr "Složky DirectWeb jsou chráněny."
+
+msgid "Folder is not writable."
+msgstr "Do složky nelze zapisovat."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Tento soubor .htaccess nelze spravovat."
+
+msgid "Check IP addresses."
+msgstr "Zkontrolujte IP adresy."
+
+msgid "File changed outside DirectWeb."
+msgstr "Soubor změněn mimo DirectWeb."
+
+msgid "Preview expired."
+msgstr "Platnost náhledu vypršela."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Jsou vyžadována oprávnění Apache 2.4 a AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Tato pravidla platí pro fyzické složky obsluhované webovým serverem."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Správa přístupu ke složce, ukládání do mezipaměti a chybové stránky."

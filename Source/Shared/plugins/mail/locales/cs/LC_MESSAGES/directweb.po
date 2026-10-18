@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Odesílejte ověřovací kódy a upozornění prostřednictvím SMTP."
+
+msgid "Outgoing email"
+msgstr "Odchozí e-mail"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Odešle ověřovací kódy a upozornění na pluginy prostřednictvím vašeho poskytovatele SMTP."
+
+msgid "Ready"
+msgstr "Připraveno"
+
+msgid "Not configured"
+msgstr "Není nakonfigurováno"
+
+msgid "Usage"
+msgstr "Použití"
+
+msgid "Accounts using email 2FA"
+msgstr "Účty využívající email 2FA"
+
+msgid "Email notification rules"
+msgstr "Pravidla oznamování e-mailem"
+
+msgid "Send email"
+msgstr "Odeslat e-mail"
+
+msgid "SMTP connection"
+msgstr "SMTP připojení"
+
+msgid "Test email"
+msgstr "Testovací e-mail"
+
+msgid "Recipient"
+msgstr "Příjemce"
+
+msgid "DirectWeb test email"
+msgstr "Testovací e-mail DirectWeb"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb může odesílat e-maily prostřednictvím vašeho poskytovatele SMTP."
+
+msgid "Test email sent."
+msgstr "Zkušební e-mail odeslán."
+
+msgid "Test email sent to %s."
+msgstr "Zkušební e-mail odeslán na %s."
+
+msgid "Configured, untested"
+msgstr "Nakonfigurováno, netestováno"
+
+msgid "Successfully tested"
+msgstr "Úspěšně testováno"
+
+msgid "Last send failed"
+msgstr "Poslední odeslání se nezdařilo"
+
+msgid "Last successful send"
+msgstr "Poslední úspěšné odeslání"
+
+msgid "Last failure"
+msgstr "Poslední selhání"
+
+msgid "SMTP authentication failed."
+msgstr "Ověření SMTP se nezdařilo."
+
+msgid "SMTP connection failed."
+msgstr "Připojení SMTP se nezdařilo."
+
+msgid "SMTP server rejected the message."
+msgstr "Server SMTP odmítl zprávu."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "Server SMTP je dočasně nedostupný."

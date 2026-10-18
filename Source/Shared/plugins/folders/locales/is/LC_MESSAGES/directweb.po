@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Folders"
+msgstr "Möppur"
+
+msgid "Folder"
+msgstr "Mappa"
+
+msgid "Add folder"
+msgstr "Bæta við möppu"
+
+msgid "Server path"
+msgstr "Slóð á þjóni"
+
+msgid "Server"
+msgstr "Þjónn"
+
+msgid "Location"
+msgstr "Staðsetning"
+
+msgid "Subfolders"
+msgstr "Undirmöppur"
+
+msgid "Rules"
+msgstr "Reglur"
+
+msgid "Directory listing"
+msgstr "Möppulisti"
+
+msgid "Inherit"
+msgstr "Erfa"
+
+msgid "On"
+msgstr "Virkt"
+
+msgid "Selected IP addresses"
+msgstr "Valin IP-vistföng"
+
+msgid "IP addresses"
+msgstr "IP-vistföng"
+
+msgid "Current"
+msgstr "Núverandi"
+
+msgid "New"
+msgstr "Nýtt"
+
+msgid "Apply"
+msgstr "Virkja"
+
+msgid "Choose a readable folder."
+msgstr "Veldu læsilega möppu."
+
+msgid "Choose a hosting folder."
+msgstr "Veldu hýsingarmöppu."
+
+msgid "Folder already added."
+msgstr "Möppunni hefur þegar verið bætt við."
+
+msgid "Folder missing."
+msgstr "Möppu vantar."
+
+msgid "Folder changed."
+msgstr "Mappan hefur breyst."
+
+msgid "Symbolic links are not supported."
+msgstr "Táknrænir tenglar eru ekki studdir."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb-möppur eru varðar."
+
+msgid "Folder is not writable."
+msgstr "Ekki er hægt að skrifa í möppuna."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Ekki er hægt að stjórna þessari .htaccess-skrá."
+
+msgid "Check IP addresses."
+msgstr "Athugaðu IP-vistföngin."
+
+msgid "File changed outside DirectWeb."
+msgstr "Skránni var breytt utan DirectWeb."
+
+msgid "Preview expired."
+msgstr "Forskoðun er útrunnin."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 og AllowOverride-heimildir eru nauðsynlegar."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Reglurnar gilda um raunverulegar möppur sem vefþjónninn birtir."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Stjórnaðu möppuaðgangi, skyndiminni og villusíðum."

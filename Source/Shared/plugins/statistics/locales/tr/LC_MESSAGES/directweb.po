@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Retention (days)"
+msgstr "Saklama (gün)"
+
+msgid "View report"
+msgstr "Raporu görüntüle"
+
+msgid "View page requests, downloads and missing pages."
+msgstr "Sayfa isteklerini, indirilenleri ve eksik sayfaları görüntüleyin."

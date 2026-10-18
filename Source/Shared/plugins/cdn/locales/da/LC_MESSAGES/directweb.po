@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-zone-ID"
+
+msgid "API token"
+msgstr "API-token"
+
+msgid "Purge after publish"
+msgstr "Ryd efter udgivelse"
+
+msgid "URLs (empty = all)"
+msgstr "URL'er (tom = alle)"
+
+msgid "Rule (JSON)"
+msgstr "Regel (JSON)"
+
+msgid "Purge cache"
+msgstr "Ryd cache"
+
+msgid "Cache rules"
+msgstr "Cacheregler"
+
+msgid "Save cache rule"
+msgstr "Gem cacheregel"
+
+msgid "Manage Cloudflare caching and cache clearing."
+msgstr "Administrer Cloudflare-cache og cacherydning."

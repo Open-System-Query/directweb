@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Public search"
+msgstr "Publik sökning"
+
+msgid "Results"
+msgstr "Resultat"
+
+msgid "Build index"
+msgstr "Bygg index"
+
+msgid "Add public search to your websites."
+msgstr "Lägg till publik sökning på dina webbplatser."

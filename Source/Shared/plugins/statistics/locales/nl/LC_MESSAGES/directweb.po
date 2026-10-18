@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "Retention (days)"
+msgstr "Bewaren (dagen)"
+
+msgid "View report"
+msgstr "Rapport bekijken"
+
+msgid "View page requests, downloads and missing pages."
+msgstr "Bekijk paginaverzoeken, downloads en ontbrekende pagina’s."

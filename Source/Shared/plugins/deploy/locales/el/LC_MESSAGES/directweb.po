@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Deploy"
+msgstr "Ανάπτυξη"
+
+msgid "Artifact URL"
+msgstr "URL πακέτου"
+
+msgid "Artifact token"
+msgstr "Διακριτικό πακέτου"
+
+msgid "Provider"
+msgstr "Προμηθευτής"
+
+msgid "Webhook secret"
+msgstr "Μυστικό webhook"
+
+msgid "Branch"
+msgstr "Κλάδος"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Δημοσιεύστε αρχεία κατασκευής από το GitHub ή το GitLab."

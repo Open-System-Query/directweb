@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Databases"
+msgstr "Veritabanları"
+
+msgid "Database"
+msgstr "Veritabanı"
+
+msgid "Host"
+msgstr "Sunucu"
+
+msgid "Export"
+msgstr "Dışa Aktar"
+
+msgid "Tables"
+msgstr "Tablolar"
+
+msgid "Import SQL"
+msgstr "SQL'i içe aktar"
+
+msgid "Create database"
+msgstr "Veritabanı oluştur"
+
+msgid "Enable PDO MySQL."
+msgstr "PDO MySQL'i etkinleştirin."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "MySQL veritabanlarını, içe ve dışa aktarmaları yönetin."

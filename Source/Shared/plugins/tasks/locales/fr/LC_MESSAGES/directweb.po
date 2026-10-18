@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Language: fr\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Publish release"
+msgstr "Publier la version"
+
+msgid "Tasks"
+msgstr "Tâches"
+
+msgid "Task"
+msgstr "Tâche"
+
+msgid "Release ID"
+msgstr "ID de version"
+
+msgid "Start (UTC)"
+msgstr "Début (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Répétition (minutes, 0 = unique)"
+
+msgid "Prune releases"
+msgstr "Nettoyer les versions"
+
+msgid "Run now"
+msgstr "Exécuter maintenant"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Planifiez les publications, sauvegardes et suppressions d’anciennes versions."

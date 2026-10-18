@@ -1,0 +1,1661 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "2FA / recovery code"
+msgstr "2FA / palautuskoodi"
+
+msgid "2FA enabled"
+msgstr "2FA käytössä"
+
+msgid "2FA is already enabled."
+msgstr "2FA on jo käytössä."
+
+msgid "2FA required"
+msgstr "2FA vaaditaan"
+
+msgid "Access"
+msgstr "Pääsy"
+
+msgid "Access denied."
+msgstr "Pääsy estetty."
+
+msgid "Access token"
+msgstr "Käyttötunniste"
+
+msgid "Account"
+msgstr "Tili"
+
+msgid "Account created."
+msgstr "Tili luotu."
+
+msgid "Account enabled"
+msgstr "Tili käytössä"
+
+msgid "Action"
+msgstr "Toiminto"
+
+msgid "Action already exists."
+msgstr "Toiminto on jo olemassa."
+
+msgid "Action failed."
+msgstr "Toiminto epäonnistui."
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgid "Activity"
+msgstr "Toiminta"
+
+msgid "Add"
+msgstr "Lisää"
+
+msgid "Add this key to your authenticator."
+msgstr "Lisää avain todennussovellukseesi."
+
+msgid "Administrator"
+msgstr "Ylläpitäjä"
+
+msgid "Allow"
+msgstr "Salli"
+
+msgid "Already installed."
+msgstr "Jo asennettu."
+
+msgid "Available"
+msgstr "Saatavilla"
+
+msgid "Backup"
+msgstr "Varmuuskopio"
+
+msgid "Backup corrupted."
+msgstr "Varmuuskopio on vioittunut."
+
+msgid "Backup failed."
+msgstr "Varmuuskopiointi epäonnistui."
+
+msgid "Backup incomplete."
+msgstr "Varmuuskopio on puutteellinen."
+
+msgid "Backup missing."
+msgstr "Varmuuskopio puuttuu."
+
+msgid "Backup queued."
+msgstr "Varmuuskopiointi jonossa."
+
+msgid "Backup too large."
+msgstr "Varmuuskopio on liian suuri."
+
+msgid "Backups"
+msgstr "Varmuuskopiot"
+
+msgid "Blocked"
+msgstr "Estetty"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Change is closed."
+msgstr "Muutos on suljettu."
+
+msgid "Change not found."
+msgstr "Muutosta ei löytynyt."
+
+msgid "Change password"
+msgstr "Vaihda salasana"
+
+msgid "Check account and password (12+ characters)."
+msgstr "Tarkista tili ja salasana (vähintään 12 merkkiä)."
+
+msgid "Check name and domain."
+msgstr "Tarkista nimi ja verkkotunnus."
+
+msgid "Check name, email and password (12+ characters)."
+msgstr "Tarkista nimi, sähköposti ja salasana (vähintään 12 merkkiä)."
+
+msgid "Check the input."
+msgstr "Tarkista syöte."
+
+msgid "Check the password (12+ characters)."
+msgstr "Tarkista salasana (vähintään 12 merkkiä)."
+
+msgid "Choose a file."
+msgstr "Valitse tiedosto."
+
+msgid "Choose a renderer."
+msgstr "Valitse renderöijä."
+
+msgid "Client ID"
+msgstr "Asiakastunnus"
+
+msgid "Clients"
+msgstr "Asiakkaat"
+
+msgid "Code"
+msgstr "Koodi"
+
+msgid "Completed"
+msgstr "Valmis"
+
+msgid "Confirm"
+msgstr "Vahvista"
+
+msgid "Connection"
+msgstr "Yhteys"
+
+msgid "Content"
+msgstr "Sisältö"
+
+msgid "Continue"
+msgstr "Jatka"
+
+msgid "Copy failed."
+msgstr "Kopiointi epäonnistui."
+
+msgid "Create"
+msgstr "Luo"
+
+msgid "Create access"
+msgstr "Luo käyttöoikeus"
+
+msgid "Create backup"
+msgstr "Luo varmuuskopio"
+
+msgid "Create your administrator account."
+msgstr "Luo ylläpitäjän tilisi."
+
+msgid "Current password"
+msgstr "Nykyinen salasana"
+
+msgid "Daily backup"
+msgstr "Päivittäinen varmuuskopio"
+
+msgid "Database backup failed."
+msgstr "Tietokannan varmuuskopiointi epäonnistui."
+
+msgid "Date"
+msgstr "Päivämäärä"
+
+msgid "Days"
+msgstr "Päivää"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Delete failed."
+msgstr "Poisto epäonnistui."
+
+msgid "Delete file"
+msgstr "Poista tiedosto"
+
+msgid "Destination must be empty."
+msgstr "Kohteen on oltava tyhjä."
+
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+msgid "Disable the plugin first."
+msgstr "Poista lisäosa ensin käytöstä."
+
+msgid "Domain"
+msgstr "Verkkotunnus"
+
+msgid "Domain already exists."
+msgstr "Verkkotunnus on jo olemassa."
+
+msgid "Download"
+msgstr "Lataa"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Latausraja (0 = rajaton)"
+
+msgid "Downloads"
+msgstr "Lataukset"
+
+msgid "Duplicate file."
+msgstr "Tiedoston kaksoiskappale."
+
+msgid "Duplicate filename."
+msgstr "Tiedostonimi on jo käytössä."
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Editor"
+msgstr "Muokkaaja"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "Enable"
+msgstr "Ota käyttöön"
+
+msgid "Enable 2FA."
+msgstr "Ota 2FA käyttöön."
+
+msgid "Entry point missing."
+msgstr "Aloitustiedosto puuttuu."
+
+msgid "Everything in its place."
+msgstr "Kaikki paikallaan."
+
+msgid "Expired"
+msgstr "Vanhentunut"
+
+msgid "Expires"
+msgstr "Vanhenee"
+
+msgid "Extensions"
+msgstr "Laajennukset"
+
+msgid "External backup failed."
+msgstr "Ulkoinen varmuuskopiointi epäonnistui."
+
+msgid "Extraction failed."
+msgstr "Purkaminen epäonnistui."
+
+msgid "Failed"
+msgstr "Epäonnistui"
+
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "File not found."
+msgstr "Tiedostoa ei löytynyt."
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Tiedosto on liian suuri MCP:lle (256 KB)."
+
+msgid "File too large."
+msgstr "Tiedosto on liian suuri."
+
+msgid "File type not allowed: %s"
+msgstr "Tiedostotyyppi ei ole sallittu: %s"
+
+msgid "File unavailable."
+msgstr "Tiedosto ei ole saatavilla."
+
+msgid "Files"
+msgstr "Tiedostot"
+
+msgid "General"
+msgstr "Yleiset"
+
+msgid "Grant access"
+msgstr "Myönnä käyttöoikeus"
+
+msgid "HTTPS required."
+msgstr "HTTPS vaaditaan."
+
+msgid "In use: %s"
+msgstr "Käytössä: %s"
+
+msgid "Install"
+msgstr "Asenna"
+
+msgid "Install / update"
+msgstr "Asenna / päivitä"
+
+msgid "Install DirectWeb."
+msgstr "Asenna DirectWeb."
+
+msgid "Install through the command line."
+msgstr "Asenna komentoriviltä."
+
+msgid "Install trusted plugins only."
+msgstr "Asenna vain luotettuja lisäosia."
+
+msgid "Installation failed."
+msgstr "Asennus epäonnistui."
+
+msgid "Invalid OAuth request."
+msgstr "Virheellinen OAuth-pyyntö."
+
+msgid "Invalid ZIP."
+msgstr "Virheellinen ZIP-tiedosto."
+
+msgid "Invalid access."
+msgstr "Virheellinen käyttöoikeus."
+
+msgid "Invalid backup path."
+msgstr "Virheellinen varmuuskopion polku."
+
+msgid "Invalid backup."
+msgstr "Virheellinen varmuuskopio."
+
+msgid "Invalid code."
+msgstr "Virheellinen koodi."
+
+msgid "Invalid domain."
+msgstr "Virheellinen verkkotunnus."
+
+msgid "Invalid file."
+msgstr "Virheellinen tiedosto."
+
+msgid "Invalid filename."
+msgstr "Virheellinen tiedostonimi."
+
+msgid "Invalid input or action failed."
+msgstr "Virheellinen syöte tai toiminto epäonnistui."
+
+msgid "Invalid key."
+msgstr "Virheellinen avain."
+
+msgid "Invalid message."
+msgstr "Virheellinen viesti."
+
+msgid "Invalid package."
+msgstr "Virheellinen paketti."
+
+msgid "Invalid password."
+msgstr "Virheellinen salasana."
+
+msgid "Invalid path."
+msgstr "Virheellinen polku."
+
+msgid "Invalid permissions."
+msgstr "Virheelliset oikeudet."
+
+msgid "Invalid plugin."
+msgstr "Virheellinen lisäosa."
+
+msgid "Invalid preview domain."
+msgstr "Virheellinen esikatselun verkkotunnus."
+
+msgid "Invalid redirect URL."
+msgstr "Virheellinen uudelleenohjausosoite."
+
+msgid "Invalid release."
+msgstr "Virheellinen versio."
+
+msgid "Invalid request ID."
+msgstr "Virheellinen pyynnön tunnus."
+
+msgid "Invalid role."
+msgstr "Virheellinen rooli."
+
+msgid "Invalid setting."
+msgstr "Virheellinen asetus."
+
+msgid "Invalid storage."
+msgstr "Virheellinen tallennustila."
+
+msgid "Job"
+msgstr "Työ"
+
+msgid "Job failed."
+msgstr "Työ epäonnistui."
+
+msgid "Job not found."
+msgstr "Työtä ei löytynyt."
+
+msgid "Jobs"
+msgstr "Työt"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Last active"
+msgstr "Viimeksi aktiivinen"
+
+msgid "Last used"
+msgstr "Viimeksi käytetty"
+
+msgid "Link unavailable."
+msgstr "Linkki ei ole saatavilla."
+
+msgid "Links not allowed."
+msgstr "Linkit eivät ole sallittuja."
+
+msgid "Live"
+msgstr "Julkaistu"
+
+msgid "Management"
+msgstr "Hallinta"
+
+msgid "Message too large."
+msgstr "Viesti on liian suuri."
+
+msgid "Method not allowed."
+msgstr "Menetelmä ei ole sallittu."
+
+msgid "Migration changed."
+msgstr "Migraatio on muuttunut."
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Navigation"
+msgstr "Navigointi"
+
+msgid "New password"
+msgstr "Uusi salasana"
+
+msgid "Newer version required."
+msgstr "Uudempi versio vaaditaan."
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "No extensions enabled."
+msgstr "Laajennuksia ei ole käytössä."
+
+msgid "No items yet."
+msgstr "Ei vielä kohteita."
+
+msgid "No websites available."
+msgstr "Sivustoja ei ole saatavilla."
+
+msgid "Not a text file."
+msgstr "Ei tekstitiedosto."
+
+msgid "Not found."
+msgstr "Ei löytynyt."
+
+msgid "Not run yet."
+msgstr "Ei vielä suoritettu."
+
+msgid "OAuth client"
+msgstr "OAuth-asiakas"
+
+msgid "Off"
+msgstr "Pois"
+
+msgid "Online"
+msgstr "Verkossa"
+
+msgid "Open"
+msgstr "Avaa"
+
+msgid "Open website"
+msgstr "Avaa sivusto"
+
+msgid "Overview"
+msgstr "Yleiskatsaus"
+
+msgid "Owner"
+msgstr "Omistaja"
+
+msgid "Package corrupted."
+msgstr "Paketti on vioittunut."
+
+msgid "Package incompatible."
+msgstr "Paketti ei ole yhteensopiva."
+
+msgid "Package too large."
+msgstr "Paketti on liian suuri."
+
+msgid "Page already exists."
+msgstr "Sivu on jo olemassa."
+
+msgid "Page expired."
+msgstr "Sivu on vanhentunut."
+
+msgid "Page not found."
+msgstr "Sivua ei löytynyt."
+
+msgid "Password"
+msgstr "Salasana"
+
+msgid "Password required."
+msgstr "Salasana vaaditaan."
+
+msgid "Perform this action?"
+msgstr "Suoritetaanko toiminto?"
+
+msgid "Pin"
+msgstr "Kiinnitä"
+
+msgid "Pinned"
+msgstr "Kiinnitetty"
+
+msgid "Plugin file"
+msgstr "Lisäosatiedosto"
+
+msgid "Plugin missing."
+msgstr "Lisäosa puuttuu."
+
+msgid "Plugins"
+msgstr "Lisäosat"
+
+msgid "Preview"
+msgstr "Esikatselu"
+
+msgid "Preview domain missing."
+msgstr "Esikatselun verkkotunnus puuttuu."
+
+msgid "Preview expired."
+msgstr "Esikatselu on vanhentunut."
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Profile"
+msgstr "Profiili"
+
+msgid "Protected"
+msgstr "Suojattu"
+
+msgid "Prune old releases"
+msgstr "Siivoa vanhat versiot"
+
+msgid "Publication failed."
+msgstr "Julkaisu epäonnistui."
+
+msgid "Publish"
+msgstr "Julkaise"
+
+msgid "Publish automatically"
+msgstr "Julkaise automaattisesti"
+
+msgid "Queued"
+msgstr "Jonossa"
+
+msgid "Read and publish websites."
+msgstr "Lue ja julkaise sivustoja."
+
+msgid "Read websites."
+msgstr "Lue sivustoja."
+
+msgid "Reader"
+msgstr "Lukija"
+
+msgid "Recent actions"
+msgstr "Viimeisimmät toiminnot"
+
+msgid "Recovery codes"
+msgstr "Palautuskoodit"
+
+msgid "Redirect URL"
+msgstr "Uudelleenohjausosoite"
+
+msgid "Register"
+msgstr "Rekisteröi"
+
+msgid "Release changed."
+msgstr "Versio on muuttunut."
+
+msgid "Release changed. Reopen the page."
+msgstr "Versio on muuttunut. Avaa sivu uudelleen."
+
+msgid "Release corrupted."
+msgstr "Versio on vioittunut."
+
+msgid "Release not found."
+msgstr "Versiota ei löytynyt."
+
+msgid "Releases to retain"
+msgstr "Säilytettävät versiot"
+
+msgid "Renderer missing."
+msgstr "Renderöijä puuttuu."
+
+msgid "Reopen Account."
+msgstr "Avaa Tili uudelleen."
+
+msgid "Request conflict."
+msgstr "Pyyntöjen ristiriita."
+
+msgid "Request expired."
+msgstr "Pyyntö on vanhentunut."
+
+msgid "Required: %s"
+msgstr "Vaaditaan: %s"
+
+msgid "Restore"
+msgstr "Palauta"
+
+msgid "Retained"
+msgstr "Säilytetty"
+
+msgid "Retention"
+msgstr "Säilytys"
+
+msgid "Revoke"
+msgstr "Peru käyttöoikeus"
+
+msgid "Revoke other sessions"
+msgstr "Peru muut istunnot"
+
+msgid "Revoked"
+msgstr "Peruttu"
+
+msgid "Role"
+msgstr "Rooli"
+
+msgid "Running"
+msgstr "Käynnissä"
+
+msgid "Runs through the worker."
+msgstr "Suoritetaan taustaprosessissa."
+
+msgid "SPA routing"
+msgstr "SPA-reititys"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Save failed."
+msgstr "Tallennus epäonnistui."
+
+msgid "Save these codes. They are shown once."
+msgstr "Tallenna koodit. Ne näytetään vain kerran."
+
+msgid "Save this token. It is shown once."
+msgstr "Tallenna tunniste. Se näytetään vain kerran."
+
+msgid "Saved."
+msgstr "Tallennettu."
+
+msgid "Schedule"
+msgstr "Ajastus"
+
+msgid "Security"
+msgstr "Turvallisuus"
+
+msgid "Session expired."
+msgstr "Istunto on vanhentunut."
+
+msgid "Sessions"
+msgstr "Istunnot"
+
+msgid "Set up 2FA"
+msgstr "Määritä 2FA"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Share"
+msgstr "Jaa"
+
+msgid "Share link"
+msgstr "Jakolinkki"
+
+msgid "Shared"
+msgstr "Jaettu"
+
+msgid "Sharing"
+msgstr "Jakaminen"
+
+msgid "Sharing storage (MB)"
+msgstr "Jakotallennustila (Mt)"
+
+msgid "Sign in"
+msgstr "Kirjaudu sisään"
+
+msgid "Sign in failed."
+msgstr "Kirjautuminen epäonnistui."
+
+msgid "Sign in required."
+msgstr "Kirjautuminen vaaditaan."
+
+msgid "Sign out"
+msgstr "Kirjaudu ulos"
+
+msgid "Size"
+msgstr "Koko"
+
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+msgid "Started"
+msgstr "Aloitettu"
+
+msgid "Status"
+msgstr "Tila"
+
+msgid "Storage"
+msgstr "Tallennustila"
+
+msgid "Storage limit reached."
+msgstr "Tallennustilan raja saavutettu."
+
+msgid "Storage unavailable."
+msgstr "Tallennustila ei ole saatavilla."
+
+msgid "System"
+msgstr "Järjestelmä"
+
+msgid "System busy."
+msgstr "Järjestelmä on varattu."
+
+msgid "Target"
+msgstr "Kohde"
+
+msgid "Temporary password"
+msgstr "Tilapäinen salasana"
+
+msgid "This account cannot be changed."
+msgstr "Tätä tiliä ei voi muuttaa."
+
+msgid "Token"
+msgstr "Tunniste"
+
+msgid "Too many files."
+msgstr "Liian monta tiedostoa."
+
+msgid "Too many open changes."
+msgstr "Liian monta avointa muutosta."
+
+msgid "Try again later."
+msgstr "Yritä myöhemmin uudelleen."
+
+msgid "Unavailable."
+msgstr "Ei saatavilla."
+
+msgid "Unknown OAuth client."
+msgstr "Tuntematon OAuth-asiakas."
+
+msgid "Unknown action."
+msgstr "Tuntematon toiminto."
+
+msgid "Unknown job."
+msgstr "Tuntematon työ."
+
+msgid "Unknown tool."
+msgstr "Tuntematon työkalu."
+
+msgid "Unsupported component: %s"
+msgstr "Komponenttia ei tueta: %s"
+
+msgid "Until %s"
+msgstr "Voimassa: %s"
+
+msgid "Update failed."
+msgstr "Päivitys epäonnistui."
+
+msgid "Upload"
+msgstr "Lähetä"
+
+msgid "Upload failed."
+msgstr "Lähetys epäonnistui."
+
+msgid "Upload too large."
+msgstr "Lähetys on liian suuri."
+
+msgid "Use"
+msgstr "Käytä"
+
+msgid "Use POST."
+msgstr "Käytä POST-menetelmää."
+
+msgid "User"
+msgstr "Käyttäjä"
+
+msgid "User missing."
+msgstr "Käyttäjä puuttuu."
+
+msgid "Users"
+msgstr "Käyttäjät"
+
+msgid "Version"
+msgstr "Versio"
+
+msgid "Version name"
+msgstr "Version nimi"
+
+msgid "Versions"
+msgstr "Versiot"
+
+msgid "Website"
+msgstr "Sivusto"
+
+msgid "Website enabled"
+msgstr "Sivusto käytössä"
+
+msgid "Website file"
+msgstr "Sivustotiedosto"
+
+msgid "Website management"
+msgstr "Sivustojen hallinta"
+
+msgid "Website not found."
+msgstr "Sivustoa ei löytynyt."
+
+msgid "Website unavailable."
+msgstr "Sivusto ei ole saatavilla."
+
+msgid "Websites"
+msgstr "Sivustot"
+
+msgid "Welcome to DirectWeb"
+msgstr "Tervetuloa DirectWebiin"
+
+msgid "Worker: %s"
+msgstr "Taustaprosessi: %s"
+
+msgid "index.html missing."
+msgstr "index.html puuttuu."
+
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+msgid "Authenticator app"
+msgstr "Todennussovellus"
+
+msgid "Authenticator code"
+msgstr "Todennuskoodi"
+
+msgid "Authenticator QR code"
+msgstr "Todennussovelluksen QR-koodi"
+
+msgid "Scan the QR code."
+msgstr "Skannaa QR-koodi."
+
+msgid "Current 2FA / recovery code"
+msgstr "Nykyinen 2FA / palautuskoodi"
+
+msgid "Recovery code"
+msgstr "Palautuskoodi"
+
+msgid "Verify"
+msgstr "Vahvista"
+
+msgid "Verified"
+msgstr "Vahvistettu"
+
+msgid "Enabled"
+msgstr "Käytössä"
+
+msgid "Method"
+msgstr "Menetelmä"
+
+msgid "Send code"
+msgstr "Lähetä koodi"
+
+msgid "Code sent."
+msgstr "Koodi lähetetty."
+
+msgid "Verification code"
+msgstr "Vahvistuskoodi"
+
+msgid "Mail"
+msgstr "Sähköposti"
+
+msgid "Enable email"
+msgstr "Ota sähköposti käyttöön"
+
+msgid "SMTP host"
+msgstr "SMTP-palvelin"
+
+msgid "SMTP username"
+msgstr "SMTP-käyttäjänimi"
+
+msgid "SMTP password"
+msgstr "SMTP-salasana"
+
+msgid "Port"
+msgstr "Portti"
+
+msgid "Encryption"
+msgstr "Salaus"
+
+msgid "Sender"
+msgstr "Lähettäjä"
+
+msgid "Your verification code"
+msgstr "Vahvistuskoodisi"
+
+msgid "Your code: %s"
+msgstr "Koodisi: %s"
+
+msgid "Expires in 5 minutes."
+msgstr "Vanhenee 5 minuutissa."
+
+msgid "Email-only users must add an authenticator first."
+msgstr "Vain sähköpostia käyttävien on lisättävä ensin todennussovellus."
+
+msgid "Check SMTP settings."
+msgstr "Tarkista SMTP-asetukset."
+
+msgid "SMTP encryption required."
+msgstr "SMTP-salaus vaaditaan."
+
+msgid "Email is not configured."
+msgstr "Sähköpostia ei ole määritetty."
+
+msgid "Email delivery failed."
+msgstr "Sähköpostin toimitus epäonnistui."
+
+msgid "Email is not verified."
+msgstr "Sähköpostiosoitetta ei ole vahvistettu."
+
+msgid "Invalid email address."
+msgstr "Virheellinen sähköpostiosoite."
+
+msgid "Email already exists."
+msgstr "Sähköpostiosoite on jo olemassa."
+
+msgid "Username already exists."
+msgstr "Käyttäjänimi on jo olemassa."
+
+msgid "Check name, username and password (12+ characters)."
+msgstr "Tarkista nimi, käyttäjänimi ja salasana (vähintään 12 merkkiä)."
+
+msgid "Keep at least one available method."
+msgstr "Säilytä vähintään yksi käytettävissä oleva menetelmä."
+
+msgid "Invalid request."
+msgstr "Virheellinen pyyntö."
+
+msgid "Account migration failed."
+msgstr "Tilin siirto epäonnistui."
+
+msgid "Account backup failed."
+msgstr "Tilin varmuuskopiointi epäonnistui."
+
+msgid "Dashboard"
+msgstr "Hallintapaneeli"
+
+msgid "Add website"
+msgstr "Lisää sivusto"
+
+msgid "2FA off"
+msgstr "2FA pois käytöstä"
+
+msgid "Two-factor authentication"
+msgstr "Kaksivaiheinen tunnistautuminen"
+
+msgid "Mail settings"
+msgstr "Sähköpostiasetukset"
+
+msgid "Error"
+msgstr "Virhe"
+
+msgid "Copied"
+msgstr "Kopioitu"
+
+msgid "Copy link"
+msgstr "Kopioi linkki"
+
+msgid "Upload progress"
+msgstr "Lähetyksen edistyminen"
+
+msgid "Uploading"
+msgstr "Lähetetään"
+
+msgid "Finishing"
+msgstr "Viimeistellään"
+
+msgid "Upload cancelled."
+msgstr "Lähetys peruutettu."
+
+msgid "File limit exceeded."
+msgstr "Tiedostoraja ylitetty."
+
+msgid "Transfer limit exceeded."
+msgstr "Siirtoraja ylitetty."
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "Administration"
+msgstr "Ylläpito"
+
+msgid "Installed"
+msgstr "Asennettu"
+
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+msgid "Default"
+msgstr "Oletus"
+
+msgid "Renderer"
+msgstr "Renderöijä"
+
+msgid "Plugin"
+msgstr "Lisäosa"
+
+msgid "In use"
+msgstr "Käytössä"
+
+msgid "Choose another renderer first."
+msgstr "Valitse ensin toinen renderöijä."
+
+msgid "Disable to delete."
+msgstr "Poista käytöstä ennen poistamista."
+
+msgid "Hosting"
+msgstr "Webhotelli"
+
+msgid "Environment"
+msgstr "Ympäristö"
+
+msgid "Requirements"
+msgstr "Vaatimukset"
+
+msgid "Setting"
+msgstr "Asetus"
+
+msgid "Value"
+msgstr "Arvo"
+
+msgid "Installation key"
+msgstr "Asennusavain"
+
+msgid "Invalid installation key."
+msgstr "Virheellinen asennusavain."
+
+msgid "Read the key in storage/database/setup.key using your hosting file manager."
+msgstr "Lue avain tiedostosta storage/database/setup.key webhotellin tiedostonhallinnassa."
+
+msgid "Apache rewrite rules and HTTPS are required for the upload package."
+msgstr "Asennuspaketti vaatii Apachen uudelleenkirjoitussäännöt ja HTTPS:n."
+
+msgid "Additional domains must point to this installation."
+msgstr "Lisäverkkotunnusten on osoitettava tähän asennukseen."
+
+msgid "Scheduled jobs require a hosting cron task."
+msgstr "Ajastetut työt vaativat webhotellin cron-tehtävän."
+
+msgid "Actions"
+msgstr "Toiminnot"
+
+msgid "Add user"
+msgstr "Lisää käyttäjä"
+
+msgid "Add file"
+msgstr "Lisää tiedosto"
+
+msgid "Edit file"
+msgstr "Muokkaa tiedostoa"
+
+msgid "Delete data"
+msgstr "Poista tiedot"
+
+msgid "Install plugin"
+msgstr "Asenna lisäosa"
+
+msgid "Import backup"
+msgstr "Tuo varmuuskopio"
+
+msgid "Backup file"
+msgstr "Varmuuskopiotiedosto"
+
+msgid "Current release"
+msgstr "Nykyinen versio"
+
+msgid "Earlier release"
+msgstr "Aiempi versio"
+
+msgid "Later release"
+msgstr "Myöhempi versio"
+
+msgid "Source release"
+msgstr "Lähdeversio"
+
+msgid "Target website"
+msgstr "Kohdesivusto"
+
+msgid "Publish target"
+msgstr "Julkaise kohde"
+
+msgid "Publish release"
+msgstr "Julkaise versio"
+
+msgid "Redirects"
+msgstr "Uudelleenohjaukset"
+
+msgid "Revisions"
+msgstr "Muutokset"
+
+msgid "Staging"
+msgstr "Testiympäristö"
+
+msgid "Forms"
+msgstr "Lomakkeet"
+
+msgid "Deploy"
+msgstr "Ota käyttöön"
+
+msgid "Monitor"
+msgstr "Valvonta"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Search"
+msgstr "Haku"
+
+msgid "Statistics"
+msgstr "Tilastot"
+
+msgid "Tasks"
+msgstr "Tehtävät"
+
+msgid "Notifications"
+msgstr "Ilmoitukset"
+
+msgid "Remote Backups"
+msgstr "Etävarmuuskopiot"
+
+msgid "Databases"
+msgstr "Tietokannat"
+
+msgid "Hosting Connector"
+msgstr "Webhotelliyhteys"
+
+msgid "From"
+msgstr "Mistä"
+
+msgid "To"
+msgstr "Mihin"
+
+msgid "Content file"
+msgstr "Sisältötiedosto"
+
+msgid "Fields (JSON)"
+msgstr "Kentät (JSON)"
+
+msgid "Template"
+msgstr "Malli"
+
+msgid "Output file"
+msgstr "Tulostiedosto"
+
+msgid "Generate on publish"
+msgstr "Luo julkaistaessa"
+
+msgid "Public search"
+msgstr "Julkinen haku"
+
+msgid "Results"
+msgstr "Tulokset"
+
+msgid "Source file"
+msgstr "Lähdetiedosto"
+
+msgid "Width"
+msgstr "Leveys"
+
+msgid "Height"
+msgstr "Korkeus"
+
+msgid "Crop"
+msgstr "Rajaa"
+
+msgid "Quality"
+msgstr "Laatu"
+
+msgid "Format"
+msgstr "Muoto"
+
+msgid "Fields"
+msgstr "Kentät"
+
+msgid "Public form"
+msgstr "Julkinen lomake"
+
+msgid "Submissions per hour"
+msgstr "Lähetyksiä tunnissa"
+
+msgid "Retention (days)"
+msgstr "Säilytysaika (päivää)"
+
+msgid "Form"
+msgstr "Lomake"
+
+msgid "Received."
+msgstr "Vastaanotettu."
+
+msgid "Artifact URL"
+msgstr "Koontipaketin URL"
+
+msgid "Artifact token"
+msgstr "Koontipaketin tunniste"
+
+msgid "Provider"
+msgstr "Palveluntarjoaja"
+
+msgid "Webhook secret"
+msgstr "Webhook-salaisuus"
+
+msgid "Branch"
+msgstr "Haara"
+
+msgid "Interval (minutes)"
+msgstr "Aikaväli (minuuttia)"
+
+msgid "Expected status"
+msgstr "Odotettu tila"
+
+msgid "Certificate warning (days)"
+msgstr "Varmennevaroitus (päivää)"
+
+msgid "Task"
+msgstr "Tehtävä"
+
+msgid "Release ID"
+msgstr "Version tunnus"
+
+msgid "Start (UTC)"
+msgstr "Alku (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Toisto (minuuttia, 0 = kerran)"
+
+msgid "Prune releases"
+msgstr "Siivoa versiot"
+
+msgid "Event"
+msgstr "Tapahtuma"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "S3 endpoint"
+msgstr "S3-päätepiste"
+
+msgid "Bucket"
+msgstr "Säilö"
+
+msgid "Region"
+msgstr "Alue"
+
+msgid "Access key"
+msgstr "Käyttöavain"
+
+msgid "Secret key"
+msgstr "Salainen avain"
+
+msgid "Backup passphrase"
+msgstr "Varmuuskopion salalause"
+
+msgid "Copies to retain"
+msgstr "Säilytettävät kopiot"
+
+msgid "Backup limit (MB)"
+msgstr "Varmuuskopion raja (Mt)"
+
+msgid "Upload new backups"
+msgstr "Lähetä uudet varmuuskopiot"
+
+msgid "Object key"
+msgstr "Objektiavain"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare-alueen tunnus"
+
+msgid "API token"
+msgstr "API-tunniste"
+
+msgid "Record ID"
+msgstr "Tietueen tunnus"
+
+msgid "Record ID (optional)"
+msgstr "Tietueen tunnus (valinnainen)"
+
+msgid "Records (JSON)"
+msgstr "Tietueet (JSON)"
+
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgid "Proxy"
+msgstr "Välityspalvelin"
+
+msgid "Purge after publish"
+msgstr "Tyhjennä julkaisun jälkeen"
+
+msgid "URLs (empty = all)"
+msgstr "URL-osoitteet (tyhjä = kaikki)"
+
+msgid "Rule (JSON)"
+msgstr "Sääntö (JSON)"
+
+msgid "Database"
+msgstr "Tietokanta"
+
+msgid "Host"
+msgstr "Palvelin"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Kirjautumisavain"
+
+msgid "Bandwidth (MB)"
+msgstr "Tiedonsiirto (Mt)"
+
+msgid "Disk (MB)"
+msgstr "Levytila (Mt)"
+
+msgid "Mailbox"
+msgstr "Postilaatikko"
+
+msgid "Quota (MB)"
+msgstr "Kiintiö (Mt)"
+
+msgid "Details"
+msgstr "Tiedot"
+
+msgid "Export"
+msgstr "Vie"
+
+msgid "Import"
+msgstr "Tuo"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Delete record"
+msgstr "Poista tietue"
+
+msgid "Save record"
+msgstr "Tallenna tietue"
+
+msgid "Records"
+msgstr "Tietueet"
+
+msgid "Import records"
+msgstr "Tuo tietueet"
+
+msgid "Purge cache"
+msgstr "Tyhjennä välimuisti"
+
+msgid "Cache rules"
+msgstr "Välimuistisäännöt"
+
+msgid "Save cache rule"
+msgstr "Tallenna välimuistisääntö"
+
+msgid "Tables"
+msgstr "Taulut"
+
+msgid "Import SQL"
+msgstr "Tuo SQL"
+
+msgid "Create database"
+msgstr "Luo tietokanta"
+
+msgid "Domains"
+msgstr "Verkkotunnukset"
+
+msgid "Add domain"
+msgstr "Lisää verkkotunnus"
+
+msgid "Mailboxes"
+msgstr "Postilaatikot"
+
+msgid "Add mailbox"
+msgstr "Lisää postilaatikko"
+
+msgid "Certificates"
+msgstr "Varmenteet"
+
+msgid "Hosting settings"
+msgstr "Webhotellin asetukset"
+
+msgid "Compare"
+msgstr "Vertaa"
+
+msgid "Copy release"
+msgstr "Kopioi versio"
+
+msgid "Scan"
+msgstr "Skannaa"
+
+msgid "Create sitemap"
+msgstr "Luo sivustokartta"
+
+msgid "Build index"
+msgstr "Luo hakemisto"
+
+msgid "Convert"
+msgstr "Muunna"
+
+msgid "View submissions"
+msgstr "Näytä lähetykset"
+
+msgid "Check now"
+msgstr "Tarkista nyt"
+
+msgid "History"
+msgstr "Historia"
+
+msgid "Run now"
+msgstr "Suorita nyt"
+
+msgid "View report"
+msgstr "Näytä raportti"
+
+msgid "Inbox"
+msgstr "Saapuneet"
+
+msgid "Send test"
+msgstr "Lähetä testi"
+
+msgid "Upload latest backup"
+msgstr "Lähetä viimeisin varmuuskopio"
+
+msgid "Remote copies"
+msgstr "Etäkopiot"
+
+msgid "Retrieve backup"
+msgstr "Nouda varmuuskopio"
+
+msgid "Index files"
+msgstr "Indeksitiedostot"
+
+msgid "403 page"
+msgstr "403-sivu"
+
+msgid "404 page"
+msgstr "404-sivu"
+
+msgid "500 page"
+msgstr "500-sivu"
+
+msgid "Cache"
+msgstr "Välimuisti"
+
+msgid "Password protection"
+msgstr "Salasanasuojaus"
+
+msgid "Hour"
+msgstr "Tunti"
+
+msgid "Day"
+msgstr "Päivä"
+
+msgid "Week"
+msgstr "Viikko"
+
+msgid "Download notifications"
+msgstr "Latausilmoitukset"
+
+msgid "Download ZIP"
+msgstr "Lataa ZIP"
+
+msgid "File requests"
+msgstr "Tiedostopyynnöt"
+
+msgid "Add request"
+msgstr "Lisää pyyntö"
+
+msgid "Request"
+msgstr "Pyyntö"
+
+msgid "Requests"
+msgstr "Pyynnöt"
+
+msgid "Expiry"
+msgstr "Vanheneminen"
+
+msgid "Endpoint"
+msgstr "Päätepiste"
+
+msgid "Permissions"
+msgstr "Oikeudet"
+
+msgid "Tokens"
+msgstr "Tunnisteet"
+
+msgid "Client"
+msgstr "Asiakas"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Updated"
+msgstr "Päivitetty"
+
+msgid "Field"
+msgstr "Kenttä"
+
+msgid "Data is retained."
+msgstr "Tiedot säilytetään."
+
+msgid "A backup is created first."
+msgstr "Varmuuskopio luodaan ensin."
+
+msgid "Current data is backed up before restoration."
+msgstr "Nykyiset tiedot varmuuskopioidaan ennen palautusta."
+
+msgid "Restore queued. Sign in again after completion."
+msgstr "Palautus jonossa. Kirjaudu uudelleen sen valmistuttua."
+
+msgid "Add a website first."
+msgstr "Lisää ensin sivusto."
+
+msgid "Complete required fields."
+msgstr "Täytä pakolliset kentät."
+
+msgid "Record changed. Reopen the page."
+msgstr "Tietue on muuttunut. Avaa sivu uudelleen."
+
+msgid "Record not found."
+msgstr "Tietuetta ei löytynyt."
+
+msgid "Record changed."
+msgstr "Tietue on muuttunut."
+
+msgid "Invalid value."
+msgstr "Virheellinen arvo."
+
+msgid "Value out of range."
+msgstr "Arvo ei ole sallitulla alueella."
+
+msgid "Choose a website."
+msgstr "Valitse sivusto."
+
+msgid "Choose another website."
+msgstr "Valitse toinen sivusto."
+
+msgid "Action unavailable."
+msgstr "Toiminto ei ole saatavilla."
+
+msgid "Operation not granted."
+msgstr "Toimintoon ei ole oikeutta."
+
+msgid "Read only."
+msgstr "Vain luku."
+
+msgid "Redirect loop."
+msgstr "Uudelleenohjaussilmukka."
+
+msgid "Redirect already exists."
+msgstr "Uudelleenohjaus on jo olemassa."
+
+msgid "Connection failed."
+msgstr "Yhteys epäonnistui."
+
+msgid "Connection timed out."
+msgstr "Yhteys aikakatkaistiin."
+
+msgid "Enable the GD extension."
+msgstr "Ota GD-laajennus käyttöön."
+
+msgid "Enable the DOM extension."
+msgstr "Ota DOM-laajennus käyttöön."
+
+msgid "Enable PDO MySQL."
+msgstr "Ota PDO MySQL käyttöön."
+
+msgid "Create a backup first."
+msgstr "Luo ensin varmuuskopio."
+
+msgid "Backup exceeds remote limit."
+msgstr "Varmuuskopio ylittää etätallennuksen rajan."
+
+msgid "Backup decryption failed."
+msgstr "Varmuuskopion salauksen purku epäonnistui."
+
+msgid "Use an HTTPS URL."
+msgstr "Käytä HTTPS-osoitetta."
+
+msgid "Invalid JSON."
+msgstr "Virheellinen JSON."
+
+msgid "Token already shown."
+msgstr "Tunniste on jo näytetty."
+
+msgid "Token missing."
+msgstr "Tunniste puuttuu."
+
+msgid "Client missing."
+msgstr "Asiakas puuttuu."
+
+msgid "Edit content"
+msgstr "Muokkaa sisältöä"
+
+msgid "Request certificate"
+msgstr "Pyydä varmenne"
+
+msgid "Change hosting setting"
+msgstr "Muuta webhotellin asetusta"
+
+msgid "Hosting settings unavailable."
+msgstr "Webhotellin asetukset eivät ole saatavilla."
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "Disable email 2FA before removing the authenticator."
+msgstr "Poista sähköposti-2FA käytöstä ennen todennussovelluksen poistamista."
+
+msgid "Draft"
+msgstr "Luonnos"
+
+msgid "Replace current data"
+msgstr "Korvaa nykyiset tiedot"
+
+msgid "Confirm restoration."
+msgstr "Vahvista palautus."
+
+msgid "Backup in use."
+msgstr "Varmuuskopio on käytössä."
+
+msgid "Delete backup"
+msgstr "Poista varmuuskopio"
+
+msgid "Scheduled"
+msgstr "Ajastettu"
+
+msgid "Publishing"
+msgstr "Julkaiseminen"
+
+msgid "Change website"
+msgstr "Vaihda sivusto"
+
+msgid "HTML website manager"
+msgstr "HTML-sivuston hallinta"
+
+msgid "Import existing versions. Original files remain available."
+msgstr "Tuo nykyiset versiot. Alkuperäiset tiedostot säilyvät."
+
+msgid "Manage accounts and security in WordPress."
+msgstr "Hallitse tilejä ja turvallisuutta WordPressissä."
+
+msgid "Background jobs use WordPress cron."
+msgstr "Taustatyöt käyttävät WordPressin cronia."
+
+msgid "Choose a published website on this domain."
+msgstr "Valitse tällä verkkotunnuksella julkaistu sivusto."
+
+msgid "Plugin management is disabled in WordPress."
+msgstr "Lisäosien hallinta on poistettu käytöstä WordPressissä."
+
+msgid "Preview unavailable."
+msgstr "Esikatselu ei ole saatavilla."

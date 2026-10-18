@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pt\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Generate on publish"
+msgstr "Gerar ao publicar"
+
+msgid "Scan"
+msgstr "Analisar"
+
+msgid "Create sitemap"
+msgstr "Criar sitemap"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Verifique os metadados e gere sitemaps e robots.txt."

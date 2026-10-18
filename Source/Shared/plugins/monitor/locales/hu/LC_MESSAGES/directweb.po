@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: hu\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Monitor"
+msgstr "Felügyelet"
+
+msgid "Interval (minutes)"
+msgstr "Időköz (perc)"
+
+msgid "Expected status"
+msgstr "Várt állapot"
+
+msgid "Certificate warning (days)"
+msgstr "Tanúsítvány figyelmeztetés (nap)"
+
+msgid "Check now"
+msgstr "Ellenőrizze most"
+
+msgid "History"
+msgstr "Előzmények"
+
+msgid "Use an HTTPS URL."
+msgstr "Használjon HTTPS URL-t."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Ellenőrizze a webhely elérhetőségét és a tanúsítvány lejártát."

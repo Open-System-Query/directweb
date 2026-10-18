@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Folders"
+msgstr "Priečinky"
+
+msgid "Folder"
+msgstr "Priečinok"
+
+msgid "Add folder"
+msgstr "Pridať priečinok"
+
+msgid "Server path"
+msgstr "Cesta k serveru"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Miesto"
+
+msgid "Subfolders"
+msgstr "Podpriečinky"
+
+msgid "Rules"
+msgstr "Pravidlá"
+
+msgid "Directory listing"
+msgstr "Výpis adresára"
+
+msgid "Inherit"
+msgstr "Zdediť"
+
+msgid "On"
+msgstr "Zapnuté"
+
+msgid "Selected IP addresses"
+msgstr "Vybrané adresy IP"
+
+msgid "IP addresses"
+msgstr "IP adresy"
+
+msgid "Current"
+msgstr "Aktuálne"
+
+msgid "New"
+msgstr "Nové"
+
+msgid "Apply"
+msgstr "Použiť"
+
+msgid "Choose a readable folder."
+msgstr "Vyberte čitateľný priečinok."
+
+msgid "Choose a hosting folder."
+msgstr "Vyberte hostiteľský priečinok."
+
+msgid "Folder already added."
+msgstr "Priečinok je už pridaný."
+
+msgid "Folder missing."
+msgstr "Chýba priečinok."
+
+msgid "Folder changed."
+msgstr "Priečinok zmenený."
+
+msgid "Symbolic links are not supported."
+msgstr "Symbolické odkazy nie sú podporované."
+
+msgid "DirectWeb folders are protected."
+msgstr "Priečinky DirectWeb sú chránené."
+
+msgid "Folder is not writable."
+msgstr "Priečinok nie je zapisovateľný."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Tento súbor .htaccess nemožno spravovať."
+
+msgid "Check IP addresses."
+msgstr "Skontrolujte IP adresy."
+
+msgid "File changed outside DirectWeb."
+msgstr "Súbor bol zmenený mimo DirectWeb."
+
+msgid "Preview expired."
+msgstr "Platnosť ukážky vypršala."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Vyžadujú sa povolenia Apache 2.4 a AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Tieto pravidlá sa vzťahujú na fyzické priečinky obsluhované webovým serverom."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Spravujte prístup k priečinkom, ukladanie do vyrovnávacej pamäte a chybové stránky."

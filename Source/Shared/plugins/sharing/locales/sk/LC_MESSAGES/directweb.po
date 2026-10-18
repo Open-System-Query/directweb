@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Access denied."
+msgstr "Prístup odmietnutý."
+
+msgid "Active"
+msgstr "Aktívne"
+
+msgid "Check the input."
+msgstr "Skontrolujte vstup."
+
+msgid "Days"
+msgstr "Dní"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Limit sťahovania (0 = neobmedzené)"
+
+msgid "Downloads"
+msgstr "Stiahnutie"
+
+msgid "Expired"
+msgstr "Platnosť vypršala"
+
+msgid "Expires"
+msgstr "Platnosť vyprší"
+
+msgid "File not found."
+msgstr "Súbor sa nenašiel."
+
+msgid "File unavailable."
+msgstr "Súbor nie je k dispozícii."
+
+msgid "Files"
+msgstr "Súbory"
+
+msgid "Invalid filename."
+msgstr "Neplatný názov súboru."
+
+msgid "Invalid password."
+msgstr "Neplatné heslo."
+
+msgid "Link unavailable."
+msgstr "Odkaz nie je k dispozícii."
+
+msgid "Name"
+msgstr "Názov"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Password required."
+msgstr "Vyžaduje sa heslo."
+
+msgid "Revoke"
+msgstr "Odvolať"
+
+msgid "Revoked"
+msgstr "Odvolané"
+
+msgid "Save failed."
+msgstr "Uloženie zlyhalo."
+
+msgid "Share"
+msgstr "Zdieľať"
+
+msgid "Share link"
+msgstr "Zdieľať odkaz"
+
+msgid "Shared"
+msgstr "Zdieľané"
+
+msgid "Sharing"
+msgstr "Zdieľanie"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "Storage limit reached."
+msgstr "Dosiahli ste limit úložiska."
+
+msgid "Upload failed."
+msgstr "Nahrávanie zlyhalo."
+
+msgid "File transfer"
+msgstr "Prenos súborov"
+
+msgid "Receive"
+msgstr "Prijať"
+
+msgid "Send"
+msgstr "Odoslať"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "Send files"
+msgstr "Odoslať súbory"
+
+msgid "Sign in to upload files."
+msgstr "Ak chcete nahrať súbory, prihláste sa."
+
+msgid "Used"
+msgstr "Využité"
+
+msgid "Per file"
+msgstr "Za súbor"
+
+msgid "Per transfer"
+msgstr "Na prenos"
+
+msgid "Transfers"
+msgstr "Prenosy"
+
+msgid "Transfer"
+msgstr "Prenos"
+
+msgid "Manage"
+msgstr "Spravovať"
+
+msgid "Portal"
+msgstr "Portál"
+
+msgid "Open portal"
+msgstr "Otvoriť portál"
+
+msgid "Sharing settings"
+msgstr "Nastavenia zdieľania"
+
+msgid "Limits"
+msgstr "Limity"
+
+msgid "Public portal"
+msgstr "Verejný portál"
+
+msgid "Guest uploads"
+msgstr "Nahrávanie hostí"
+
+msgid "Require download password"
+msgstr "Vyžadovať heslo na stiahnutie"
+
+msgid "File limit (MB)"
+msgstr "Limit súboru (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Limit prenosu (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Limit úložiska (MB)"
+
+msgid "Files per transfer"
+msgstr "Súborov na prenos"
+
+msgid "Default expiry (hours)"
+msgstr "Predvolené uplynutie platnosti (hodiny)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maximálna doba platnosti (hodiny)"
+
+msgid "Uploads per hour per IP"
+msgstr "Počet nahrávaní za hodinu na IP"
+
+msgid "Expires in (hours)"
+msgstr "Vyprší o (hodiny)"
+
+msgid "Download password"
+msgstr "Heslo na stiahnutie"
+
+msgid "Check sharing limits."
+msgstr "Skontrolujte limity zdieľania."
+
+msgid "Check transfer settings."
+msgstr "Skontrolujte nastavenia prenosu."
+
+msgid "Upload expired."
+msgstr "Platnosť nahrávania vypršala."
+
+msgid "Invalid upload chunk."
+msgstr "Neplatná časť nahrávania."
+
+msgid "Upload position changed."
+msgstr "Pozícia nahrávania zmenená."
+
+msgid "Upload too large."
+msgstr "Nahrávanie je príliš veľké."
+
+msgid "Upload incomplete."
+msgstr "Nahrávanie je neúplné."
+
+msgid "Share files with short links and upload requests."
+msgstr "Zdieľajte súbory pomocou krátkych odkazov a žiadostí o nahrávanie."

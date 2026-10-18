@@ -1,0 +1,14 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Generate on publish"
+msgstr "Genereren bij publicatie"
+
+msgid "Scan"
+msgstr "Scannen"
+
+msgid "Create sitemap"
+msgstr "Sitemap maken"
+
+msgid "Check metadata and generate sitemaps and robots.txt."
+msgstr "Controleer metadata en genereer sitemaps en robots.txt."

@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Skicka verifieringskoder och aviseringar via SMTP."
+
+msgid "Outgoing email"
+msgstr "Utgående e-post"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Skickar verifieringskoder och tilläggsaviseringar via din SMTP-leverantör."
+
+msgid "Ready"
+msgstr "Redo"
+
+msgid "Not configured"
+msgstr "Inte konfigurerad"
+
+msgid "Usage"
+msgstr "Användning"
+
+msgid "Accounts using email 2FA"
+msgstr "Konton med 2FA via e-post"
+
+msgid "Email notification rules"
+msgstr "Regler för e-postaviseringar"
+
+msgid "Send email"
+msgstr "Skicka e-post"
+
+msgid "SMTP connection"
+msgstr "SMTP-anslutning"
+
+msgid "Test email"
+msgstr "Testmeddelande"
+
+msgid "Recipient"
+msgstr "Mottagare"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb-testmeddelande"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb kan skicka e-post via din SMTP-leverantör."
+
+msgid "Test email sent."
+msgstr "Testmeddelandet har skickats."
+
+msgid "Test email sent to %s."
+msgstr "Testmeddelande skickat till %s."
+
+msgid "Configured, untested"
+msgstr "Konfigurerad, inte testad"
+
+msgid "Successfully tested"
+msgstr "Testad utan fel"
+
+msgid "Last send failed"
+msgstr "Senaste sändningen misslyckades"
+
+msgid "Last successful send"
+msgstr "Senaste lyckade sändning"
+
+msgid "Last failure"
+msgstr "Senaste fel"
+
+msgid "SMTP authentication failed."
+msgstr "SMTP-autentiseringen misslyckades."
+
+msgid "SMTP connection failed."
+msgstr "SMTP-anslutningen misslyckades."
+
+msgid "SMTP server rejected the message."
+msgstr "SMTP-servern avvisade meddelandet."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP-servern är tillfälligt otillgänglig."

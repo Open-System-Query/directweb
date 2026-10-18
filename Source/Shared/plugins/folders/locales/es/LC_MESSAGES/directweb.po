@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: es\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Carpetas"
+
+msgid "Folder"
+msgstr "Carpeta"
+
+msgid "Add folder"
+msgstr "Añadir carpeta"
+
+msgid "Server path"
+msgstr "Ruta del servidor"
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Subfolders"
+msgstr "Subcarpetas"
+
+msgid "Rules"
+msgstr "Reglas"
+
+msgid "Directory listing"
+msgstr "Listado de directorios"
+
+msgid "Inherit"
+msgstr "Heredar"
+
+msgid "On"
+msgstr "Activado"
+
+msgid "Selected IP addresses"
+msgstr "Direcciones IP seleccionadas"
+
+msgid "IP addresses"
+msgstr "Direcciones IP"
+
+msgid "Current"
+msgstr "Actual"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Choose a readable folder."
+msgstr "Elige una carpeta legible."
+
+msgid "Choose a hosting folder."
+msgstr "Elige una carpeta de hosting."
+
+msgid "Folder already added."
+msgstr "La carpeta ya se añadió."
+
+msgid "Folder missing."
+msgstr "Falta la carpeta."
+
+msgid "Folder changed."
+msgstr "La carpeta cambió."
+
+msgid "Symbolic links are not supported."
+msgstr "No se admiten enlaces simbólicos."
+
+msgid "DirectWeb folders are protected."
+msgstr "Las carpetas de DirectWeb están protegidas."
+
+msgid "Folder is not writable."
+msgstr "No se puede escribir en la carpeta."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "No se puede gestionar este archivo .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Revisa las direcciones IP."
+
+msgid "File changed outside DirectWeb."
+msgstr "El archivo cambió fuera de DirectWeb."
+
+msgid "Preview expired."
+msgstr "Vista previa caducada."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Se requieren Apache 2.4 y permisos AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Estas reglas se aplican a carpetas físicas servidas por el servidor web."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Gestiona el acceso a carpetas, la caché y las páginas de error."

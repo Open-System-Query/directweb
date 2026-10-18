@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "Sisältö"
+
+msgid "Content file"
+msgstr "Sisältötiedosto"
+
+msgid "Fields (JSON)"
+msgstr "Kentät (JSON)"
+
+msgid "Template"
+msgstr "Malli"
+
+msgid "Output file"
+msgstr "Tulostiedosto"
+
+msgid "Fields"
+msgstr "Kentät"
+
+msgid "Invalid value."
+msgstr "Virheellinen arvo."
+
+msgid "Edit content"
+msgstr "Muokkaa sisältöä"
+
+msgid "Edit content and publish website updates."
+msgstr "Muokkaa sisältöä ja julkaise sivustopäivityksiä."

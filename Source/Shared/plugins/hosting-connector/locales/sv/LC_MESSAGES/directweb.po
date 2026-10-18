@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sv\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Hosting Connector"
+msgstr "Webbhotellskoppling"
+
+msgid "Database"
+msgstr "Databas"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Inloggningsnyckel"
+
+msgid "Bandwidth (MB)"
+msgstr "Bandbredd (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disk (MB)"
+
+msgid "Mailbox"
+msgstr "Brevlåda"
+
+msgid "Quota (MB)"
+msgstr "Kvot (MB)"
+
+msgid "Create database"
+msgstr "Skapa databas"
+
+msgid "Domains"
+msgstr "Domäner"
+
+msgid "Add domain"
+msgstr "Lägg till domän"
+
+msgid "Mailboxes"
+msgstr "Brevlådor"
+
+msgid "Add mailbox"
+msgstr "Lägg till brevlåda"
+
+msgid "Certificates"
+msgstr "Certifikat"
+
+msgid "Hosting settings"
+msgstr "Webbhotellsinställningar"
+
+msgid "Request certificate"
+msgstr "Begär certifikat"
+
+msgid "Change hosting setting"
+msgstr "Ändra webbhotellsinställning"
+
+msgid "Setting"
+msgstr "Inställning"
+
+msgid "Hosting settings unavailable."
+msgstr "Webbhotellsinställningarna är inte tillgängliga."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Hantera webbhotellstjänster via DirectAdmin."

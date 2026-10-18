@@ -1,0 +1,157 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: en\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access"
+msgstr "Access"
+
+msgid "Access denied."
+msgstr "Access denied."
+
+msgid "Access token"
+msgstr "Access token"
+
+msgid "Allow"
+msgstr "Allow"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Client ID"
+msgstr "Client ID"
+
+msgid "Clients"
+msgstr "Clients"
+
+msgid "Connection"
+msgstr "Connection"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Create access"
+msgstr "Create access"
+
+msgid "Days"
+msgstr "Days"
+
+msgid "Expires"
+msgstr "Expires"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "File too large for MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Grant access"
+
+msgid "Invalid OAuth request."
+msgstr "Invalid OAuth request."
+
+msgid "Invalid input or action failed."
+msgstr "Invalid input or action failed."
+
+msgid "Invalid permissions."
+msgstr "Invalid permissions."
+
+msgid "Invalid redirect URL."
+msgstr "Invalid redirect URL."
+
+msgid "Last used"
+msgstr "Last used"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "No websites available."
+msgstr "No websites available."
+
+msgid "Not a text file."
+msgstr "Not a text file."
+
+msgid "Not found."
+msgstr "Not found."
+
+msgid "OAuth client"
+msgstr "OAuth client"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Read and publish websites."
+msgstr "Read and publish websites."
+
+msgid "Read websites."
+msgstr "Read websites."
+
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Request expired."
+msgstr "Request expired."
+
+msgid "Revoke"
+msgstr "Revoke"
+
+msgid "Save this token. It is shown once."
+msgstr "Save this token. It is shown once."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Unknown OAuth client."
+msgstr "Unknown OAuth client."
+
+msgid "Unknown tool."
+msgstr "Unknown tool."
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Connect AI assistants with scoped access."
+
+msgid "Never expires"
+msgstr "Never expires"
+
+msgid "Never"
+msgstr "Never"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Hide"
+msgstr "Hide"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Copied"
+msgstr "Copied"
+
+msgid "Expiry"
+msgstr "Expiry"
+
+msgid "Replace token"
+msgstr "Replace token"
+
+msgid "Replace"
+msgstr "Replace"
+
+msgid "Managed by OAuth."
+msgstr "Managed by OAuth."
+
+msgid "Invalid duration."
+msgstr "Invalid duration."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Replace this token to enable Show and Copy."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "The current token stops working. Update your connector afterward."
+
+msgid "Connection URL"
+msgstr "Connection URL"
+
+

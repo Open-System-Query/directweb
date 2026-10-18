@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Notifications"
+msgstr "Ilmoitukset"
+
+msgid "Webhook secret"
+msgstr "Webhook-salaisuus"
+
+msgid "Event"
+msgstr "Tapahtuma"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "Inbox"
+msgstr "Saapuneet"
+
+msgid "Send test"
+msgstr "Lähetä testi"
+
+msgid "Use an HTTPS URL."
+msgstr "Käytä HTTPS-osoitetta."
+
+msgid "Receive alerts in the panel, by email or webhook."
+msgstr "Vastaanota ilmoituksia paneelissa, sähköpostitse tai webhookilla."
+
+msgid "Email (Mail plugin)"
+msgstr "Sähköposti (sähköpostilisäosa)"
+
+msgid "Configure the Mail plugin to send email notifications."
+msgstr "Määritä sähköpostilisäosa lähettämään sähköposti-ilmoituksia."

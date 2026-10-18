@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Language: en\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Forms"
+msgstr "Forms"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Public form"
+msgstr "Public form"
+
+msgid "Submissions per hour"
+msgstr "Submissions per hour"
+
+msgid "Retention (days)"
+msgstr "Retention (days)"
+
+msgid "Form"
+msgstr "Form"
+
+msgid "Received."
+msgstr "Received."
+
+msgid "View submissions"
+msgstr "View submissions"
+
+msgid "Complete required fields."
+msgstr "Complete required fields."
+
+msgid "Invalid value."
+msgstr "Invalid value."
+
+msgid "Collect and manage website form submissions."
+msgstr "Collect and manage website form submissions."

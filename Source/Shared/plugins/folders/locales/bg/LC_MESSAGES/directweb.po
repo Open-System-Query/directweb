@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: bg\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Папки"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Add folder"
+msgstr "Добавяне на папка"
+
+msgid "Server path"
+msgstr "Път на сървъра"
+
+msgid "Server"
+msgstr "Сървър"
+
+msgid "Location"
+msgstr "Местоположение"
+
+msgid "Subfolders"
+msgstr "Подпапки"
+
+msgid "Rules"
+msgstr "Правила"
+
+msgid "Directory listing"
+msgstr "Списък на файловете"
+
+msgid "Inherit"
+msgstr "Наследяване"
+
+msgid "On"
+msgstr "Вкл"
+
+msgid "Selected IP addresses"
+msgstr "Избрани IP адреси"
+
+msgid "IP addresses"
+msgstr "IP адреси"
+
+msgid "Current"
+msgstr "Текущо"
+
+msgid "New"
+msgstr "Ново"
+
+msgid "Apply"
+msgstr "Прилагане"
+
+msgid "Choose a readable folder."
+msgstr "Изберете папка, която може да се чете."
+
+msgid "Choose a hosting folder."
+msgstr "Изберете хостинг папка."
+
+msgid "Folder already added."
+msgstr "Папката вече е добавена."
+
+msgid "Folder missing."
+msgstr "Липсва папка."
+
+msgid "Folder changed."
+msgstr "Папката е променена."
+
+msgid "Symbolic links are not supported."
+msgstr "Символните връзки не се поддържат."
+
+msgid "DirectWeb folders are protected."
+msgstr "DirectWeb папките са защитени."
+
+msgid "Folder is not writable."
+msgstr "Папката не може да се записва."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Не може да управлява този .htaccess файл."
+
+msgid "Check IP addresses."
+msgstr "Проверете IP адресите."
+
+msgid "File changed outside DirectWeb."
+msgstr "Файлът е променен извън DirectWeb."
+
+msgid "Preview expired."
+msgstr "Прегледът е изтекъл."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Изискват се разрешения за Apache 2.4 и AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Тези правила се прилагат за физически папки, обслужвани от уеб сървъра."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Управление на достъпа до папки, кеширане и страници с грешки."

@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: pl\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Folders"
+msgstr "Foldery"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Add folder"
+msgstr "Dodaj folder"
+
+msgid "Server path"
+msgstr "Ścieżka serwera"
+
+msgid "Server"
+msgstr "Serwer"
+
+msgid "Location"
+msgstr "Lokalizacja"
+
+msgid "Subfolders"
+msgstr "Podfoldery"
+
+msgid "Rules"
+msgstr "Reguły"
+
+msgid "Directory listing"
+msgstr "Lista katalogu"
+
+msgid "Inherit"
+msgstr "Dziedzicz"
+
+msgid "On"
+msgstr "Włączone"
+
+msgid "Selected IP addresses"
+msgstr "Wybrane adresy IP"
+
+msgid "IP addresses"
+msgstr "Adresy IP"
+
+msgid "Current"
+msgstr "Bieżące"
+
+msgid "New"
+msgstr "Nowe"
+
+msgid "Apply"
+msgstr "Zastosuj"
+
+msgid "Choose a readable folder."
+msgstr "Wybierz folder z prawem odczytu."
+
+msgid "Choose a hosting folder."
+msgstr "Wybierz folder hostingu."
+
+msgid "Folder already added."
+msgstr "Folder już dodano."
+
+msgid "Folder missing."
+msgstr "Brak folderu."
+
+msgid "Folder changed."
+msgstr "Folder został zmieniony."
+
+msgid "Symbolic links are not supported."
+msgstr "Dowiązania symboliczne nie są obsługiwane."
+
+msgid "DirectWeb folders are protected."
+msgstr "Foldery DirectWeb są chronione."
+
+msgid "Folder is not writable."
+msgstr "Brak prawa zapisu do folderu."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Nie można zarządzać tym plikiem .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Sprawdź adresy IP."
+
+msgid "File changed outside DirectWeb."
+msgstr "Plik zmieniono poza DirectWeb."
+
+msgid "Preview expired."
+msgstr "Podgląd wygasł."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Wymagane są Apache 2.4 i uprawnienia AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Te reguły dotyczą fizycznych folderów obsługiwanych przez serwer WWW."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Zarządzaj dostępem do folderów, pamięcią podręczną i stronami błędów."

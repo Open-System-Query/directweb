@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Databases"
+msgstr "Baze de date"
+
+msgid "Database"
+msgstr "Baza de date"
+
+msgid "Host"
+msgstr "Server"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Tables"
+msgstr "Tabele"
+
+msgid "Import SQL"
+msgstr "Import SQL"
+
+msgid "Create database"
+msgstr "Creați baza de date"
+
+msgid "Enable PDO MySQL."
+msgstr "Activați PDO MySQL."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "Gestionați bazele de date MySQL, importurile și exporturile."

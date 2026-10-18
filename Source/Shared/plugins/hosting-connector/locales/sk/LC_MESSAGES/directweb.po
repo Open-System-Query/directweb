@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Hosting Connector"
+msgstr "Pripojenie hostingu"
+
+msgid "Database"
+msgstr "Databáza"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin URL"
+
+msgid "Login key"
+msgstr "Prihlasovací kľúč"
+
+msgid "Bandwidth (MB)"
+msgstr "Prenos dát (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disk (MB)"
+
+msgid "Mailbox"
+msgstr "Poštová schránka"
+
+msgid "Quota (MB)"
+msgstr "Kvóta (MB)"
+
+msgid "Create database"
+msgstr "Vytvorte databázu"
+
+msgid "Domains"
+msgstr "Domény"
+
+msgid "Add domain"
+msgstr "Pridať doménu"
+
+msgid "Mailboxes"
+msgstr "Poštové schránky"
+
+msgid "Add mailbox"
+msgstr "Pridať poštovú schránku"
+
+msgid "Certificates"
+msgstr "Certifikáty"
+
+msgid "Hosting settings"
+msgstr "Nastavenia hosťovania"
+
+msgid "Request certificate"
+msgstr "Vyžiadať certifikát"
+
+msgid "Change hosting setting"
+msgstr "Zmeňte nastavenie hostingu"
+
+msgid "Setting"
+msgstr "Nastavenie"
+
+msgid "Hosting settings unavailable."
+msgstr "Nastavenia hosťovania nie sú k dispozícii."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Spravujte hostingové služby cez DirectAdmin."

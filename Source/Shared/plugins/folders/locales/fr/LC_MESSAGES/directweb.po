@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fr\n"
+
+msgid "Folders"
+msgstr "Dossiers"
+
+msgid "Folder"
+msgstr "Dossier"
+
+msgid "Add folder"
+msgstr "Ajouter un dossier"
+
+msgid "Server path"
+msgstr "Chemin serveur"
+
+msgid "Server"
+msgstr "Serveur"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Subfolders"
+msgstr "Sous-dossiers"
+
+msgid "Rules"
+msgstr "Règles"
+
+msgid "Directory listing"
+msgstr "Liste du dossier"
+
+msgid "Inherit"
+msgstr "Hériter"
+
+msgid "On"
+msgstr "Activé"
+
+msgid "Selected IP addresses"
+msgstr "Adresses IP sélectionnées"
+
+msgid "IP addresses"
+msgstr "Adresses IP"
+
+msgid "Current"
+msgstr "Actuel"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Choose a readable folder."
+msgstr "Choisissez un dossier lisible."
+
+msgid "Choose a hosting folder."
+msgstr "Choisissez un dossier hébergé."
+
+msgid "Folder already added."
+msgstr "Dossier déjà ajouté."
+
+msgid "Folder missing."
+msgstr "Dossier introuvable."
+
+msgid "Folder changed."
+msgstr "Dossier modifié."
+
+msgid "Symbolic links are not supported."
+msgstr "Les liens symboliques ne sont pas pris en charge."
+
+msgid "DirectWeb folders are protected."
+msgstr "Les dossiers DirectWeb sont protégés."
+
+msgid "Folder is not writable."
+msgstr "Dossier non accessible en écriture."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Impossible de gérer ce fichier .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Vérifiez les adresses IP."
+
+msgid "File changed outside DirectWeb."
+msgstr "Fichier modifié hors de DirectWeb."
+
+msgid "Preview expired."
+msgstr "Aperçu expiré."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Apache 2.4 et les autorisations AllowOverride sont requis."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Ces règles concernent les dossiers physiques servis par le serveur web."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Gérez les accès aux dossiers, le cache et les pages d’erreur."

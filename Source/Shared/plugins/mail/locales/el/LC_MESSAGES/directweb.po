@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: el\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Στείλτε κωδικούς επαλήθευσης και ειδοποιήσεις μέσω SMTP."
+
+msgid "Outgoing email"
+msgstr "Εξερχόμενο email"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Στέλνει κωδικούς επαλήθευσης και ειδοποιήσεις πρόσθετων μέσω του παρόχου SMTP."
+
+msgid "Ready"
+msgstr "Ετοιμο"
+
+msgid "Not configured"
+msgstr "Δεν έχει διαμορφωθεί"
+
+msgid "Usage"
+msgstr "Χρήση"
+
+msgid "Accounts using email 2FA"
+msgstr "Λογαριασμοί που χρησιμοποιούν email 2FA"
+
+msgid "Email notification rules"
+msgstr "Κανόνες ειδοποίησης μέσω email"
+
+msgid "Send email"
+msgstr "Αποστολή email"
+
+msgid "SMTP connection"
+msgstr "Σύνδεση SMTP"
+
+msgid "Test email"
+msgstr "Δοκιμαστικό email"
+
+msgid "Recipient"
+msgstr "Παραλήπτης"
+
+msgid "DirectWeb test email"
+msgstr "Δοκιμαστικό email του DirectWeb"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "Το DirectWeb μπορεί να στείλει email μέσω του παρόχου SMTP."
+
+msgid "Test email sent."
+msgstr "Εστάλη δοκιμαστικό email."
+
+msgid "Test email sent to %s."
+msgstr "Δοκιμαστικό μήνυμα ηλεκτρονικού ταχυδρομείου που στάλθηκε στο %s."
+
+msgid "Configured, untested"
+msgstr "Ρυθμισμένο, χωρίς δοκιμή"
+
+msgid "Successfully tested"
+msgstr "Δοκιμάστηκε με επιτυχία"
+
+msgid "Last send failed"
+msgstr "Η τελευταία αποστολή απέτυχε"
+
+msgid "Last successful send"
+msgstr "Τελευταία επιτυχημένη αποστολή"
+
+msgid "Last failure"
+msgstr "Τελευταία αποτυχία"
+
+msgid "SMTP authentication failed."
+msgstr "Ο έλεγχος ταυτότητας SMTP απέτυχε."
+
+msgid "SMTP connection failed."
+msgstr "Η σύνδεση SMTP απέτυχε."
+
+msgid "SMTP server rejected the message."
+msgstr "Ο διακομιστής SMTP απέρριψε το μήνυμα."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "Ο διακομιστής SMTP δεν είναι προσωρινά διαθέσιμος."

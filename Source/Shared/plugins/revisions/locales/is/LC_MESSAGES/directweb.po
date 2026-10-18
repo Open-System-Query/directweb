@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Earlier release"
+msgstr "Eldri útgáfa"
+
+msgid "Later release"
+msgstr "Nýrri útgáfa"
+
+msgid "Revisions"
+msgstr "Endurskoðanir"
+
+msgid "Compare"
+msgstr "Bera saman"
+
+msgid "Compare files and changes between website versions."
+msgstr "Berðu saman skrár og breytingar milli vefútgáfa."

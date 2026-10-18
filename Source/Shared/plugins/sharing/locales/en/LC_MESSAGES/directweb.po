@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: en\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Access denied."
+msgstr "Access denied."
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Check the input."
+msgstr "Check the input."
+
+msgid "Days"
+msgstr "Days"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Download limit (0 = unlimited)"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Expired"
+msgstr "Expired"
+
+msgid "Expires"
+msgstr "Expires"
+
+msgid "File not found."
+msgstr "File not found."
+
+msgid "File unavailable."
+msgstr "File unavailable."
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Invalid filename."
+msgstr "Invalid filename."
+
+msgid "Invalid password."
+msgstr "Invalid password."
+
+msgid "Link unavailable."
+msgstr "Link unavailable."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Password required."
+msgstr "Password required."
+
+msgid "Revoke"
+msgstr "Revoke"
+
+msgid "Revoked"
+msgstr "Revoked"
+
+msgid "Save failed."
+msgstr "Save failed."
+
+msgid "Share"
+msgstr "Share"
+
+msgid "Share link"
+msgstr "Share link"
+
+msgid "Shared"
+msgstr "Shared"
+
+msgid "Sharing"
+msgstr "Sharing"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Storage limit reached."
+msgstr "Storage limit reached."
+
+msgid "Upload failed."
+msgstr "Upload failed."
+
+msgid "File transfer"
+msgstr "File transfer"
+
+msgid "Receive"
+msgstr "Receive"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Send files"
+msgstr "Send files"
+
+msgid "Sign in to upload files."
+msgstr "Sign in to upload files."
+
+msgid "Used"
+msgstr "Used"
+
+msgid "Per file"
+msgstr "Per file"
+
+msgid "Per transfer"
+msgstr "Per transfer"
+
+msgid "Transfers"
+msgstr "Transfers"
+
+msgid "Transfer"
+msgstr "Transfer"
+
+msgid "Manage"
+msgstr "Manage"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Open portal"
+msgstr "Open portal"
+
+msgid "Sharing settings"
+msgstr "Sharing settings"
+
+msgid "Limits"
+msgstr "Limits"
+
+msgid "Public portal"
+msgstr "Public portal"
+
+msgid "Guest uploads"
+msgstr "Guest uploads"
+
+msgid "Require download password"
+msgstr "Require download password"
+
+msgid "File limit (MB)"
+msgstr "File limit (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Transfer limit (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Storage limit (MB)"
+
+msgid "Files per transfer"
+msgstr "Files per transfer"
+
+msgid "Default expiry (hours)"
+msgstr "Default expiry (hours)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maximum expiry (hours)"
+
+msgid "Uploads per hour per IP"
+msgstr "Uploads per hour per IP"
+
+msgid "Expires in (hours)"
+msgstr "Expires in (hours)"
+
+msgid "Download password"
+msgstr "Download password"
+
+msgid "Check sharing limits."
+msgstr "Check sharing limits."
+
+msgid "Check transfer settings."
+msgstr "Check transfer settings."
+
+msgid "Upload expired."
+msgstr "Upload expired."
+
+msgid "Invalid upload chunk."
+msgstr "Invalid upload chunk."
+
+msgid "Upload position changed."
+msgstr "Upload position changed."
+
+msgid "Upload too large."
+msgstr "Upload too large."
+
+msgid "Upload incomplete."
+msgstr "Upload incomplete."
+
+msgid "Share files with short links and upload requests."
+msgstr "Share files with short links and upload requests."

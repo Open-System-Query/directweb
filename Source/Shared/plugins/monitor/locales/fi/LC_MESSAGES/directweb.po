@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Monitor"
+msgstr "Valvonta"
+
+msgid "Interval (minutes)"
+msgstr "Aikaväli (minuuttia)"
+
+msgid "Expected status"
+msgstr "Odotettu tila"
+
+msgid "Certificate warning (days)"
+msgstr "Varmennevaroitus (päivää)"
+
+msgid "Check now"
+msgstr "Tarkista nyt"
+
+msgid "History"
+msgstr "Historia"
+
+msgid "Use an HTTPS URL."
+msgstr "Käytä HTTPS-osoitetta."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Tarkista sivuston saatavuus ja varmenteen vanheneminen."

@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Notifications"
+msgstr "Notifikationer"
+
+msgid "Webhook secret"
+msgstr "Webhook-hemmelighed"
+
+msgid "Event"
+msgstr "Hændelse"
+
+msgid "Webhook URL"
+msgstr "Webhook-URL"
+
+msgid "Inbox"
+msgstr "Indbakke"
+
+msgid "Send test"
+msgstr "Send test"
+
+msgid "Use an HTTPS URL."
+msgstr "Brug en HTTPS-URL."
+
+msgid "Receive alerts in the panel, by email or webhook."
+msgstr "Modtag advarsler i panelet, via e-mail eller webhook."
+
+msgid "Email (Mail plugin)"
+msgstr "E-mail (Mail-udvidelse)"
+
+msgid "Configure the Mail plugin to send email notifications."
+msgstr "Konfigurer Mail-udvidelsen til at sende e-mailnotifikationer."

@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Earlier release"
+msgstr "Eerdere versie"
+
+msgid "Later release"
+msgstr "Latere versie"
+
+msgid "Revisions"
+msgstr "Versieverschillen"
+
+msgid "Compare"
+msgstr "Vergelijken"
+
+msgid "Compare files and changes between website versions."
+msgstr "Vergelijk bestanden en wijzigingen tussen websiteversies."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Forms"
+msgstr "Lomakkeet"
+
+msgid "Fields"
+msgstr "Kentät"
+
+msgid "Public form"
+msgstr "Julkinen lomake"
+
+msgid "Submissions per hour"
+msgstr "Lähetyksiä tunnissa"
+
+msgid "Retention (days)"
+msgstr "Säilytysaika (päivää)"
+
+msgid "Form"
+msgstr "Lomake"
+
+msgid "Received."
+msgstr "Vastaanotettu."
+
+msgid "View submissions"
+msgstr "Näytä lähetykset"
+
+msgid "Complete required fields."
+msgstr "Täytä pakolliset kentät."
+
+msgid "Invalid value."
+msgstr "Virheellinen arvo."
+
+msgid "Collect and manage website form submissions."
+msgstr "Kerää ja hallitse sivuston lomakelähetyksiä."

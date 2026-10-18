@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: uk\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "Databases"
+msgstr "Бази даних"
+
+msgid "Database"
+msgstr "База даних"
+
+msgid "Host"
+msgstr "Сервер"
+
+msgid "Export"
+msgstr "Експорт"
+
+msgid "Tables"
+msgstr "Таблиці"
+
+msgid "Import SQL"
+msgstr "Імпорт SQL"
+
+msgid "Create database"
+msgstr "Створення бази даних"
+
+msgid "Enable PDO MySQL."
+msgstr "Увімкнути PDO MySQL."
+
+msgid "Manage MySQL databases, imports and exports."
+msgstr "Керуйте базами даних MySQL, імпортом та експортом."

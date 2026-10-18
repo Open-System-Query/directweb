@@ -1,0 +1,6 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: de\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgid "Display LUMUI screens in a compact, light layout."
+msgstr "LUMUI-Seiten in einem kompakten, hellen Layout anzeigen."

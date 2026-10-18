@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: tr\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Content"
+msgstr "İçerik"
+
+msgid "Cloudflare zone ID"
+msgstr "Cloudflare bölge kimliği"
+
+msgid "API token"
+msgstr "API belirteci"
+
+msgid "Record ID"
+msgstr "Kayıt kimliği"
+
+msgid "Record ID (optional)"
+msgstr "Kayıt Kimliği (isteğe bağlı)"
+
+msgid "Records (JSON)"
+msgstr "Kayıtlar (JSON)"
+
+msgid "Priority"
+msgstr "Öncelik"
+
+msgid "Proxy"
+msgstr "Vekil sunucu"
+
+msgid "Delete record"
+msgstr "Kaydı sil"
+
+msgid "Save record"
+msgstr "Kaydı kaydet"
+
+msgid "Records"
+msgstr "Kayıtlar"
+
+msgid "Import records"
+msgstr "Kayıtları içe aktar"
+
+msgid "Manage DNS records through Cloudflare."
+msgstr "DNS kayıtlarını Cloudflare aracılığıyla yönetin."

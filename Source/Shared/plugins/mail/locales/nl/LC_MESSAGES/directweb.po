@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: nl\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Verstuur verificatiecodes en meldingen via SMTP."
+
+msgid "Outgoing email"
+msgstr "Uitgaande e-mail"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Verstuurt verificatiecodes en pluginmeldingen via je SMTP-provider."
+
+msgid "Ready"
+msgstr "Gereed"
+
+msgid "Not configured"
+msgstr "Niet ingesteld"
+
+msgid "Usage"
+msgstr "Gebruik"
+
+msgid "Accounts using email 2FA"
+msgstr "Accounts met e-mail-2FA"
+
+msgid "Email notification rules"
+msgstr "Regels voor e-mailmeldingen"
+
+msgid "Send email"
+msgstr "E-mail versturen"
+
+msgid "SMTP connection"
+msgstr "SMTP-verbinding"
+
+msgid "Test email"
+msgstr "Testbericht"
+
+msgid "Recipient"
+msgstr "Ontvanger"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb-testbericht"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb kan e-mail versturen via je SMTP-provider."
+
+msgid "Test email sent."
+msgstr "Testbericht verstuurd."
+
+msgid "Test email sent to %s."
+msgstr "Testbericht verstuurd naar %s."
+
+msgid "Configured, untested"
+msgstr "Ingesteld, niet getest"
+
+msgid "Successfully tested"
+msgstr "Succesvol getest"
+
+msgid "Last send failed"
+msgstr "Laatste verzending mislukt"
+
+msgid "Last successful send"
+msgstr "Laatste geslaagde verzending"
+
+msgid "Last failure"
+msgstr "Laatste fout"
+
+msgid "SMTP authentication failed."
+msgstr "SMTP-inloggegevens geweigerd."
+
+msgid "SMTP connection failed."
+msgstr "SMTP-verbinding mislukt."
+
+msgid "SMTP server rejected the message."
+msgstr "SMTP-server heeft het bericht geweigerd."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP-server tijdelijk niet beschikbaar."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Forms"
+msgstr "Formulare"
+
+msgid "Fields"
+msgstr "Câmpuri"
+
+msgid "Public form"
+msgstr "Formular public"
+
+msgid "Submissions per hour"
+msgstr "Trimiteri pe oră"
+
+msgid "Retention (days)"
+msgstr "Păstrare (zile)"
+
+msgid "Form"
+msgstr "Formular"
+
+msgid "Received."
+msgstr "Primit."
+
+msgid "View submissions"
+msgstr "Vizualizați trimiterile"
+
+msgid "Complete required fields."
+msgstr "Completați câmpurile obligatorii."
+
+msgid "Invalid value."
+msgstr "Valoare nevalidă."
+
+msgid "Collect and manage website form submissions."
+msgstr "Colectați și gestionați trimiterile de formulare de pe site."

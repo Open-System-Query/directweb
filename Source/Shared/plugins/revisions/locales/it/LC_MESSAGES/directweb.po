@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: it\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Earlier release"
+msgstr "Versione precedente"
+
+msgid "Later release"
+msgstr "Versione successiva"
+
+msgid "Revisions"
+msgstr "Revisioni"
+
+msgid "Compare"
+msgstr "Confronta"
+
+msgid "Compare files and changes between website versions."
+msgstr "Confronta file e modifiche tra versioni del sito."

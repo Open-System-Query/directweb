@@ -1,0 +1,77 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: fi\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Send verification codes and notifications through SMTP."
+msgstr "Lähetä vahvistuskoodeja ja ilmoituksia SMTP:llä."
+
+msgid "Outgoing email"
+msgstr "Lähtevä sähköposti"
+
+msgid "Sends verification codes and plugin notifications through your SMTP provider."
+msgstr "Lähettää vahvistuskoodeja ja lisäosailmoituksia SMTP-palveluntarjoajasi kautta."
+
+msgid "Ready"
+msgstr "Valmis"
+
+msgid "Not configured"
+msgstr "Ei määritetty"
+
+msgid "Usage"
+msgstr "Käyttö"
+
+msgid "Accounts using email 2FA"
+msgstr "Sähköposti-2FA:ta käyttävät tilit"
+
+msgid "Email notification rules"
+msgstr "Sähköposti-ilmoitusten säännöt"
+
+msgid "Send email"
+msgstr "Lähetä sähköposti"
+
+msgid "SMTP connection"
+msgstr "SMTP-yhteys"
+
+msgid "Test email"
+msgstr "Testisähköposti"
+
+msgid "Recipient"
+msgstr "Vastaanottaja"
+
+msgid "DirectWeb test email"
+msgstr "DirectWeb-testisähköposti"
+
+msgid "DirectWeb can send email through your SMTP provider."
+msgstr "DirectWeb voi lähettää sähköpostia SMTP-palveluntarjoajasi kautta."
+
+msgid "Test email sent."
+msgstr "Testisähköposti lähetetty."
+
+msgid "Test email sent to %s."
+msgstr "Testisähköposti lähetetty osoitteeseen %s."
+
+msgid "Configured, untested"
+msgstr "Määritetty, ei testattu"
+
+msgid "Successfully tested"
+msgstr "Testattu onnistuneesti"
+
+msgid "Last send failed"
+msgstr "Viimeisin lähetys epäonnistui"
+
+msgid "Last successful send"
+msgstr "Viimeisin onnistunut lähetys"
+
+msgid "Last failure"
+msgstr "Viimeisin virhe"
+
+msgid "SMTP authentication failed."
+msgstr "SMTP-todennus epäonnistui."
+
+msgid "SMTP connection failed."
+msgstr "SMTP-yhteys epäonnistui."
+
+msgid "SMTP server rejected the message."
+msgstr "SMTP-palvelin hylkäsi viestin."
+
+msgid "SMTP server temporarily unavailable."
+msgstr "SMTP-palvelin ei ole tilapäisesti saatavilla."

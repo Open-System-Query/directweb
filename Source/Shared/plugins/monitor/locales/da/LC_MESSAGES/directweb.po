@@ -1,0 +1,26 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: da\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Monitor"
+msgstr "Overvågning"
+
+msgid "Interval (minutes)"
+msgstr "Interval (minutter)"
+
+msgid "Expected status"
+msgstr "Forventet status"
+
+msgid "Certificate warning (days)"
+msgstr "Certifikatadvarsel (dage)"
+
+msgid "Check now"
+msgstr "Kontrollér nu"
+
+msgid "History"
+msgstr "Historik"
+
+msgid "Use an HTTPS URL."
+msgstr "Brug en HTTPS-URL."
+
+msgid "Check website availability and certificate expiry."
+msgstr "Kontrollér webstedets tilgængelighed og certifikatets udløb."

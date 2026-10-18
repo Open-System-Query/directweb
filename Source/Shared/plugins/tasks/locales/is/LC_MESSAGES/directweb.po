@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Publish release"
+msgstr "Birta útgáfu"
+
+msgid "Tasks"
+msgstr "Verkefni"
+
+msgid "Task"
+msgstr "Verkefni"
+
+msgid "Release ID"
+msgstr "Útgáfuauðkenni"
+
+msgid "Start (UTC)"
+msgstr "Upphaf (UTC)"
+
+msgid "Repeat (minutes, 0 = once)"
+msgstr "Endurtaka (mínútur, 0 = einu sinni)"
+
+msgid "Prune releases"
+msgstr "Hreinsa útgáfur"
+
+msgid "Run now"
+msgstr "Keyra núna"
+
+msgid "Schedule publishing, backups and version cleanup."
+msgstr "Tímasettu birtingu, öryggisafritun og hreinsun útgáfa."

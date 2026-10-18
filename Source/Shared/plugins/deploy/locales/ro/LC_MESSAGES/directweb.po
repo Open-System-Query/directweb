@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Deploy"
+msgstr "Implementează"
+
+msgid "Artifact URL"
+msgstr "URL pachet"
+
+msgid "Artifact token"
+msgstr "Token pachet"
+
+msgid "Provider"
+msgstr "Furnizor"
+
+msgid "Webhook secret"
+msgstr "Secret webhook"
+
+msgid "Branch"
+msgstr "Ramură"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Publicați fișiere de compilare din GitHub sau GitLab."

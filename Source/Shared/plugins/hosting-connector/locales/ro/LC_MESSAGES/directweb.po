@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Hosting Connector"
+msgstr "Conector de găzduire"
+
+msgid "Database"
+msgstr "Baza de date"
+
+msgid "DirectAdmin URL"
+msgstr "URL DirectAdmin"
+
+msgid "Login key"
+msgstr "Cheie de autentificare"
+
+msgid "Bandwidth (MB)"
+msgstr "Trafic (MB)"
+
+msgid "Disk (MB)"
+msgstr "Disc (MB)"
+
+msgid "Mailbox"
+msgstr "Căsuță poștală"
+
+msgid "Quota (MB)"
+msgstr "Cotă (MB)"
+
+msgid "Create database"
+msgstr "Creați baza de date"
+
+msgid "Domains"
+msgstr "Domenii"
+
+msgid "Add domain"
+msgstr "Adăugați un domeniu"
+
+msgid "Mailboxes"
+msgstr "Cutii poștale"
+
+msgid "Add mailbox"
+msgstr "Adăugați căsuța poștală"
+
+msgid "Certificates"
+msgstr "Certificate"
+
+msgid "Hosting settings"
+msgstr "Setări de găzduire"
+
+msgid "Request certificate"
+msgstr "Solicitați certificat"
+
+msgid "Change hosting setting"
+msgstr "Schimbați setarea de găzduire"
+
+msgid "Setting"
+msgstr "Setare"
+
+msgid "Hosting settings unavailable."
+msgstr "Setările de găzduire indisponibile."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Gestionați serviciile de găzduire prin DirectAdmin."

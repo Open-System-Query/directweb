@@ -1,0 +1,56 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Remote Backups"
+msgstr "Vzdálené zálohy"
+
+msgid "S3 endpoint"
+msgstr "S3 koncový bod"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Access key"
+msgstr "Přístupový klíč"
+
+msgid "Secret key"
+msgstr "Tajný klíč"
+
+msgid "Backup passphrase"
+msgstr "Heslová fráze zálohy"
+
+msgid "Copies to retain"
+msgstr "Kopie k uchování"
+
+msgid "Backup limit (MB)"
+msgstr "Limit zálohy (MB)"
+
+msgid "Upload new backups"
+msgstr "Nahrajte nové zálohy"
+
+msgid "Object key"
+msgstr "Klíč objektu"
+
+msgid "Upload latest backup"
+msgstr "Nahrajte nejnovější zálohu"
+
+msgid "Remote copies"
+msgstr "Vzdálené kopie"
+
+msgid "Retrieve backup"
+msgstr "Stáhnout zálohu"
+
+msgid "Create a backup first."
+msgstr "Nejprve vytvořte zálohu."
+
+msgid "Backup exceeds remote limit."
+msgstr "Záloha překračuje limit vzdáleného úložiště."
+
+msgid "Backup decryption failed."
+msgstr "Dešifrování zálohy se nezdařilo."
+
+msgid "Store encrypted backups in S3-compatible storage."
+msgstr "Ukládejte šifrované zálohy v úložišti kompatibilním s S3."

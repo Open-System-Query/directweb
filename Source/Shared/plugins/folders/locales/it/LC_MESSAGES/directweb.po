@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: it\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Folders"
+msgstr "Cartelle"
+
+msgid "Folder"
+msgstr "Cartella"
+
+msgid "Add folder"
+msgstr "Aggiungi cartella"
+
+msgid "Server path"
+msgstr "Percorso server"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Location"
+msgstr "Posizione"
+
+msgid "Subfolders"
+msgstr "Sottocartelle"
+
+msgid "Rules"
+msgstr "Regole"
+
+msgid "Directory listing"
+msgstr "Elenco directory"
+
+msgid "Inherit"
+msgstr "Eredita"
+
+msgid "On"
+msgstr "Attivato"
+
+msgid "Selected IP addresses"
+msgstr "Indirizzi IP selezionati"
+
+msgid "IP addresses"
+msgstr "Indirizzi IP"
+
+msgid "Current"
+msgstr "Attuale"
+
+msgid "New"
+msgstr "Nuovo"
+
+msgid "Apply"
+msgstr "Applica"
+
+msgid "Choose a readable folder."
+msgstr "Scegli una cartella leggibile."
+
+msgid "Choose a hosting folder."
+msgstr "Scegli una cartella di hosting."
+
+msgid "Folder already added."
+msgstr "Cartella già aggiunta."
+
+msgid "Folder missing."
+msgstr "Cartella mancante."
+
+msgid "Folder changed."
+msgstr "La cartella è cambiata."
+
+msgid "Symbolic links are not supported."
+msgstr "I link simbolici non sono supportati."
+
+msgid "DirectWeb folders are protected."
+msgstr "Le cartelle di DirectWeb sono protette."
+
+msgid "Folder is not writable."
+msgstr "La cartella non è scrivibile."
+
+msgid "Cannot manage this .htaccess file."
+msgstr "Impossibile gestire questo file .htaccess."
+
+msgid "Check IP addresses."
+msgstr "Controlla gli indirizzi IP."
+
+msgid "File changed outside DirectWeb."
+msgstr "Il file è stato modificato fuori da DirectWeb."
+
+msgid "Preview expired."
+msgstr "Anteprima scaduta."
+
+msgid "Apache 2.4 and AllowOverride permissions are required."
+msgstr "Sono richiesti Apache 2.4 e i permessi AllowOverride."
+
+msgid "These rules apply to physical folders served by the webserver."
+msgstr "Queste regole si applicano alle cartelle fisiche servite dal server web."
+
+msgid "Manage folder access, caching and error pages."
+msgstr "Gestisci accesso alle cartelle, cache e pagine di errore."

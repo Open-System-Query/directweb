@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Language: nl\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Hosting Connector"
+msgstr "Hostingkoppeling"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "DirectAdmin URL"
+msgstr "DirectAdmin-URL"
+
+msgid "Login key"
+msgstr "Inlogsleutel"
+
+msgid "Bandwidth (MB)"
+msgstr "Dataverkeer (MB)"
+
+msgid "Disk (MB)"
+msgstr "Schijfruimte (MB)"
+
+msgid "Mailbox"
+msgstr "Postvak"
+
+msgid "Quota (MB)"
+msgstr "Quota (MB)"
+
+msgid "Create database"
+msgstr "Database maken"
+
+msgid "Domains"
+msgstr "Domeinen"
+
+msgid "Add domain"
+msgstr "Domein toevoegen"
+
+msgid "Mailboxes"
+msgstr "Postvakken"
+
+msgid "Add mailbox"
+msgstr "Postvak toevoegen"
+
+msgid "Certificates"
+msgstr "Certificaten"
+
+msgid "Hosting settings"
+msgstr "Hostinginstellingen"
+
+msgid "Request certificate"
+msgstr "Certificaat aanvragen"
+
+msgid "Change hosting setting"
+msgstr "Hostinginstelling wijzigen"
+
+msgid "Setting"
+msgstr "Instelling"
+
+msgid "Hosting settings unavailable."
+msgstr "Hostinginstellingen niet beschikbaar."
+
+msgid "Manage hosting services through DirectAdmin."
+msgstr "Beheer hostingdiensten via DirectAdmin."

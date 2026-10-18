@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: sk\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Access"
+msgstr "Prístup"
+
+msgid "Access denied."
+msgstr "Prístup odmietnutý."
+
+msgid "Access token"
+msgstr "Prístupový token"
+
+msgid "Allow"
+msgstr "Povoliť"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Client ID"
+msgstr "ID klienta"
+
+msgid "Clients"
+msgstr "Klienti"
+
+msgid "Connection"
+msgstr "Pripojenie"
+
+msgid "Create"
+msgstr "Vytvoriť"
+
+msgid "Create access"
+msgstr "Vytvoriť prístup"
+
+msgid "Days"
+msgstr "Dní"
+
+msgid "Expires"
+msgstr "Platnosť vyprší"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Súbor je pre MCP príliš veľký (256 KB)."
+
+msgid "Grant access"
+msgstr "Udeliť prístup"
+
+msgid "Invalid OAuth request."
+msgstr "Neplatná požiadavka OAuth."
+
+msgid "Invalid input or action failed."
+msgstr "Neplatný vstup alebo akcia zlyhala."
+
+msgid "Invalid permissions."
+msgstr "Neplatné povolenia."
+
+msgid "Invalid redirect URL."
+msgstr "Neplatná adresa URL presmerovania."
+
+msgid "Last used"
+msgstr "Naposledy použité"
+
+msgid "Name"
+msgstr "Názov"
+
+msgid "No websites available."
+msgstr "Nie sú dostupné žiadne webové stránky."
+
+msgid "Not a text file."
+msgstr "Nie je to textový súbor."
+
+msgid "Not found."
+msgstr "Nenájdené."
+
+msgid "OAuth client"
+msgstr "Klient OAuth"
+
+msgid "Publish"
+msgstr "Zverejniť"
+
+msgid "Read and publish websites."
+msgstr "Čítajte a publikujte webové stránky."
+
+msgid "Read websites."
+msgstr "Čítajte webové stránky."
+
+msgid "Redirect URL"
+msgstr "URL presmerovania"
+
+msgid "Register"
+msgstr "Zaregistrujte sa"
+
+msgid "Request expired."
+msgstr "Platnosť žiadosti vypršala."
+
+msgid "Revoke"
+msgstr "Odvolať"
+
+msgid "Save this token. It is shown once."
+msgstr "Uložte tento token. Zobrazí sa iba raz."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Unknown OAuth client."
+msgstr "Neznámy klient OAuth."
+
+msgid "Unknown tool."
+msgstr "Neznámy nástroj."
+
+msgid "Website"
+msgstr "Webová stránka"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Pripojte AI asistentov s obmedzeným prístupom."
+
+msgid "Never expires"
+msgstr "Nikdy nevyprší"
+
+msgid "Never"
+msgstr "Nikdy"
+
+msgid "Show"
+msgstr "Zobraziť"
+
+msgid "Hide"
+msgstr "Skryť"
+
+msgid "Copy"
+msgstr "Kopírovať"
+
+msgid "Copied"
+msgstr "Skopírované"
+
+msgid "Expiry"
+msgstr "Exspirácia"
+
+msgid "Replace token"
+msgstr "Nahradiť token"
+
+msgid "Replace"
+msgstr "Vymeňte"
+
+msgid "Managed by OAuth."
+msgstr "Spravované cez OAuth."
+
+msgid "Invalid duration."
+msgstr "Neplatné trvanie."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Nahraďte token na sprístupnenie funkcií Zobraziť a Kopírovať."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Aktuálny token prestane fungovať. Potom aktualizujte pripojenie."
+
+msgid "Connection URL"
+msgstr "URL pripojenia"

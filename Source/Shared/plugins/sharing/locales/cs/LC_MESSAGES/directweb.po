@@ -1,0 +1,191 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Access denied."
+msgstr "Přístup odepřen."
+
+msgid "Active"
+msgstr "Aktivní"
+
+msgid "Check the input."
+msgstr "Zkontrolujte vstup."
+
+msgid "Days"
+msgstr "Dní"
+
+msgid "Download limit (0 = unlimited)"
+msgstr "Limit stahování (0 = neomezeně)"
+
+msgid "Downloads"
+msgstr "Stažení"
+
+msgid "Expired"
+msgstr "Platnost vypršela"
+
+msgid "Expires"
+msgstr "Vyprší"
+
+msgid "File not found."
+msgstr "Soubor nenalezen."
+
+msgid "File unavailable."
+msgstr "Soubor není k dispozici."
+
+msgid "Files"
+msgstr "Soubory"
+
+msgid "Invalid filename."
+msgstr "Neplatný název souboru."
+
+msgid "Invalid password."
+msgstr "Neplatné heslo."
+
+msgid "Link unavailable."
+msgstr "Odkaz není k dispozici."
+
+msgid "Name"
+msgstr "Název"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Password required."
+msgstr "Je vyžadováno heslo."
+
+msgid "Revoke"
+msgstr "Odvolat"
+
+msgid "Revoked"
+msgstr "Odvoláno"
+
+msgid "Save failed."
+msgstr "Uložení se nezdařilo."
+
+msgid "Share"
+msgstr "Sdílet"
+
+msgid "Share link"
+msgstr "Sdílet odkaz"
+
+msgid "Shared"
+msgstr "Sdíleno"
+
+msgid "Sharing"
+msgstr "Sdílení"
+
+msgid "Status"
+msgstr "Postavení"
+
+msgid "Storage limit reached."
+msgstr "Bylo dosaženo limitu úložiště."
+
+msgid "Upload failed."
+msgstr "Odeslání se nezdařilo."
+
+msgid "File transfer"
+msgstr "Přenos souborů"
+
+msgid "Receive"
+msgstr "Příjem"
+
+msgid "Send"
+msgstr "Odeslat"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "Send files"
+msgstr "Odesílejte soubory"
+
+msgid "Sign in to upload files."
+msgstr "Chcete-li nahrávat soubory, přihlaste se."
+
+msgid "Used"
+msgstr "Využito"
+
+msgid "Per file"
+msgstr "Za soubor"
+
+msgid "Per transfer"
+msgstr "Na přenos"
+
+msgid "Transfers"
+msgstr "Přenosy"
+
+msgid "Transfer"
+msgstr "Přenos"
+
+msgid "Manage"
+msgstr "Spravovat"
+
+msgid "Portal"
+msgstr "Portál"
+
+msgid "Open portal"
+msgstr "Otevřít portál"
+
+msgid "Sharing settings"
+msgstr "Nastavení sdílení"
+
+msgid "Limits"
+msgstr "Limity"
+
+msgid "Public portal"
+msgstr "Veřejný portál"
+
+msgid "Guest uploads"
+msgstr "Nahrávání hostů"
+
+msgid "Require download password"
+msgstr "Vyžadovat heslo ke stažení"
+
+msgid "File limit (MB)"
+msgstr "Limit souboru (MB)"
+
+msgid "Transfer limit (MB)"
+msgstr "Limit přenosu (MB)"
+
+msgid "Storage limit (MB)"
+msgstr "Limit úložiště (MB)"
+
+msgid "Files per transfer"
+msgstr "Souborů na přenos"
+
+msgid "Default expiry (hours)"
+msgstr "Výchozí expirace (hodiny)"
+
+msgid "Maximum expiry (hours)"
+msgstr "Maximální expirace (hodiny)"
+
+msgid "Uploads per hour per IP"
+msgstr "Uploadů za hodinu na IP"
+
+msgid "Expires in (hours)"
+msgstr "Vyprší za (hodiny)"
+
+msgid "Download password"
+msgstr "Heslo pro stažení"
+
+msgid "Check sharing limits."
+msgstr "Zkontrolujte limity sdílení."
+
+msgid "Check transfer settings."
+msgstr "Zkontrolujte nastavení přenosu."
+
+msgid "Upload expired."
+msgstr "Platnost nahrávání vypršela."
+
+msgid "Invalid upload chunk."
+msgstr "Neplatný blok nahrávání."
+
+msgid "Upload position changed."
+msgstr "Pozice nahrávání změněna."
+
+msgid "Upload too large."
+msgstr "Nahrání je příliš velké."
+
+msgid "Upload incomplete."
+msgstr "Nahrání nebylo dokončeno."
+
+msgid "Share files with short links and upload requests."
+msgstr "Sdílejte soubory s krátkými odkazy a požadavky na nahrávání."

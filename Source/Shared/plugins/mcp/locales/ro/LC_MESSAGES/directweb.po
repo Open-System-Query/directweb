@@ -1,0 +1,155 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: ro\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n%100>0 && n%100<20) ? 1 : 2);\n"
+
+msgid "Access"
+msgstr "Acces"
+
+msgid "Access denied."
+msgstr "Acces refuzat."
+
+msgid "Access token"
+msgstr "Token de acces"
+
+msgid "Allow"
+msgstr "Permite"
+
+msgid "Cancel"
+msgstr "Anulează"
+
+msgid "Client ID"
+msgstr "ID client"
+
+msgid "Clients"
+msgstr "Clienți"
+
+msgid "Connection"
+msgstr "Conexiune"
+
+msgid "Create"
+msgstr "Creează"
+
+msgid "Create access"
+msgstr "Creați acces"
+
+msgid "Days"
+msgstr "Zile"
+
+msgid "Expires"
+msgstr "Expiră"
+
+msgid "File too large for MCP (256 KB)."
+msgstr "Fișier prea mare pentru MCP (256 KB)."
+
+msgid "Grant access"
+msgstr "Acordați acces"
+
+msgid "Invalid OAuth request."
+msgstr "Solicitare OAuth nevalidă."
+
+msgid "Invalid input or action failed."
+msgstr "Intrare nevalidă sau acțiune eșuată."
+
+msgid "Invalid permissions."
+msgstr "Permisiuni nevalide."
+
+msgid "Invalid redirect URL."
+msgstr "Adresă URL de redirecționare nevalidă."
+
+msgid "Last used"
+msgstr "Ultima utilizare"
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "No websites available."
+msgstr "Nu există site-uri web disponibile."
+
+msgid "Not a text file."
+msgstr "Nu este un fișier text."
+
+msgid "Not found."
+msgstr "Nu a fost găsit."
+
+msgid "OAuth client"
+msgstr "Client OAuth"
+
+msgid "Publish"
+msgstr "Publică"
+
+msgid "Read and publish websites."
+msgstr "Citiți și publicați site-uri web."
+
+msgid "Read websites."
+msgstr "Citiți site-uri web."
+
+msgid "Redirect URL"
+msgstr "Adresa URL de redirecționare"
+
+msgid "Register"
+msgstr "Înregistrează-te"
+
+msgid "Request expired."
+msgstr "Solicitarea a expirat."
+
+msgid "Revoke"
+msgstr "Revocare"
+
+msgid "Save this token. It is shown once."
+msgstr "Salvează acest token. Este afișat o singură dată."
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Unknown OAuth client."
+msgstr "Client OAuth necunoscut."
+
+msgid "Unknown tool."
+msgstr "Instrument necunoscut."
+
+msgid "Website"
+msgstr "Site web"
+
+msgid "Connect AI assistants with scoped access."
+msgstr "Conectează asistenți AI cu acces limitat."
+
+msgid "Never expires"
+msgstr "Nu expiră niciodată"
+
+msgid "Never"
+msgstr "Niciodată"
+
+msgid "Show"
+msgstr "Arată"
+
+msgid "Hide"
+msgstr "Ascunde"
+
+msgid "Copy"
+msgstr "Copiază"
+
+msgid "Copied"
+msgstr "Copiat"
+
+msgid "Expiry"
+msgstr "Expiră"
+
+msgid "Replace token"
+msgstr "Înlocuiește tokenul"
+
+msgid "Replace"
+msgstr "Înlocuiește"
+
+msgid "Managed by OAuth."
+msgstr "Gestionat prin OAuth."
+
+msgid "Invalid duration."
+msgstr "Durată nevalidă."
+
+msgid "Replace this token to enable Show and Copy."
+msgstr "Înlocuiește tokenul pentru a activa Arată și Copiază."
+
+msgid "The current token stops working. Update your connector afterward."
+msgstr "Tokenul curent nu va mai funcționa. Actualizează apoi conectorul."
+
+msgid "Connection URL"
+msgstr "Adresa URL de conectare"

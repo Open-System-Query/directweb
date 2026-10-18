@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Language: fr\nContent-Type: text/plain; charset=UTF-8\n"
+
+msgid "Earlier release"
+msgstr "Version antérieure"
+
+msgid "Later release"
+msgstr "Version ultérieure"
+
+msgid "Revisions"
+msgstr "Comparaison des versions"
+
+msgid "Compare"
+msgstr "Comparer"
+
+msgid "Compare files and changes between website versions."
+msgstr "Comparez les fichiers et les modifications entre versions."

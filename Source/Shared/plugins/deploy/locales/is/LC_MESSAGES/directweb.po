@@ -1,0 +1,23 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: is\nPlural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Deploy"
+msgstr "Setja í rekstur"
+
+msgid "Artifact URL"
+msgstr "Slóð útgáfupakka"
+
+msgid "Artifact token"
+msgstr "Tákn útgáfupakka"
+
+msgid "Provider"
+msgstr "Þjónustuaðili"
+
+msgid "Webhook secret"
+msgstr "Webhook-leyndarmál"
+
+msgid "Branch"
+msgstr "Grein"
+
+msgid "Publish build files from GitHub or GitLab."
+msgstr "Birtu byggingarskrár frá GitHub eða GitLab."

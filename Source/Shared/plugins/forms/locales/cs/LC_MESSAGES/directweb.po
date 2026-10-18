@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: cs\nPlural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+msgid "Forms"
+msgstr "Formuláře"
+
+msgid "Fields"
+msgstr "Pole"
+
+msgid "Public form"
+msgstr "Veřejný formulář"
+
+msgid "Submissions per hour"
+msgstr "Podání za hodinu"
+
+msgid "Retention (days)"
+msgstr "Doba uchování (dny)"
+
+msgid "Form"
+msgstr "Formulář"
+
+msgid "Received."
+msgstr "Přijato."
+
+msgid "View submissions"
+msgstr "Zobrazit příspěvky"
+
+msgid "Complete required fields."
+msgstr "Vyplňte povinná pole."
+
+msgid "Invalid value."
+msgstr "Neplatná hodnota."
+
+msgid "Collect and manage website form submissions."
+msgstr "Shromažďujte a spravujte odeslané formuláře na webu."
