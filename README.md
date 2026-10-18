@@ -4,7 +4,14 @@
 
 ![DirectWeb dashboard](Docs/Images/directweb-dashboard.png)
 
-Manage websites, users and services from one place. Built with [LUMUI](https://github.com/Open-System-Query/lumui), with plugins for file sharing, mail, MCP and more. Available in 21 languages.
+DirectWeb brings website hosting and administration into one compact panel. Manage websites, users and services through a consistent interface built with [LUMUI](https://github.com/Open-System-Query/lumui).
+
+## Highlights
+
+- Website and user management in one place
+- Plugins for additional services
+- A consistent, modular interface
+- Support for 21 languages
 
 ## Screenshots
 
@@ -19,7 +26,7 @@ Manage websites, users and services from one place. Built with [LUMUI](https://g
 - [`Source/WordPress`](Source/WordPress): WordPress integration
 - [`Docs`](Docs): screenshots
 
-## Setup
+## Use DirectWeb
 
 Build the upload packages with PHP 8.1+ and ZIP support:
 
@@ -38,4 +45,6 @@ Upload static websites as ZIP files containing `index.html` or `index.htm`. Addi
 
 ## License
 
-[MIT](LICENSE) · [Open System Query](https://opensystemquery.nl/). Bundled dependencies retain their [own licenses](Source/Shared/licenses). Public packages use Font Awesome Free.
+DirectWeb is released under the [MIT License](LICENSE) by [Open System Query](https://opensystemquery.nl/).
+
+Bundled dependencies retain their [own licenses](Source/Shared/licenses).
