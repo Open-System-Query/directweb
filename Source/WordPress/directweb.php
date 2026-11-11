@@ -2,7 +2,7 @@
 $directwebMetadata = <<<'PLUGIN'
 Plugin Name: DirectWeb
 Description: Website hosting, versions, backups and optional plugins.
-Version: 1.0
+Version: 1.1
 Requires at least: 6.6
 Requires PHP: 8.1
 Text Domain: directweb

@@ -1659,3 +1659,33 @@ msgstr "У WordPress вимкнено керування плагінами."
 
 msgid "Preview unavailable."
 msgstr "Попередній перегляд недоступний."
+
+msgid "Delete website"
+msgstr "Видалити веб-сайт"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Це остаточно видаляє веб-сайт з усіма версіями та файлами."
+
+msgid "Type the website name to confirm."
+msgstr "Введіть назву веб-сайту для підтвердження."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Цей веб-сайт показується на вашому домені WordPress. Спершу виберіть інший веб-сайт у розділі Публікація."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Можна вибрати лише ввімкнені веб-сайти з опублікованою версією та доменом цього сайту WordPress."
+
+msgid "Not available"
+msgstr "Недоступно"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "Other domain"
+msgstr "Інший домен"
+
+msgid "No published version"
+msgstr "Немає опублікованої версії"
+
+msgid "Website disabled"
+msgstr "Веб-сайт вимкнено"

@@ -25,7 +25,17 @@ final class Server
             ['release_preview','Get a shareable preview URL without publishing',$release+['expires_in'=>['type'=>'integer','minimum'=>60,'default'=>86400]],['site_id','release_id']],
             ['release_publish','Publish a saved release only when the user asks to make it live',$release+['revision'=>['type'=>'integer','minimum'=>1]],['site_id','release_id','revision']],
             ['release_restore','Restore a previous live release only when the user asks',$release+['revision'=>['type'=>'integer','minimum'=>1]],['site_id','release_id','revision']],
-        ];$out=[];foreach($defs as [$name,$description,$properties,$required]){$read=in_array($name,['sites_list','site_get','files_list','file_read','changes_validate','releases_list','jobs_get','release_preview'],true);$out[]=['name'=>$name,'description'=>$description,'inputSchema'=>['type'=>'object','properties'=>$properties?:new \stdClass(),'required'=>$required,'additionalProperties'=>false],'annotations'=>['readOnlyHint'=>$read,'destructiveHint'=>in_array($name,['changes_abort','release_publish','release_restore'],true),'idempotentHint'=>$read||$name==='changes_commit','openWorldHint'=>false]];}foreach($this->app->plugins->tools as $tool){$out[]=$tool['definition'];}return $out;
+            ['release_pin','Pin or unpin a release so retention keeps it',$release+['pinned'=>['type'=>'boolean']],['site_id','release_id','pinned']],
+            ['releases_prune','Delete old releases beyond the retention setting. Live, pinned and open-draft bases are kept. Only when the user asks.',$site,['site_id']],
+            ['site_create','Create a website for a domain (owner only). The new website is added to this connection.',['name'=>$str,'host'=>['type'=>'string','description'=>'Domain, for example example.com']],['name','host']],
+            ['site_update','Change website settings. Only pass the fields to change: name, host (domain, owner only), enabled, auto_publish (publish uploads immediately), spa (route unknown paths to index.html). Read site_get for the current revision first.',$site+['revision'=>['type'=>'integer','minimum'=>1],'name'=>$str,'host'=>$str,'enabled'=>['type'=>'boolean'],'auto_publish'=>['type'=>'boolean'],'spa'=>['type'=>'boolean']],['site_id','revision']],
+            ['site_delete','Permanently delete a website with all releases and files (owner only). Only when the user explicitly asks. confirm_name must equal the website name. Read site_get for the current revision first.',$site+['revision'=>['type'=>'integer','minimum'=>1],'confirm_name'=>$str],['site_id','revision','confirm_name']],
+        ];
+        if(!empty($this->app->config['wordpress'])){
+            $defs[]=['wordpress_homepage_get','Show which website replaces the WordPress front end on this domain, and which websites can or cannot be chosen and why',[],[]];
+            $defs[]=['wordpress_homepage_set','Choose the website shown on the WordPress domain. Pass an empty site_id to show WordPress again. The website must be enabled, published and use the WordPress domain. Only when the user asks.',$site,['site_id']];
+        }
+        $out=[];foreach($defs as [$name,$description,$properties,$required]){$read=in_array($name,['sites_list','site_get','files_list','file_read','changes_validate','releases_list','jobs_get','release_preview','wordpress_homepage_get'],true);$out[]=['name'=>$name,'description'=>$description,'inputSchema'=>['type'=>'object','properties'=>$properties?:new \stdClass(),'required'=>$required,'additionalProperties'=>false],'annotations'=>['readOnlyHint'=>$read,'destructiveHint'=>in_array($name,['changes_abort','release_publish','release_restore','releases_prune','site_update','site_delete','wordpress_homepage_set'],true),'idempotentHint'=>$read||in_array($name,['changes_commit','release_pin','wordpress_homepage_set'],true),'openWorldHint'=>false]];}foreach($this->app->plugins->tools as $tool){$out[]=$tool['definition'];}return $out;
     }
     public function invoke(array $u,string $tool,array $i): array
     {
@@ -50,7 +60,37 @@ final class Server
             'release_preview'=>(new \DirectWeb\Sites\Preview($a))->link($u,$site,$i['release_id'],$i['expires_in']??86400),
             'release_publish'=>$a->sites->publish($u,$site,$i['release_id'],$i['revision']),
             'release_restore'=>$a->sites->restore($u,$site,$i['release_id'],$i['revision']),
+            'release_pin'=>$this->pin($u,$site,$i['release_id'],$i['pinned']),
+            'releases_prune'=>['site_id'=>$site,'deleted'=>$a->sites->prune($u,$site)],
+            'site_create'=>$this->create($u,$i['name'],$i['host']),
+            'site_update'=>['site'=>$a->sites->update($u,$site,array_intersect_key($i,array_flip(['name','host','enabled','auto_publish','spa'])),$i['revision'])],
+            'site_delete'=>$a->sites->delete($u,$site,$i['revision'],$i['confirm_name']),
+            'wordpress_homepage_get'=>\DirectWebWordPress\Bridge::homepage($a,$u),
+            'wordpress_homepage_set'=>$this->homepage($u,$site),
         };
+    }
+    private function writable(array $u): void
+    {
+        if(isset($u['_token'])&&!in_array('write',json_decode($u['_token']['scopes'],true),true)){throw new Problem('Operation not granted.',403);}
+    }
+    private function pin(array $u,string $site,string $release,bool $pinned): array
+    {
+        $this->writable($u);$this->app->sites->pin($u,$site,$release,$pinned);return ['site_id'=>$site,'release_id'=>$release,'pinned'=>$pinned];
+    }
+    private function create(array $u,string $name,string $host): array
+    {
+        $this->writable($u);$s=$this->app->sites->create($u,$name,$host);
+        if(isset($u['_token'])){
+            $list=json_decode($u['_token']['sites'],true);$list=is_array($list)?$list:[];$list[]=$s['id'];$json=Files::json(array_values(array_unique($list)));
+            $this->app->db->execute('UPDATE tokens SET sites=? WHERE id=?',[$json,$u['_token']['id']]);
+            if($this->app->db->one("SELECT name FROM sqlite_master WHERE type='table' AND name='oauth_refresh'")){$this->app->db->execute('UPDATE oauth_refresh SET sites=? WHERE token_id=?',[$json,$u['_token']['id']]);}
+        }
+        return ['site'=>$s,'next_action'=>'Create a change with changes_create (base_release null), add index.html, commit and preview it. The website shows as Off until a release is published.'];
+    }
+    private function homepage(array $u,string $site): array
+    {
+        $this->writable($u);$current=\DirectWebWordPress\Bridge::currentSite();if($current!==''&&$current!==$site){$this->app->auth->access($u,$current,'manage');}
+        \DirectWebWordPress\Bridge::selectSite($this->app,$u,$site);return \DirectWebWordPress\Bridge::homepage($this->app,$u);
     }
     private function commit(array $u,array $input): array
     {
@@ -87,7 +127,7 @@ final class Server
         if(!array_key_exists('id',$m)){http_response_code(202);return;}$id=$m['id'];
         $version=$_SERVER['HTTP_MCP_PROTOCOL_VERSION']??'';if($version!==''&&!in_array($version,['2025-03-26','2025-06-18','2025-11-25'],true)){http_response_code(400);$this->rpcError($id,-32600,'Unsupported protocol version');return;}
         $params=$m['params']??[];
-        if($m['method']==='initialize'){$result=['protocolVersion'=>in_array($params['protocolVersion']??'',['2025-03-26','2025-06-18','2025-11-25'],true)?$params['protocolVersion']:'2025-11-25','capabilities'=>['tools'=>['listChanged'=>false]],'serverInfo'=>['name'=>'DirectWeb','version'=>$this->app->config['version']],'instructions'=>'Read the current website and relevant files before editing. Preserve its existing design unless asked to change it. Group related changes, validate them, then commit once with a unique request_id. A commit saves a draft and leaves the live website unchanged. Use releases_list to find the latest draft and continue editing that draft when appropriate. Put HTML, CSS, JavaScript and other text files through changes_apply. For images, fonts and other binary files: when you can run shell commands and the files are on this computer, call changes_upload_link and upload them yourself with its upload_command instead of asking the user; for small files you may use changes_upload with base64, and for public images changes_upload with urls. Only when the files are on the own device of the user or attached in chat, share the changes_upload_link URL and wait until they confirm. Always call changes_validate to see the exact paths before referencing them. Do this before committing, while the change is open. After committing, call release_preview and share the returned URL so the user can test the draft without publishing. Include its expiry when relevant and generate a fresh link if needed. Summarize the changes and offer to publish with release_publish when they are ready. Publish only when the user requests it. If the user says not to go live yet, keep the draft and do not ask again until they indicate readiness. Read site_get for the current revision before publishing. Use release_restore only when asked to restore a previous live version.'];}
+        if($m['method']==='initialize'){$result=['protocolVersion'=>in_array($params['protocolVersion']??'',['2025-03-26','2025-06-18','2025-11-25'],true)?$params['protocolVersion']:'2025-11-25','capabilities'=>['tools'=>['listChanged'=>false]],'serverInfo'=>['name'=>'DirectWeb','version'=>$this->app->config['version']],'instructions'=>'Read the current website and relevant files before editing. Preserve its existing design unless asked to change it. Group related changes, validate them, then commit once with a unique request_id. A commit saves a draft and leaves the live website unchanged. Use releases_list to find the latest draft and continue editing that draft when appropriate. Put HTML, CSS, JavaScript and other text files through changes_apply. For images, fonts and other binary files: when you can run shell commands and the files are on this computer, call changes_upload_link and upload them yourself with its upload_command instead of asking the user; for small files you may use changes_upload with base64, and for public images changes_upload with urls. Only when the files are on the own device of the user or attached in chat, share the changes_upload_link URL and wait until they confirm. Always call changes_validate to see the exact paths before referencing them. Do this before committing, while the change is open. After committing, call release_preview and share the returned URL so the user can test the draft without publishing. Include its expiry when relevant and generate a fresh link if needed. Summarize the changes and offer to publish with release_publish when they are ready. Publish only when the user requests it. If the user says not to go live yet, keep the draft and do not ask again until they indicate readiness. Read site_get for the current revision before publishing. Use release_restore only when asked to restore a previous live version. A website shows as Off until it is enabled and has a published release. Manage websites with site_create, site_update (name, domain, enabled, auto_publish, spa) and site_delete; read site_get for the current revision first. Delete websites, prune releases or change a domain only when the user asks, and confirm the exact website first.'.(!empty($this->app->config['wordpress'])?' On WordPress, wordpress_homepage_get shows which website replaces the WordPress front end and why other websites are unavailable; wordpress_homepage_set changes it when the user asks.':'')];}
         elseif($m['method']==='ping'){$result=new \stdClass();}
         elseif($m['method']==='tools/list'){$scopes=json_decode($u['_token']['scopes'],true);$result=['tools'=>array_values(array_filter($this->tools(),fn($t)=>isset($this->app->plugins->tools[$t['name']])?in_array('tool:'.$t['name'],$scopes,true):(!empty($t['annotations']['readOnlyHint'])||in_array('write',$scopes,true))))];}
         elseif($m['method']==='tools/call'){

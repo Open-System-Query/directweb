@@ -1659,3 +1659,33 @@ msgstr "Gestionarea pluginurilor este dezactivată în WordPress."
 
 msgid "Preview unavailable."
 msgstr "Previzualizare indisponibilă."
+
+msgid "Delete website"
+msgstr "Șterge site-ul web"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Aceasta șterge definitiv site-ul web cu toate versiunile și fișierele."
+
+msgid "Type the website name to confirm."
+msgstr "Introdu numele site-ului web pentru confirmare."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Acest site web este afișat pe domeniul tău WordPress. Alege mai întâi alt site web la Publicare."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Pot fi alese doar site-urile web activate, cu o versiune publicată și domeniul acestui site WordPress."
+
+msgid "Not available"
+msgstr "Indisponibil"
+
+msgid "Reason"
+msgstr "Motiv"
+
+msgid "Other domain"
+msgstr "Alt domeniu"
+
+msgid "No published version"
+msgstr "Nicio versiune publicată"
+
+msgid "Website disabled"
+msgstr "Site web dezactivat"

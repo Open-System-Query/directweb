@@ -1659,3 +1659,33 @@ msgstr "Tilläggshantering är inaktiverad i WordPress."
 
 msgid "Preview unavailable."
 msgstr "Förhandsvisningen är inte tillgänglig."
+
+msgid "Delete website"
+msgstr "Radera webbplats"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Detta raderar webbplatsen permanent med alla versioner och filer."
+
+msgid "Type the website name to confirm."
+msgstr "Skriv webbplatsens namn för att bekräfta."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Den här webbplatsen visas på din WordPress-domän. Välj först en annan webbplats under Publicering."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Endast aktiverade webbplatser med en publicerad version och den här WordPress-webbplatsens domän kan väljas."
+
+msgid "Not available"
+msgstr "Inte tillgänglig"
+
+msgid "Reason"
+msgstr "Orsak"
+
+msgid "Other domain"
+msgstr "Annan domän"
+
+msgid "No published version"
+msgstr "Ingen publicerad version"
+
+msgid "Website disabled"
+msgstr "Webbplats inaktiverad"

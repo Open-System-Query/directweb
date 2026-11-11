@@ -1659,3 +1659,33 @@ msgstr "Správa doplnkov je vo WordPress zakázaná."
 
 msgid "Preview unavailable."
 msgstr "Ukážka nie je k dispozícii."
+
+msgid "Delete website"
+msgstr "Odstrániť webovú stránku"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Týmto natrvalo odstránite webovú stránku so všetkými verziami a súbormi."
+
+msgid "Type the website name to confirm."
+msgstr "Na potvrdenie zadajte názov webovej stránky."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Táto webová stránka sa zobrazuje na vašej doméne WordPress. Najprv vyberte inú webovú stránku v časti Zverejňovanie."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Vybrať možno iba zapnuté webové stránky so zverejnenou verziou a doménou tejto stránky WordPress."
+
+msgid "Not available"
+msgstr "Nie je k dispozícii"
+
+msgid "Reason"
+msgstr "Dôvod"
+
+msgid "Other domain"
+msgstr "Iná doména"
+
+msgid "No published version"
+msgstr "Žiadna zverejnená verzia"
+
+msgid "Website disabled"
+msgstr "Webová stránka vypnutá"

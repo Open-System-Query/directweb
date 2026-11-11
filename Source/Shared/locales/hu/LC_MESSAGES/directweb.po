@@ -1659,3 +1659,33 @@ msgstr "A beépülő modulok kezelése le van tiltva a WordPressben."
 
 msgid "Preview unavailable."
 msgstr "Az előnézet nem érhető el."
+
+msgid "Delete website"
+msgstr "Webhely törlése"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Ez véglegesen törli a webhelyet az összes verzióval és fájllal együtt."
+
+msgid "Type the website name to confirm."
+msgstr "A megerősítéshez írja be a webhely nevét."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Ez a webhely jelenik meg a WordPress-domainjén. Előbb válasszon másik webhelyet a Közzététel alatt."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Csak engedélyezett, közzétett verzióval rendelkező és ennek a WordPress-webhelynek a domainjét használó webhelyek választhatók."
+
+msgid "Not available"
+msgstr "Nem elérhető"
+
+msgid "Reason"
+msgstr "Ok"
+
+msgid "Other domain"
+msgstr "Másik domain"
+
+msgid "No published version"
+msgstr "Nincs közzétett verzió"
+
+msgid "Website disabled"
+msgstr "Webhely letiltva"

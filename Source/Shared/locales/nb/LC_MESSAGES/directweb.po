@@ -1659,3 +1659,33 @@ msgstr "Utvidelsesadministrasjon er deaktivert i WordPress."
 
 msgid "Preview unavailable."
 msgstr "Forhåndsvisningen er utilgjengelig."
+
+msgid "Delete website"
+msgstr "Slett nettsted"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Dette sletter nettstedet permanent med alle versjoner og filer."
+
+msgid "Type the website name to confirm."
+msgstr "Skriv inn navnet på nettstedet for å bekrefte."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Dette nettstedet vises på WordPress-domenet ditt. Velg først et annet nettsted under Publisering."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Bare aktiverte nettsteder med en publisert versjon og domenet til dette WordPress-nettstedet kan velges."
+
+msgid "Not available"
+msgstr "Ikke tilgjengelig"
+
+msgid "Reason"
+msgstr "Årsak"
+
+msgid "Other domain"
+msgstr "Annet domene"
+
+msgid "No published version"
+msgstr "Ingen publisert versjon"
+
+msgid "Website disabled"
+msgstr "Nettsted deaktivert"

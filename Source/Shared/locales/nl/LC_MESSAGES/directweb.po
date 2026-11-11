@@ -1659,3 +1659,33 @@ msgstr "Pluginbeheer is uitgeschakeld in WordPress."
 
 msgid "Preview unavailable."
 msgstr "Voorbeeld niet beschikbaar."
+
+msgid "Delete website"
+msgstr "Website verwijderen"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Hiermee verwijder je de website definitief, met alle versies en bestanden."
+
+msgid "Type the website name to confirm."
+msgstr "Typ de naam van de website ter bevestiging."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Deze website wordt getoond op je WordPress-domein. Kies eerst een andere website onder Publicatie."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Alleen ingeschakelde websites met een gepubliceerde versie en het domein van deze WordPress-site kunnen worden gekozen."
+
+msgid "Not available"
+msgstr "Niet beschikbaar"
+
+msgid "Reason"
+msgstr "Reden"
+
+msgid "Other domain"
+msgstr "Ander domein"
+
+msgid "No published version"
+msgstr "Geen gepubliceerde versie"
+
+msgid "Website disabled"
+msgstr "Website uit"

@@ -1659,3 +1659,33 @@ msgstr "La gestión de plugins está desactivada en WordPress."
 
 msgid "Preview unavailable."
 msgstr "Vista previa no disponible."
+
+msgid "Delete website"
+msgstr "Eliminar sitio web"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Esto elimina permanentemente el sitio web con todas sus versiones y archivos."
+
+msgid "Type the website name to confirm."
+msgstr "Escribe el nombre del sitio web para confirmar."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Este sitio web se muestra en tu dominio de WordPress. Primero elige otro sitio web en Publicación."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Solo se pueden elegir sitios web activados con una versión publicada y el dominio de este sitio de WordPress."
+
+msgid "Not available"
+msgstr "No disponible"
+
+msgid "Reason"
+msgstr "Motivo"
+
+msgid "Other domain"
+msgstr "Otro dominio"
+
+msgid "No published version"
+msgstr "Ninguna versión publicada"
+
+msgid "Website disabled"
+msgstr "Sitio web desactivado"

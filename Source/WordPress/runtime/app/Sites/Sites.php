@@ -153,7 +153,53 @@ final class Sites
     }
     public function configure(array $u,string $site,array $values,int $revision): void
     {
-        $this->app->auth->access($u,$site,'manage');$this->app->lock(function()use($u,$site,$values,$revision){$s=$this->get($site);if($s['revision']!==$revision){throw new Problem('Release changed.',409);}$this->app->db->execute('UPDATE sites SET enabled=?,auto_publish=?,spa=?,revision=revision+1 WHERE id=?',[(int)!empty($values['enabled']),(int)!empty($values['auto_publish']),(int)!empty($values['spa']),$site]);$this->app->audit($u['id'],'site.configured',$site);});
+        $changes=['enabled'=>!empty($values['enabled']),'auto_publish'=>!empty($values['auto_publish']),'spa'=>!empty($values['spa'])];
+        foreach(['name','host'] as $key){if(isset($values[$key])&&is_scalar($values[$key])){$changes[$key]=(string)$values[$key];}}
+        $this->update($u,$site,$changes,$revision);
+    }
+    public function update(array $u,string $site,array $values,int $revision): array
+    {
+        $this->app->auth->access($u,$site,'manage');
+        return $this->app->lock(function()use($u,$site,$values,$revision){
+            $s=$this->get($site);if($s['revision']!==$revision){throw new Problem('Release changed.',409);}
+            $name=array_key_exists('name',$values)?trim((string)$values['name']):$s['name'];if($name===''||mb_strlen($name)>100){throw new Problem('Check name and domain.');}
+            $host=array_key_exists('host',$values)?Files::host((string)$values['host']):$s['host'];
+            if($host!==$s['host']){
+                $this->app->auth->requireOwner($u);
+                if($host===strtolower($this->app->config['admin_host'])&&empty($this->app->config['allow_admin_host_site'])){throw new Problem('Check name and domain.');}
+                if($this->app->db->one('SELECT id FROM sites WHERE host=? AND id<>?',[$host,$site])){throw new Problem('Domain already exists.');}
+                $this->platform('host',$s,$host);
+            }
+            $flag=fn(string $key):int=>array_key_exists($key,$values)?(int)!empty($values[$key]):(int)$s[$key];
+            $this->app->db->execute('UPDATE sites SET name=?,host=?,enabled=?,auto_publish=?,spa=?,revision=revision+1 WHERE id=?',[$name,$host,$flag('enabled'),$flag('auto_publish'),$flag('spa'),$site]);
+            $this->app->audit($u['id'],'site.configured',$site,$host!==$s['host']?['host'=>$host,'previous_host'=>$s['host']]:[]);
+            return $this->get($site);
+        });
+    }
+    public function delete(array $u,string $site,int $revision,string $confirm): array
+    {
+        $this->app->auth->requireOwner($u);$this->app->auth->access($u,$site,'manage');
+        return $this->app->lock(function()use($u,$site,$revision,$confirm){
+            $s=$this->get($site);if($s['revision']!==$revision){throw new Problem('Release changed.',409);}
+            if(trim($confirm)!==$s['name']){throw new Problem('Type the website name to confirm.');}
+            $this->platform('delete',$s,null);
+            $changes=array_column($this->app->db->all('SELECT id FROM changes WHERE site_id=?',[$site]),'id');
+            $this->app->db->transaction(function()use($site){
+                foreach(['DELETE FROM releases WHERE site_id=?','DELETE FROM changes WHERE site_id=?','DELETE FROM user_sites WHERE site_id=?',"UPDATE extension_records SET deleted=1 WHERE site=?"] as $sql){$this->app->db->execute($sql,[$site]);}
+                $tables=['tokens'];if($this->app->db->one("SELECT name FROM sqlite_master WHERE type='table' AND name='oauth_refresh'")){$tables[]='oauth_refresh';}
+                foreach($tables as $table){$key=$table==='tokens'?'id':'hash';foreach($this->app->db->all('SELECT '.$key.' AS k,sites FROM '.$table) as $row){$list=json_decode($row['sites'],true);if(is_array($list)&&in_array($site,$list,true)){$this->app->db->execute('UPDATE '.$table.' SET sites=? WHERE '.$key.'=?',[Files::json(array_values(array_diff($list,[$site]))),$row['k']]);}}}
+                $this->app->db->execute('DELETE FROM sites WHERE id=?',[$site]);
+            });
+            foreach($changes as $change){Files::remove($this->app->storage('staging/'.$change));}
+            Files::remove($this->app->storage('sites/'.$site));
+            $this->app->audit($u['id'],'site.deleted',$site,['name'=>$s['name'],'host'=>$s['host']]);
+            $this->app->extensions->emit('site.deleted',$u['id'],['site'=>$site,'host'=>$s['host']]);
+            return ['site_id'=>$site,'deleted'=>true];
+        });
+    }
+    private function platform(string $event,array $site,?string $host): void
+    {
+        if(!empty($this->app->config['wordpress'])&&class_exists('\DirectWebWordPress\Bridge')){\DirectWebWordPress\Bridge::siteChanging($this->app,$event,$site,$host);}
     }
     public function pin(array $u,string $site,string $id,bool $pin): void { $this->app->auth->access($u,$site,'manage');$this->release($site,$id);$this->app->db->execute('UPDATE releases SET pinned=? WHERE id=?',[(int)$pin,$id]); }
     public function prune(array $u,string $site): int

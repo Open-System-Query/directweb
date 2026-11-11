@@ -1659,3 +1659,33 @@ msgstr "Управлението на приставки е деактивира
 
 msgid "Preview unavailable."
 msgstr "Прегледът не е наличен."
+
+msgid "Delete website"
+msgstr "Изтриване на уебсайта"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Това изтрива окончателно уебсайта с всички версии и файлове."
+
+msgid "Type the website name to confirm."
+msgstr "Въведете името на уебсайта за потвърждение."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Този уебсайт се показва на вашия WordPress домейн. Първо изберете друг уебсайт в Публикуване."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Могат да се избират само включени уебсайтове с публикувана версия и домейна на този WordPress сайт."
+
+msgid "Not available"
+msgstr "Не е налично"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "Other domain"
+msgstr "Друг домейн"
+
+msgid "No published version"
+msgstr "Няма публикувана версия"
+
+msgid "Website disabled"
+msgstr "Уебсайтът е изключен"

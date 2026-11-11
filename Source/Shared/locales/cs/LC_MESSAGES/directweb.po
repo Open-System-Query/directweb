@@ -1659,3 +1659,33 @@ msgstr "Správa pluginů je ve WordPressu zakázána."
 
 msgid "Preview unavailable."
 msgstr "Náhled není k dispozici."
+
+msgid "Delete website"
+msgstr "Smazat webové stránky"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Tím trvale smažete webové stránky se všemi verzemi a soubory."
+
+msgid "Type the website name to confirm."
+msgstr "Pro potvrzení zadejte název webových stránek."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Tyto webové stránky se zobrazují na vaší doméně WordPress. Nejprve vyberte jiné webové stránky v části Publikování."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Vybrat lze pouze zapnuté webové stránky s publikovanou verzí a doménou tohoto webu WordPress."
+
+msgid "Not available"
+msgstr "Není k dispozici"
+
+msgid "Reason"
+msgstr "Důvod"
+
+msgid "Other domain"
+msgstr "Jiná doména"
+
+msgid "No published version"
+msgstr "Žádná publikovaná verze"
+
+msgid "Website disabled"
+msgstr "Webové stránky vypnuty"

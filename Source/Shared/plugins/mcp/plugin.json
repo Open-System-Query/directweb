@@ -1,7 +1,7 @@
 {
   "id": "mcp",
   "name": "MCP",
-  "version": "1.2",
+  "version": "1.3",
   "type": "plugin",
   "api": 1,
   "lumui": "1.0",
@@ -12,7 +12,7 @@
     "sites.read",
     "sites.write"
   ],
-  "min_core": "1.0",
+  "min_core": "1.1",
   "tables": [
     "oauth_clients",
     "oauth_codes",

@@ -1659,3 +1659,33 @@ msgstr "Η διαχείριση προσθηκών είναι απενεργοπ
 
 msgid "Preview unavailable."
 msgstr "Η προεπισκόπηση δεν είναι διαθέσιμη."
+
+msgid "Delete website"
+msgstr "Διαγραφή δικτυακού τόπου"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Αυτό διαγράφει οριστικά τον δικτυακό τόπο με όλες τις εκδόσεις και τα αρχεία."
+
+msgid "Type the website name to confirm."
+msgstr "Πληκτρολογήστε το όνομα του δικτυακού τόπου για επιβεβαίωση."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Αυτός ο δικτυακός τόπος εμφανίζεται στον τομέα WordPress σας. Επιλέξτε πρώτα άλλον δικτυακό τόπο στη Δημοσίευση."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Μπορούν να επιλεγούν μόνο ενεργοποιημένοι δικτυακοί τόποι με δημοσιευμένη έκδοση και τον τομέα αυτού του ιστότοπου WordPress."
+
+msgid "Not available"
+msgstr "Μη διαθέσιμο"
+
+msgid "Reason"
+msgstr "Αιτία"
+
+msgid "Other domain"
+msgstr "Άλλος τομέας"
+
+msgid "No published version"
+msgstr "Καμία δημοσιευμένη έκδοση"
+
+msgid "Website disabled"
+msgstr "Ο δικτυακός τόπος είναι απενεργοποιημένος"

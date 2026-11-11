@@ -1659,3 +1659,33 @@ msgstr "Viðbótastjórnun er óvirk í WordPress."
 
 msgid "Preview unavailable."
 msgstr "Forskoðun er ekki tiltæk."
+
+msgid "Delete website"
+msgstr "Eyða vef"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Þetta eyðir vefnum varanlega ásamt öllum útgáfum og skrám."
+
+msgid "Type the website name to confirm."
+msgstr "Sláðu inn nafn vefsins til að staðfesta."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Þessi vefur birtist á WordPress-léninu þínu. Veldu fyrst annan vef undir Birting."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Aðeins virkir vefir með birta útgáfu og lén þessa WordPress-vefs koma til greina."
+
+msgid "Not available"
+msgstr "Ekki tiltækt"
+
+msgid "Reason"
+msgstr "Ástæða"
+
+msgid "Other domain"
+msgstr "Annað lén"
+
+msgid "No published version"
+msgstr "Engin birt útgáfa"
+
+msgid "Website disabled"
+msgstr "Vefur óvirkur"

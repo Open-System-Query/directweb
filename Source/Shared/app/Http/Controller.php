@@ -75,6 +75,7 @@ final class Controller
         if(in_array($action,['file.save','file.delete'],true)){$c=$a->sites->begin($u,$s('site'),$s('base')?:null);try{$a->sites->apply($u,$c['change_id'],$action==='file.save'?[$s('path')=>$s('content')]:[],$action==='file.delete'?[$s('path')]:[]);$result=$a->sites->commit($u,$c['change_id'],$s('name'),$s('_request',Files::id()),(bool)$a->sites->get($s('site'))['auto_publish']);}catch(\Throwable $e){$a->sites->abort($u,$c['change_id']);throw $e;}return '/admin/release?id='.$s('site').'&release='.$result['release_id'];}
         if($action==='release.restore'){$a->sites->restore($u,$s('site'),$s('release'),(int)$s('revision'));return '/admin/site?id='.$s('site');}
         if($action==='site.configure'){$a->sites->configure($u,$s('site'),$i,(int)$s('revision'));return '/admin/site?id='.$s('site');}
+        if($action==='site.delete'){$a->sites->delete($u,$s('site'),(int)$s('revision'),$s('confirm'));return '/admin/sites';}
         if($action==='release.pin'){$a->sites->pin($u,$s('site'),$s('release'),!empty($i['pinned']));return '/admin/site?id='.$s('site');}
         if($action==='release.prune'){$a->sites->prune($u,$s('site'));return '/admin/site?id='.$s('site');}
         if($action==='sessions.revoke'){$a->db->execute('DELETE FROM sessions WHERE user_id=? AND id<>?',[$u['id'],hash('sha256',session_id())]);$a->audit($u['id'],'sessions.revoked');return '/admin/account';}

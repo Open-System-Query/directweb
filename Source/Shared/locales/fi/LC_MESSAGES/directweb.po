@@ -1659,3 +1659,33 @@ msgstr "Lisäosien hallinta on poistettu käytöstä WordPressissä."
 
 msgid "Preview unavailable."
 msgstr "Esikatselu ei ole saatavilla."
+
+msgid "Delete website"
+msgstr "Poista sivusto"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Tämä poistaa sivuston pysyvästi kaikkine versioineen ja tiedostoineen."
+
+msgid "Type the website name to confirm."
+msgstr "Vahvista kirjoittamalla sivuston nimi."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Tämä sivusto näkyy WordPress-verkkotunnuksessasi. Valitse ensin toinen sivusto kohdassa Julkaiseminen."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Vain käytössä olevat sivustot, joilla on julkaistu versio ja tämän WordPress-sivuston verkkotunnus, voidaan valita."
+
+msgid "Not available"
+msgstr "Ei saatavilla"
+
+msgid "Reason"
+msgstr "Syy"
+
+msgid "Other domain"
+msgstr "Eri verkkotunnus"
+
+msgid "No published version"
+msgstr "Ei julkaistua versiota"
+
+msgid "Website disabled"
+msgstr "Sivusto poistettu käytöstä"

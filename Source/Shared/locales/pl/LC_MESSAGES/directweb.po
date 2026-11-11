@@ -1659,3 +1659,33 @@ msgstr "Zarządzanie wtyczkami jest wyłączone w WordPressie."
 
 msgid "Preview unavailable."
 msgstr "Podgląd niedostępny."
+
+msgid "Delete website"
+msgstr "Usuń stronę"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Spowoduje to trwałe usunięcie strony wraz ze wszystkimi wersjami i plikami."
+
+msgid "Type the website name to confirm."
+msgstr "Wpisz nazwę strony, aby potwierdzić."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Ta strona jest wyświetlana w Twojej domenie WordPress. Najpierw wybierz inną stronę w sekcji Publikacja."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Można wybrać tylko włączone strony z opublikowaną wersją i domeną tej witryny WordPress."
+
+msgid "Not available"
+msgstr "Niedostępne"
+
+msgid "Reason"
+msgstr "Powód"
+
+msgid "Other domain"
+msgstr "Inna domena"
+
+msgid "No published version"
+msgstr "Brak opublikowanej wersji"
+
+msgid "Website disabled"
+msgstr "Strona wyłączona"

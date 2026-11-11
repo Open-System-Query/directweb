@@ -1659,3 +1659,33 @@ msgstr "La gestion des extensions est désactivée dans WordPress."
 
 msgid "Preview unavailable."
 msgstr "Aperçu indisponible."
+
+msgid "Delete website"
+msgstr "Supprimer le site web"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Cette action supprime définitivement le site web avec toutes ses versions et tous ses fichiers."
+
+msgid "Type the website name to confirm."
+msgstr "Saisissez le nom du site web pour confirmer."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Ce site web est affiché sur votre domaine WordPress. Choisissez d'abord un autre site web sous Publication."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Seuls les sites web activés, avec une version publiée et le domaine de ce site WordPress, peuvent être choisis."
+
+msgid "Not available"
+msgstr "Non disponible"
+
+msgid "Reason"
+msgstr "Raison"
+
+msgid "Other domain"
+msgstr "Autre domaine"
+
+msgid "No published version"
+msgstr "Aucune version publiée"
+
+msgid "Website disabled"
+msgstr "Site web désactivé"

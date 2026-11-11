@@ -1659,3 +1659,33 @@ msgstr "WordPress'te eklenti yönetimi devre dışıdır."
 
 msgid "Preview unavailable."
 msgstr "Önizleme kullanılamıyor."
+
+msgid "Delete website"
+msgstr "Web sitesini sil"
+
+msgid "This permanently deletes the website with all versions and files."
+msgstr "Bu işlem web sitesini tüm sürümleri ve dosyalarıyla birlikte kalıcı olarak siler."
+
+msgid "Type the website name to confirm."
+msgstr "Onaylamak için web sitesinin adını yazın."
+
+msgid "This website is shown on your WordPress domain. Choose another website under Publishing first."
+msgstr "Bu web sitesi WordPress alan adınızda gösteriliyor. Önce Yayınlama altında başka bir web sitesi seçin."
+
+msgid "Only enabled websites with a published version and the domain of this WordPress site can be chosen."
+msgstr "Yalnızca etkin, yayınlanmış bir sürümü olan ve bu WordPress sitesinin alan adını kullanan web siteleri seçilebilir."
+
+msgid "Not available"
+msgstr "Kullanılamıyor"
+
+msgid "Reason"
+msgstr "Neden"
+
+msgid "Other domain"
+msgstr "Başka alan adı"
+
+msgid "No published version"
+msgstr "Yayınlanmış sürüm yok"
+
+msgid "Website disabled"
+msgstr "Web sitesi devre dışı"

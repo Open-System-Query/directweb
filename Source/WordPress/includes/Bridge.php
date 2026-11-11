@@ -96,7 +96,7 @@ final class Bridge
     public static function config(): array
     {
         $url=wp_parse_url(home_url('/'));$storage=self::storage();
-        return ['storage'=>$storage,'plugin_root'=>self::plugins($storage),'admin_host'=>$url['host'].(isset($url['port'])?':'.$url['port']:''),'base_path'=>self::base(),'secure'=>($url['scheme']??'https')==='https','initial_plugins'=>[],'allow_admin_host_site'=>true,'wordpress'=>true,'wordpress_worker'=>wp_doing_cron(),'version'=>'1.0'];
+        return ['storage'=>$storage,'plugin_root'=>self::plugins($storage),'admin_host'=>$url['host'].(isset($url['port'])?':'.$url['port']:''),'base_path'=>self::base(),'secure'=>($url['scheme']??'https')==='https','initial_plugins'=>[],'allow_admin_host_site'=>true,'wordpress'=>true,'wordpress_worker'=>wp_doing_cron(),'version'=>'1.1'];
     }
     public static function app(): App
     {
@@ -178,6 +178,29 @@ final class Bridge
         update_option('directweb_public_site',$id,false);$a->audit($u['id'],'wordpress.website.selected',$id);
         self::clearCache();
     }
+    public static function siteChanging(App $a,string $event,array $site,?string $host): void
+    {
+        if((string)get_option('directweb_public_site','')!==$site['id']){return;}
+        if($event==='delete'||$host!==$a->config['admin_host']){throw new Problem('This website is shown on your WordPress domain. Choose another website under Publishing first.',409);}
+    }
+    public static function candidates(App $a,array $u): array
+    {
+        $out=['available'=>[],'unavailable'=>[]];
+        foreach($a->sites->list($u) as $s){
+            $reason=$s['host']!==$a->config['admin_host']?'Other domain':(!$s['active_release']?'No published version':(!$s['enabled']?'Website disabled':''));
+            if($reason===''){$out['available'][]=$s;}else{$out['unavailable'][]=$s+['reason'=>$reason];}
+        }
+        return $out;
+    }
+    public static function homepage(App $a,array $u): array
+    {
+        $current=(string)get_option('directweb_public_site','');$c=self::candidates($a,$u);$map=fn(array $s)=>['site_id'=>$s['id'],'name'=>$s['name'],'host'=>$s['host']]+(isset($s['reason'])?['reason'=>$s['reason']]:[]);
+        return ['domain'=>$a->config['admin_host'],'site_id'=>$current!==''?$current:null,'shows'=>$current!==''?'directweb':'wordpress','available'=>array_map($map,$c['available']),'unavailable'=>array_map($map,$c['unavailable'])];
+    }
+    public static function currentSite(): string
+    {
+        return (string)get_option('directweb_public_site','');
+    }
     public static function clearCache(): void
     {
         wp_cache_flush();
@@ -222,7 +245,11 @@ final class Bridge
             if(!defined('DONOTCACHEDB')){define('DONOTCACHEDB',true);}
             nocache_headers();
             $a=self::app();
-            if(strtolower($_SERVER['HTTP_HOST']??'')!==strtolower($a->config['admin_host'])){self::response(404,'Page not found.');}
+            $requestHost=strtolower($_SERVER['HTTP_HOST']??'');$adminHost=strtolower($a->config['admin_host']);
+            if($requestHost!==$adminHost){
+                if(($requestHost==='www.'.$adminHost||'www.'.$requestHost===$adminHost)&&in_array($_SERVER['REQUEST_METHOD']??'GET',['GET','HEAD'],true)){wp_redirect(($a->config['secure']?'https':'http').'://'.$a->config['admin_host'].($_SERVER['REQUEST_URI']??'/'),301);exit;}
+                self::response(404,'Page not found.');
+            }
             if(isset($discovery[$path])){$_SERVER['REQUEST_URI']=$discovery[$path];$path=$discovery[$path];}
             if($internal){
                 $relative=substr($path,strlen($base));
@@ -277,9 +304,11 @@ final class Bridge
             return $p->build();
         }
         if($route==='wordpress/publish'){
-            $p=new Surface($a,'Change website','wordpress.publish',$u);$options=[['value'=>'','label'=>'WordPress','literal'=>true]];
-            foreach($a->sites->list($u) as $s){if($s['active_release']&&$s['host']===$a->config['admin_host']){$options[]=['value'=>$s['id'],'label'=>$s['name'],'literal'=>true];}}
-            $p->section('Website',[$p->form('wordpress.publish','',['site'=>['label'=>'Website','kind'=>'choice','value'=>(string)get_option('directweb_public_site',''),'options'=>$options]],[],'Apply',true)]);return $p->build();
+            $p=new Surface($a,'Change website','wordpress.publish',$u);$options=[['value'=>'','label'=>'WordPress','literal'=>true]];$c=self::candidates($a,$u);
+            foreach($c['available'] as $s){$options[]=['value'=>$s['id'],'label'=>$s['name'],'literal'=>true];}
+            $p->section('Website',[$p->text('Only enabled websites with a published version and the domain of this WordPress site can be chosen.'),$p->text($a->config['admin_host'],false),$p->form('wordpress.publish','',['site'=>['label'=>'Website','kind'=>'choice','value'=>(string)get_option('directweb_public_site',''),'options'=>$options]],[],'Apply',true)]);
+            if($c['unavailable']){$rows=[];foreach($c['unavailable'] as $s){$rows[]=['name'=>['label'=>$s['name'],'literal'=>true,'href'=>'/admin/site?id='.$s['id']],'host'=>$s['host'],'reason'=>$s['reason']];}$p->section('Not available',[$p->table('Not available',['name'=>'Website','host'=>'Domain','reason'=>'Reason'],$rows)]);}
+            return $p->build();
         }
         if($route==='wordpress/import'){
             $p=new Surface($a,'Import','wordpress.import',$u);
