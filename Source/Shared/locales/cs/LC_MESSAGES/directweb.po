@@ -1689,3 +1689,33 @@ msgstr "Žádná publikovaná verze"
 
 msgid "Website disabled"
 msgstr "Webové stránky vypnuty"
+
+msgid "Invalid website type."
+msgstr "Neplatný typ webových stránek."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb nemůže aktualizovat %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Zveřejněná verze obsahuje soubory, které statické webové stránky nemohou poskytovat: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Serverové aplikace vyžadují edici DirectWeb pro webový server."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Serverové aplikace vyžadují DirectWeb nainstalovaný v podsložce, například /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Náhledy nejsou pro serverové aplikace k dispozici."
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Static website"
+msgstr "Statické webové stránky"
+
+msgid "Server application"
+msgstr "Serverová aplikace"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Webový server tyto webové stránky spouští přímo. Soubory, které aplikace vytvoří sama, například config.local.php, zůstanou zachovány při každé nové verzi."

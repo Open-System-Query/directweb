@@ -1689,3 +1689,33 @@ msgstr "Nincs közzétett verzió"
 
 msgid "Website disabled"
 msgstr "Webhely letiltva"
+
+msgid "Invalid website type."
+msgstr "Érvénytelen webhelytípus."
+
+msgid "DirectWeb cannot update %s."
+msgstr "A DirectWeb nem tudja frissíteni ezt: %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Az élő verzió olyan fájlokat tartalmaz, amelyeket egy statikus webhely nem tud kiszolgálni: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "A szerveralkalmazásokhoz a DirectWeb webkiszolgáló-kiadása szükséges."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "A szerveralkalmazásokhoz a DirectWebet almappába kell telepíteni, például /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Szerveralkalmazásokhoz nem érhető el előnézet."
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "Static website"
+msgstr "Statikus webhely"
+
+msgid "Server application"
+msgstr "Szerveralkalmazás"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "A webkiszolgáló közvetlenül futtatja ezt a webhelyet. Az alkalmazás által létrehozott fájlok, például a config.local.php, minden új verziónál megmaradnak."

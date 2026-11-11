@@ -153,3 +153,111 @@ msgstr "Текущият токен ще спре да работи. След т
 
 msgid "Connection URL"
 msgstr "URL адрес за връзка"
+
+msgid "Duration"
+msgstr "Продължителност"
+
+msgid "1 hour"
+msgstr "1 час"
+
+msgid "1 day"
+msgstr "1 ден"
+
+msgid "7 days"
+msgstr "7 дни"
+
+msgid "30 days"
+msgstr "30 дни"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Одобрявай промените с приложението за удостоверяване"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Промените изискват одобрение с приложението за удостоверяване."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "След въвеждане на код промените са разрешени за 1 час."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Първо настройте приложението за удостоверяване в Акаунт."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "За да изисквате одобрение за промени, настройте приложението за удостоверяване в Акаунт."
+
+msgid "A new duration starts now."
+msgstr "Новата продължителност започва сега."
+
+msgid "All websites"
+msgstr "Всички уебсайтове"
+
+msgid "Also websites added later"
+msgstr "Също уебсайтове, добавени по-късно"
+
+msgid "Read"
+msgstr "Четене"
+
+msgid "Write"
+msgstr "Запис"
+
+msgid "Execute"
+msgstr "Изпълнение"
+
+msgid "Rights"
+msgstr "Права"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Запис: създаване, изтриване и настройка на уебсайтове. Изпълнение: обновяване на DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Запис: създаване, изтриване и настройка на уебсайтове."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Четене: преглед на файлове и версии. Запис: промяна и публикуване. Изпълнение: публикуване на код, който работи на сървъра, само за сървърни приложения."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Изпълнението и правата за DirectWeb винаги изискват одобрение с приложението за удостоверяване."
+
+msgid "Choose at least one right."
+msgstr "Изберете поне едно право."
+
+msgid "Unlimited"
+msgstr "Неограничено"
+
+msgid "Approval"
+msgstr "Одобрение"
+
+msgid "Not required"
+msgstr "Не се изисква"
+
+msgid "Every 15 minutes"
+msgstr "На всеки 15 минути"
+
+msgid "Every hour"
+msgstr "На всеки час"
+
+msgid "Every 8 hours"
+msgstr "На всеки 8 часа"
+
+msgid "Every day"
+msgstr "Всеки ден"
+
+msgid "Bind approval to the IP address"
+msgstr "Обвържи одобрението с IP адреса"
+
+msgid "IP address"
+msgstr "IP адрес"
+
+msgid "Messages"
+msgstr "Съобщения"
+
+msgid "Approve"
+msgstr "Одобри"
+
+msgid "Deny"
+msgstr "Откажи"
+
+msgid "No open requests."
+msgstr "Няма отворени заявки."
+
+msgid "Request missing."
+msgstr "Заявката не е намерена."

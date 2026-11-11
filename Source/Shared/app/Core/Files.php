@@ -4,11 +4,12 @@ namespace DirectWeb\Core;
 final class Files
 {
     public static function id(): string { return bin2hex(random_bytes(16)); }
-    public static function path(string $path): string
+    public const SERVER_FILES = ['.htaccess', '.user.ini', '.well-known'];
+    public static function path(string $path, bool $serverFiles = false): string
     {
         if ($path === '' || strlen($path) > 512 || preg_match('~[\\\\:\x00-\x1f\x7f<>"|?*]~', $path) || str_starts_with($path, '/')) { throw new Problem('Invalid path.'); }
         foreach (explode('/', $path) as $part) {
-            if ($part === '' || $part === '.' || $part === '..' || str_starts_with($part, '.') || rtrim($part, '. ') !== $part || preg_match('/^(CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])(?:\.|$)/i', $part)) { throw new Problem('Invalid path.'); }
+            if ($part === '' || $part === '.' || $part === '..' || (str_starts_with($part, '.') && !($serverFiles && in_array(strtolower($part), self::SERVER_FILES, true))) || rtrim($part, '. ') !== $part || preg_match('/^(CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])(?:\.|$)/i', $part)) { throw new Problem('Invalid path.'); }
         }
         return $path;
     }

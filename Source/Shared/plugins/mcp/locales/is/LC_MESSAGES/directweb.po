@@ -153,3 +153,111 @@ msgstr "Núverandi tákn hættir að virka. Uppfærðu tenginguna á eftir."
 
 msgid "Connection URL"
 msgstr "Tengingarslóð"
+
+msgid "Duration"
+msgstr "Tímalengd"
+
+msgid "1 hour"
+msgstr "1 klukkustund"
+
+msgid "1 day"
+msgstr "1 dagur"
+
+msgid "7 days"
+msgstr "7 dagar"
+
+msgid "30 days"
+msgstr "30 dagar"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Samþykkja breytingar með auðkenningarforritinu"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Breytingar krefjast samþykkis með auðkenningarforritinu."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Eftir að kóði er sleginn inn eru breytingar leyfðar í 1 klukkustund."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Settu fyrst upp auðkenningarforritið undir Aðgangur."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Settu upp auðkenningarforritið undir Aðgangur til að krefjast samþykkis fyrir breytingar."
+
+msgid "A new duration starts now."
+msgstr "Nýja tímalengdin hefst núna."
+
+msgid "All websites"
+msgstr "Allir vefir"
+
+msgid "Also websites added later"
+msgstr "Líka vefir sem bætast við síðar"
+
+msgid "Read"
+msgstr "Lesa"
+
+msgid "Write"
+msgstr "Skrifa"
+
+msgid "Execute"
+msgstr "Keyra"
+
+msgid "Rights"
+msgstr "Réttindi"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Skrifa: búa til, eyða og stilla vefi. Keyra: uppfæra DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Skrifa: búa til, eyða og stilla vefi."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Lesa: skoða skrár og útgáfur. Skrifa: breyta og birta. Keyra: birta kóða sem keyrir á netþjóninum, aðeins fyrir netþjónsforrit."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Keyrsla og DirectWeb-réttindi krefjast alltaf samþykkis með auðkenningarforritinu."
+
+msgid "Choose at least one right."
+msgstr "Veldu að minnsta kosti ein réttindi."
+
+msgid "Unlimited"
+msgstr "Ótakmarkað"
+
+msgid "Approval"
+msgstr "Samþykki"
+
+msgid "Not required"
+msgstr "Ekki krafist"
+
+msgid "Every 15 minutes"
+msgstr "Á 15 mínútna fresti"
+
+msgid "Every hour"
+msgstr "Á klukkustundar fresti"
+
+msgid "Every 8 hours"
+msgstr "Á 8 klukkustunda fresti"
+
+msgid "Every day"
+msgstr "Daglega"
+
+msgid "Bind approval to the IP address"
+msgstr "Binda samþykki við IP-tölu"
+
+msgid "IP address"
+msgstr "IP-tala"
+
+msgid "Messages"
+msgstr "Skilaboð"
+
+msgid "Approve"
+msgstr "Samþykkja"
+
+msgid "Deny"
+msgstr "Hafna"
+
+msgid "No open requests."
+msgstr "Engar opnar beiðnir."
+
+msgid "Request missing."
+msgstr "Beiðni fannst ekki."

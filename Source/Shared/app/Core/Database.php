@@ -12,6 +12,8 @@ final class Database
     }
     public function migrate(string $root): void
     {
+        if(!in_array('runtime',array_column($this->all('PRAGMA table_info(sites)'),'name'),true)){$this->pdo->exec("ALTER TABLE sites ADD COLUMN runtime TEXT NOT NULL DEFAULT 'static'");}
+        if($this->one("SELECT id FROM sites WHERE runtime='php' LIMIT 1")){$this->pdo->exec("UPDATE sites SET runtime='server' WHERE runtime='php'");}
         if(!in_array('published',array_column($this->all('PRAGMA table_info(releases)'),'name'),true)){
             $this->transaction(function(){
                 if(in_array('published',array_column($this->all('PRAGMA table_info(releases)'),'name'),true)){return;}

@@ -9,3 +9,4 @@
 @media(max-width:480px){.directory .panel-body{grid-template-columns:1fr}.topbar{gap:12px;flex-wrap:wrap}.account-bar{margin-left:auto}.directory .nav-link{font-size:13px;min-height:34px}}
 
 .secret-label{font-size:12px;font-weight:600;color:#38424e}.secret-value{display:block;min-height:36px;padding:7px 9px;border:1px solid #bcc6d2;border-radius:4px;background:var(--field);color:var(--text);overflow-wrap:anywhere;white-space:pre-wrap;user-select:all}.secret-field .dialog-actions{justify-content:flex-start;margin-top:4px}
+.permission-grid td{text-align:center;vertical-align:middle}.permission-grid thead th{text-align:center}.permission-grid th[scope=row]{text-align:left;font-weight:600}.permission-grid th[scope=row] small{display:block;font-weight:400;color:var(--muted);margin-top:2px}.permission-grid input[type=checkbox]{width:18px;height:18px;margin:0}

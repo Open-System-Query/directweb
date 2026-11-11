@@ -1689,3 +1689,33 @@ msgstr "Няма публикувана версия"
 
 msgid "Website disabled"
 msgstr "Уебсайтът е изключен"
+
+msgid "Invalid website type."
+msgstr "Невалиден тип уебсайт."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb не може да обнови %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Публикуваната версия съдържа файлове, които статичен уебсайт не може да обслужва: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Сървърните приложения изискват уебсървър изданието на DirectWeb."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Сървърните приложения изискват DirectWeb да е инсталиран в подпапка, например /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Прегледите не са налични за сървърни приложения."
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Static website"
+msgstr "Статичен уебсайт"
+
+msgid "Server application"
+msgstr "Сървърно приложение"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Уебсървърът изпълнява този уебсайт директно. Файловете, които приложението създава само, като config.local.php, се запазват при всяка нова версия."

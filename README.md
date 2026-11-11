@@ -39,6 +39,8 @@ Packages are created in `Build/Packages`.
 - **Webserver:** extract `directweb-webserver.zip` into a domain root or subfolder, including `.htaccess`. Open its URL to complete setup.
 - **WordPress:** upload `directweb-wordpress.zip` through **Plugins → Add New**, activate it and open **DirectWeb**.
 
+For the strongest separation, run the panel on its own subdomain, such as `admin.example.com`, so no website shares a browser origin with it.
+
 Requires PHP 8.1+, PDO SQLite, SQLite3, ZIP, Sodium, Mbstring, OpenSSL, Fileinfo and Argon2id. The webserver edition uses HTTPS and Apache rewrite rules; scheduled jobs require a hosting cron task. WordPress uses its own cron.
 
 Upload static websites as ZIP files containing `index.html` or `index.htm`. Additional services can be enabled under **Plugins**.

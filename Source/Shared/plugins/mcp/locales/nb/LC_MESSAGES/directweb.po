@@ -153,3 +153,111 @@ msgstr "Det nåværende tokenet slutter å virke. Oppdater deretter tilkoblingen
 
 msgid "Connection URL"
 msgstr "Tilkoblingsadresse"
+
+msgid "Duration"
+msgstr "Varighet"
+
+msgid "1 hour"
+msgstr "1 time"
+
+msgid "1 day"
+msgstr "1 dag"
+
+msgid "7 days"
+msgstr "7 dager"
+
+msgid "30 days"
+msgstr "30 dager"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Godkjenn endringer med autentiseringsappen"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Endringer krever godkjenning med autentiseringsappen."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Etter at en kode er skrevet inn, er endringer tillatt i 1 time."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Konfigurer først autentiseringsappen under Konto."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Konfigurer autentiseringsappen under Konto for å kreve godkjenning av endringer."
+
+msgid "A new duration starts now."
+msgstr "Den nye varigheten starter nå."
+
+msgid "All websites"
+msgstr "Alle nettsteder"
+
+msgid "Also websites added later"
+msgstr "Også nettsteder som legges til senere"
+
+msgid "Read"
+msgstr "Lese"
+
+msgid "Write"
+msgstr "Skrive"
+
+msgid "Execute"
+msgstr "Kjøre"
+
+msgid "Rights"
+msgstr "Rettigheter"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Skrive: opprette, slette og konfigurere nettsteder. Kjøre: oppdatere DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Skrive: opprette, slette og konfigurere nettsteder."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Lese: se filer og versjoner. Skrive: endre og publisere. Kjøre: publisere kode som kjører på serveren, bare for serverapplikasjoner."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Kjøre og DirectWeb-rettigheter krever alltid godkjenning med autentiseringsappen."
+
+msgid "Choose at least one right."
+msgstr "Velg minst én rettighet."
+
+msgid "Unlimited"
+msgstr "Ubegrenset"
+
+msgid "Approval"
+msgstr "Godkjenning"
+
+msgid "Not required"
+msgstr "Ikke påkrevd"
+
+msgid "Every 15 minutes"
+msgstr "Hvert 15. minutt"
+
+msgid "Every hour"
+msgstr "Hver time"
+
+msgid "Every 8 hours"
+msgstr "Hver 8. time"
+
+msgid "Every day"
+msgstr "Hver dag"
+
+msgid "Bind approval to the IP address"
+msgstr "Knytt godkjenning til IP-adressen"
+
+msgid "IP address"
+msgstr "IP-adresse"
+
+msgid "Messages"
+msgstr "Meldinger"
+
+msgid "Approve"
+msgstr "Godkjenn"
+
+msgid "Deny"
+msgstr "Avvis"
+
+msgid "No open requests."
+msgstr "Ingen åpne forespørsler."
+
+msgid "Request missing."
+msgstr "Fant ikke forespørselen."

@@ -21,6 +21,23 @@ class Renderer implements \Lumui\Contracts\SurfaceRenderer
         return $icons[$name];
     }
     protected function assetBase(): string {return '/assets';}
+    private function formItems(array $items): string
+    {
+        $h='';$grid=[];
+        $flush=function()use(&$grid,&$h):void{
+            if(!$grid){return;}$rows=[];$cols=[];$cells=[];
+            foreach($grid as $item){$g=$item['metadata']['grid'];$rows[$g['row']]??=[$g['row_label'],$g['row_detail']??''];$cols[$g['column']]??=$g['column_label'];$cells[$g['row']][$g['column']]=$item;}
+            $h.='<div class="table-scroll"><table class="permission-grid"><thead><tr><td></td>';foreach($cols as $label){$h.='<th scope="col">'.$this->e($label).'</th>';}$h.='</tr></thead><tbody>';
+            foreach($rows as $row=>[$label,$detail]){
+                $h.='<tr><th scope="row">'.$this->e($label).($detail!==''?'<small>'.$this->e($detail).'</small>':'').'</th>';
+                foreach(array_keys($cols) as $col){$item=$cells[$row][$col]??null;if(!$item){$h.='<td aria-hidden="true">–</td>';continue;}$meta=$item['metadata'];$h.='<td><input type="checkbox" id="'.$this->e($item['id']).'" name="'.$this->e($meta['name']??$item['id']).'" value="1" aria-label="'.$this->e($item['label']??'').'"'.(!empty($item['value'])?' checked':'').'></td>';}
+                $h.='</tr>';
+            }
+            $h.='</tbody></table></div>';$grid=[];
+        };
+        foreach($items as $item){if(($item['kind']??'')==='checkBox'&&isset($item['metadata']['grid'])){$grid[]=$item;continue;}$flush();$h.=$this->node($item);}
+        $flush();return $h;
+    }
     public function render(array $surface): string
     {
         $this->surface=$surface;$content='';$utility='';$notices='';
@@ -56,7 +73,7 @@ class Renderer implements \Lumui\Contracts\SurfaceRenderer
         if($kind==='form'){
             $aid=$n['submit_action'];$action=$this->surface['actions'][$aid]['callback'];$compact=!array_filter($n['items'],fn($item)=>in_array($item['kind'],['textField','passwordField','numberField','choice','textArea','filePicker','checkBox'],true));$h='<form class="admin-form'.($compact?' compact-form':'').'" method="post" action="'.$this->url('/admin/actions').'" enctype="multipart/form-data"'.(!empty($meta['danger'])?' data-confirm="true"':'').(!empty($meta['download'])?' data-download="true"':'').(isset($meta['upload'])?' data-upload="'.$this->e(json_encode($this->app->publicDocument($meta['upload']))).'"':'').'>';
             foreach(['_action'=>$action,'_csrf'=>$_SESSION['csrf']??'','_return'=>$meta['return']??'/admin','_request'=>bin2hex(random_bytes(16))]+($meta['context']??[]) as $key=>$value){$h.='<input type="hidden" name="'.$this->e($key).'" value="'.$this->e($value).'">';}
-            if($label!==''){$h.='<h3>'.$label.'</h3>';}$h.=implode('',array_map(fn($v)=>$this->node($v),$n['items']));if(isset($meta['upload'])){$h.='<div class="upload-feedback" role="status" aria-live="polite" hidden></div><div class="upload-progress" hidden><progress max="100" value="0" aria-label="'.$this->t('Upload progress').'"></progress><span class="upload-percent">0%</span><button type="button" data-upload-cancel>'.$this->t('Cancel').'</button></div><span hidden data-upload-text="'.$this->e(json_encode(array_map(fn($text)=>$this->app->translator->get($text),['Uploading','Finishing','Upload failed.','Upload cancelled.','File limit exceeded.','Transfer limit exceeded.','Storage limit reached.','Remove']))).'"></span>';}return $h.'</form>';
+            if($label!==''){$h.='<h3>'.$label.'</h3>';}$h.=$this->formItems($n['items']);if(isset($meta['upload'])){$h.='<div class="upload-feedback" role="status" aria-live="polite" hidden></div><div class="upload-progress" hidden><progress max="100" value="0" aria-label="'.$this->t('Upload progress').'"></progress><span class="upload-percent">0%</span><button type="button" data-upload-cancel>'.$this->t('Cancel').'</button></div><span hidden data-upload-text="'.$this->e(json_encode(array_map(fn($text)=>$this->app->translator->get($text),['Uploading','Finishing','Upload failed.','Upload cancelled.','File limit exceeded.','Transfer limit exceeded.','Storage limit reached.','Remove']))).'"></span>';}return $h.'</form>';
         }
         if($kind==='button'){return '<button type="submit"'.(($n['confirmation']??'')==='dangerous'?' class="danger"':'').(($n['enabled']??true)?'':' disabled').'>'.$label.'</button>';}
         if($kind==='table'){

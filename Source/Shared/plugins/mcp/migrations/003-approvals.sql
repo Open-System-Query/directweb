@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS mcp_approvals(token_id TEXT PRIMARY KEY,approved_until INTEGER NOT NULL DEFAULT 0);

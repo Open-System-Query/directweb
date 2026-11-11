@@ -27,7 +27,7 @@ final class Surface
     public function form(string $action,string $label,array $fields=[],array $context=[],string $button='Save',bool $danger=false): array
     {
         $aid=$action.'.'.(++$this->sequence);$items=[];$properties=[];$required=[];
-        foreach($fields as $name=>$field){$kind=$field['kind']??'textField';$props=['label'=>$field['label']??$name,'action'=>$aid,'metadata'=>['name'=>$name,'literal'=>!empty($field['literal']),'literal_options'=>!empty($field['literal_options'])]];
+        foreach($fields as $name=>$field){$kind=$field['kind']??'textField';$props=['label'=>$field['label']??$name,'action'=>$aid,'metadata'=>['name'=>$name,'literal'=>!empty($field['literal']),'literal_options'=>!empty($field['literal_options'])]+(isset($field['grid'])?['grid'=>$field['grid']]:[])];
             if($kind==='passwordField'){$props['value_present']=false;$props['autocomplete']=$field['autocomplete']??'new-password';}
             elseif($kind==='filePicker'){$props['selection_mode']=($field['multiple']??false)?'multiple':'single';if(isset($field['accept'])){$props['accept']=$field['accept'];}}
             else{$props['value']=$field['value']??($kind==='checkBox'?false:'');}

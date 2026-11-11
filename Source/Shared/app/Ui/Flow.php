@@ -21,9 +21,10 @@ final class Flow
             $p->id.='.'.substr(hash('sha256',$selected),0,12);
             return [$p->node('section',['label'=>'','items'=>[$p->link('Back',$parent,'arrow-rotate-left')],'metadata'=>['directory'=>true]]),$region];
         }
+        $counts=[];foreach($forms as [$ri]){$counts[$ri]=($counts[$ri]??0)+1;}
         foreach($forms as $key=>[$ri,$ii,$form]){
             $button=end($form['items']);$label=trim($form['label']??'')?:($regions[$ri]['label']??$button['label']);
-            if(count(array_filter($regions[$ri]['items'],fn($n)=>$n['kind']==='form'))>1){$label=$button['label']??$label;}
+            if($counts[$ri]>1){$label=$button['label']??$label;}
             $href=$parent.(str_contains($parent,'?')?'&':'?').'view='.rawurlencode($key);
             $regions[$ri]['items'][$ii]=$p->link($label,$href,$regions[$ri]['metadata']['icon']??'arrow-right-from-bracket');
             $regions[$ri]['metadata']['directory']=true;

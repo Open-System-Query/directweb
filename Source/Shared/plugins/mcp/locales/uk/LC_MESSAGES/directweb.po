@@ -153,3 +153,111 @@ msgstr "Поточний токен перестане працювати. Пі�
 
 msgid "Connection URL"
 msgstr "URL-адреса підключення"
+
+msgid "Duration"
+msgstr "Тривалість"
+
+msgid "1 hour"
+msgstr "1 година"
+
+msgid "1 day"
+msgstr "1 день"
+
+msgid "7 days"
+msgstr "7 днів"
+
+msgid "30 days"
+msgstr "30 днів"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Схвалювати зміни в застосунку автентифікації"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Зміни потребують схвалення в застосунку автентифікації."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Після введення коду зміни дозволено протягом 1 години."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Спочатку налаштуйте застосунок автентифікації в розділі Обліковий запис."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Щоб вимагати схвалення змін, налаштуйте застосунок автентифікації в розділі Обліковий запис."
+
+msgid "A new duration starts now."
+msgstr "Нова тривалість починається зараз."
+
+msgid "All websites"
+msgstr "Усі веб-сайти"
+
+msgid "Also websites added later"
+msgstr "Також веб-сайти, додані пізніше"
+
+msgid "Read"
+msgstr "Читання"
+
+msgid "Write"
+msgstr "Запис"
+
+msgid "Execute"
+msgstr "Виконання"
+
+msgid "Rights"
+msgstr "Права"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Запис: створення, видалення та налаштування веб-сайтів. Виконання: оновлення DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Запис: створення, видалення та налаштування веб-сайтів."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Читання: перегляд файлів і версій. Запис: зміна та публікація. Виконання: публікація коду, що працює на сервері, лише для серверних застосунків."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Виконання та права DirectWeb завжди потребують схвалення в застосунку автентифікації."
+
+msgid "Choose at least one right."
+msgstr "Виберіть принаймні одне право."
+
+msgid "Unlimited"
+msgstr "Без обмежень"
+
+msgid "Approval"
+msgstr "Схвалення"
+
+msgid "Not required"
+msgstr "Не потрібно"
+
+msgid "Every 15 minutes"
+msgstr "Кожні 15 хвилин"
+
+msgid "Every hour"
+msgstr "Щогодини"
+
+msgid "Every 8 hours"
+msgstr "Кожні 8 годин"
+
+msgid "Every day"
+msgstr "Щодня"
+
+msgid "Bind approval to the IP address"
+msgstr "Прив'язати схвалення до IP-адреси"
+
+msgid "IP address"
+msgstr "IP-адреса"
+
+msgid "Messages"
+msgstr "Повідомлення"
+
+msgid "Approve"
+msgstr "Схвалити"
+
+msgid "Deny"
+msgstr "Відхилити"
+
+msgid "No open requests."
+msgstr "Немає відкритих запитів."
+
+msgid "Request missing."
+msgstr "Запит не знайдено."

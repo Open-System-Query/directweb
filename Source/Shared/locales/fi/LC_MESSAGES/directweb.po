@@ -1689,3 +1689,33 @@ msgstr "Ei julkaistua versiota"
 
 msgid "Website disabled"
 msgstr "Sivusto poistettu käytöstä"
+
+msgid "Invalid website type."
+msgstr "Virheellinen sivustotyyppi."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb ei voi päivittää tiedostoa %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Julkaistussa versiossa on tiedostoja, joita staattinen sivusto ei voi tarjota: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Palvelinsovellukset vaativat DirectWebin verkkopalvelinversion."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Palvelinsovellukset vaativat, että DirectWeb on asennettu alikansioon, esimerkiksi /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Esikatselut eivät ole käytettävissä palvelinsovelluksille."
+
+msgid "Type"
+msgstr "Tyyppi"
+
+msgid "Static website"
+msgstr "Staattinen sivusto"
+
+msgid "Server application"
+msgstr "Palvelinsovellus"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Verkkopalvelin suorittaa tämän sivuston suoraan. Sovelluksen itse luomat tiedostot, kuten config.local.php, säilyvät jokaisessa uudessa versiossa."

@@ -153,3 +153,111 @@ msgstr "Tokenul curent nu va mai funcționa. Actualizează apoi conectorul."
 
 msgid "Connection URL"
 msgstr "Adresa URL de conectare"
+
+msgid "Duration"
+msgstr "Durată"
+
+msgid "1 hour"
+msgstr "1 oră"
+
+msgid "1 day"
+msgstr "1 zi"
+
+msgid "7 days"
+msgstr "7 zile"
+
+msgid "30 days"
+msgstr "30 de zile"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Aprobă modificările cu aplicația de autentificare"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Modificările necesită aprobare cu aplicația de autentificare."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "După introducerea unui cod, modificările sunt permise timp de 1 oră."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Configurează mai întâi aplicația de autentificare la Cont."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Pentru a solicita aprobarea modificărilor, configurează aplicația de autentificare la Cont."
+
+msgid "A new duration starts now."
+msgstr "Noua durată începe acum."
+
+msgid "All websites"
+msgstr "Toate site-urile web"
+
+msgid "Also websites added later"
+msgstr "Și site-urile web adăugate ulterior"
+
+msgid "Read"
+msgstr "Citire"
+
+msgid "Write"
+msgstr "Scriere"
+
+msgid "Execute"
+msgstr "Executare"
+
+msgid "Rights"
+msgstr "Drepturi"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Scriere: creare, ștergere și configurare de site-uri web. Executare: actualizare DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Scriere: creare, ștergere și configurare de site-uri web."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Citire: vizualizare fișiere și versiuni. Scriere: modificare și publicare. Executare: publicare de cod care rulează pe server, doar pentru aplicațiile de server."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Executarea și drepturile DirectWeb necesită întotdeauna aprobare cu aplicația de autentificare."
+
+msgid "Choose at least one right."
+msgstr "Alege cel puțin un drept."
+
+msgid "Unlimited"
+msgstr "Nelimitată"
+
+msgid "Approval"
+msgstr "Aprobare"
+
+msgid "Not required"
+msgstr "Nu este necesară"
+
+msgid "Every 15 minutes"
+msgstr "La fiecare 15 minute"
+
+msgid "Every hour"
+msgstr "La fiecare oră"
+
+msgid "Every 8 hours"
+msgstr "La fiecare 8 ore"
+
+msgid "Every day"
+msgstr "Zilnic"
+
+msgid "Bind approval to the IP address"
+msgstr "Leagă aprobarea de adresa IP"
+
+msgid "IP address"
+msgstr "Adresă IP"
+
+msgid "Messages"
+msgstr "Mesaje"
+
+msgid "Approve"
+msgstr "Aprobă"
+
+msgid "Deny"
+msgstr "Respinge"
+
+msgid "No open requests."
+msgstr "Nu există cereri deschise."
+
+msgid "Request missing."
+msgstr "Cererea nu a fost găsită."

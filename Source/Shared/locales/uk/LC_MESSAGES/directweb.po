@@ -1689,3 +1689,33 @@ msgstr "Немає опублікованої версії"
 
 msgid "Website disabled"
 msgstr "Веб-сайт вимкнено"
+
+msgid "Invalid website type."
+msgstr "Недійсний тип веб-сайту."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb не може оновити %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Опублікована версія містить файли, які статичний веб-сайт не може віддавати: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Серверним застосункам потрібна версія DirectWeb для веб-сервера."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Серверним застосункам потрібно, щоб DirectWeb був установлений у підпапці, наприклад /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Попередній перегляд недоступний для серверних застосунків."
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Static website"
+msgstr "Статичний веб-сайт"
+
+msgid "Server application"
+msgstr "Серверний застосунок"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Веб-сервер запускає цей веб-сайт безпосередньо. Файли, які застосунок створює сам, як-от config.local.php, зберігаються в кожній новій версії."

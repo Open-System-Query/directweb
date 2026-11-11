@@ -1689,3 +1689,33 @@ msgstr "Ingen publicerad version"
 
 msgid "Website disabled"
 msgstr "Webbplats inaktiverad"
+
+msgid "Invalid website type."
+msgstr "Ogiltig webbplatstyp."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb kan inte uppdatera %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Den publicerade versionen innehåller filer som en statisk webbplats inte kan leverera: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Serverapplikationer kräver webbserverversionen av DirectWeb."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Serverapplikationer kräver att DirectWeb är installerat i en undermapp, till exempel /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Förhandsvisningar är inte tillgängliga för serverapplikationer."
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Static website"
+msgstr "Statisk webbplats"
+
+msgid "Server application"
+msgstr "Serverapplikation"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Webbservern kör den här webbplatsen direkt. Filer som applikationen själv skapar, till exempel config.local.php, behålls vid varje ny version."

@@ -153,3 +153,111 @@ msgstr "O token atual deixará de funcionar. Atualize depois o conector."
 
 msgid "Connection URL"
 msgstr "URL de ligação"
+
+msgid "Duration"
+msgstr "Duração"
+
+msgid "1 hour"
+msgstr "1 hora"
+
+msgid "1 day"
+msgstr "1 dia"
+
+msgid "7 days"
+msgstr "7 dias"
+
+msgid "30 days"
+msgstr "30 dias"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Aprovar alterações com a aplicação de autenticação"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "As alterações requerem aprovação com a aplicação de autenticação."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Depois de introduzir um código, as alterações são permitidas durante 1 hora."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Configure primeiro a aplicação de autenticação em Conta."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Para exigir aprovação das alterações, configure a aplicação de autenticação em Conta."
+
+msgid "A new duration starts now."
+msgstr "A nova duração começa agora."
+
+msgid "All websites"
+msgstr "Todos os sites"
+
+msgid "Also websites added later"
+msgstr "Também sites adicionados mais tarde"
+
+msgid "Read"
+msgstr "Ler"
+
+msgid "Write"
+msgstr "Escrever"
+
+msgid "Execute"
+msgstr "Executar"
+
+msgid "Rights"
+msgstr "Direitos"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Escrever: criar, eliminar e configurar sites. Executar: atualizar o DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Escrever: criar, eliminar e configurar sites."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Ler: ver ficheiros e versões. Escrever: alterar e publicar. Executar: publicar código que corre no servidor, só para aplicações de servidor."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Executar e os direitos do DirectWeb exigem sempre aprovação com a aplicação de autenticação."
+
+msgid "Choose at least one right."
+msgstr "Escolha pelo menos um direito."
+
+msgid "Unlimited"
+msgstr "Ilimitada"
+
+msgid "Approval"
+msgstr "Aprovação"
+
+msgid "Not required"
+msgstr "Não obrigatória"
+
+msgid "Every 15 minutes"
+msgstr "A cada 15 minutos"
+
+msgid "Every hour"
+msgstr "A cada hora"
+
+msgid "Every 8 hours"
+msgstr "A cada 8 horas"
+
+msgid "Every day"
+msgstr "Todos os dias"
+
+msgid "Bind approval to the IP address"
+msgstr "Associar a aprovação ao endereço IP"
+
+msgid "IP address"
+msgstr "Endereço IP"
+
+msgid "Messages"
+msgstr "Mensagens"
+
+msgid "Approve"
+msgstr "Aprovar"
+
+msgid "Deny"
+msgstr "Recusar"
+
+msgid "No open requests."
+msgstr "Não há pedidos pendentes."
+
+msgid "Request missing."
+msgstr "Pedido não encontrado."

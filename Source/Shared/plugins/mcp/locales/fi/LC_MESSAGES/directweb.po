@@ -153,3 +153,111 @@ msgstr "Nykyinen tunniste lakkaa toimimasta. Päivitä yhteys sen jälkeen."
 
 msgid "Connection URL"
 msgstr "Yhteysosoite"
+
+msgid "Duration"
+msgstr "Kesto"
+
+msgid "1 hour"
+msgstr "1 tunti"
+
+msgid "1 day"
+msgstr "1 päivä"
+
+msgid "7 days"
+msgstr "7 päivää"
+
+msgid "30 days"
+msgstr "30 päivää"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Hyväksy muutokset todennussovelluksella"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Muutokset vaativat hyväksynnän todennussovelluksella."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Koodin syöttämisen jälkeen muutokset ovat sallittuja 1 tunnin ajan."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Ota ensin todennussovellus käyttöön kohdassa Tili."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Ota todennussovellus käyttöön kohdassa Tili, jotta voit vaatia muutoksille hyväksynnän."
+
+msgid "A new duration starts now."
+msgstr "Uusi kesto alkaa nyt."
+
+msgid "All websites"
+msgstr "Kaikki sivustot"
+
+msgid "Also websites added later"
+msgstr "Myös myöhemmin lisättävät sivustot"
+
+msgid "Read"
+msgstr "Luku"
+
+msgid "Write"
+msgstr "Kirjoitus"
+
+msgid "Execute"
+msgstr "Suoritus"
+
+msgid "Rights"
+msgstr "Oikeudet"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Kirjoitus: luo, poista ja määritä sivustoja. Suoritus: päivitä DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Kirjoitus: luo, poista ja määritä sivustoja."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Luku: näe tiedostot ja versiot. Kirjoitus: muuta ja julkaise. Suoritus: julkaise palvelimella ajettavaa koodia, vain palvelinsovelluksille."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Suoritus ja DirectWeb-oikeudet vaativat aina hyväksynnän todennussovelluksella."
+
+msgid "Choose at least one right."
+msgstr "Valitse vähintään yksi oikeus."
+
+msgid "Unlimited"
+msgstr "Rajoittamaton"
+
+msgid "Approval"
+msgstr "Hyväksyntä"
+
+msgid "Not required"
+msgstr "Ei vaadita"
+
+msgid "Every 15 minutes"
+msgstr "15 minuutin välein"
+
+msgid "Every hour"
+msgstr "Tunnin välein"
+
+msgid "Every 8 hours"
+msgstr "8 tunnin välein"
+
+msgid "Every day"
+msgstr "Päivittäin"
+
+msgid "Bind approval to the IP address"
+msgstr "Sido hyväksyntä IP-osoitteeseen"
+
+msgid "IP address"
+msgstr "IP-osoite"
+
+msgid "Messages"
+msgstr "Viestit"
+
+msgid "Approve"
+msgstr "Hyväksy"
+
+msgid "Deny"
+msgstr "Hylkää"
+
+msgid "No open requests."
+msgstr "Ei avoimia pyyntöjä."
+
+msgid "Request missing."
+msgstr "Pyyntöä ei löytynyt."

@@ -153,3 +153,111 @@ msgstr "Aktuálny token prestane fungovať. Potom aktualizujte pripojenie."
 
 msgid "Connection URL"
 msgstr "URL pripojenia"
+
+msgid "Duration"
+msgstr "Doba platnosti"
+
+msgid "1 hour"
+msgstr "1 hodina"
+
+msgid "1 day"
+msgstr "1 deň"
+
+msgid "7 days"
+msgstr "7 dní"
+
+msgid "30 days"
+msgstr "30 dní"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Schvaľovať zmeny overovacou aplikáciou"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Zmeny vyžadujú schválenie overovacou aplikáciou."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Po zadaní kódu sú zmeny povolené počas 1 hodiny."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Najprv nastavte overovaciu aplikáciu v časti Účet."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Ak chcete vyžadovať schválenie zmien, nastavte overovaciu aplikáciu v časti Účet."
+
+msgid "A new duration starts now."
+msgstr "Nová doba platnosti začína teraz."
+
+msgid "All websites"
+msgstr "Všetky webové stránky"
+
+msgid "Also websites added later"
+msgstr "Aj webové stránky pridané neskôr"
+
+msgid "Read"
+msgstr "Čítanie"
+
+msgid "Write"
+msgstr "Zápis"
+
+msgid "Execute"
+msgstr "Spúšťanie"
+
+msgid "Rights"
+msgstr "Oprávnenia"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Zápis: vytváranie, odstraňovanie a nastavenie webových stránok. Spúšťanie: aktualizácia DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Zápis: vytváranie, odstraňovanie a nastavenie webových stránok."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Čítanie: prezeranie súborov a verzií. Zápis: úpravy a zverejňovanie. Spúšťanie: zverejňovanie kódu, ktorý beží na serveri, len pre serverové aplikácie."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Spúšťanie a oprávnenia DirectWeb vždy vyžadujú schválenie overovacou aplikáciou."
+
+msgid "Choose at least one right."
+msgstr "Vyberte aspoň jedno oprávnenie."
+
+msgid "Unlimited"
+msgstr "Neobmedzene"
+
+msgid "Approval"
+msgstr "Schválenie"
+
+msgid "Not required"
+msgstr "Nevyžaduje sa"
+
+msgid "Every 15 minutes"
+msgstr "Každých 15 minút"
+
+msgid "Every hour"
+msgstr "Každú hodinu"
+
+msgid "Every 8 hours"
+msgstr "Každých 8 hodín"
+
+msgid "Every day"
+msgstr "Každý deň"
+
+msgid "Bind approval to the IP address"
+msgstr "Viazať schválenie na IP adresu"
+
+msgid "IP address"
+msgstr "IP adresa"
+
+msgid "Messages"
+msgstr "Správy"
+
+msgid "Approve"
+msgstr "Schváliť"
+
+msgid "Deny"
+msgstr "Zamietnuť"
+
+msgid "No open requests."
+msgstr "Žiadne otvorené žiadosti."
+
+msgid "Request missing."
+msgstr "Žiadosť sa nenašla."

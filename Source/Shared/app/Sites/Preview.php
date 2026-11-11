@@ -12,6 +12,7 @@ final class Preview
     public function link(array $u,string $site,string $release,int $seconds=86400): array
     {
         $this->app->auth->access($u,$site);$this->app->sites->release($site,$release);
+        if($this->app->sites->server($this->app->sites->get($site))){throw new Problem('Previews are not available for server applications.');}
         if($seconds<60||$seconds>PHP_INT_MAX-time()){throw new Problem('Invalid duration.');}
         $expires=time()+$seconds;$host=strtolower($this->app->config['admin_host']);$base=$this->app->config['preview_base']??'';
         if($base!==''&&empty($this->app->config['wordpress'])){
@@ -34,7 +35,7 @@ final class Preview
         if(!hash_equals(hash_hmac('sha256',$body,file_get_contents($this->app->storage('database/key'))),$signature)){throw new Problem('Preview expired.',403);}
         $raw=base64_decode(strtr($body,'-_','+/'),true);$data=$raw===false?null:json_decode($raw,true);
         if(!is_array($data)||($data['mode']??'')!=='path'||($data['host']??'')!==strtolower($_SERVER['HTTP_HOST']??'')||($data['expires']??0)<=time()){throw new Problem('Preview expired.',403);}
-        $a=$this->app;$site=$a->sites->get($data['site']);$manifest=$a->sites->readManifest($site['id'],$data['release']);
+        $a=$this->app;$site=$a->sites->get($data['site']);if($a->sites->server($site)){throw new Problem('Preview unavailable.',404);}$manifest=$a->sites->readManifest($site['id'],$data['release']);
         if(!in_array($_SERVER['REQUEST_METHOD']??'GET',['GET','HEAD'],true)){header('Allow: GET, HEAD');throw new Problem('Method not allowed.',405);}
         $mount=$a->url('/preview/'.$match[1].'/');
         if(!isset($match[2])){header('Cache-Control: no-store');header('Referrer-Policy: no-referrer');header('Location: '.$mount,true,303);return;}

@@ -1689,3 +1689,33 @@ msgstr "Brak opublikowanej wersji"
 
 msgid "Website disabled"
 msgstr "Strona wyłączona"
+
+msgid "Invalid website type."
+msgstr "Nieprawidłowy typ strony."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb nie może zaktualizować %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Opublikowana wersja zawiera pliki, których strona statyczna nie może udostępnić: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Aplikacje serwerowe wymagają wersji DirectWeb dla serwera WWW."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Aplikacje serwerowe wymagają instalacji DirectWeb w podfolderze, na przykład /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Podglądy nie są dostępne dla aplikacji serwerowych."
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Static website"
+msgstr "Strona statyczna"
+
+msgid "Server application"
+msgstr "Aplikacja serwerowa"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Serwer WWW uruchamia tę stronę bezpośrednio. Pliki tworzone przez samą aplikację, takie jak config.local.php, są zachowywane przy każdej nowej wersji."

@@ -154,4 +154,112 @@ msgstr "The current token stops working. Update your connector afterward."
 msgid "Connection URL"
 msgstr "Connection URL"
 
+msgid "Duration"
+msgstr "Duration"
+
+msgid "1 hour"
+msgstr "1 hour"
+
+msgid "1 day"
+msgstr "1 day"
+
+msgid "7 days"
+msgstr "7 days"
+
+msgid "30 days"
+msgstr "30 days"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Approve changes with the authenticator app"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Approval with the authenticator app is required for changes."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Changes are allowed for 1 hour after entering a code."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Set up the authenticator app under Account first."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "To require approval for changes, set up the authenticator app under Account."
+
+msgid "A new duration starts now."
+msgstr "A new duration starts now."
+
+msgid "All websites"
+msgstr "All websites"
+
+msgid "Also websites added later"
+msgstr "Also websites added later"
+
+msgid "Read"
+msgstr "Read"
+
+msgid "Write"
+msgstr "Write"
+
+msgid "Execute"
+msgstr "Execute"
+
+msgid "Rights"
+msgstr "Rights"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Write: create, delete and configure websites. Execute: update DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Write: create, delete and configure websites."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Execute and DirectWeb rights always require approval with the authenticator app."
+
+msgid "Choose at least one right."
+msgstr "Choose at least one right."
+
+msgid "Unlimited"
+msgstr "Unlimited"
+
+msgid "Approval"
+msgstr "Approval"
+
+msgid "Not required"
+msgstr "Not required"
+
+msgid "Every 15 minutes"
+msgstr "Every 15 minutes"
+
+msgid "Every hour"
+msgstr "Every hour"
+
+msgid "Every 8 hours"
+msgstr "Every 8 hours"
+
+msgid "Every day"
+msgstr "Every day"
+
+msgid "Bind approval to the IP address"
+msgstr "Bind approval to the IP address"
+
+msgid "IP address"
+msgstr "IP address"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Approve"
+msgstr "Approve"
+
+msgid "Deny"
+msgstr "Deny"
+
+msgid "No open requests."
+msgstr "No open requests."
+
+msgid "Request missing."
+msgstr "Request missing."
+
 

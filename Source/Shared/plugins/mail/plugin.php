@@ -18,7 +18,6 @@ return new class implements DirectWeb\Plugins\Plugin
         foreach(['settings','test'] as $route){$registry->pages['mail/'.$route]=fn($u)=>$pages->page($route,$u);}
         $registry->addAction('mail.save',function($u,$i)use($app,$smtp){
             $app->auth->requireOwner($u);if(isset($u['_token'])){throw new Problem('Access denied.',403);}
-            $app->auth->authorizeChange($u,(string)($i['current']??''),(string)($i['proof']??''));
             $smtp->configure($u,$i);return '/admin/mail/test';
         });
         $registry->addAction('mail.test',function($u,$i)use($app){

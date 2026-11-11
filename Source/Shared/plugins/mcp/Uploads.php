@@ -96,7 +96,7 @@ final class Uploads
     private function write(array $u,string $change,array $entries): array
     {
         return $this->app->lock(function()use($u,$change,$entries){
-            $this->app->sites->change($u,$change);$base=$this->app->storage('staging/'.$change.'/files');$spare=$this->app->storage('staging/'.$change.'/replaced-'.Files::id());$moved=[];$created=[];$written=[];
+            $c=$this->app->sites->change($u,$change);$php=$this->app->sites->server($this->app->sites->get($c['site_id']));$base=$this->app->storage('staging/'.$change.'/files');$spare=$this->app->storage('staging/'.$change.'/replaced-'.Files::id());$moved=[];$created=[];$written=[];
             try{
                 foreach($entries as $index=>$item){
                     $path=$item['path'];$entry=$item['entry'];$target=$base.'/'.$path;$replaced=false;
@@ -105,7 +105,7 @@ final class Uploads
                     else{Files::mkdir(dirname($target));$tmp=$target.'.'.Files::id().'.tmp';if(!copy($entry['source'],$tmp)||!rename($tmp,$target)){@unlink($tmp);throw new Problem('Save failed.',503);}}
                     $created[]=$target;$written[$index]=['path'=>$path,'replaced'=>$replaced];
                 }
-                $manifest=$this->app->sites->manifest($base,false);
+                $manifest=$this->app->sites->manifest($base,false,$php);
             }catch(\Throwable $e){
                 foreach(array_reverse($created) as $file){@unlink($file);}foreach(array_reverse($moved) as [$keep,$old]){Files::mkdir(dirname($old));@rename($keep,$old);}Files::remove($spare);throw $e;
             }

@@ -63,14 +63,13 @@ final class Controller
         if($action==='logout'){$a->auth->logout();unset($_SESSION['flash']);return '/admin';}
         if(isset($a->plugins->publicActions[$action])){return ($a->plugins->publicActions[$action])($this->user,$i);}
         $u=$this->user??throw new Problem('Sign in required.',401);
-        if($action==='2fa.enroll'){$a->auth->limit('enroll:'.$u['id']);$secret=$_SESSION['totp_setup']??throw new Problem('Reopen Account.');$codes=$a->auth->enroll($u,$secret,$s('code'),$s('password'),$s('proof'));if($codes){$_SESSION['recovery_codes']=$codes;}unset($_SESSION['totp_setup']);return '/admin/account';}
-        if($action==='2fa.email.send'){$a->auth->beginEmail($u,$s('email'),$s('password'),$s('proof'));$_SESSION['flash']='Code sent.';return '/admin/account?security=email';}
+        if($action==='2fa.enroll'){$a->auth->limit('enroll:'.$u['id']);$secret=$_SESSION['totp_setup']??throw new Problem('Reopen Account.');$codes=$a->auth->enroll($u,$secret,$s('code'));if($codes){$_SESSION['recovery_codes']=$codes;}unset($_SESSION['totp_setup']);return '/admin/account';}
+        if($action==='2fa.email.send'){$a->auth->beginEmail($u,$s('email'));$_SESSION['flash']='Code sent.';return '/admin/account?security=email';}
         if($action==='2fa.email.verify'){$codes=$a->auth->enrollEmail($u,$s('code'));if($codes){$_SESSION['recovery_codes']=$codes;}return '/admin/account';}
-        if($action==='2fa.proof.send'){$a->auth->password($u,$s('password'));$a->auth->sendEmail($u,'proof');$_SESSION['flash']='Code sent.';return '/admin/account';}
-        if($action==='2fa.remove'){$a->auth->removeFactor($u,$s('method'),$s('password'),$s('proof'));return '/admin/account';}
+        if($action==='2fa.remove'){$a->auth->removeFactor($u,$s('method'));return '/admin/account';}
         $this->requireUser();
         if(isset($a->plugins->actions[$action])){return ($a->plugins->actions[$action])($u,$i);}
-        if($action==='site.create'){$site=$a->sites->create($u,$s('name'),$s('host'));return '/admin/site?id='.$site['id'];}
+        if($action==='site.create'){$site=$a->sites->create($u,$s('name'),$s('host'),$s('runtime','static'));return '/admin/site?id='.$site['id'];}
         if($action==='site.upload'){$upload=self::uploads('website')[0]??throw new Problem('Choose a file.');if($upload['error']!==UPLOAD_ERR_OK||!is_uploaded_file($upload['tmp_name'])){throw new Problem('Upload failed.');}$result=$a->sites->import($u,$s('site'),$upload['tmp_name'],$s('name'),$s('base')?:null,(bool)$a->sites->get($s('site'))['auto_publish']);return '/admin/release?id='.$s('site').'&release='.$result['release_id'];}
         if(in_array($action,['file.save','file.delete'],true)){$c=$a->sites->begin($u,$s('site'),$s('base')?:null);try{$a->sites->apply($u,$c['change_id'],$action==='file.save'?[$s('path')=>$s('content')]:[],$action==='file.delete'?[$s('path')]:[]);$result=$a->sites->commit($u,$c['change_id'],$s('name'),$s('_request',Files::id()),(bool)$a->sites->get($s('site'))['auto_publish']);}catch(\Throwable $e){$a->sites->abort($u,$c['change_id']);throw $e;}return '/admin/release?id='.$s('site').'&release='.$result['release_id'];}
         if($action==='release.restore'){$a->sites->restore($u,$s('site'),$s('release'),(int)$s('revision'));return '/admin/site?id='.$s('site');}
@@ -80,7 +79,7 @@ final class Controller
         if($action==='release.prune'){$a->sites->prune($u,$s('site'));return '/admin/site?id='.$s('site');}
         if($action==='sessions.revoke'){$a->db->execute('DELETE FROM sessions WHERE user_id=? AND id<>?',[$u['id'],hash('sha256',session_id())]);$a->audit($u['id'],'sessions.revoked');return '/admin/account';}
         if($action==='password.change'){
-            if(!password_verify($s('current'),$u['password'])||strlen($s('password'))<12||strlen($s('password'))>1024){throw new Problem('Check the password (12+ characters).');}$a->db->execute('UPDATE users SET password=?,session_version=session_version+1 WHERE id=?',[password_hash($s('password'),PASSWORD_ARGON2ID),$u['id']]);$a->db->execute('DELETE FROM tokens WHERE user_id=?',[$u['id']]);$a->audit($u['id'],'password.changed');$a->auth->logout();return '/admin';
+            if(strlen($s('password'))<12||strlen($s('password'))>1024){throw new Problem('Check the password (12+ characters).');}$a->db->execute('UPDATE users SET password=?,session_version=session_version+1 WHERE id=?',[password_hash($s('password'),PASSWORD_ARGON2ID),$u['id']]);$a->db->execute('DELETE FROM tokens WHERE user_id=?',[$u['id']]);$a->audit($u['id'],'password.changed');$a->auth->logout();return '/admin';
         }
         $a->auth->requireOwner($u);
         if($action==='user.create'){if(!in_array($s('role'),['admin','editor','reader'],true)){throw new Problem('Invalid role.');}$new=$a->auth->create($s('name'),$s('username'),$s('password'),$s('role'));$a->audit($u['id'],'user.created',$new['id']);return '/admin/user?id='.$new['id'];}
@@ -91,7 +90,7 @@ final class Controller
         if($action==='plugin.install'){$file=self::uploads('package')[0]??throw new Problem('Choose a file.');if($file['error']!==UPLOAD_ERR_OK||!is_uploaded_file($file['tmp_name'])){throw new Problem('Upload failed.');}$id=$a->plugins->install($u,$file['tmp_name']);if(!empty($i['activate'])){$a->plugins->toggle($u,$id,true);}return '/admin/plugins/detail?id='.rawurlencode($id);}
         if($action==='renderer.select'){$a->plugins->selectRenderer($u,$s('plugin'));return '/admin/plugins';}
         if($action==='backup.delete'){$a->backups->delete($u,$s('backup'));return '/admin/backups';}
-        if($action==='backup.restore'){if($s('confirm')!=='1'){throw new Problem('Confirm restoration.');}$a->auth->authorizeChange($u,$s('password'),$s('proof'));$a->lock(function()use($a,$u,$s){$a->backups->verify($s('backup'));if(!$a->jobs->usesBackup($s('backup'))){$a->jobs->add($u,'backup.restore',null,['backup'=>$s('backup')]);}});$_SESSION['flash']='Restore queued. Sign in again after completion.';return '/admin/backups/jobs';}
+        if($action==='backup.restore'){if($s('confirm')!=='1'){throw new Problem('Confirm restoration.');}$a->lock(function()use($a,$u,$s){$a->backups->verify($s('backup'));if(!$a->jobs->usesBackup($s('backup'))){$a->jobs->add($u,'backup.restore',null,['backup'=>$s('backup')]);}});$_SESSION['flash']='Restore queued. Sign in again after completion.';return '/admin/backups/jobs';}
         if($action==='backup.import'){$file=self::uploads('backup')[0]??throw new Problem('Choose a file.');if($file['error']!==UPLOAD_ERR_OK||!is_uploaded_file($file['tmp_name'])||$file['size']>$a->config['max_upload']){throw new Problem('Upload failed.');}\DirectWeb\Backups\Backups::inspect($file['tmp_name']);$id=Files::id();$target=$a->storage('backups/'.$id.'.zip');if(!move_uploaded_file($file['tmp_name'],$target)){throw new Problem('Upload failed.');}$a->db->execute('INSERT INTO backups VALUES(?,?,?,?)',[$id,filesize($target),hash_file('sha256',$target),gmdate('c')]);return '/admin/backups/detail?id='.$id;}
         if($action==='backup.create'){$a->jobs->add($u,'backup');$_SESSION['flash']='Backup queued.';return '/admin/backups';}
         if($action==='backup.settings'){$a->set('backup_daily',!empty($i['automatic'])?'1':'0');$a->jobs->scheduleBackups();$a->audit($u['id'],'backup.settings');return '/admin/backups';}
@@ -126,7 +125,7 @@ final class Controller
     }
     public function serveSite(array $s,string $uri): void
     {
-        $a=$this->app;if(!$s['enabled']||!$s['active_release']){throw new Problem('Website unavailable.',503);}
+        $a=$this->app;if(!$s['enabled']||!$s['active_release']){throw new Problem('Website unavailable.',503);}if($a->sites->server($s)){throw new Problem('Page not found.',404);}
         $a->plugins->boot();foreach($a->plugins->siteRoutes as $handler){if($handler($s,$uri)){return;}}
         if(!in_array($_SERVER['REQUEST_METHOD']??'GET',['GET','HEAD'],true)){throw new Problem('Method not allowed.',405);}
         $rel=rawurldecode(ltrim($uri,'/'));if($rel!==''){Files::path(rtrim($rel,'/'));}$m=$a->sites->readManifest($s['id'],$s['active_release']);$candidates=$rel===''?[$m['start']]:[$rel,rtrim($rel,'/').'/index.html',rtrim($rel,'/').'/index.htm',rtrim($rel,'/').'.html'];$file=null;foreach($candidates as $candidate){if(isset($m['files'][$candidate])){$file=$candidate;break;}}

@@ -1689,3 +1689,33 @@ msgstr "Καμία δημοσιευμένη έκδοση"
 
 msgid "Website disabled"
 msgstr "Ο δικτυακός τόπος είναι απενεργοποιημένος"
+
+msgid "Invalid website type."
+msgstr "Μη έγκυρος τύπος δικτυακού τόπου."
+
+msgid "DirectWeb cannot update %s."
+msgstr "Το DirectWeb δεν μπορεί να ενημερώσει το %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Η δημοσιευμένη έκδοση περιέχει αρχεία που ένας στατικός δικτυακός τόπος δεν μπορεί να εξυπηρετήσει: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Οι εφαρμογές διακομιστή χρειάζονται την έκδοση διακομιστή ιστού του DirectWeb."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Οι εφαρμογές διακομιστή χρειάζονται το DirectWeb εγκατεστημένο σε υποφάκελο, για παράδειγμα /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Οι προεπισκοπήσεις δεν είναι διαθέσιμες για εφαρμογές διακομιστή."
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Static website"
+msgstr "Στατικός δικτυακός τόπος"
+
+msgid "Server application"
+msgstr "Εφαρμογή διακομιστή"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Ο διακομιστής ιστού εκτελεί απευθείας αυτόν τον δικτυακό τόπο. Τα αρχεία που δημιουργεί η ίδια η εφαρμογή, όπως το config.local.php, διατηρούνται σε κάθε νέα έκδοση."

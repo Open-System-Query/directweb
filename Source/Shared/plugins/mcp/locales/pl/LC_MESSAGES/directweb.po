@@ -153,3 +153,111 @@ msgstr "Bieżący token przestanie działać. Następnie zaktualizuj łącznik."
 
 msgid "Connection URL"
 msgstr "URL połączenia"
+
+msgid "Duration"
+msgstr "Czas trwania"
+
+msgid "1 hour"
+msgstr "1 godzina"
+
+msgid "1 day"
+msgstr "1 dzień"
+
+msgid "7 days"
+msgstr "7 dni"
+
+msgid "30 days"
+msgstr "30 dni"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Zatwierdzaj zmiany w aplikacji uwierzytelniającej"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Zmiany wymagają zatwierdzenia w aplikacji uwierzytelniającej."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Po wpisaniu kodu zmiany są dozwolone przez 1 godzinę."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Najpierw skonfiguruj aplikację uwierzytelniającą w sekcji Konto."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Aby wymagać zatwierdzania zmian, skonfiguruj aplikację uwierzytelniającą w sekcji Konto."
+
+msgid "A new duration starts now."
+msgstr "Nowy czas trwania zaczyna się teraz."
+
+msgid "All websites"
+msgstr "Wszystkie strony"
+
+msgid "Also websites added later"
+msgstr "Także strony dodane później"
+
+msgid "Read"
+msgstr "Odczyt"
+
+msgid "Write"
+msgstr "Zapis"
+
+msgid "Execute"
+msgstr "Wykonywanie"
+
+msgid "Rights"
+msgstr "Uprawnienia"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Zapis: tworzenie, usuwanie i konfigurowanie stron. Wykonywanie: aktualizacja DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Zapis: tworzenie, usuwanie i konfigurowanie stron."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Odczyt: przeglądanie plików i wersji. Zapis: zmiany i publikacja. Wykonywanie: publikacja kodu uruchamianego na serwerze, tylko dla aplikacji serwerowych."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Wykonywanie i uprawnienia DirectWeb zawsze wymagają zatwierdzenia w aplikacji uwierzytelniającej."
+
+msgid "Choose at least one right."
+msgstr "Wybierz co najmniej jedno uprawnienie."
+
+msgid "Unlimited"
+msgstr "Bez ograniczeń"
+
+msgid "Approval"
+msgstr "Zatwierdzenie"
+
+msgid "Not required"
+msgstr "Niewymagane"
+
+msgid "Every 15 minutes"
+msgstr "Co 15 minut"
+
+msgid "Every hour"
+msgstr "Co godzinę"
+
+msgid "Every 8 hours"
+msgstr "Co 8 godzin"
+
+msgid "Every day"
+msgstr "Codziennie"
+
+msgid "Bind approval to the IP address"
+msgstr "Powiąż zatwierdzenie z adresem IP"
+
+msgid "IP address"
+msgstr "Adres IP"
+
+msgid "Messages"
+msgstr "Wiadomości"
+
+msgid "Approve"
+msgstr "Zatwierdź"
+
+msgid "Deny"
+msgstr "Odrzuć"
+
+msgid "No open requests."
+msgstr "Brak otwartych próśb."
+
+msgid "Request missing."
+msgstr "Nie znaleziono prośby."

@@ -154,4 +154,112 @@ msgstr "De huidige sleutel vervalt. Werk daarna je connector bij."
 msgid "Connection URL"
 msgstr "Verbindings-URL"
 
+msgid "Duration"
+msgstr "Duur"
+
+msgid "1 hour"
+msgstr "1 uur"
+
+msgid "1 day"
+msgstr "1 dag"
+
+msgid "7 days"
+msgstr "7 dagen"
+
+msgid "30 days"
+msgstr "30 dagen"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Wijzigingen goedkeuren met de authenticator-app"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Voor wijzigingen is goedkeuring met de authenticator-app nodig."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Na het invoeren van een code zijn wijzigingen 1 uur toegestaan."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Stel eerst de authenticator-app in onder Account."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Stel de authenticator-app in onder Account om goedkeuring voor wijzigingen te kunnen vereisen."
+
+msgid "A new duration starts now."
+msgstr "De nieuwe duur gaat nu in."
+
+msgid "All websites"
+msgstr "Alle websites"
+
+msgid "Also websites added later"
+msgstr "Ook websites die later worden toegevoegd"
+
+msgid "Read"
+msgstr "Lezen"
+
+msgid "Write"
+msgstr "Schrijven"
+
+msgid "Execute"
+msgstr "Uitvoeren"
+
+msgid "Rights"
+msgstr "Rechten"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Schrijven: websites aanmaken, verwijderen en instellen. Uitvoeren: DirectWeb bijwerken."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Schrijven: websites aanmaken, verwijderen en instellen."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Lezen: bestanden en versies bekijken. Schrijven: wijzigen en publiceren. Uitvoeren: code publiceren die op de server draait, alleen bij serverapplicaties."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Uitvoeren en DirectWeb-rechten vragen altijd om goedkeuring met de authenticator-app."
+
+msgid "Choose at least one right."
+msgstr "Kies minstens één recht."
+
+msgid "Unlimited"
+msgstr "Oneindig"
+
+msgid "Approval"
+msgstr "Goedkeuring"
+
+msgid "Not required"
+msgstr "Niet vereist"
+
+msgid "Every 15 minutes"
+msgstr "Elke 15 minuten"
+
+msgid "Every hour"
+msgstr "Elk uur"
+
+msgid "Every 8 hours"
+msgstr "Elke 8 uur"
+
+msgid "Every day"
+msgstr "Elke dag"
+
+msgid "Bind approval to the IP address"
+msgstr "Koppel goedkeuring aan IP-adres"
+
+msgid "IP address"
+msgstr "IP-adres"
+
+msgid "Messages"
+msgstr "Meldingen"
+
+msgid "Approve"
+msgstr "Goedkeuren"
+
+msgid "Deny"
+msgstr "Weigeren"
+
+msgid "No open requests."
+msgstr "Geen openstaande verzoeken."
+
+msgid "Request missing."
+msgstr "Verzoek niet gevonden."
+
 

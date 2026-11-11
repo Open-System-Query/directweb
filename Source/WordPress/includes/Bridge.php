@@ -96,7 +96,7 @@ final class Bridge
     public static function config(): array
     {
         $url=wp_parse_url(home_url('/'));$storage=self::storage();
-        return ['storage'=>$storage,'plugin_root'=>self::plugins($storage),'admin_host'=>$url['host'].(isset($url['port'])?':'.$url['port']:''),'base_path'=>self::base(),'secure'=>($url['scheme']??'https')==='https','initial_plugins'=>[],'allow_admin_host_site'=>true,'wordpress'=>true,'wordpress_worker'=>wp_doing_cron(),'version'=>'1.1'];
+        return ['storage'=>$storage,'plugin_root'=>self::plugins($storage),'admin_host'=>$url['host'].(isset($url['port'])?':'.$url['port']:''),'base_path'=>self::base(),'secure'=>($url['scheme']??'https')==='https','initial_plugins'=>[],'allow_admin_host_site'=>true,'wordpress'=>true,'wordpress_worker'=>wp_doing_cron(),'version'=>'1.5'];
     }
     public static function app(): App
     {

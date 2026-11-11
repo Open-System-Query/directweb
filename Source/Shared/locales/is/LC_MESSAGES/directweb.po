@@ -1689,3 +1689,33 @@ msgstr "Engin birt útgáfa"
 
 msgid "Website disabled"
 msgstr "Vefur óvirkur"
+
+msgid "Invalid website type."
+msgstr "Ógild vefgerð."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb getur ekki uppfært %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Birta útgáfan inniheldur skrár sem kyrrstæður vefur getur ekki birt: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Netþjónsforrit þurfa vefþjónsútgáfu DirectWeb."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Netþjónsforrit þurfa að DirectWeb sé sett upp í undirmöppu, til dæmis /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Forskoðun er ekki í boði fyrir netþjónsforrit."
+
+msgid "Type"
+msgstr "Gerð"
+
+msgid "Static website"
+msgstr "Kyrrstæður vefur"
+
+msgid "Server application"
+msgstr "Netþjónsforrit"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Vefþjónninn keyrir þennan vef beint. Skrár sem forritið býr sjálft til, eins og config.local.php, haldast við hverja nýja útgáfu."

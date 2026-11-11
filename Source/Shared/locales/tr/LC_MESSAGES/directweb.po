@@ -1689,3 +1689,33 @@ msgstr "Yayınlanmış sürüm yok"
 
 msgid "Website disabled"
 msgstr "Web sitesi devre dışı"
+
+msgid "Invalid website type."
+msgstr "Geçersiz web sitesi türü."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb %s dosyasını güncelleyemiyor."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Yayındaki sürüm, statik bir web sitesinin sunamayacağı dosyalar içeriyor: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Sunucu uygulamaları DirectWeb'in web sunucusu sürümünü gerektirir."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Sunucu uygulamaları, DirectWeb'in bir alt klasöre kurulmasını gerektirir, örneğin /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Sunucu uygulamaları için önizleme kullanılamaz."
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "Static website"
+msgstr "Statik web sitesi"
+
+msgid "Server application"
+msgstr "Sunucu uygulaması"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Web sunucusu bu web sitesini doğrudan çalıştırır. Uygulamanın kendisinin oluşturduğu config.local.php gibi dosyalar her yeni sürümde korunur."

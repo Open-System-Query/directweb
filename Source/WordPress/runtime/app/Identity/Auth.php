@@ -85,23 +85,22 @@ final class Auth
     {
         \DirectWebWordPress\Bridge::password($this->app,$u,$password);
     }
-    public function authorizeChange(array $u,string $password,string $proof): void
+    public function authorizeChange(array $u,string $password='',string $proof=''): void
     {
-        $this->password($u,$password);if($this->hasFactor($this->user($u['id']))){$this->verifyFactor($u,$proof);}
     }
     private function recovery(array $u): array
     {
         if($this->hasFactor($u)){return [];}$codes=[];for($i=0;$i<8;$i++){$codes[]=bin2hex(random_bytes(8));}$this->app->db->execute('UPDATE users SET recovery=? WHERE id=?',[Files::json(array_map(fn($v)=>password_hash($v,PASSWORD_ARGON2ID),$codes)),$u['id']]);return $codes;
     }
-    private function changed(string $id): void
+    private function changed(string $id,bool $tokens=true): void
     {
-        $this->app->db->execute('UPDATE users SET session_version=session_version+1 WHERE id=?',[$id]);$this->app->db->execute('DELETE FROM tokens WHERE user_id=?',[$id]);$this->app->db->execute('DELETE FROM email_challenges WHERE user_id=?',[$id]);$this->app->db->execute('DELETE FROM sessions WHERE user_id=? AND id<>?',[$id,hash('sha256',session_id())]);if(($_SESSION['user']??'')===$id){$_SESSION['version']=$this->user($id)['session_version'];}
+        $this->app->db->execute('UPDATE users SET session_version=session_version+1 WHERE id=?',[$id]);if($tokens){$this->app->db->execute('DELETE FROM tokens WHERE user_id=?',[$id]);}$this->app->db->execute('DELETE FROM email_challenges WHERE user_id=?',[$id]);$this->app->db->execute('DELETE FROM sessions WHERE user_id=? AND id<>?',[$id,hash('sha256',session_id())]);if(($_SESSION['user']??'')===$id){$_SESSION['version']=$this->user($id)['session_version'];}
     }
     public function enroll(array $u,string $secret,string $code,string $password='',string $proof=''): array
     {
-        $u=$this->user($u['id']);if($u['totp']){throw new Problem('2FA is already enabled.');}$this->authorizeChange($u,$password,$proof);
+        $u=$this->user($u['id']);if($u['totp']){throw new Problem('2FA is already enabled.');}
         $step=Totp::verify($secret,$code);if($step===null){throw new Problem('Invalid code.');}
-        return $this->app->db->transaction(function()use($u,$secret,$step){$fresh=$this->user($u['id']);if($fresh['session_version']!==$u['session_version']||$fresh['totp']){throw new Problem('Session expired.',403);}$codes=$this->recovery($fresh);$this->app->db->execute('UPDATE users SET totp=?,totp_step=? WHERE id=?',[$this->app->seal($secret),$step,$u['id']]);$this->changed($u['id']);$this->app->audit($u['id'],'2fa.enabled','totp');return $codes;});
+        return $this->app->db->transaction(function()use($u,$secret,$step){$fresh=$this->user($u['id']);if($fresh['session_version']!==$u['session_version']||$fresh['totp']){throw new Problem('Session expired.',403);}$codes=$this->recovery($fresh);$this->app->db->execute('UPDATE users SET totp=?,totp_step=? WHERE id=?',[$this->app->seal($secret),$step,$u['id']]);$this->changed($u['id'],false);$this->app->audit($u['id'],'2fa.enabled','totp');return $codes;});
     }
     private function challengeHash(string $id,string $code): string {return hash_hmac('sha256',$id.':'.$code,file_get_contents($this->app->storage('database/key')));}
     public function sendEmail(array $u,string $purpose,string $destination=''): void
@@ -119,18 +118,18 @@ final class Auth
         $code=trim($code);
         return $this->app->db->transaction(function()use($u,$purpose,$code){$fresh=$this->user($u['id']);$r=$this->app->db->one('SELECT * FROM email_challenges WHERE user_id=? AND purpose=? AND session_hash=? ORDER BY created_at DESC LIMIT 1',[$u['id'],$purpose,hash('sha256',session_id())]);if(!$r||$r['expires_at']<time()||$r['version']!==$fresh['session_version']||$r['attempts']>=5){return null;}$this->app->db->execute('UPDATE email_challenges SET attempts=attempts+1 WHERE id=?',[$r['id']]);if(!hash_equals($r['hash'],$this->challengeHash($r['id'],$code))){return null;}$this->app->db->execute('DELETE FROM email_challenges WHERE id=?',[$r['id']]);return $r['destination'];});
     }
-    public function beginEmail(array $u,string $email,string $password,string $proof): void
+    public function beginEmail(array $u,string $email,string $password='',string $proof=''): void
     {
-        $this->authorizeChange($u,$password,$proof);$email=strtolower(trim($email));if($this->app->db->one('SELECT id FROM users WHERE email=? AND id<>?',[$email,$u['id']])){throw new Problem('Email already exists.');}$this->sendEmail($u,'enroll',$email);
+        $email=strtolower(trim($email));if($this->app->db->one('SELECT id FROM users WHERE email=? AND id<>?',[$email,$u['id']])){throw new Problem('Email already exists.');}$this->sendEmail($u,'enroll',$email);
     }
     public function enrollEmail(array $u,string $code): array
     {
         if(!$this->app->mail->ready()){throw new Problem('Email is not configured.');}$this->limit('enroll-email:'.$u['id']);$u=$this->user($u['id']);$email=$this->consumeEmail($u,'enroll',$code);if($email===null){throw new Problem('Invalid code.',403);}
         return $this->app->db->transaction(function()use($u,$email){if(!$this->app->mail->ready()){throw new Problem('Email is not configured.');}$fresh=$this->user($u['id']);if($fresh['session_version']!==$u['session_version']){throw new Problem('Session expired.',403);}$other=$this->app->db->one('SELECT id FROM users WHERE email=? AND id<>?',[$email,$u['id']]);if($other){throw new Problem('Email already exists.');}$codes=$this->recovery($fresh);$this->app->db->execute('UPDATE users SET email=?,email_verified=1,email_mfa=1 WHERE id=?',[$email,$u['id']]);$this->changed($u['id']);$this->app->audit($u['id'],'2fa.enabled','email');return $codes;});
     }
-    public function removeFactor(array $u,string $method,string $password,string $proof): void
+    public function removeFactor(array $u,string $method,string $password='',string $proof=''): void
     {
-        $this->authorizeChange($u,$password,$proof);$u=$this->user($u['id']);
+        $u=$this->user($u['id']);
         if(!in_array($method,['totp','email'],true)||($method==='totp'&&!$u['totp'])||($method==='email'&&!$u['email_mfa'])){throw new Problem('Invalid request.');}
         $this->app->db->transaction(function()use($u,$method){
             if($this->user($u['id'])['session_version']!==$u['session_version']){throw new Problem('Session expired.',403);}
@@ -151,21 +150,43 @@ final class Auth
         if($u['role']!=='owner' && !$this->app->db->one('SELECT user_id FROM user_sites WHERE user_id=? AND site_id=?',[$u['id'],$site])) { throw new Problem('Access denied.',403); }
         if($ability==='write' && !in_array($u['role'],['owner','admin','editor'],true)) { throw new Problem('Access denied.',403); }
         if($ability==='manage' && !in_array($u['role'],['owner','admin'],true)) { throw new Problem('Access denied.',403); }
-        if(isset($u['_token'])) {
-            $t=$u['_token']; $allowed=json_decode($t['sites'],true); $scopes=json_decode($t['scopes'],true);
-            if(!in_array($site,$allowed,true) || !in_array($ability==='read'?'read':'write',$scopes,true)) { throw new Problem('Access denied.',403); }
+        if(isset($u['_token'])&&!$this->can($u,match($ability){'read'=>'read','manage'=>'admin.manage',default=>'write'},$site)) { throw new Problem('Access denied.',403); }
+    }
+    public const TOKEN_HOURS=[1,24,168,720];
+    public function tokenExpiry(int $hours): int
+    {
+        if($hours!==0&&!in_array($hours,self::TOKEN_HOURS,true)){throw new Problem('Invalid duration.');}
+        return $hours===0?0:time()+$hours*3600;
+    }
+    public const ADMIN_SCOPES=['admin.read','admin.manage','admin.update'];
+    public static function normalize(array $scopes): array
+    {
+        $out=[];foreach($scopes as $scope){$scope=(string)$scope;$out[]=$scope;if(preg_match('/^(write|execute)@(.+)$/D',$scope,$m)){$out[]='read@'.$m[2];if($m[1]==='execute'){$out[]='write@'.$m[2];}}if($scope==='write'){$out[]='read';}if(in_array($scope,['admin.manage','admin.update'],true)){$out[]='admin.read';}}
+        return array_values(array_unique($out));
+    }
+    public static function elevated(array $scopes): bool
+    {
+        foreach($scopes as $scope){if(str_starts_with((string)$scope,'execute@')||in_array($scope,['admin.manage','admin.update'],true)){return true;}}return false;
+    }
+    public function can(array $u,string $right,string $site=''): bool
+    {
+        if(!isset($u['_token'])){return true;}$scopes=json_decode($u['_token']['scopes'],true)?:[];
+        if(str_starts_with($right,'admin.')){return in_array($right,$scopes,true);}
+        if($site===''){foreach($scopes as $scope){if($scope===$right||str_starts_with((string)$scope,$right.'@')){return true;}}return false;}
+        if(in_array($right.'@*',$scopes,true)||in_array($right.'@'.$site,$scopes,true)){return true;}
+        $sites=json_decode($u['_token']['sites'],true)?:[];return in_array($right,$scopes,true)&&(in_array($site,$sites,true)||in_array('*',$sites,true));
+    }
+    public function issue(array $u,string $name,array $sites,array $scopes,int $hours): string
+    {
+        $scopes=self::normalize($scopes);$tools=array_column($this->app->plugins->tools,'scope');
+        foreach($scopes as $scope){
+            if(preg_match('/^(read|write|execute)@(\*|[a-f0-9]{32})$/D',$scope,$m)){if($m[2]==='*'||$m[1]==='execute'){$this->requireOwner($u);}else{$this->access($u,$m[2],$m[1]);}if(!in_array($m[2],$sites,true)){$sites[]=$m[2];}}
+            elseif(in_array($scope,self::ADMIN_SCOPES,true)){$this->requireOwner($u);}
+            elseif(!in_array($scope,array_merge(['read','write'],$tools),true)){throw new Problem('Invalid access.');}
         }
-    }
-    public function tokenExpiry(int $days): int
-    {
-        if($days<0||$days>intdiv(PHP_INT_MAX-time(),86400)){throw new Problem('Invalid duration.');}
-        return $days===0?0:time()+$days*86400;
-    }
-    public function issue(array $u,string $name,array $sites,array $scopes,int $days): string
-    {
-        foreach($sites as $site){$this->access($u,$site,in_array('write',$scopes,true)?'write':'read');}
-        if(!$sites||!$scopes||array_diff($scopes,array_merge(['read','write'],array_column($this->app->plugins->tools,'scope')))||trim($name)===''){throw new Problem('Invalid access.');}
-        $expires=$this->tokenExpiry($days);$token='dw_'.bin2hex(random_bytes(32));$id=Files::id();
+        foreach($sites as $site){if($site==='*'){$this->requireOwner($u);continue;}$this->access($u,$site,in_array('write',$scopes,true)||in_array('write@'.$site,$scopes,true)?'write':'read');}
+        if(!$scopes||trim($name)===''){throw new Problem('Invalid access.');}
+        $expires=$this->tokenExpiry($hours);$token='dw_'.bin2hex(random_bytes(32));$id=Files::id();
         $this->app->db->transaction(function()use($u,$name,$sites,$scopes,$expires,$token,$id){
             $this->app->db->execute('INSERT INTO tokens(id,user_id,name,hash,scopes,sites,expires_at) VALUES(?,?,?,?,?,?,?)',[$id,$u['id'],$name,hash('sha256',$token),Files::json($scopes),Files::json($sites),$expires]);
             $this->app->db->execute('INSERT INTO token_secrets VALUES(?,?)',[$id,$this->app->seal($token)]);
@@ -187,9 +208,9 @@ final class Auth
         if($this->app->db->one("SELECT name FROM sqlite_master WHERE type='table' AND name='oauth_refresh'")&&$this->app->db->one('SELECT hash FROM oauth_refresh WHERE token_id=?',[$id])){throw new Problem('Managed by OAuth.');}
         return $t;
     }
-    public function tokenDuration(array $u,string $id,int $days): void
+    public function tokenDuration(array $u,string $id,int $hours): void
     {
-        $this->manualToken($u,$id);$expires=$this->tokenExpiry($days);
+        $this->manualToken($u,$id);$expires=$this->tokenExpiry($hours);
         $this->app->db->execute('UPDATE tokens SET expires_at=? WHERE id=? AND user_id=?',[$expires,$id,$u['id']]);$this->app->audit($u['id'],'token.expiry.changed',$id);
     }
     public function replaceToken(array $u,string $id): void

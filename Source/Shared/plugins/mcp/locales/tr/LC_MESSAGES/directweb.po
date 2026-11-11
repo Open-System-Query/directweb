@@ -153,3 +153,111 @@ msgstr "Geçerli belirteç çalışmayı durduracak. Ardından bağlantınızı 
 
 msgid "Connection URL"
 msgstr "Bağlantı URL'si"
+
+msgid "Duration"
+msgstr "Süre"
+
+msgid "1 hour"
+msgstr "1 saat"
+
+msgid "1 day"
+msgstr "1 gün"
+
+msgid "7 days"
+msgstr "7 gün"
+
+msgid "30 days"
+msgstr "30 gün"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Değişiklikleri doğrulama uygulamasıyla onayla"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Değişiklikler için doğrulama uygulamasıyla onay gerekir."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Bir kod girildikten sonra değişikliklere 1 saat boyunca izin verilir."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Önce Hesap altında doğrulama uygulamasını kurun."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Değişiklikler için onay istemek üzere Hesap altında doğrulama uygulamasını kurun."
+
+msgid "A new duration starts now."
+msgstr "Yeni süre şimdi başlıyor."
+
+msgid "All websites"
+msgstr "Tüm web siteleri"
+
+msgid "Also websites added later"
+msgstr "Sonradan eklenen web siteleri de"
+
+msgid "Read"
+msgstr "Okuma"
+
+msgid "Write"
+msgstr "Yazma"
+
+msgid "Execute"
+msgstr "Çalıştırma"
+
+msgid "Rights"
+msgstr "Haklar"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Yazma: web sitesi oluşturma, silme ve yapılandırma. Çalıştırma: DirectWeb'i güncelleme."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Yazma: web sitesi oluşturma, silme ve yapılandırma."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Okuma: dosyaları ve sürümleri görüntüleme. Yazma: değiştirme ve yayınlama. Çalıştırma: sunucuda çalışan kodu yayınlama, yalnızca sunucu uygulamaları için."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Çalıştırma ve DirectWeb hakları her zaman doğrulama uygulamasıyla onay gerektirir."
+
+msgid "Choose at least one right."
+msgstr "En az bir hak seçin."
+
+msgid "Unlimited"
+msgstr "Sınırsız"
+
+msgid "Approval"
+msgstr "Onay"
+
+msgid "Not required"
+msgstr "Gerekli değil"
+
+msgid "Every 15 minutes"
+msgstr "15 dakikada bir"
+
+msgid "Every hour"
+msgstr "Saatte bir"
+
+msgid "Every 8 hours"
+msgstr "8 saatte bir"
+
+msgid "Every day"
+msgstr "Her gün"
+
+msgid "Bind approval to the IP address"
+msgstr "Onayı IP adresine bağla"
+
+msgid "IP address"
+msgstr "IP adresi"
+
+msgid "Messages"
+msgstr "Mesajlar"
+
+msgid "Approve"
+msgstr "Onayla"
+
+msgid "Deny"
+msgstr "Reddet"
+
+msgid "No open requests."
+msgstr "Açık istek yok."
+
+msgid "Request missing."
+msgstr "İstek bulunamadı."

@@ -44,7 +44,7 @@ final class SystemPages
                 else{$id=(string)($_GET['id']??'');$b=$a->db->one('SELECT * FROM backups WHERE id=?',[$id])??throw new Problem('Backup missing.',404);
                     if($route==='backups/detail'){$p->section('Backup',[$p->text($b['created_at'],false),$p->text(Pages::bytes($b['size']),false)]);$p->section('Actions',[$p->link('Download','/admin/backup/'.$id,'download'),$p->link('Restore','/admin/backups/restore?id='.$id,'arrow-rotate-left'),$p->link('Delete','/admin/backups/delete?id='.$id,'trash')],['directory'=>true]);}
                     elseif($route==='backups/delete'){$p->title='Delete backup';$p->section('Backup',[$p->text($b['created_at'],false),$p->form('backup.delete','',[],['backup'=>$id],'Delete',true)]);}
-                    elseif($route==='backups/restore'){$p->title='Restore';$fields=['password'=>['label'=>'Current password','kind'=>'passwordField','required'=>true]];if($a->auth->hasFactor($u)){$fields['proof']=['label'=>'Current 2FA / recovery code','required'=>true];}$fields['confirm']=['label'=>'Replace current data','kind'=>'checkBox','required'=>true];$p->section('Restore',[$p->text($b['created_at'],false),$p->text('Current data is backed up before restoration.'),$p->form('backup.restore','',$fields,['backup'=>$id],'Restore',true)]);}
+                    elseif($route==='backups/restore'){$p->title='Restore';$fields=[];$fields['confirm']=['label'=>'Replace current data','kind'=>'checkBox','required'=>true];$p->section('Restore',[$p->text($b['created_at'],false),$p->text('Current data is backed up before restoration.'),$p->form('backup.restore','',$fields,['backup'=>$id],'Restore',true)]);}
                     else{throw new Problem('Page not found.',404);}
                 }
             }

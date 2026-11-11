@@ -153,3 +153,111 @@ msgstr "Det nuværende token holder op med at virke. Opdater derefter din forbin
 
 msgid "Connection URL"
 msgstr "Forbindelses-URL"
+
+msgid "Duration"
+msgstr "Varighed"
+
+msgid "1 hour"
+msgstr "1 time"
+
+msgid "1 day"
+msgstr "1 dag"
+
+msgid "7 days"
+msgstr "7 dage"
+
+msgid "30 days"
+msgstr "30 dage"
+
+msgid "Approve changes with the authenticator app"
+msgstr "Godkend ændringer med godkendelsesappen"
+
+msgid "Approval with the authenticator app is required for changes."
+msgstr "Ændringer kræver godkendelse med godkendelsesappen."
+
+msgid "Changes are allowed for 1 hour after entering a code."
+msgstr "Når en kode er indtastet, er ændringer tilladt i 1 time."
+
+msgid "Set up the authenticator app under Account first."
+msgstr "Konfigurer først godkendelsesappen under Konto."
+
+msgid "To require approval for changes, set up the authenticator app under Account."
+msgstr "Konfigurer godkendelsesappen under Konto for at kræve godkendelse af ændringer."
+
+msgid "A new duration starts now."
+msgstr "Den nye varighed starter nu."
+
+msgid "All websites"
+msgstr "Alle websteder"
+
+msgid "Also websites added later"
+msgstr "Også websteder, der tilføjes senere"
+
+msgid "Read"
+msgstr "Læse"
+
+msgid "Write"
+msgstr "Skrive"
+
+msgid "Execute"
+msgstr "Udføre"
+
+msgid "Rights"
+msgstr "Rettigheder"
+
+msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
+msgstr "Skrive: oprette, slette og konfigurere websteder. Udføre: opdatere DirectWeb."
+
+msgid "Write: create, delete and configure websites."
+msgstr "Skrive: oprette, slette og konfigurere websteder."
+
+msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
+msgstr "Læse: se filer og versioner. Skrive: ændre og udgive. Udføre: udgive kode, der kører på serveren, kun for serverprogrammer."
+
+msgid "Execute and DirectWeb rights always require approval with the authenticator app."
+msgstr "Udføre og DirectWeb-rettigheder kræver altid godkendelse med godkendelsesappen."
+
+msgid "Choose at least one right."
+msgstr "Vælg mindst én rettighed."
+
+msgid "Unlimited"
+msgstr "Ubegrænset"
+
+msgid "Approval"
+msgstr "Godkendelse"
+
+msgid "Not required"
+msgstr "Ikke påkrævet"
+
+msgid "Every 15 minutes"
+msgstr "Hvert 15. minut"
+
+msgid "Every hour"
+msgstr "Hver time"
+
+msgid "Every 8 hours"
+msgstr "Hver 8. time"
+
+msgid "Every day"
+msgstr "Hver dag"
+
+msgid "Bind approval to the IP address"
+msgstr "Knyt godkendelse til IP-adressen"
+
+msgid "IP address"
+msgstr "IP-adresse"
+
+msgid "Messages"
+msgstr "Beskeder"
+
+msgid "Approve"
+msgstr "Godkend"
+
+msgid "Deny"
+msgstr "Afvis"
+
+msgid "No open requests."
+msgstr "Ingen åbne anmodninger."
+
+msgid "Request missing."
+msgstr "Anmodning ikke fundet."

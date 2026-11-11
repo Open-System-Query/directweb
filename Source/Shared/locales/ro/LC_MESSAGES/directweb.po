@@ -1689,3 +1689,33 @@ msgstr "Nicio versiune publicată"
 
 msgid "Website disabled"
 msgstr "Site web dezactivat"
+
+msgid "Invalid website type."
+msgstr "Tip de site web nevalid."
+
+msgid "DirectWeb cannot update %s."
+msgstr "DirectWeb nu poate actualiza %s."
+
+msgid "The live version contains files that a static website cannot serve: %s"
+msgstr "Versiunea publicată conține fișiere pe care un site web static nu le poate servi: %s"
+
+msgid "Server applications need the webserver edition of DirectWeb."
+msgstr "Aplicațiile de server necesită ediția pentru server web a DirectWeb."
+
+msgid "Server applications need DirectWeb installed in a subfolder, for example /directweb."
+msgstr "Aplicațiile de server necesită DirectWeb instalat într-un subdosar, de exemplu /directweb."
+
+msgid "Previews are not available for server applications."
+msgstr "Previzualizările nu sunt disponibile pentru aplicațiile de server."
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Static website"
+msgstr "Site web static"
+
+msgid "Server application"
+msgstr "Aplicație de server"
+
+msgid "The web server runs this website directly. Files the application creates itself, such as config.local.php, are kept with every new version."
+msgstr "Serverul web rulează direct acest site web. Fișierele create chiar de aplicație, cum ar fi config.local.php, sunt păstrate la fiecare versiune nouă."
