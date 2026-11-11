@@ -43,6 +43,8 @@ Requires PHP 8.1+, PDO SQLite, SQLite3, ZIP, Sodium, Mbstring, OpenSSL, Fileinfo
 
 Upload static websites as ZIP files containing `index.html` or `index.htm`. Additional services can be enabled under **Plugins**.
 
+AI assistants connected through the **MCP** plugin can add images and other files to a draft: `changes_upload` takes base64 content or public HTTPS links, and `changes_upload_link` gives a private, expiring upload URL: an assistant that can run commands uploads local files to it itself with `curl`, and anyone else can open it as an upload page. Names are kept and same-name files are replaced. Existing connections with write access get both tools after the assistant reconnects.
+
 ## License
 
 DirectWeb is released under the [MIT License](LICENSE) by [Open System Query](https://opensystemquery.nl/).

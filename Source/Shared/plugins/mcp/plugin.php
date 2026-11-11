@@ -1,5 +1,6 @@
 <?php
 declare(strict_types=1);
+require_once __DIR__.'/Uploads.php';
 require_once __DIR__.'/Server.php';
 require_once __DIR__.'/OAuth.php';
 require_once __DIR__.'/Pages.php';
@@ -9,6 +10,7 @@ return new class implements DirectWeb\Plugins\Plugin {
         $server=new DirectWebMcp\Server($app);$oauth=new DirectWebMcp\OAuth($app);$registry->routes['mcp']=fn()=>$server->http();$registry->routes['oauth']=$oauth;
         $registry->route('mcp.http','~^/mcp$~D',['GET','POST','DELETE'],function()use($server){$server->http();},false);
         $registry->route('mcp.connection','~^/mcp/connect(?:/([^/]*))?$~D',['GET','POST','DELETE'],function($m)use($server){$server->http($m[1]??'');},false);
+        $registry->route('mcp.upload','~^/mcp/upload/([A-Za-z0-9_-]+\.[a-f0-9]{64})$~D',['GET','POST'],function($m)use($app){(new DirectWebMcp\Uploads($app))->http($m[1]);},false);
         $registry->route('mcp.oauth','~^/(?:oauth/|\.well-known/oauth-)~',['GET','POST'],function($m,$u,$uri)use($oauth){$oauth->http($uri);},false);
         $registry->tasks['mcp.cleanup']=function()use($app){
             $app->db->execute('DELETE FROM tokens WHERE id IN (SELECT token_id FROM oauth_refresh WHERE expires_at<?)',[time()]);

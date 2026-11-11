@@ -1,7 +1,7 @@
 {
   "id": "mcp",
   "name": "MCP",
-  "version": "1.0",
+  "version": "1.2",
   "type": "plugin",
   "api": 1,
   "lumui": "1.0",
