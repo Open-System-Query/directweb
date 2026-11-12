@@ -31,9 +31,6 @@ msgstr "Créer"
 msgid "Create access"
 msgstr "Créer un accès"
 
-msgid "Days"
-msgstr "Jours"
-
 msgid "Expires"
 msgstr "Expiration"
 
@@ -93,9 +90,6 @@ msgstr "Requête expirée."
 
 msgid "Revoke"
 msgstr "Révoquer"
-
-msgid "Save this token. It is shown once."
-msgstr "Conservez ce jeton. Il ne sera affiché qu’une fois."
 
 msgid "Token"
 msgstr "Jeton"
@@ -169,29 +163,14 @@ msgstr "7 jours"
 msgid "30 days"
 msgstr "30 jours"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Valider les modifications avec l’application d’authentification"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Les modifications nécessitent une validation avec l’application d’authentification."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Après la saisie d’un code, les modifications sont autorisées pendant 1 heure."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Configurez d’abord l’application d’authentification dans Compte."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Pour exiger une validation des modifications, configurez l’application d’authentification dans Compte."
 
 msgid "A new duration starts now."
 msgstr "La nouvelle durée commence maintenant."
 
 msgid "All websites"
 msgstr "Tous les sites web"
-
-msgid "Also websites added later"
-msgstr "Y compris les sites web ajoutés plus tard"
 
 msgid "Read"
 msgstr "Lire"
@@ -204,18 +183,6 @@ msgstr "Exécuter"
 
 msgid "Rights"
 msgstr "Droits"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Écrire : créer, supprimer et configurer des sites web. Exécuter : mettre à jour DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Écrire : créer, supprimer et configurer des sites web."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Lire : voir les fichiers et les versions. Écrire : modifier et publier. Exécuter : publier du code qui s'exécute sur le serveur, uniquement pour les applications serveur."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "L'exécution et les droits DirectWeb exigent toujours une validation avec l’application d’authentification."
 
 msgid "Choose at least one right."
 msgstr "Choisissez au moins un droit."

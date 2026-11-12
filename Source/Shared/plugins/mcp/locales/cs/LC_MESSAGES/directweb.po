@@ -31,9 +31,6 @@ msgstr "Vytvořit"
 msgid "Create access"
 msgstr "Vytvořit přístup"
 
-msgid "Days"
-msgstr "Dní"
-
 msgid "Expires"
 msgstr "Vyprší"
 
@@ -93,9 +90,6 @@ msgstr "Platnost požadavku vypršela."
 
 msgid "Revoke"
 msgstr "Odvolat"
-
-msgid "Save this token. It is shown once."
-msgstr "Uložte tento token. Zobrazí se pouze jednou."
 
 msgid "Token"
 msgstr "Token"
@@ -169,29 +163,14 @@ msgstr "7 dní"
 msgid "30 days"
 msgstr "30 dní"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Schvalovat změny ověřovací aplikací"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Změny vyžadují schválení ověřovací aplikací."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Po zadání kódu jsou změny povoleny po dobu 1 hodiny."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Nejprve nastavte ověřovací aplikaci v části Účet."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Chcete-li vyžadovat schválení změn, nastavte ověřovací aplikaci v části Účet."
 
 msgid "A new duration starts now."
 msgstr "Nová doba platnosti začíná nyní."
 
 msgid "All websites"
 msgstr "Všechny webové stránky"
-
-msgid "Also websites added later"
-msgstr "Také webové stránky přidané později"
 
 msgid "Read"
 msgstr "Čtení"
@@ -204,18 +183,6 @@ msgstr "Spouštění"
 
 msgid "Rights"
 msgstr "Oprávnění"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Zápis: vytváření, mazání a nastavení webových stránek. Spouštění: aktualizace DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Zápis: vytváření, mazání a nastavení webových stránek."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Čtení: prohlížení souborů a verzí. Zápis: úpravy a publikování. Spouštění: publikování kódu, který běží na serveru, jen pro serverové aplikace."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Spouštění a oprávnění DirectWeb vždy vyžadují schválení ověřovací aplikací."
 
 msgid "Choose at least one right."
 msgstr "Vyberte alespoň jedno oprávnění."

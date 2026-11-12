@@ -163,9 +163,6 @@ msgstr "Luo varmuuskopio"
 msgid "Create your administrator account."
 msgstr "Luo ylläpitäjän tilisi."
 
-msgid "Current password"
-msgstr "Nykyinen salasana"
-
 msgid "Daily backup"
 msgstr "Päivittäinen varmuuskopio"
 
@@ -841,9 +838,6 @@ msgstr "Todennussovelluksen QR-koodi"
 msgid "Scan the QR code."
 msgstr "Skannaa QR-koodi."
 
-msgid "Current 2FA / recovery code"
-msgstr "Nykyinen 2FA / palautuskoodi"
-
 msgid "Recovery code"
 msgstr "Palautuskoodi"
 
@@ -864,9 +858,6 @@ msgstr "Lähetä koodi"
 
 msgid "Code sent."
 msgstr "Koodi lähetetty."
-
-msgid "Verification code"
-msgstr "Vahvistuskoodi"
 
 msgid "Mail"
 msgstr "Sähköposti"
@@ -936,12 +927,6 @@ msgstr "Säilytä vähintään yksi käytettävissä oleva menetelmä."
 
 msgid "Invalid request."
 msgstr "Virheellinen pyyntö."
-
-msgid "Account migration failed."
-msgstr "Tilin siirto epäonnistui."
-
-msgid "Account backup failed."
-msgstr "Tilin varmuuskopiointi epäonnistui."
 
 msgid "Dashboard"
 msgstr "Hallintapaneeli"
@@ -1638,12 +1623,6 @@ msgstr "Julkaiseminen"
 
 msgid "Change website"
 msgstr "Vaihda sivusto"
-
-msgid "HTML website manager"
-msgstr "HTML-sivuston hallinta"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Tuo nykyiset versiot. Alkuperäiset tiedostot säilyvät."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Hallitse tilejä ja turvallisuutta WordPressissä."

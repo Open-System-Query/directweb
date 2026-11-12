@@ -20,7 +20,6 @@ final class App
         if(!is_file($this->storage('.htaccess'))){Files::write($this->storage('.htaccess'),"Require all denied\n");}
         $this->db = new Database($this->storage('database/directweb.sqlite'));
         $this->db->pdo->exec(file_get_contents($root . '/database/migrations/001.sql'));
-        $this->db->migrate($root);
         if (!is_file($this->storage('database/key'))) { $h = @fopen($this->storage('database/key'), 'x'); if ($h) { fwrite($h, random_bytes(32)); fclose($h); chmod($this->storage('database/key'),0600); } }
         $this->extensions = new \DirectWeb\Plugins\Extensions($this);
         $this->jobs = new \DirectWeb\Jobs\Queue($this);

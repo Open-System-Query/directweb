@@ -31,9 +31,6 @@ msgstr "Δημιουργία"
 msgid "Create access"
 msgstr "Δημιουργία πρόσβασης"
 
-msgid "Days"
-msgstr "Ημέρες"
-
 msgid "Expires"
 msgstr "Λήγει"
 
@@ -93,9 +90,6 @@ msgstr "Το αίτημα έληξε."
 
 msgid "Revoke"
 msgstr "Ανάκληση"
-
-msgid "Save this token. It is shown once."
-msgstr "Αποθηκεύστε αυτό το διακριτικό. Εμφανίζεται μόνο μία φορά."
 
 msgid "Token"
 msgstr "Διακριτικό"
@@ -169,29 +163,14 @@ msgstr "7 ημέρες"
 msgid "30 days"
 msgstr "30 ημέρες"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Έγκριση αλλαγών με την εφαρμογή επαλήθευσης"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Οι αλλαγές απαιτούν έγκριση με την εφαρμογή επαλήθευσης."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Μετά την εισαγωγή ενός κωδικού, οι αλλαγές επιτρέπονται για 1 ώρα."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Ρυθμίστε πρώτα την εφαρμογή επαλήθευσης στον Λογαριασμό."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Για να απαιτείται έγκριση για αλλαγές, ρυθμίστε την εφαρμογή επαλήθευσης στον Λογαριασμό."
 
 msgid "A new duration starts now."
 msgstr "Η νέα διάρκεια ξεκινά τώρα."
 
 msgid "All websites"
 msgstr "Όλοι οι δικτυακοί τόποι"
-
-msgid "Also websites added later"
-msgstr "Και δικτυακοί τόποι που προστίθενται αργότερα"
 
 msgid "Read"
 msgstr "Ανάγνωση"
@@ -204,18 +183,6 @@ msgstr "Εκτέλεση"
 
 msgid "Rights"
 msgstr "Δικαιώματα"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Εγγραφή: δημιουργία, διαγραφή και ρύθμιση δικτυακών τόπων. Εκτέλεση: ενημέρωση του DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Εγγραφή: δημιουργία, διαγραφή και ρύθμιση δικτυακών τόπων."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Ανάγνωση: προβολή αρχείων και εκδόσεων. Εγγραφή: αλλαγή και δημοσίευση. Εκτέλεση: δημοσίευση κώδικα που εκτελείται στον διακομιστή, μόνο για εφαρμογές διακομιστή."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Η εκτέλεση και τα δικαιώματα DirectWeb απαιτούν πάντα έγκριση με την εφαρμογή επαλήθευσης."
 
 msgid "Choose at least one right."
 msgstr "Επιλέξτε τουλάχιστον ένα δικαίωμα."

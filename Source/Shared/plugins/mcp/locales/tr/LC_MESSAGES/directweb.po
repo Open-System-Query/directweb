@@ -31,9 +31,6 @@ msgstr "Oluştur"
 msgid "Create access"
 msgstr "Erişim oluştur"
 
-msgid "Days"
-msgstr "Günler"
-
 msgid "Expires"
 msgstr "Süresi doluyor"
 
@@ -93,9 +90,6 @@ msgstr "İsteğin süresi doldu."
 
 msgid "Revoke"
 msgstr "İptal Et"
-
-msgid "Save this token. It is shown once."
-msgstr "Bu belirteci kaydedin. Yalnızca bir kez gösterilir."
 
 msgid "Token"
 msgstr "Belirteç"
@@ -169,29 +163,14 @@ msgstr "7 gün"
 msgid "30 days"
 msgstr "30 gün"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Değişiklikleri doğrulama uygulamasıyla onayla"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Değişiklikler için doğrulama uygulamasıyla onay gerekir."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Bir kod girildikten sonra değişikliklere 1 saat boyunca izin verilir."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Önce Hesap altında doğrulama uygulamasını kurun."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Değişiklikler için onay istemek üzere Hesap altında doğrulama uygulamasını kurun."
 
 msgid "A new duration starts now."
 msgstr "Yeni süre şimdi başlıyor."
 
 msgid "All websites"
 msgstr "Tüm web siteleri"
-
-msgid "Also websites added later"
-msgstr "Sonradan eklenen web siteleri de"
 
 msgid "Read"
 msgstr "Okuma"
@@ -204,18 +183,6 @@ msgstr "Çalıştırma"
 
 msgid "Rights"
 msgstr "Haklar"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Yazma: web sitesi oluşturma, silme ve yapılandırma. Çalıştırma: DirectWeb'i güncelleme."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Yazma: web sitesi oluşturma, silme ve yapılandırma."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Okuma: dosyaları ve sürümleri görüntüleme. Yazma: değiştirme ve yayınlama. Çalıştırma: sunucuda çalışan kodu yayınlama, yalnızca sunucu uygulamaları için."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Çalıştırma ve DirectWeb hakları her zaman doğrulama uygulamasıyla onay gerektirir."
 
 msgid "Choose at least one right."
 msgstr "En az bir hak seçin."

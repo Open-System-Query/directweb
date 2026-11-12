@@ -4,18 +4,7 @@ namespace DirectWeb\Mail;
 use DirectWeb\Core\{App,Problem};
 final class Mailer
 {
-    public function __construct(private App $app)
-    {
-        if(is_file($app->root.'/plugins/mail/plugin.json')&&$app->setting('migration.mail-plugin')===''){
-            $app->db->transaction(function()use($app){
-                if($app->setting('migration.mail-plugin')!==''){return;}
-                $settings=json_decode($app->setting('mail','{}'),true);
-                $manifest=json_decode(file_get_contents($app->root.'/plugins/mail/plugin.json'),true);
-                $app->db->execute('INSERT OR IGNORE INTO plugins(id,enabled,version) VALUES(?,?,?)',['mail',(int)!empty($settings['enabled']),$manifest['version']]);
-                $app->set('migration.mail-plugin','1');
-            });
-        }
-    }
+    public function __construct(private App $app){}
     public function available(): bool {return $this->transport()!==null;}
     public function ready(): bool {return $this->transport()?->ready()??false;}
     public function status(): array

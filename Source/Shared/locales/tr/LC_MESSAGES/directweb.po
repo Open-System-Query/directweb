@@ -163,9 +163,6 @@ msgstr "Yedek oluştur"
 msgid "Create your administrator account."
 msgstr "Yönetici hesabınızı oluşturun."
 
-msgid "Current password"
-msgstr "Mevcut şifre"
-
 msgid "Daily backup"
 msgstr "Günlük yedekleme"
 
@@ -841,9 +838,6 @@ msgstr "Kimlik doğrulayıcı QR kodu"
 msgid "Scan the QR code."
 msgstr "QR kodunu tarayın."
 
-msgid "Current 2FA / recovery code"
-msgstr "Mevcut 2FA / kurtarma kodu"
-
 msgid "Recovery code"
 msgstr "Kurtarma kodu"
 
@@ -864,9 +858,6 @@ msgstr "Kodu gönder"
 
 msgid "Code sent."
 msgstr "Kod gönderildi."
-
-msgid "Verification code"
-msgstr "Doğrulama kodu"
 
 msgid "Mail"
 msgstr "Posta"
@@ -936,12 +927,6 @@ msgstr "En az bir yöntemi mevcut tutun."
 
 msgid "Invalid request."
 msgstr "Geçersiz istek."
-
-msgid "Account migration failed."
-msgstr "Hesap geçişi başarısız oldu."
-
-msgid "Account backup failed."
-msgstr "Hesap yedekleme başarısız oldu."
 
 msgid "Dashboard"
 msgstr "Kontrol paneli"
@@ -1638,12 +1623,6 @@ msgstr "Yayınlama"
 
 msgid "Change website"
 msgstr "Web sitesini değiştir"
-
-msgid "HTML website manager"
-msgstr "HTML web sitesi yöneticisi"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Mevcut sürümleri içe aktarın. Orijinal dosyalar mevcut kalır."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "WordPress'te hesapları ve güvenliği yönetin."

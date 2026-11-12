@@ -96,7 +96,7 @@ final class Bridge
     public static function config(): array
     {
         $url=wp_parse_url(home_url('/'));$storage=self::storage();
-        return ['storage'=>$storage,'plugin_root'=>self::plugins($storage),'admin_host'=>$url['host'].(isset($url['port'])?':'.$url['port']:''),'base_path'=>self::base(),'secure'=>($url['scheme']??'https')==='https','initial_plugins'=>[],'allow_admin_host_site'=>true,'wordpress'=>true,'wordpress_worker'=>wp_doing_cron(),'version'=>'1.5'];
+        return ['storage'=>$storage,'plugin_root'=>self::plugins($storage),'admin_host'=>$url['host'].(isset($url['port'])?':'.$url['port']:''),'base_path'=>self::base(),'secure'=>($url['scheme']??'https')==='https','initial_plugins'=>[],'allow_admin_host_site'=>true,'wordpress'=>true,'wordpress_worker'=>wp_doing_cron(),'version'=>'1.6'];
     }
     public static function app(): App
     {
@@ -173,8 +173,6 @@ final class Bridge
             $site=$a->sites->get($id);$a->auth->access($u,$id,'manage');
             if(!$site['enabled']||!$site['active_release']||$site['host']!==$a->config['admin_host']){throw new Problem('Choose a published website on this domain.');}
         }
-        $legacy=(string)get_option('hwb_active_site','');
-        if($legacy!==''){update_option('directweb_legacy_active',$legacy,false);update_option('hwb_active_site','',false);}
         update_option('directweb_public_site',$id,false);$a->audit($u['id'],'wordpress.website.selected',$id);
         self::clearCache();
     }
@@ -282,7 +280,6 @@ final class Bridge
             $u=$a->auth->current()??throw new Problem('Sign in required.',401);
             self::selectSite($a,$u,(string)($i['site']??''));return '/admin/wordpress';
         }
-        if($action==='wordpress.import'){self::importLegacy($a);return '/admin/sites';}
         return null;
     }
     public static function page(App $a,string $route,array $u): ?array
@@ -300,7 +297,6 @@ final class Bridge
             $current=(string)get_option('directweb_public_site','');
             $name=$current!==''?($a->db->one('SELECT name FROM sites WHERE id=?',[$current])['name']??'DirectWeb'):'WordPress';
             $p->section('Website',[$p->text($name,false),$p->link('Open website',home_url('/'),'globe'),$p->link('Change website','/admin/wordpress/publish','arrows-rotate')],['directory'=>true,'icon'=>'globe']);
-            if(get_option('hwb_sites',[])){$p->section('Import',[$p->link('HTML website manager','/admin/wordpress/import','file-import')],['directory'=>true,'icon'=>'folder']);}
             return $p->build();
         }
         if($route==='wordpress/publish'){
@@ -310,39 +306,7 @@ final class Bridge
             if($c['unavailable']){$rows=[];foreach($c['unavailable'] as $s){$rows[]=['name'=>['label'=>$s['name'],'literal'=>true,'href'=>'/admin/site?id='.$s['id']],'host'=>$s['host'],'reason'=>$s['reason']];}$p->section('Not available',[$p->table('Not available',['name'=>'Website','host'=>'Domain','reason'=>'Reason'],$rows)]);}
             return $p->build();
         }
-        if($route==='wordpress/import'){
-            $p=new Surface($a,'Import','wordpress.import',$u);
-            $p->section('HTML website manager',[$p->text('Import existing versions. Original files remain available.'),$p->form('wordpress.import','',[],[],'Import',true)]);return $p->build();
-        }
         return null;
-    }
-    public static function importLegacy(App $a): void
-    {
-        $u=$a->auth->current()??throw new Problem('Sign in required.',401);$a->auth->requireOwner($u);
-        $versions=get_option('hwb_sites',[]);
-        if(!is_array($versions)||!$versions){throw new Problem('No websites available.');}
-        $site=$a->db->one('SELECT * FROM sites WHERE host=?',[$a->config['admin_host']])??$a->sites->create($u,'Website',$a->config['admin_host']);
-        $a->backups->create($u);
-        foreach($versions as $id=>$version){
-            if(!preg_match('/^[a-f0-9]{32}$/D',(string)$id)){throw new Problem('Invalid website.');}
-            if($a->setting('wordpress.import.'.$id)!==''){continue;}
-            $dir=WP_CONTENT_DIR.'/html-website-beheer-opslag/'.$id;
-            $read=static function(string $path)use($dir): string{
-                $file=$dir.'/'.hash('sha256',$path).'.php';$prefix="<?php http_response_code(404); exit; ?>\n";
-                if(is_link($dir)||is_link($file)||!is_file($file)){throw new Problem('Invalid website file.');}
-                $raw=file_get_contents($file);if(!str_starts_with($raw,$prefix)){throw new Problem('Invalid website file.');}
-                $data=base64_decode(substr($raw,strlen($prefix)),true);if($data===false){throw new Problem('Invalid website file.');}return $data;
-            };
-            $manifest=json_decode($read('@manifest'),true,32,JSON_THROW_ON_ERROR);
-            $zip=$a->storage('staging/wordpress-import-'.Files::id().'.zip');$z=new \ZipArchive();
-            if($z->open($zip,\ZipArchive::CREATE|\ZipArchive::EXCL)!==true){throw new Problem('Import failed.');}
-            try{
-                foreach($manifest['files'] as $path=>$entry){Files::path($path);$data=$read($path);if(strlen($data)!==(int)$entry['size']){throw new Problem('Invalid website file.');}$z->addFromString($path,$data);}
-                $z->close();$release=$a->sites->import($u,$site['id'],$zip,(string)($version['name']??'Imported website'),$a->sites->get($site['id'])['active_release'],false);
-                $a->sites->pin($u,$site['id'],$release['release_id'],true);$a->set('wordpress.import.'.$id,$release['release_id']);
-            }finally{if(is_file($zip)){unlink($zip);}}
-        }
-        $a->audit($u['id'],'wordpress.versions.imported',$site['id']);
     }
     public static function worker(): void
     {

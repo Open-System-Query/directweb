@@ -163,9 +163,6 @@ msgstr "Creați o copie de rezervă"
 msgid "Create your administrator account."
 msgstr "Creați-vă contul de administrator."
 
-msgid "Current password"
-msgstr "Parola curentă"
-
 msgid "Daily backup"
 msgstr "Backup zilnic"
 
@@ -841,9 +838,6 @@ msgstr "Cod QR de autentificare"
 msgid "Scan the QR code."
 msgstr "Scanați codul QR."
 
-msgid "Current 2FA / recovery code"
-msgstr "2FA curent / cod de recuperare"
-
 msgid "Recovery code"
 msgstr "Cod de recuperare"
 
@@ -864,9 +858,6 @@ msgstr "Trimiteți codul"
 
 msgid "Code sent."
 msgstr "Cod trimis."
-
-msgid "Verification code"
-msgstr "Cod de verificare"
 
 msgid "Mail"
 msgstr "E-mail"
@@ -936,12 +927,6 @@ msgstr "Păstrați cel puțin o metodă disponibilă."
 
 msgid "Invalid request."
 msgstr "Solicitare nevalidă."
-
-msgid "Account migration failed."
-msgstr "Migrarea contului a eșuat."
-
-msgid "Account backup failed."
-msgstr "Salvarea contului a eșuat."
 
 msgid "Dashboard"
 msgstr "Panou de control"
@@ -1638,12 +1623,6 @@ msgstr "Publicare"
 
 msgid "Change website"
 msgstr "Schimbați site-ul web"
-
-msgid "HTML website manager"
-msgstr "Manager de site web HTML"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Importați versiunile existente. Fișierele originale rămân disponibile."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Gestionați conturile și securitatea în WordPress."

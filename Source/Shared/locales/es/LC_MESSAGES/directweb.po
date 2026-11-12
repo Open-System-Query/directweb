@@ -163,9 +163,6 @@ msgstr "Crear copia"
 msgid "Create your administrator account."
 msgstr "Crea tu cuenta de administrador."
 
-msgid "Current password"
-msgstr "Contraseña actual"
-
 msgid "Daily backup"
 msgstr "Copia diaria"
 
@@ -841,9 +838,6 @@ msgstr "QR del autenticador"
 msgid "Scan the QR code."
 msgstr "Escanea el código QR."
 
-msgid "Current 2FA / recovery code"
-msgstr "Código 2FA / recuperación actual"
-
 msgid "Recovery code"
 msgstr "Código de recuperación"
 
@@ -864,9 +858,6 @@ msgstr "Enviar código"
 
 msgid "Code sent."
 msgstr "Código enviado."
-
-msgid "Verification code"
-msgstr "Código de verificación"
 
 msgid "Mail"
 msgstr "Correo"
@@ -936,12 +927,6 @@ msgstr "Mantén al menos un método disponible."
 
 msgid "Invalid request."
 msgstr "Solicitud no válida."
-
-msgid "Account migration failed."
-msgstr "Error al migrar la cuenta."
-
-msgid "Account backup failed."
-msgstr "Error al respaldar la cuenta."
 
 msgid "Dashboard"
 msgstr "Panel"
@@ -1638,12 +1623,6 @@ msgstr "Publicación"
 
 msgid "Change website"
 msgstr "Cambiar sitio web"
-
-msgid "HTML website manager"
-msgstr "Gestor de sitios HTML"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Importa versiones existentes. Los archivos originales se conservan."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Gestiona las cuentas y la seguridad en WordPress."

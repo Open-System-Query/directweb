@@ -31,9 +31,6 @@ msgstr "Opprett"
 msgid "Create access"
 msgstr "Opprett tilgang"
 
-msgid "Days"
-msgstr "Dager"
-
 msgid "Expires"
 msgstr "Utløper"
 
@@ -93,9 +90,6 @@ msgstr "Forespørselen er utløpt."
 
 msgid "Revoke"
 msgstr "Tilbakekall"
-
-msgid "Save this token. It is shown once."
-msgstr "Lagre dette tokenet. Det vises én gang."
 
 msgid "Token"
 msgstr "Token"
@@ -169,29 +163,14 @@ msgstr "7 dager"
 msgid "30 days"
 msgstr "30 dager"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Godkjenn endringer med autentiseringsappen"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Endringer krever godkjenning med autentiseringsappen."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Etter at en kode er skrevet inn, er endringer tillatt i 1 time."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Konfigurer først autentiseringsappen under Konto."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Konfigurer autentiseringsappen under Konto for å kreve godkjenning av endringer."
 
 msgid "A new duration starts now."
 msgstr "Den nye varigheten starter nå."
 
 msgid "All websites"
 msgstr "Alle nettsteder"
-
-msgid "Also websites added later"
-msgstr "Også nettsteder som legges til senere"
 
 msgid "Read"
 msgstr "Lese"
@@ -204,18 +183,6 @@ msgstr "Kjøre"
 
 msgid "Rights"
 msgstr "Rettigheter"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Skrive: opprette, slette og konfigurere nettsteder. Kjøre: oppdatere DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Skrive: opprette, slette og konfigurere nettsteder."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Lese: se filer og versjoner. Skrive: endre og publisere. Kjøre: publisere kode som kjører på serveren, bare for serverapplikasjoner."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Kjøre og DirectWeb-rettigheter krever alltid godkjenning med autentiseringsappen."
 
 msgid "Choose at least one right."
 msgstr "Velg minst én rettighet."

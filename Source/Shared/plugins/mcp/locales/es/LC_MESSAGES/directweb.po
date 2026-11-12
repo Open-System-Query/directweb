@@ -31,9 +31,6 @@ msgstr "Crear"
 msgid "Create access"
 msgstr "Crear acceso"
 
-msgid "Days"
-msgstr "Días"
-
 msgid "Expires"
 msgstr "Caduca"
 
@@ -93,9 +90,6 @@ msgstr "Solicitud caducada."
 
 msgid "Revoke"
 msgstr "Revocar"
-
-msgid "Save this token. It is shown once."
-msgstr "Guarda este token. Se muestra una sola vez."
 
 msgid "Token"
 msgstr "Token"
@@ -169,29 +163,14 @@ msgstr "7 días"
 msgid "30 days"
 msgstr "30 días"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Aprobar cambios con la aplicación de autenticación"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Los cambios requieren aprobación con la aplicación de autenticación."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Tras introducir un código, los cambios se permiten durante 1 hora."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Configura primero la aplicación de autenticación en Cuenta."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Para exigir aprobación de los cambios, configura la aplicación de autenticación en Cuenta."
 
 msgid "A new duration starts now."
 msgstr "La nueva duración empieza ahora."
 
 msgid "All websites"
 msgstr "Todos los sitios web"
-
-msgid "Also websites added later"
-msgstr "También sitios web añadidos más tarde"
 
 msgid "Read"
 msgstr "Leer"
@@ -204,18 +183,6 @@ msgstr "Ejecutar"
 
 msgid "Rights"
 msgstr "Derechos"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Escribir: crear, eliminar y configurar sitios web. Ejecutar: actualizar DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Escribir: crear, eliminar y configurar sitios web."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Leer: ver archivos y versiones. Escribir: modificar y publicar. Ejecutar: publicar código que se ejecuta en el servidor, solo para aplicaciones de servidor."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Ejecutar y los derechos de DirectWeb siempre requieren aprobación con la aplicación de autenticación."
 
 msgid "Choose at least one right."
 msgstr "Elige al menos un derecho."

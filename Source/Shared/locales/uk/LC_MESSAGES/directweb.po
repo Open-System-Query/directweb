@@ -163,9 +163,6 @@ msgstr "Створити резервну копію"
 msgid "Create your administrator account."
 msgstr "Створіть обліковий запис адміністратора."
 
-msgid "Current password"
-msgstr "Поточний пароль"
-
 msgid "Daily backup"
 msgstr "Щоденне резервне копіювання"
 
@@ -841,9 +838,6 @@ msgstr "QR-код автентифікатора"
 msgid "Scan the QR code."
 msgstr "Відскануйте QR-код."
 
-msgid "Current 2FA / recovery code"
-msgstr "Поточний 2FA / код відновлення"
-
 msgid "Recovery code"
 msgstr "Код відновлення"
 
@@ -864,9 +858,6 @@ msgstr "Надіслати код"
 
 msgid "Code sent."
 msgstr "Код надіслано."
-
-msgid "Verification code"
-msgstr "Код підтвердження"
 
 msgid "Mail"
 msgstr "Пошта"
@@ -936,12 +927,6 @@ msgstr "Збережіть принаймні один доступний мет
 
 msgid "Invalid request."
 msgstr "Недійсний запит."
-
-msgid "Account migration failed."
-msgstr "Помилка міграції облікового запису."
-
-msgid "Account backup failed."
-msgstr "Помилка резервного копіювання облікового запису."
 
 msgid "Dashboard"
 msgstr "Панель керування"
@@ -1638,12 +1623,6 @@ msgstr "Публікація"
 
 msgid "Change website"
 msgstr "Змінити веб-сайт"
-
-msgid "HTML website manager"
-msgstr "Менеджер веб-сайтів HTML"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Імпорт існуючих версій. Оригінальні файли залишаються доступними."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Керуйте обліковими записами та безпекою в WordPress."

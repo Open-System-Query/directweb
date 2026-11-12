@@ -2,7 +2,7 @@
 declare(strict_types=1);
 return [
     'name' => 'DirectWeb',
-    'version' => '1.5',
+    'version' => '1.6',
     'storage' => getenv('DIRECTWEB_STORAGE') ?: dirname(__DIR__) . '/storage',
     'admin_host' => getenv('DIRECTWEB_ADMIN_HOST') ?: ($_SERVER['HTTP_HOST'] ?? '127.0.0.1:8787'),
     'base_path' => getenv('DIRECTWEB_BASE_PATH') !== false ? getenv('DIRECTWEB_BASE_PATH') : (PHP_SAPI==='cli'?'':rtrim(str_replace('\\','/',dirname($_SERVER['SCRIPT_NAME']??'/index.php')),'/.')),

@@ -6,8 +6,7 @@ final class Queue
 {
     public function __construct(private App $app)
     {
-        $app->db->pdo->exec("CREATE TABLE IF NOT EXISTS jobs(id TEXT PRIMARY KEY,actor TEXT NOT NULL,type TEXT NOT NULL,status TEXT NOT NULL DEFAULT 'queued',result TEXT,error TEXT,created_at TEXT NOT NULL,updated_at INTEGER NOT NULL,attempts INTEGER NOT NULL DEFAULT 0)");
-        $app->db->transaction(function()use($app){$columns=array_column($app->db->all('PRAGMA table_info(jobs)'),'name');if(!in_array('payload',$columns,true)){$app->db->pdo->exec("ALTER TABLE jobs ADD COLUMN payload TEXT NOT NULL DEFAULT '{}'");}if(!in_array('due_at',$columns,true)){$app->db->pdo->exec('ALTER TABLE jobs ADD COLUMN due_at INTEGER NOT NULL DEFAULT 0');}});
+        $app->db->pdo->exec("CREATE TABLE IF NOT EXISTS jobs(id TEXT PRIMARY KEY,actor TEXT NOT NULL,type TEXT NOT NULL,status TEXT NOT NULL DEFAULT 'queued',result TEXT,error TEXT,created_at TEXT NOT NULL,updated_at INTEGER NOT NULL,attempts INTEGER NOT NULL DEFAULT 0,payload TEXT NOT NULL DEFAULT '{}',due_at INTEGER NOT NULL DEFAULT 0)");
     }
     public function add(array $u,string $type,?string $id=null,array $payload=[],int $due=0): string
     {

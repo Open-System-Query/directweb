@@ -31,9 +31,6 @@ msgstr "Luo"
 msgid "Create access"
 msgstr "Luo käyttöoikeus"
 
-msgid "Days"
-msgstr "Päivää"
-
 msgid "Expires"
 msgstr "Vanhenee"
 
@@ -93,9 +90,6 @@ msgstr "Pyyntö on vanhentunut."
 
 msgid "Revoke"
 msgstr "Peru käyttöoikeus"
-
-msgid "Save this token. It is shown once."
-msgstr "Tallenna tunniste. Se näytetään vain kerran."
 
 msgid "Token"
 msgstr "Tunniste"
@@ -169,29 +163,14 @@ msgstr "7 päivää"
 msgid "30 days"
 msgstr "30 päivää"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Hyväksy muutokset todennussovelluksella"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Muutokset vaativat hyväksynnän todennussovelluksella."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Koodin syöttämisen jälkeen muutokset ovat sallittuja 1 tunnin ajan."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Ota ensin todennussovellus käyttöön kohdassa Tili."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Ota todennussovellus käyttöön kohdassa Tili, jotta voit vaatia muutoksille hyväksynnän."
 
 msgid "A new duration starts now."
 msgstr "Uusi kesto alkaa nyt."
 
 msgid "All websites"
 msgstr "Kaikki sivustot"
-
-msgid "Also websites added later"
-msgstr "Myös myöhemmin lisättävät sivustot"
 
 msgid "Read"
 msgstr "Luku"
@@ -204,18 +183,6 @@ msgstr "Suoritus"
 
 msgid "Rights"
 msgstr "Oikeudet"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Kirjoitus: luo, poista ja määritä sivustoja. Suoritus: päivitä DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Kirjoitus: luo, poista ja määritä sivustoja."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Luku: näe tiedostot ja versiot. Kirjoitus: muuta ja julkaise. Suoritus: julkaise palvelimella ajettavaa koodia, vain palvelinsovelluksille."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Suoritus ja DirectWeb-oikeudet vaativat aina hyväksynnän todennussovelluksella."
 
 msgid "Choose at least one right."
 msgstr "Valitse vähintään yksi oikeus."

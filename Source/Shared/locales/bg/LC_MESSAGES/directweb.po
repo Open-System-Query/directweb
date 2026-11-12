@@ -163,9 +163,6 @@ msgstr "Създайте резервно копие"
 msgid "Create your administrator account."
 msgstr "Създайте своя администраторски акаунт."
 
-msgid "Current password"
-msgstr "Текуща парола"
-
 msgid "Daily backup"
 msgstr "Ежедневно архивиране"
 
@@ -841,9 +838,6 @@ msgstr "QR код за удостоверяване"
 msgid "Scan the QR code."
 msgstr "Сканирайте QR кода."
 
-msgid "Current 2FA / recovery code"
-msgstr "Текущ 2FA / код за възстановяване"
-
 msgid "Recovery code"
 msgstr "Код за възстановяване"
 
@@ -864,9 +858,6 @@ msgstr "Изпратете код"
 
 msgid "Code sent."
 msgstr "Кодът е изпратен."
-
-msgid "Verification code"
-msgstr "Код за проверка"
 
 msgid "Mail"
 msgstr "Поща"
@@ -936,12 +927,6 @@ msgstr "Запазете поне един наличен метод."
 
 msgid "Invalid request."
 msgstr "Невалидна заявка."
-
-msgid "Account migration failed."
-msgstr "Неуспешно мигриране на акаунт."
-
-msgid "Account backup failed."
-msgstr "Неуспешно архивиране на акаунта."
 
 msgid "Dashboard"
 msgstr "Табло"
@@ -1638,12 +1623,6 @@ msgstr "Публикуване"
 
 msgid "Change website"
 msgstr "Променете уебсайта"
-
-msgid "HTML website manager"
-msgstr "HTML мениджър на уебсайтове"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Импортиране на съществуващи версии. Оригиналните файлове остават налични."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Управление на акаунти и сигурност в WordPress."

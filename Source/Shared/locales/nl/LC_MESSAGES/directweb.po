@@ -163,9 +163,6 @@ msgstr "Back-up maken"
 msgid "Create your administrator account."
 msgstr "Maak je beheerdersaccount."
 
-msgid "Current password"
-msgstr "Huidig wachtwoord"
-
 msgid "Daily backup"
 msgstr "Dagelijkse back-up"
 
@@ -841,9 +838,6 @@ msgstr "QR-code voor authenticator"
 msgid "Scan the QR code."
 msgstr "Scan de QR-code."
 
-msgid "Current 2FA / recovery code"
-msgstr "Huidige 2FA- / herstelcode"
-
 msgid "Recovery code"
 msgstr "Herstelcode"
 
@@ -864,9 +858,6 @@ msgstr "Code versturen"
 
 msgid "Code sent."
 msgstr "Code verstuurd."
-
-msgid "Verification code"
-msgstr "Verificatiecode"
 
 msgid "Mail"
 msgstr "Mail"
@@ -936,12 +927,6 @@ msgstr "Behoud minstens één beschikbare methode."
 
 msgid "Invalid request."
 msgstr "Ongeldige aanvraag."
-
-msgid "Account migration failed."
-msgstr "Accountmigratie mislukt."
-
-msgid "Account backup failed."
-msgstr "Accountback-up mislukt."
 
 msgid "Dashboard"
 msgstr "Dashboard"
@@ -1638,12 +1623,6 @@ msgstr "Publicatie"
 
 msgid "Change website"
 msgstr "Website wijzigen"
-
-msgid "HTML website manager"
-msgstr "HTML-websitebeheer"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Importeer bestaande versies. Originele bestanden blijven behouden."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Beheer accounts en beveiliging in WordPress."

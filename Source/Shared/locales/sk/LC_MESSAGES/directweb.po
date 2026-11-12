@@ -163,9 +163,6 @@ msgstr "Vytvorte zálohu"
 msgid "Create your administrator account."
 msgstr "Vytvorte si účet správcu."
 
-msgid "Current password"
-msgstr "Aktuálne heslo"
-
 msgid "Daily backup"
 msgstr "Denná záloha"
 
@@ -841,9 +838,6 @@ msgstr "QR kód aplikácie Authenticator"
 msgid "Scan the QR code."
 msgstr "Naskenujte QR kód."
 
-msgid "Current 2FA / recovery code"
-msgstr "Aktuálny 2FA / obnovovací kód"
-
 msgid "Recovery code"
 msgstr "Obnovovací kód"
 
@@ -864,9 +858,6 @@ msgstr "Odoslať kód"
 
 msgid "Code sent."
 msgstr "Kód bol odoslaný."
-
-msgid "Verification code"
-msgstr "Overovací kód"
 
 msgid "Mail"
 msgstr "Pošta"
@@ -936,12 +927,6 @@ msgstr "Ponechajte si aspoň jednu dostupnú metódu."
 
 msgid "Invalid request."
 msgstr "Neplatná požiadavka."
-
-msgid "Account migration failed."
-msgstr "Migrácia účtu zlyhala."
-
-msgid "Account backup failed."
-msgstr "Zálohovanie účtu zlyhalo."
 
 msgid "Dashboard"
 msgstr "Prehľad"
@@ -1638,12 +1623,6 @@ msgstr "Zverejňovanie"
 
 msgid "Change website"
 msgstr "Zmeniť webovú stránku"
-
-msgid "HTML website manager"
-msgstr "HTML správca webových stránok"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Importovať existujúce verzie. Pôvodné súbory zostávajú k dispozícii."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Spravujte účty a zabezpečenie vo WordPress."

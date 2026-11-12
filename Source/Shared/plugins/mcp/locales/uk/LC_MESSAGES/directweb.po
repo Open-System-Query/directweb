@@ -31,9 +31,6 @@ msgstr "Створити"
 msgid "Create access"
 msgstr "Створити доступ"
 
-msgid "Days"
-msgstr "Днів"
-
 msgid "Expires"
 msgstr "Термін дії закінчується"
 
@@ -93,9 +90,6 @@ msgstr "Термін дії запиту минув."
 
 msgid "Revoke"
 msgstr "Відкликати"
-
-msgid "Save this token. It is shown once."
-msgstr "Збережіть цей токен. Він показується лише один раз."
 
 msgid "Token"
 msgstr "Токен"
@@ -169,29 +163,14 @@ msgstr "7 днів"
 msgid "30 days"
 msgstr "30 днів"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Схвалювати зміни в застосунку автентифікації"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Зміни потребують схвалення в застосунку автентифікації."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Після введення коду зміни дозволено протягом 1 години."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Спочатку налаштуйте застосунок автентифікації в розділі Обліковий запис."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Щоб вимагати схвалення змін, налаштуйте застосунок автентифікації в розділі Обліковий запис."
 
 msgid "A new duration starts now."
 msgstr "Нова тривалість починається зараз."
 
 msgid "All websites"
 msgstr "Усі веб-сайти"
-
-msgid "Also websites added later"
-msgstr "Також веб-сайти, додані пізніше"
 
 msgid "Read"
 msgstr "Читання"
@@ -204,18 +183,6 @@ msgstr "Виконання"
 
 msgid "Rights"
 msgstr "Права"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Запис: створення, видалення та налаштування веб-сайтів. Виконання: оновлення DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Запис: створення, видалення та налаштування веб-сайтів."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Читання: перегляд файлів і версій. Запис: зміна та публікація. Виконання: публікація коду, що працює на сервері, лише для серверних застосунків."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Виконання та права DirectWeb завжди потребують схвалення в застосунку автентифікації."
 
 msgid "Choose at least one right."
 msgstr "Виберіть принаймні одне право."

@@ -227,7 +227,8 @@ final class Sites
             $bare=preg_replace('/^www\./','',preg_replace('/:[0-9]+$/','',$s['host']));$condition='RewriteCond %{HTTP_HOST} ^(?:www\.)?'.preg_quote($bare,'~').'(?::[0-9]+)?$ [NC]';
             if($this->server($s)){
                 if(!$s['active_release']){continue;}
-                $live=$s['enabled']&&is_dir($this->appDir($s['host']).'/current');
+                $live=$s['enabled']&&is_dir($this->appDir($s['host']).'/current');$current=str_replace('\\','/',$this->appDir($s['host']).'/current');
+                if($live&&!preg_match('/["\x00-\x1f]/',$current)){array_push($rules,$condition,'RewriteCond %{REQUEST_FILENAME} -f','RewriteCond '.(str_contains($current,' ')?'"'.$current.'/$1"':$current.'/$1').' !-f','RewriteCond $1 !(?:^|/)\.','RewriteCond $1 !\.(?:php[0-9]?|phtml|phar|phps|cgi|pl|py|sh|sql|sqlite|db|log|ini|env|bak)$ [NC]','RewriteRule ^(.*)$ - [L]');}
                 $rules[]=$condition;$rules[]=$live?'RewriteRule ^(.*)$ '.$apps.'/'.$this->appFolder($s['host']).'/current/$1 [L]':'RewriteRule ^ '.basename($this->app->root).'/index.php [L]';
             }elseif($s['host']===$admin&&$s['active_release']){$rules[]=$condition;$rules[]='RewriteRule ^ '.basename($this->app->root).'/index.php [L]';}
         }

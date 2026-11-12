@@ -163,9 +163,6 @@ msgstr "Opprett sikkerhetskopi"
 msgid "Create your administrator account."
 msgstr "Opprett administratorkontoen din."
 
-msgid "Current password"
-msgstr "Nåværende passord"
-
 msgid "Daily backup"
 msgstr "Daglig sikkerhetskopi"
 
@@ -841,9 +838,6 @@ msgstr "QR-kode for autentiseringsapp"
 msgid "Scan the QR code."
 msgstr "Skann QR-koden."
 
-msgid "Current 2FA / recovery code"
-msgstr "Nåværende 2FA / gjenopprettingskode"
-
 msgid "Recovery code"
 msgstr "Gjenopprettingskode"
 
@@ -864,9 +858,6 @@ msgstr "Send kode"
 
 msgid "Code sent."
 msgstr "Kode sendt."
-
-msgid "Verification code"
-msgstr "Bekreftelseskode"
 
 msgid "Mail"
 msgstr "E-post"
@@ -936,12 +927,6 @@ msgstr "Behold minst én tilgjengelig metode."
 
 msgid "Invalid request."
 msgstr "Ugyldig forespørsel."
-
-msgid "Account migration failed."
-msgstr "Kontomigrering mislyktes."
-
-msgid "Account backup failed."
-msgstr "Sikkerhetskopiering av kontoen mislyktes."
 
 msgid "Dashboard"
 msgstr "Kontrollpanel"
@@ -1638,12 +1623,6 @@ msgstr "Publisering"
 
 msgid "Change website"
 msgstr "Bytt nettsted"
-
-msgid "HTML website manager"
-msgstr "HTML-nettstedsbehandler"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Importer eksisterende versjoner. Originalfilene beholdes."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Administrer kontoer og sikkerhet i WordPress."

@@ -163,9 +163,6 @@ msgstr "Δημιουργία αντιγράφου ασφαλείας"
 msgid "Create your administrator account."
 msgstr "Δημιουργήστε τον λογαριασμό διαχειριστή σας."
 
-msgid "Current password"
-msgstr "Τρέχων κωδικός πρόσβασης"
-
 msgid "Daily backup"
 msgstr "Καθημερινή δημιουργία αντιγράφων ασφαλείας"
 
@@ -841,9 +838,6 @@ msgstr "Κωδικός QR του Authenticator"
 msgid "Scan the QR code."
 msgstr "Σαρώστε τον κωδικό QR."
 
-msgid "Current 2FA / recovery code"
-msgstr "Τρέχον 2FA / κωδικός ανάκτησης"
-
 msgid "Recovery code"
 msgstr "Κωδικός ανάκτησης"
 
@@ -864,9 +858,6 @@ msgstr "Αποστολή κωδικού"
 
 msgid "Code sent."
 msgstr "Ο κωδικός εστάλη."
-
-msgid "Verification code"
-msgstr "Κωδικός επαλήθευσης"
 
 msgid "Mail"
 msgstr "Αλληλογραφία"
@@ -936,12 +927,6 @@ msgstr "Διατηρήστε τουλάχιστον μία διαθέσιμη μ
 
 msgid "Invalid request."
 msgstr "Μη έγκυρο αίτημα."
-
-msgid "Account migration failed."
-msgstr "Η μετεγκατάσταση λογαριασμού απέτυχε."
-
-msgid "Account backup failed."
-msgstr "Η δημιουργία αντιγράφων ασφαλείας λογαριασμού απέτυχε."
 
 msgid "Dashboard"
 msgstr "Πίνακας ελέγχου"
@@ -1638,12 +1623,6 @@ msgstr "Δημοσίευση"
 
 msgid "Change website"
 msgstr "Αλλαγή ιστότοπου"
-
-msgid "HTML website manager"
-msgstr "Διαχειριστής ιστότοπου HTML"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Εισαγάγετε υπάρχουσες εκδόσεις. Τα πρωτότυπα αρχεία παραμένουν διαθέσιμα."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Διαχείριση λογαριασμών και ασφάλειας στο WordPress."

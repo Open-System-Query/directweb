@@ -163,9 +163,6 @@ msgstr "Készítsen biztonsági másolatot"
 msgid "Create your administrator account."
 msgstr "Hozza létre rendszergazdai fiókját."
 
-msgid "Current password"
-msgstr "Jelenlegi jelszó"
-
 msgid "Daily backup"
 msgstr "Napi biztonsági mentés"
 
@@ -841,9 +838,6 @@ msgstr "Hitelesítő QR-kód"
 msgid "Scan the QR code."
 msgstr "Olvassa be a QR-kódot."
 
-msgid "Current 2FA / recovery code"
-msgstr "Jelenlegi 2FA / helyreállítási kód"
-
 msgid "Recovery code"
 msgstr "Helyreállítási kód"
 
@@ -864,9 +858,6 @@ msgstr "Kód küldése"
 
 msgid "Code sent."
 msgstr "Kód elküldve."
-
-msgid "Verification code"
-msgstr "Ellenőrző kód"
 
 msgid "Mail"
 msgstr "Levelezés"
@@ -936,12 +927,6 @@ msgstr "Maradjon meg legalább egy elérhető módszer."
 
 msgid "Invalid request."
 msgstr "Érvénytelen kérés."
-
-msgid "Account migration failed."
-msgstr "A fiók áttelepítése nem sikerült."
-
-msgid "Account backup failed."
-msgstr "A fiók biztonsági mentése nem sikerült."
 
 msgid "Dashboard"
 msgstr "Vezérlőpult"
@@ -1638,12 +1623,6 @@ msgstr "Közzététel"
 
 msgid "Change website"
 msgstr "Webhely módosítása"
-
-msgid "HTML website manager"
-msgstr "HTML webhelykezelő"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Meglévő verziók importálása. Az eredeti fájlok elérhetők maradnak."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Fiókok és biztonság kezelése a WordPressben."

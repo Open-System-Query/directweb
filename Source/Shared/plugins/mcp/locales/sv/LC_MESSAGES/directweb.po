@@ -31,9 +31,6 @@ msgstr "Skapa"
 msgid "Create access"
 msgstr "Skapa åtkomst"
 
-msgid "Days"
-msgstr "Dagar"
-
 msgid "Expires"
 msgstr "Går ut"
 
@@ -93,9 +90,6 @@ msgstr "Begäran har gått ut."
 
 msgid "Revoke"
 msgstr "Återkalla"
-
-msgid "Save this token. It is shown once."
-msgstr "Spara denna token. Den visas en gång."
 
 msgid "Token"
 msgstr "Token"
@@ -169,29 +163,14 @@ msgstr "7 dagar"
 msgid "30 days"
 msgstr "30 dagar"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Godkänn ändringar med autentiseringsappen"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "Ändringar kräver godkännande med autentiseringsappen."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "När en kod har angetts tillåts ändringar i 1 timme."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Konfigurera först autentiseringsappen under Konto."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "Konfigurera autentiseringsappen under Konto för att kräva godkännande av ändringar."
 
 msgid "A new duration starts now."
 msgstr "Den nya varaktigheten börjar nu."
 
 msgid "All websites"
 msgstr "Alla webbplatser"
-
-msgid "Also websites added later"
-msgstr "Även webbplatser som läggs till senare"
 
 msgid "Read"
 msgstr "Läsa"
@@ -204,18 +183,6 @@ msgstr "Köra"
 
 msgid "Rights"
 msgstr "Behörigheter"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Skriva: skapa, radera och konfigurera webbplatser. Köra: uppdatera DirectWeb."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Skriva: skapa, radera och konfigurera webbplatser."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Läsa: visa filer och versioner. Skriva: ändra och publicera. Köra: publicera kod som körs på servern, endast för serverapplikationer."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "Köra och DirectWeb-behörigheter kräver alltid godkännande med autentiseringsappen."
 
 msgid "Choose at least one right."
 msgstr "Välj minst en behörighet."

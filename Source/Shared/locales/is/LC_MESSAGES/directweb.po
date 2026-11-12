@@ -163,9 +163,6 @@ msgstr "Búa til öryggisafrit"
 msgid "Create your administrator account."
 msgstr "Stofnaðu stjórnandaaðgang."
 
-msgid "Current password"
-msgstr "Núverandi lykilorð"
-
 msgid "Daily backup"
 msgstr "Daglegt öryggisafrit"
 
@@ -841,9 +838,6 @@ msgstr "QR-kóði auðkenningarforrits"
 msgid "Scan the QR code."
 msgstr "Skannaðu QR-kóðann."
 
-msgid "Current 2FA / recovery code"
-msgstr "Núverandi 2FA / endurheimtarkóði"
-
 msgid "Recovery code"
 msgstr "Endurheimtarkóði"
 
@@ -864,9 +858,6 @@ msgstr "Senda kóða"
 
 msgid "Code sent."
 msgstr "Kóði sendur."
-
-msgid "Verification code"
-msgstr "Staðfestingarkóði"
 
 msgid "Mail"
 msgstr "Póstur"
@@ -936,12 +927,6 @@ msgstr "Haltu að minnsta kosti einni aðferð tiltækri."
 
 msgid "Invalid request."
 msgstr "Ógild beiðni."
-
-msgid "Account migration failed."
-msgstr "Flutningur aðgangs mistókst."
-
-msgid "Account backup failed."
-msgstr "Öryggisafritun aðgangs mistókst."
 
 msgid "Dashboard"
 msgstr "Stjórnborð"
@@ -1638,12 +1623,6 @@ msgstr "Birting"
 
 msgid "Change website"
 msgstr "Skipta um vef"
-
-msgid "HTML website manager"
-msgstr "HTML-vefstjóri"
-
-msgid "Import existing versions. Original files remain available."
-msgstr "Flyttu inn núverandi útgáfur. Upprunalegar skrár haldast tiltækar."
 
 msgid "Manage accounts and security in WordPress."
 msgstr "Stjórnaðu aðgöngum og öryggi í WordPress."

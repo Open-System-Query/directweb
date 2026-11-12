@@ -31,9 +31,6 @@ msgstr "Létrehozás"
 msgid "Create access"
 msgstr "Hozzáférés létrehozása"
 
-msgid "Days"
-msgstr "Nap"
-
 msgid "Expires"
 msgstr "Lejár"
 
@@ -93,9 +90,6 @@ msgstr "A kérelem lejárt."
 
 msgid "Revoke"
 msgstr "Visszavonás"
-
-msgid "Save this token. It is shown once."
-msgstr "Mentse el ezt a tokent. Csak egyszer jelenik meg."
 
 msgid "Token"
 msgstr "Token"
@@ -169,29 +163,14 @@ msgstr "7 nap"
 msgid "30 days"
 msgstr "30 nap"
 
-msgid "Approve changes with the authenticator app"
-msgstr "Módosítások jóváhagyása a hitelesítő alkalmazással"
-
-msgid "Approval with the authenticator app is required for changes."
-msgstr "A módosításokhoz jóváhagyás szükséges a hitelesítő alkalmazással."
-
-msgid "Changes are allowed for 1 hour after entering a code."
-msgstr "Egy kód megadása után 1 óráig engedélyezettek a módosítások."
-
 msgid "Set up the authenticator app under Account first."
 msgstr "Előbb állítsa be a hitelesítő alkalmazást a Fiók alatt."
-
-msgid "To require approval for changes, set up the authenticator app under Account."
-msgstr "A módosítások jóváhagyásának megköveteléséhez állítsa be a hitelesítő alkalmazást a Fiók alatt."
 
 msgid "A new duration starts now."
 msgstr "Az új időtartam most kezdődik."
 
 msgid "All websites"
 msgstr "Minden webhely"
-
-msgid "Also websites added later"
-msgstr "A később hozzáadott webhelyek is"
 
 msgid "Read"
 msgstr "Olvasás"
@@ -204,18 +183,6 @@ msgstr "Futtatás"
 
 msgid "Rights"
 msgstr "Jogok"
-
-msgid "Write: create, delete and configure websites. Execute: update DirectWeb."
-msgstr "Írás: webhelyek létrehozása, törlése és beállítása. Futtatás: DirectWeb frissítése."
-
-msgid "Write: create, delete and configure websites."
-msgstr "Írás: webhelyek létrehozása, törlése és beállítása."
-
-msgid "Read: view files and versions. Write: change and publish. Execute: publish code that runs on the server, only for server applications."
-msgstr "Olvasás: fájlok és verziók megtekintése. Írás: módosítás és közzététel. Futtatás: a szerveren futó kód közzététele, csak szerveralkalmazásoknál."
-
-msgid "Execute and DirectWeb rights always require approval with the authenticator app."
-msgstr "A futtatási és DirectWeb-jogok mindig jóváhagyást igényelnek a hitelesítő alkalmazással."
 
 msgid "Choose at least one right."
 msgstr "Válasszon legalább egy jogot."
