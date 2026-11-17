@@ -580,6 +580,12 @@ msgstr "Verze je poškozená."
 msgid "Release not found."
 msgstr "Verze nenalezena."
 
+msgid "Allowed file types"
+msgstr "Povolené typy souborů"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Přípony oddělené mezerami, například html css png. Ponechte prázdné, chcete-li povolit všechny typy souborů."
+
 msgid "Releases to retain"
 msgstr "Počet uchovávaných verzí"
 

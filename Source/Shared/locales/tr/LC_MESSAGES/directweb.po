@@ -580,6 +580,12 @@ msgstr "Sürüm bozuk."
 msgid "Release not found."
 msgstr "Sürüm bulunamadı."
 
+msgid "Allowed file types"
+msgstr "İzin verilen dosya türleri"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Boşlukla ayrılmış uzantılar, örneğin html css png. Tüm dosya türlerine izin vermek için boş bırakın."
+
 msgid "Releases to retain"
 msgstr "Saklanacak sürümler"
 

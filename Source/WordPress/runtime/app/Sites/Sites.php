@@ -43,20 +43,25 @@ final class Sites
         if(count($updates)+count($deletes)>500){throw new Problem('Too many files.');}
         return $this->app->lock(function()use($u,$id,$updates,$deletes){
             $c=$this->change($u,$id);$served=$this->server($this->get($c['site_id']));$base=$this->app->storage('staging/'.$id.'/files');
-            foreach($updates as $file=>$content){Files::path((string)$file,$served);$this->type((string)$file,$served);if(!is_string($content)||strlen($content)>2097152){throw new Problem('File too large.');}}
+            foreach($updates as $file=>$content){Files::path((string)$file,$served);$this->type((string)$file);if(!is_string($content)||strlen($content)>2097152){throw new Problem('File too large.');}}
             foreach($deletes as $file){Files::path($file,$served);}
             foreach($updates as $file=>$content){Files::write($base.'/'.$file,$content);}
             foreach($deletes as $file){if(is_file($base.'/'.$file)){unlink($base.'/'.$file);}}
             $manifest=$this->manifest($base,false,$served);return ['change_id'=>$id,'files'=>$manifest['count'],'size'=>$manifest['size']];
         });
     }
-    public function type(string $file,bool $served=false): string { $ext=strtolower(pathinfo($file,PATHINFO_EXTENSION));if(!isset(self::TYPES[$ext])){if($served){return 'application/octet-stream';}throw new Problem('File type not allowed: %s',422,[$file]);}return self::TYPES[$ext]; }
+    public static function extensions(string $text): array
+    {
+        $out=[];foreach(preg_split('~[\s,;]+~',strtolower($text),-1,PREG_SPLIT_NO_EMPTY) as $ext){$ext=ltrim($ext,'*.');if(!preg_match('~^[a-z0-9]{1,16}$~D',$ext)){throw new Problem('Invalid setting.');}$out[$ext]=true;}
+        return array_map('strval',array_keys($out));
+    }
+    public function type(string $file): string { $ext=strtolower(pathinfo($file,PATHINFO_EXTENSION));$allowed=$this->app->setting('file_types');if($allowed!==''&&!in_array($ext,explode(' ',$allowed),true)){throw new Problem('File type not allowed: %s',422,[$file]);}return self::TYPES[$ext]??'application/octet-stream'; }
     public function manifest(string $dir,bool $entry=true,bool $served=false): array
     {
         $files=[];$total=0;$names=[];
         foreach(new \RecursiveIteratorIterator(new \RecursiveDirectoryIterator($dir,\FilesystemIterator::SKIP_DOTS)) as $f){
             if($f->isLink()||!$f->isFile()){throw new Problem('Invalid file.');}
-            $name=str_replace('\\','/',substr($f->getPathname(),strlen($dir)+1));Files::path($name,$served);$type=$this->type($name,$served);
+            $name=str_replace('\\','/',substr($f->getPathname(),strlen($dir)+1));Files::path($name,$served);$type=$this->type($name);
             if(isset($names[strtolower($name)])){throw new Problem('Duplicate filename.');}$names[strtolower($name)]=true;
             $size=$f->getSize();$total+=$size;if($size>$this->app->config['max_upload']||$total>$this->app->config['max_site']||count($files)>=$this->app->config['max_files']){throw new Problem('Storage limit reached.');}
             $files[$name]=['size'=>$size,'hash'=>hash_file('sha256',$f->getPathname()),'type'=>$type];
@@ -117,7 +122,7 @@ final class Sites
                 $stat=$archive->statIndex($i);$p=$stat['name'];if(str_starts_with($p,'__MACOSX/')||basename($p)==='.DS_Store'){continue;}
                 Files::path(rtrim($p,'/'),$served);$os=0;$attr=0;$archive->getExternalAttributesIndex($i,$os,$attr);$kind=($attr>>16)&0170000;
                 if($kind!==0&&$kind!==0100000&&$kind!==0040000){throw new Problem('Links not allowed.');}if(str_ends_with($p,'/')){continue;}
-                $this->type($p,$served);$total+=$stat['size'];if($stat['size']<0||$stat['size']>$this->app->config['max_upload']||$total>$this->app->config['max_site']||!empty($stat['encryption_method'])){throw new Problem('ZIP exceeds the limit.');}
+                $this->type($p);$total+=$stat['size'];if($stat['size']<0||$stat['size']>$this->app->config['max_upload']||$total>$this->app->config['max_site']||!empty($stat['encryption_method'])){throw new Problem('ZIP exceeds the limit.');}
                 if(isset($entries[strtolower($p)])){throw new Problem('Duplicate filename.');}$entries[strtolower($p)]=['path'=>$p,'stat'=>$stat];
             }
             $prefix='';$paths=array_column($entries,'path');if(!array_intersect($served?['index.php','index.html','index.htm']:['index.html','index.htm'],$paths)){$tops=array_unique(array_map(fn($p)=>explode('/',$p)[0],$paths));if(count($tops)===1){$prefix=reset($tops).'/';}}
@@ -278,7 +283,7 @@ final class Sites
     }
     private function staticSafe(string $site,string $release): void
     {
-        foreach(array_keys($this->readManifest($site,$release)['files']) as $file){try{Files::path($file);$this->type($file);}catch(Problem){throw new Problem('The live version contains files that a static website cannot serve: %s',422,[$file]);}}
+        foreach(array_keys($this->readManifest($site,$release)['files']) as $file){try{Files::path($file);if(!isset(self::TYPES[strtolower(pathinfo($file,PATHINFO_EXTENSION))])){throw new Problem('Invalid file.');}}catch(Problem){throw new Problem('The live version contains files that a static website cannot serve: %s',422,[$file]);}}
     }
     private function executable(array $u,array $site): void
     {

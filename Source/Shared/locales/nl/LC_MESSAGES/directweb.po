@@ -580,6 +580,12 @@ msgstr "Versie beschadigd."
 msgid "Release not found."
 msgstr "Versie niet gevonden."
 
+msgid "Allowed file types"
+msgstr "Toegestane bestandstypen"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Extensies gescheiden door spaties, bijvoorbeeld html css png. Laat leeg om elk bestandstype toe te staan."
+
 msgid "Releases to retain"
 msgstr "Versies bewaren"
 

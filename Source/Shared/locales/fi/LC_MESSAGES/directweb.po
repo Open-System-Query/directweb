@@ -580,6 +580,12 @@ msgstr "Versio on vioittunut."
 msgid "Release not found."
 msgstr "Versiota ei löytynyt."
 
+msgid "Allowed file types"
+msgstr "Sallitut tiedostotyypit"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Tiedostopäätteet välilyönneillä erotettuina, esimerkiksi html css png. Jätä tyhjäksi, jos haluat sallia kaikki tiedostotyypit."
+
 msgid "Releases to retain"
 msgstr "Säilytettävät versiot"
 

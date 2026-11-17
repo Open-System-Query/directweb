@@ -580,6 +580,12 @@ msgstr "Η έκδοση είναι κατεστραμμένη."
 msgid "Release not found."
 msgstr "Η έκδοση δεν βρέθηκε."
 
+msgid "Allowed file types"
+msgstr "Επιτρεπόμενοι τύποι αρχείων"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Επεκτάσεις χωρισμένες με κενά, για παράδειγμα html css png. Αφήστε το κενό για να επιτρέπονται όλοι οι τύποι αρχείων."
+
 msgid "Releases to retain"
 msgstr "Εκδόσεις προς διατήρηση"
 

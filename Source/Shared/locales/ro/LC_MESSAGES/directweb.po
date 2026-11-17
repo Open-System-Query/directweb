@@ -580,6 +580,12 @@ msgstr "Versiunea este coruptă."
 msgid "Release not found."
 msgstr "Versiunea nu a fost găsită."
 
+msgid "Allowed file types"
+msgstr "Tipuri de fișiere permise"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Extensii separate prin spații, de exemplu html css png. Lăsați gol pentru a permite toate tipurile de fișiere."
+
 msgid "Releases to retain"
 msgstr "Versiuni de păstrat"
 

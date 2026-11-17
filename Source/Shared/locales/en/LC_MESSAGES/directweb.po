@@ -580,6 +580,12 @@ msgstr "Release corrupted."
 msgid "Release not found."
 msgstr "Release not found."
 
+msgid "Allowed file types"
+msgstr "Allowed file types"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+
 msgid "Releases to retain"
 msgstr "Releases to retain"
 

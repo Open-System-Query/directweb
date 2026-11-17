@@ -580,6 +580,12 @@ msgstr "Útgáfan er skemmd."
 msgid "Release not found."
 msgstr "Útgáfa fannst ekki."
 
+msgid "Allowed file types"
+msgstr "Leyfðar skráargerðir"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Skráarendingar aðskildar með bilum, til dæmis html css png. Skildu eftir autt til að leyfa allar skráargerðir."
+
 msgid "Releases to retain"
 msgstr "Útgáfur til varðveislu"
 

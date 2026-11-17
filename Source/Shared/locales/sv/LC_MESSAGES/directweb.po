@@ -580,6 +580,12 @@ msgstr "Versionen är skadad."
 msgid "Release not found."
 msgstr "Versionen hittades inte."
 
+msgid "Allowed file types"
+msgstr "Tillåtna filtyper"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Filändelser separerade med mellanslag, till exempel html css png. Lämna tomt för att tillåta alla filtyper."
+
 msgid "Releases to retain"
 msgstr "Versioner att behålla"
 

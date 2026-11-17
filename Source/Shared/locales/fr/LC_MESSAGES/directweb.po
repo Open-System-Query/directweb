@@ -580,6 +580,12 @@ msgstr "Version corrompue."
 msgid "Release not found."
 msgstr "Version introuvable."
 
+msgid "Allowed file types"
+msgstr "Types de fichiers autorisés"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Extensions séparées par des espaces, par exemple html css png. Laissez vide pour autoriser tous les types de fichiers."
+
 msgid "Releases to retain"
 msgstr "Versions à conserver"
 

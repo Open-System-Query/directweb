@@ -21,7 +21,7 @@ final class Pages
         if($route==='activity'){$p->title='Activity';$rows=$a->db->all('SELECT a.created_at,a.action,COALESCE(u.name,a.actor) AS actor,a.target FROM audit a LEFT JOIN users u ON u.id=a.actor ORDER BY a.id DESC LIMIT 100');$p->section('Recent actions',[$p->table('Activity',['created_at'=>'Date','actor'=>'User','action'=>'Action','target'=>'Target'],$rows)]);}
         elseif($route==='settings'){$p->title='Settings';$p->section('Settings',[$p->link('General','/admin/general','gear'),$p->link('Hosting','/admin/hosting','server')],['directory'=>true,'icon'=>'gear']);}
         elseif($route==='hosting'){return (new \DirectWeb\Hosting\Setup($a))->page($u);}
-        elseif($route==='general'){$p->title='General';$p->section('General',[$p->form('settings.save','',['locale'=>['label'=>'Language','kind'=>'choice','value'=>$a->setting('locale','en'),'options'=>$a->translator->options()],'retention'=>['label'=>'Releases to retain','kind'=>'numberField','value'=>$a->setting('retention','20')]])]);}
+        elseif($route==='general'){$p->title='General';$p->section('General',[$p->form('settings.save','',['locale'=>['label'=>'Language','kind'=>'choice','value'=>$a->setting('locale','en'),'options'=>$a->translator->options()],'retention'=>['label'=>'Releases to retain','kind'=>'numberField','value'=>$a->setting('retention','20')],'file_types'=>['label'=>'Allowed file types','value'=>$a->setting('file_types'),'max_length'=>2000,'spellcheck'=>false]]),$p->text('Extensions separated by spaces, for example html css png. Leave empty to allow every file type.')]);}
         else{throw new Problem('Page not found.',404);}return $p->build();
     }
 }

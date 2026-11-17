@@ -84,7 +84,7 @@ final class Uploads
     {
         $parts=[];
         foreach(explode('/',str_replace('\\','/',$name)) as $part){$part=rtrim(ltrim((string)preg_replace('~[:\x00-\x1f\x7f<>"|?*]+~','-',$part),'. '),'. ');if($part!==''){$parts[]=$part;}}
-        $name=implode('/',$parts);if($name===''||pathinfo($name,PATHINFO_EXTENSION)===''){throw new Problem('File type not allowed: %s',422,[$name]);}return $name;
+        $name=implode('/',$parts);if($name===''){throw new Problem('Invalid path.');}return $name;
     }
     private function inspect(string $path,array $entry): array
     {

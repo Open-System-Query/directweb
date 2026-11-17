@@ -580,6 +580,12 @@ msgstr "Versión dañada."
 msgid "Release not found."
 msgstr "Versión no encontrada."
 
+msgid "Allowed file types"
+msgstr "Tipos de archivo permitidos"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Extensiones separadas por espacios, por ejemplo html css png. Dejar vacío para permitir todos los tipos de archivo."
+
 msgid "Releases to retain"
 msgstr "Versiones a conservar"
 

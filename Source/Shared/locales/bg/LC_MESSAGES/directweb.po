@@ -580,6 +580,12 @@ msgstr "Версията е повредена."
 msgid "Release not found."
 msgstr "Версията не е намерена."
 
+msgid "Allowed file types"
+msgstr "Разрешени типове файлове"
+
+msgid "Extensions separated by spaces, for example html css png. Leave empty to allow every file type."
+msgstr "Разширения, разделени с интервали, например html css png. Оставете празно, за да разрешите всички типове файлове."
+
 msgid "Releases to retain"
 msgstr "Версии за запазване"
 
